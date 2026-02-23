@@ -1,0 +1,58 @@
+{
+  "slug": "ruou-can",
+  "name": { "en": "Reed Straw Rice Wine" },
+  "vietnameseName": "Rượu Cần",
+  "image": "/images/drinks/ruou-can.webp",
+  "category": "Alcohol",
+  "description": { "en": "Traditional fermented rice wine stored in large ceramic jars and communally sipped through long bamboo straws. This ceremonial drink of Vietnam's Central Highland ethnic minorities is central to community celebrations, harvests, and welcoming guests." },
+  "overview": "Ruou can is one of Vietnam's oldest and most culturally significant alcoholic beverages, a communal rice wine that predates all other Vietnamese drinks by centuries. The drink is produced by fermenting glutinous rice (or sometimes cassava or corn) with a traditional yeast starter in large ceramic jars, which are then sealed and aged for weeks or months. What makes ruou can distinctive is how it is consumed: the sealed jar is opened at gatherings, water is poured on top of the fermented rice, and participants drink directly from the jar through long bamboo or reed straws, often simultaneously. The communal drinking is not just practical - it is deeply ritualistic, symbolizing unity, equality, and shared celebration. Ruou can is the centerpiece of festivals, weddings, harvest celebrations, and guest-welcoming ceremonies among the Gia Rai, Ede, Ba Na, M'Nong, and other ethnic minority groups of the Central Highlands and northern mountains.",
+  "origin": {
+    "region": "Central Highlands (Tay Nguyen) and Northern Highlands",
+    "history": "Ruou can has been produced by Vietnam's ethnic minority groups for hundreds, possibly thousands of years. Archaeological evidence suggests rice fermentation in ceramic vessels was practiced in mainland Southeast Asia for millennia. In Vietnam, the drink is most closely associated with the ethnic groups of the Central Highlands (Tay Nguyen) - particularly the Gia Rai, Ede, Ba Na, and M'Nong peoples - as well as the Muong, Thai, and Tay groups in the northern mountains. Ruou can is intimately connected to the gong culture of the Central Highlands, which UNESCO recognized as a Masterpiece of the Intangible Heritage of Humanity in 2005. During gong festivals, ruou can flows freely as communities gather to celebrate harvests, mark rites of passage, and honor ancestral spirits. The drink's significance extends beyond consumption - the quality of a family's ruou can reflects their skill, generosity, and social standing within the community."
+  },
+  "howItsMade": "Production begins with cooking glutinous rice (sometimes mixed with cassava, millet, or corn) until tender, then spreading it to cool. A traditional fermentation starter called men la or men ruou - a cake made from ground rice, wild herbs, and natural yeasts passed down through generations - is crumbled and mixed thoroughly with the cooled rice. The mixture is packed tightly into a large ceramic jar (typically 10-30 liters), and banana leaves or a wooden lid are used to seal the top. The jar is stored in a cool, dark place for a minimum of two weeks, though many families age their best jars for several months for special occasions. Longer fermentation produces a stronger, more complex flavor. When ready to drink, the seal is broken, cool water is poured into the jar over the fermented rice, and the liquid is sipped through long bamboo straws (can) inserted into the jar. As the liquid level drops, more water is added, and the jar can be drunk from multiple times over several days, with the flavor becoming lighter with each round.",
+  "whereToTry": [
+    {
+      "name": "Ethnic minority villages around Buon Ma Thuot",
+      "location": "Dak Lak Province, Central Highlands",
+      "note": "Homestays with Ede communities offer authentic ruou can experiences, especially during festival season"
+    },
+    {
+      "name": "Kon Tum ethnic villages",
+      "location": "Kon Tum Province, Central Highlands",
+      "note": "Ba Na villages near Kon Tum city welcome visitors to share ruou can in traditional communal longhouses (nha rong)"
+    },
+    {
+      "name": "Mai Chau Valley",
+      "location": "Hoa Binh Province, Northern Vietnam",
+      "note": "White Thai communities in Mai Chau offer homestays where guests are welcomed with ruou can"
+    },
+    {
+      "name": "Vietnam Museum of Ethnology",
+      "location": "Nguyen Van Huyen Street, Cau Giay, Hanoi",
+      "note": "While you cannot drink here, the museum has excellent exhibits explaining ruou can traditions and their cultural context"
+    }
+  ],
+  "variations": [
+    { "name": "Ruou Can from glutinous rice", "description": "The most common and traditional version, producing a mildly sweet, slightly sour wine with moderate alcohol content" },
+    { "name": "Ruou Can from cassava", "description": "A stronger, earthier variation common in areas where cassava is more available than rice" },
+    { "name": "Ruou Can aged several months", "description": "Long-aged jars reserved for important celebrations, with deeper, more complex flavors and higher alcohol content" },
+    { "name": "Ruou Can with wild herbs", "description": "Some communities add medicinal herbs to the fermentation for flavor and believed health benefits" }
+  ],
+  "priceRange": "Free (when offered by host communities) or 50,000 - 150,000 VND ($2 - $6) per serving at cultural tourism venues",
+  "tips": [
+    "Always accept with both hands and a slight bow if offered ruou can by a host - refusal is considered impolite",
+    "The alcohol content varies widely (5-15% ABV) and is difficult to gauge since you are sipping through a straw, so pace yourself",
+    "Book a homestay in the Central Highlands or Mai Chau for the most authentic experience",
+    "The best time to experience ruou can is during harvest festivals (typically October-December) or Tet celebrations",
+    "Bring a small gift for your hosts if visiting a village - coffee, fruit, or snacks are always appreciated",
+    "Respect that this is a cultural and often spiritual practice, not just recreational drinking"
+  ],
+  "culturalNotes": "Ruou can is far more than an alcoholic beverage - it is a sacred element of Central Highland cultural identity. The communal drinking ceremony reinforces social bonds and community hierarchy. Traditionally, village elders drink first, followed by guests, then other community members. The act of drinking together from one jar through individual straws symbolizes unity and equality within the community. During important ceremonies, gongs are played as ruou can is consumed, creating a multisensory ritual that connects participants to their ancestors and the spiritual world. The Vietnamese government has recognized ruou can traditions as part of the nation's intangible cultural heritage, and the UNESCO recognition of Central Highland gong culture (which is inseparable from ruou can ceremonies) has helped raise awareness of these traditions. However, modernization and the migration of young people to cities threaten the continuity of ruou can production knowledge in some communities.",
+  "sources": [
+    "UNESCO - Space of Gong Culture in the Central Highlands of Vietnam",
+    "Vietnam Museum of Ethnology",
+    "Vietnam National Administration of Tourism",
+    "Dak Lak Department of Culture and Tourism"
+  ]
+}

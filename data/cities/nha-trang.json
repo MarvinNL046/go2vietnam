@@ -1,0 +1,123 @@
+{
+  "slug": "nha-trang",
+  "name": { "en": "Nha Trang" },
+  "vietnameseName": "Nha Trang",
+  "image": "/images/cities/nha-trang.webp",
+  "region": "South-Central Coast",
+  "highlights": ["Beach Promenade", "Island Hopping", "Scuba Diving", "Po Nagar Cham Towers"],
+  "description": { "en": "Vietnam's most popular beach resort city stretches along a stunning 6-kilometer crescent of golden sand backed by a lively promenade. Nha Trang offers excellent diving and snorkeling around nearby islands, ancient Cham temple ruins, rejuvenating mud baths, and a vibrant nightlife scene that attracts both international visitors and vacationing Vietnamese." },
+  "overview": "Nha Trang is Vietnam's premier beach resort city, centered on a sweeping 6km crescent of golden sand framed by green mountains and dotted with offshore islands. Located in Khanh Hoa Province on the south-central coast, the city has a population of roughly 500,000 and has been a popular beach destination since the French colonial era. The clear, warm waters of Nha Trang Bay are home to some of Vietnam's best coral reefs, making it the country's diving capital. Beyond the beach, the city has genuine historical depth: the Po Nagar Cham Towers, built between the 7th and 12th centuries, are among the best-preserved Cham religious sites in Vietnam. The Long Son Pagoda with its massive white Buddha sits atop a hill overlooking the city. In recent years, Nha Trang has seen rapid development with large-scale resort projects, amusement parks, and a growing Russian and Chinese tourist presence that has reshaped parts of the city center. Despite this, the beachfront remains beautiful, the seafood is excellent and affordable, and the surrounding islands offer pristine escapes from the resort strip.",
+  "neighborhoods": [
+    {
+      "name": "Beachfront / Tran Phu Boulevard",
+      "description": "The main tourist spine of Nha Trang runs along Tran Phu Boulevard, a palm-lined coastal road stretching the length of the beach. Most major hotels, resorts, restaurants, and bars are located here or on the blocks immediately behind. The central section near the Sailing Club and Louisiane Brewhouse is the liveliest area for nightlife. The southern end near the Vinpearl Cable Car terminal is more resort-oriented.",
+      "highlights": ["6km sandy beach", "Nha Trang Sailing Club", "Louisiane Brewhouse beach club", "Evening promenade"]
+    },
+    {
+      "name": "City Center / Dam Market Area",
+      "description": "A few blocks inland from the beach, the area around Dam Market (Cho Dam) has a more authentic Vietnamese feel with local restaurants, shops, and the bustling circular market building. Nguyen Thien Thuat Street has a concentration of budget accommodation, travel agencies, and backpacker-oriented restaurants. The imposing Nha Trang Cathedral sits on a hill nearby.",
+      "highlights": ["Dam Market (Cho Dam)", "Nha Trang Cathedral", "Budget-friendly dining", "Local shopping"]
+    },
+    {
+      "name": "Po Nagar Area (north of the river)",
+      "description": "Across the Xom Bong Bridge on the north side of the Cai River, this area is home to the ancient Po Nagar Cham Towers complex. The surrounding neighborhood is more residential and Vietnamese, with excellent local seafood restaurants along the river and in the nearby fishing village areas. The views from Po Nagar looking back toward the city and bay are spectacular.",
+      "highlights": ["Po Nagar Cham Towers", "Authentic local seafood", "Riverside dining", "Less touristy atmosphere"]
+    }
+  ],
+  "gettingThere": {
+    "byAir": "Cam Ranh International Airport (CXR) is located 35km south of Nha Trang city center. The airport handles domestic flights from Hanoi (2 hours) and Ho Chi Minh City (1 hour), plus international flights from several Asian cities. Airport shuttle buses run to the city center for 60,000 VND ($2.40), taking about 45 minutes. A taxi costs approximately 350,000-400,000 VND ($14-16). Grab is available at the airport.",
+    "byTrain": "Nha Trang Railway Station (Ga Nha Trang) is conveniently located in the city center on Thai Nguyen Street. The Reunification Express stops here on its Hanoi-HCMC route. Journey times: Ho Chi Minh City (7-9 hours), Da Nang (8-11 hours), Hue (11-14 hours). The overnight sleeper from HCMC is a popular option.",
+    "byBus": "Long-distance buses arrive at the Phia Nam (Southern) bus station. Sleeper buses connect to Ho Chi Minh City (8-9 hours), Da Lat (4 hours), Mui Ne (5-6 hours), and Da Nang (10-12 hours). Reputable operators include Phuong Trang (FUTA) and The Sinh Tourist. Open-tour bus tickets from HCMC to Hanoi typically include a Nha Trang stop."
+  },
+  "gettingAround": "The beachfront and city center are walkable, though the linear layout means distances can be longer than expected. Grab is the most convenient transport option. Local buses run along Tran Phu Boulevard. Bicycle rental is available (50,000-80,000 VND/day) and works well for the flat coastal area. Motorbike rental costs 100,000-150,000 VND/day. For island hopping and boat trips, tours depart from Cau Da Port at the southern end of the bay. The Vinpearl Cable Car (the world's longest over-sea cable car at 3,320 meters) connects the mainland to Vinpearl Island.",
+  "bestTimeToVisit": {
+    "best": "January to August",
+    "description": "Nha Trang enjoys a different climate from most of Vietnam, with its dry season spanning most of the year and a relatively short wet season. The sea is calmest and best for diving and island trips from March to September.",
+    "seasons": {
+      "spring": "February-April: Excellent weather, 24-30°C. Low humidity, calm seas, ideal for diving and beach activities. Moderate tourism.",
+      "summer": "May-August: Hot and sunny, 28-34°C. Peak beach season with calm, warm seas. July-August is busy with Vietnamese domestic tourists.",
+      "autumn": "September-November: Transitional period, 24-30°C. Rain increases from October, with November being the wettest month. Sea can be rough with storms possible.",
+      "winter": "December-January: Tail end of wet season into dry, 22-28°C. December can still be rainy but January is usually clear. Russian and Eastern European tourists peak in December-January."
+    }
+  },
+  "budget": {
+    "backpacker": "$20-35/day",
+    "midRange": "$50-120/day",
+    "luxury": "$150-400+/day",
+    "details": "Hostel dorms from 100,000-180,000 VND ($4-7). Budget hotels from 350,000-700,000 VND ($14-28). Mid-range beachfront hotels from 1,000,000-2,500,000 VND ($40-100). Luxury resorts (Evason Ana Mandara, Six Senses Ninh Van Bay) from 5,000,000+ VND ($200+). Street food meals from 25,000-50,000 VND ($1-2). Seafood restaurant dinner for two: 300,000-700,000 VND ($12-28). Day boat trip to islands: 250,000-400,000 VND ($10-16). Two-dive trip: from 1,500,000 VND ($60)."
+  },
+  "mustDo": [
+    {
+      "name": "Go island hopping in Nha Trang Bay",
+      "description": "The classic Nha Trang experience: a day boat trip visiting several of the bay's islands. Popular stops include Hon Mun (best snorkeling, part of the marine protected area), Hon Tam (beach resort island), and Hon Mot. Group tours cost from 250,000-400,000 VND ($10-16) including lunch, snorkeling gear, and onboard entertainment. Private speedboat charters offer a more exclusive experience."
+    },
+    {
+      "name": "Scuba dive at Hon Mun Marine Protected Area",
+      "description": "Nha Trang is Vietnam's diving capital, with the Hon Mun Marine Protected Area offering the best visibility and coral coverage. Sites like Madonna Rock, Moray Beach, and Electric Nose feature hard and soft corals, reef fish, moray eels, and occasionally seahorses. Two-dive trips start from $60-80 with PADI-certified operators. Visibility is best from March to September (15-30 meters)."
+    },
+    {
+      "name": "Visit the Po Nagar Cham Towers",
+      "description": "This atmospheric complex of Hindu temples was built between the 7th and 12th centuries by the Cham civilization and remains an active place of worship. The main tower, dedicated to the goddess Po Nagar (a local form of the Hindu deity Uma), still receives offerings from both Cham and Vietnamese devotees. The hilltop location offers panoramic views over the Cai River and city. Admission: 22,000 VND ($0.90)."
+    },
+    {
+      "name": "Soak in hot mineral mud at Thap Ba or I-Resort",
+      "description": "Nha Trang's famous mineral mud baths are genuinely rejuvenating and unique to the area. Thap Ba Hot Springs (the original, established 2003) and the newer I-Resort offer communal or private mud bath pools, mineral hot springs, swimming pools, and waterpark features. A private mud bath for two costs approximately 300,000-500,000 VND ($12-20) per person. The experience takes 2-3 hours."
+    },
+    {
+      "name": "Watch the sunrise from the beach promenade",
+      "description": "Nha Trang's east-facing beach catches spectacular sunrises over the offshore islands. Join the locals at 5:30-6:00am for a morning walk, jog, or tai chi session along Tran Phu Boulevard. The light hitting the mountains behind the city while the bay glows orange is unforgettable. The beach is at its quietest and most beautiful at dawn."
+    },
+    {
+      "name": "Feast on seafood at the local restaurants behind Dam Market",
+      "description": "Skip the tourist-priced beachfront restaurants and head to the streets around Dam Market or the seafood strip near Nguyen Binh Khiem Street where locals eat. Point-and-cook seafood restaurants let you choose fresh fish, crab, squid, and shellfish from tanks, then have them prepared to your liking. A generous seafood dinner for two costs 300,000-500,000 VND ($12-20) at local prices."
+    }
+  ],
+  "food": {
+    "description": "Nha Trang's cuisine is defined by its exceptional seafood and the influence of its coastal Cham heritage. The surrounding waters provide an abundance of fresh fish, squid, crab, and lobster. The city also has its own distinctive noodle dishes and street food specialties that differ from both northern and southern Vietnamese cooking.",
+    "specialties": [
+      "Banh Can — Small, crispy rice flour pancakes cooked in clay molds and topped with quail egg, dried shrimp, and scallion, served with a tangy fish sauce dip. A Nha Trang breakfast specialty",
+      "Bun Ca — Fish noodle soup with rice vermicelli, fresh fish, jellyfish, and herbs in a light, tangy broth",
+      "Nem Nuong Nha Trang — Grilled pork sausage rolls, a Nha Trang specialty, wrapped in rice paper with fresh herbs and dipped in a sweet-sour sauce",
+      "Fresh Seafood — Grilled lobster, steamed scallops with peanut and spring onion, salt and chili crab, and grilled squid from beachside and market stalls",
+      "Banh Canh Cha Ca — Thick tapioca noodle soup with fish cakes in a rich, slightly sweet broth",
+      "Yen Sao (Bird's Nest) — Nha Trang is Vietnam's capital of edible bird's nest harvesting, collected from cliffs on offshore islands. Served as a sweet soup, it's a luxury delicacy believed to have health benefits"
+    ]
+  },
+  "safety": "Nha Trang is generally safe but has more petty crime reports than smaller Vietnamese cities due to its resort-town nature. Watch for bag snatching, especially on the beach promenade at night. Be cautious with belongings on the beach — theft from unattended bags is reported. Avoid accepting drugs from street touts on Bui Vien or in nightlife areas — drug penalties in Vietnam are severe. Swimming safety is important: pay attention to beach flags, as currents can be strong, especially during the wet season. When booking island tours, choose established operators to ensure boat safety standards.",
+  "localTips": [
+    "For the best diving conditions, visit between March and September when visibility can reach 30 meters and the seas are calmest.",
+    "The beachfront seafood restaurants along Tran Phu are significantly overpriced — locals eat at the seafood joints on Nguyen Binh Khiem Street or near the fishing port.",
+    "Visit Po Nagar Cham Towers early in the morning (open from 6am) to experience the site in peaceful solitude before tour buses arrive at 9am.",
+    "The area around Nguyen Thien Thuat Street has the best concentration of budget accommodation and independent restaurants.",
+    "For a more exclusive island experience, skip the crowded group boat tours and hire a private speedboat to Hon Mun or the less-visited islands.",
+    "The luxury Six Senses Ninh Van Bay, accessible only by speedboat and set in a stunning private bay, offers day passes for non-guests — an unforgettable splurge."
+  ],
+  "dayTrips": [
+    {
+      "name": "Vinpearl Island (Hon Tre)",
+      "distance": "3.3km offshore, 15 minutes by cable car",
+      "description": "A resort island with an amusement park, waterpark, aquarium, golf course, and beaches. The over-water cable car ride is an experience in itself. Day passes for VinWonders cost approximately 880,000 VND ($35) for adults. Popular with families and those seeking resort entertainment."
+    },
+    {
+      "name": "Doc Let Beach",
+      "distance": "50km north, approximately 1 hour by car",
+      "description": "A quieter, more pristine alternative to Nha Trang's city beach. Doc Let (also called Bai Doc Let) has fine white sand, clear water, and a handful of low-key resorts and beachside restaurants. The nearby Ninh Hoa salt fields add a cultural dimension to the trip."
+    },
+    {
+      "name": "Yang Bay Waterfalls",
+      "distance": "45km west, approximately 1 hour by car",
+      "description": "A series of waterfalls in the foothills of the Truong Son mountains, set in a park with swimming areas, hot springs, cultural shows by the Raglai ethnic minority, and animal encounters. A scenic escape from the beach scene. Entrance: 100,000 VND ($4)."
+    },
+    {
+      "name": "Ninh Van Bay",
+      "distance": "60km north, approximately 1.5 hours by car plus boat",
+      "description": "A spectacular secluded bay accessible only by boat, surrounded by dramatic boulders and lush mountains. Home to the Six Senses Ninh Van Bay resort, but the bay can also be explored independently by hiring a boat from the mainland pier."
+    }
+  ],
+  "sources": [
+    "Vietnam National Administration of Tourism (vietnam.travel)",
+    "Khanh Hoa Province Tourism Department",
+    "Lonely Planet Vietnam Guide",
+    "PADI — Nha Trang Dive Center Directory"
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "slug": "mui-ne",
+  "name": { "en": "Mui Ne" },
+  "vietnameseName": "Mũi Né",
+  "image": "/images/cities/mui-ne.webp",
+  "region": "South-Central Coast",
+  "highlights": ["Red & White Sand Dunes", "Kitesurfing", "Fishing Village", "Fairy Stream"],
+  "description": { "en": "This laid-back coastal strip east of Phan Thiet is famous for its surreal sand dunes, steady ocean winds that attract kitesurfers from around the world, and a colorful fishing village where hundreds of round basket boats dot the shore. Mui Ne offers a more relaxed beach alternative to Nha Trang, with desert-like landscapes just minutes from the ocean." },
+  "overview": "Mui Ne is a 15km stretch of beach and resort development along the coast of Binh Thuan Province, approximately 200km northeast of Ho Chi Minh City. Technically a ward of the city of Phan Thiet, Mui Ne has developed its own distinct identity as one of Vietnam's most popular beach resort destinations. The area is uniquely defined by its microclimate — it receives far less rainfall than the surrounding region, creating an almost arid landscape that has produced the famous red and white sand dunes that rise dramatically from the coastline. This same dry, windy climate has made Mui Ne Asia's premier kitesurfing destination, with consistent winds blowing from November to April that attract kitesurfers from around the world. Beyond the wind sports, Mui Ne offers a traditional Vietnamese fishing village where hundreds of colorful round basket boats (thung chai) line the beach, the surreal Fairy Stream (a shallow red-canyon stream you wade through barefoot), and a long beach backed by swaying palm trees and coconut groves. The resort strip is more laid-back and less developed than Nha Trang, attracting visitors seeking a relaxed beach holiday with natural attractions rather than nightlife.",
+  "neighborhoods": [
+    {
+      "name": "Mui Ne Beach / Resort Strip (Nguyen Dinh Chieu Road)",
+      "description": "The main tourism corridor stretches about 15km along Nguyen Dinh Chieu Road, parallel to the beach. The western end (closer to Phan Thiet) has budget and mid-range accommodation, while the eastern end has the more upscale resorts. Kitesurfing schools, restaurants, and bars are scattered along the entire strip. The atmosphere is more relaxed and spread out than concentrated beach resort towns.",
+      "highlights": ["15km beach strip", "Kitesurfing schools and launch areas", "Beachfront restaurants and bars", "Range of resorts from budget to luxury"]
+    },
+    {
+      "name": "Mui Ne Fishing Village",
+      "description": "At the eastern end of the beach strip, the traditional fishing village provides a vivid contrast to the resort area. The beach is lined with hundreds of round basket boats (thung chai) and larger fishing vessels painted in bright blues and reds. Fishermen bring in their catch at dawn, and a lively fish market operates early morning. The harbor is one of the most photogenic spots in all of coastal Vietnam, especially at sunrise with the boats silhouetted against the morning sky.",
+      "highlights": ["Hundreds of round basket boats", "Early morning fish market", "Spectacular sunrise photography", "Active fishing harbor"]
+    },
+    {
+      "name": "Phan Thiet City",
+      "description": "The actual city of Phan Thiet, about 10km west of the Mui Ne resort strip, is a working Vietnamese coastal city with its own character. It has a large central market, fish sauce factories (Binh Thuan Province is Vietnam's other major fish sauce region alongside Phu Quoc), the Phan Thiet Water Tower (a French colonial landmark), and a more authentic local atmosphere than the tourist strip. The Po Sah Inu Cham towers sit on a hill overlooking the city.",
+      "highlights": ["Phan Thiet central market", "Po Sah Inu Cham Towers", "Fish sauce factories", "Local Vietnamese atmosphere"]
+    }
+  ],
+  "gettingThere": {
+    "byAir": "The nearest airport is Tan Son Nhat International Airport (SGN) in Ho Chi Minh City, approximately 200km southwest (4-5 hours by road). There have been plans for a Phan Thiet airport but it was not yet operational as of 2024. Most visitors travel by road from HCMC.",
+    "byTrain": "Phan Thiet Railway Station (Ga Phan Thiet) is located about 12km from the Mui Ne resort strip. Trains from Ho Chi Minh City take approximately 4 hours, with departures at convenient times. One-way tickets cost 100,000-200,000 VND ($4-8) depending on seat class. From the station, a taxi to Mui Ne costs about 150,000 VND ($6).",
+    "byBus": "Comfortable tourist buses and sleeper buses run between Ho Chi Minh City and Mui Ne (4-5 hours, from 130,000-250,000 VND/$5-10). Phuong Trang (FUTA), The Sinh Tourist, and Hanh Cafe are reliable operators with direct drop-off along the Mui Ne resort strip. Buses also connect to Nha Trang (5-6 hours), Da Lat (4 hours via a scenic mountain road), and other coastal cities."
+  },
+  "gettingAround": "The linear layout of the Mui Ne resort strip along Nguyen Dinh Chieu Road makes navigation simple but distances can be long (the strip stretches 15km). Most visitors rent motorbikes (100,000-150,000 VND/day, $4-6) for getting between the resort area, sand dunes, fishing village, and Fairy Stream. Grab is available but can be slow during quiet periods. Taxis are readily available along the main road. Bicycle rental is an option for shorter trips but the distances and heat can be challenging. For the sand dunes, many visitors book a jeep tour (either sunrise or sunset trips, from 200,000-400,000 VND per person).",
+  "bestTimeToVisit": {
+    "best": "November to April",
+    "description": "The dry season brings blue skies, consistent winds for kitesurfing, and the best beach weather. Mui Ne has a unique microclimate that makes it one of Vietnam's driest regions — even during the nominal wet season, rainfall is modest compared to other coastal areas.",
+    "seasons": {
+      "spring": "February-April: Warm and dry, 26-33°C. Good winds for kitesurfing (the season peaks in February-March). The sand dunes are at their most dramatic with clean, wind-sculpted shapes. Excellent beach weather.",
+      "summer": "May-August: Hot and relatively dry by Vietnamese standards, 28-35°C. Wind drops off significantly, making this off-season for kitesurfing. The beach is good but midday heat is intense. Lower tourist numbers and prices.",
+      "autumn": "September-October: The brief wet season, 26-32°C. Some rain but Mui Ne receives far less than most of Vietnam's coast. The landscape greens up slightly. Quiet tourism season.",
+      "winter": "November-January: Dry season returns, 24-31°C. Kitesurfing season begins (peaking December-March) with consistent northeast winds of 15-25 knots. The most popular season with the best all-round weather. December-January is peak pricing."
+    }
+  },
+  "budget": {
+    "backpacker": "$20-30/day",
+    "midRange": "$40-100/day",
+    "luxury": "$120-350+/day",
+    "details": "Hostel dorms from 120,000-180,000 VND ($5-7). Budget guesthouses from 300,000-600,000 VND ($12-24). Mid-range beachfront resorts from 800,000-2,000,000 VND ($32-80). Luxury resorts (Anantara, Victoria, Mia) from 3,000,000+ VND ($120+). Street food meals from 25,000-50,000 VND ($1-2). Beachfront restaurant dinner for two: 300,000-600,000 VND ($12-24). Kitesurfing lesson (2 hours): from 1,500,000 VND ($60). Sand dune jeep tour: 200,000-400,000 VND ($8-16). Full kitesurfing course (8-10 hours): from 7,500,000 VND ($300)."
+  },
+  "mustDo": [
+    {
+      "name": "Watch sunrise at the White Sand Dunes (Bau Trang)",
+      "description": "The White Sand Dunes (Doi Cat Trang or Bau Trang) are located about 30km northeast of the resort strip and are most spectacular at sunrise when the low-angle light sculpts dramatic shadows across the dune ridges. The dunes surround two lotus-covered lakes, creating a surreal desert-meets-oasis landscape unique in Vietnam. Jeep tours depart around 4:30am ($8-16 per person). You can also rent ATVs (all-terrain vehicles) to ride across the dunes (approximately 200,000-400,000 VND for 15-30 minutes)."
+    },
+    {
+      "name": "Go kitesurfing or watch the kitesurfers",
+      "description": "Mui Ne is Southeast Asia's kitesurfing capital, with consistent winds from November to April attracting riders from around the world. The wide, sandy beach provides safe launch and landing areas for all skill levels. Numerous schools offer beginner lessons (from $60 for 2 hours, typically 8-10 hours to become independent) and equipment rental for experienced riders. Even non-kiters enjoy watching the colorful kites fill the sky from beachside restaurants. Source Kiteboarding, C2Sky, and Jibe's Beach Club are established schools."
+    },
+    {
+      "name": "Visit the Red Sand Dunes at sunset",
+      "description": "Closer to the resort strip (about 5 minutes by motorbike from the fishing village), the Red Sand Dunes (Doi Cat Do) glow in fiery shades of orange and red at sunset. The dunes are smaller than the white ones but more accessible and equally photogenic. Local children rent plastic sleds for sand-sliding down the dune faces (about 20,000-30,000 VND). The sunset views over the dunes toward the sea are stunning."
+    },
+    {
+      "name": "Wade through the Fairy Stream (Suoi Tien)",
+      "description": "This shallow stream flows through a narrow red-and-white sandstone canyon, creating a landscape that looks like a miniature Grand Canyon. Walk barefoot through the ankle-deep water as the canyon walls change color and shape around you. The stream is about 1.5km long and takes approximately 45 minutes to walk one way. There is no entry fee (though parking attendants may charge a small fee). Go in the morning for the best light penetrating the canyon."
+    },
+    {
+      "name": "Photograph the Mui Ne Fishing Village at dawn",
+      "description": "The most authentic scene in Mui Ne: hundreds of round basket boats (thung chai) bobbing in the harbor while fishermen sort their catch on the beach. Arrive around 5:30-6:00am when the fishing boats return. The morning light hitting the colorful boats against the turquoise water creates some of Vietnam's most iconic coastal photography. The fish market beside the harbor is chaotic, aromatic, and fascinating."
+    },
+    {
+      "name": "Visit the Po Sah Inu Cham Towers",
+      "description": "This group of three Cham temple towers sits on a hill in Phan Thiet, overlooking the coast. Built between the 8th and 9th centuries, the towers are dedicated to the Cham deity Po Sah Inu and still receive offerings from local worshippers. The site is smaller than Po Nagar in Nha Trang but has a peaceful atmosphere and provides historical context for the Cham civilization that once dominated this coast. Free entry."
+    }
+  ],
+  "food": {
+    "description": "Mui Ne and Phan Thiet's cuisine reflects the region's dual identity as a fishing community and a tropical resort destination. The seafood is fresh and affordable, with the fishing village providing daily catches of squid, shrimp, crab, and fish. Binh Thuan Province is also one of Vietnam's premier fish sauce producing regions, and the local cuisine makes full use of this umami-rich condiment.",
+    "specialties": [
+      "Banh Can Phan Thiet — Small, crispy rice flour pancakes cooked in clay molds, topped with quail egg and spring onion, dipped in fish sauce. Similar to Nha Trang's version but with subtle local differences",
+      "Banh Canh Cha Ca — Thick tapioca noodle soup with handmade fish cakes, a beloved local breakfast. The fish cakes in Phan Thiet are considered among Vietnam's best due to the fresh local catch",
+      "Lau Tha (Hotpot with raw fish) — A local specialty where thin-sliced raw fish is dipped into a sour tamarind broth to cook, similar to Vietnamese shabu-shabu",
+      "Fresh Seafood — The fishing village provides daily catches. Grilled squid, steamed crab with tamarind, and garlic butter prawns are staples at beachfront restaurants",
+      "Phan Thiet Fish Sauce (Nuoc Mam) — While not a dish per se, the region's fish sauce is considered among Vietnam's finest and flavors everything. Buy bottles direct from factories as souvenirs",
+      "Banh Hoi — Fine rice vermicelli pressed into flat sheets and served with grilled pork, a popular local lunch option"
+    ]
+  },
+  "safety": "Mui Ne is very safe for tourists. The main concerns are ocean currents (can be strong, especially during the kitesurfing season when winds are high — swim in front of resort areas where lifeguards are present), motorbike safety on the long resort strip road (traffic can be fast), and sun exposure in the dune areas (carry water and sun protection — there is virtually no shade on the dunes). ATV riding on the sand dunes carries inherent risk if operators don't provide proper safety gear — choose operators with helmets and clear safety instructions. Petty crime is rare but don't leave valuables unattended on the beach.",
+  "localTips": [
+    "The White Sand Dunes sunrise tour requires a 4:30am departure — it sounds painful but the experience of watching the sun rise over the desert-like landscape and lotus lakes is worth every lost minute of sleep.",
+    "For kitesurfing, the best wind season is December through March, with February typically offering the most consistent conditions. Book lessons in advance during peak season as popular schools fill up.",
+    "The Fairy Stream is best visited in the morning when the light penetrates the canyon walls most beautifully. Wear shoes you don't mind getting wet (or go barefoot).",
+    "The eastern end of Mui Ne beach (toward the fishing village) has the best kitesurfing conditions. The western end (toward Phan Thiet) is calmer for swimming.",
+    "Many Russian-language signs and menus reflect Mui Ne's popularity with Russian tourists. Some restaurants have adapted their menus accordingly, but authentic Vietnamese food stalls are found along the main road between the resort clusters.",
+    "Combine the Red Sand Dunes with a sunset visit to the fishing village — they are very close to each other and the sequence provides the best light for both locations.",
+    "If riding a motorbike to the White Sand Dunes independently (rather than a jeep tour), fill up on fuel before leaving — there are very few gas stations on the road beyond the resort strip."
+  ],
+  "dayTrips": [
+    {
+      "name": "Ta Cu Mountain and Reclining Buddha",
+      "distance": "30km south, approximately 45 minutes by car",
+      "description": "A cable car ascends to the Linh Son Truong Tho Pagoda on Ta Cu Mountain, home to a 49-meter reclining Buddha — the largest in Vietnam. The mountain is surrounded by forest and the views from the cable car are excellent. Alternatively, hike up in about 2 hours through the forest. Cable car roundtrip: 100,000 VND ($4)."
+    },
+    {
+      "name": "Ke Ga Lighthouse",
+      "distance": "30km south, approximately 40 minutes by car",
+      "description": "Vietnam's oldest lighthouse (built by the French in 1899) stands on a small rocky island accessible by a short boat ride from the mainland. The surrounding coastline is dramatic with boulders, clear water, and few tourists. The lighthouse climb offers panoramic ocean views."
+    },
+    {
+      "name": "Da Lat highland escape",
+      "distance": "150km northwest, approximately 4 hours by car/bus",
+      "description": "The scenic mountain road from Mui Ne to Da Lat climbs from coastal heat to cool highlands, passing through dragon fruit plantations and pine forests. While too far for a comfortable day trip, it's a natural next destination from Mui Ne, with buses departing daily."
+    },
+    {
+      "name": "Bau Trang (White Lake) and surrounding dunes",
+      "distance": "30km northeast, approximately 45 minutes by motorbike",
+      "description": "Beyond the main White Sand Dunes, the Bau Trang area includes two natural lakes surrounded by dunes and lotus flowers. The area is best visited at sunrise but also offers good photography throughout the day. Boat rides on the lakes are available."
+    }
+  ],
+  "sources": [
+    "Vietnam National Administration of Tourism (vietnam.travel)",
+    "Binh Thuan Province Tourism Department",
+    "Lonely Planet Vietnam Guide",
+    "International Kiteboarding Association — Mui Ne Wind Data"
+  ]
+}

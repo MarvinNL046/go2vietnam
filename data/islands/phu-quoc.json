@@ -1,0 +1,82 @@
+{
+  "slug": "phu-quoc",
+  "name": { "en": "Phu Quoc" },
+  "vietnameseName": "Phú Quốc",
+  "image": "/images/islands/phu-quoc.webp",
+  "bestFor": ["Beaches", "Snorkeling", "Sunset", "Fish Sauce", "Resorts"],
+  "description": { "en": "Vietnam's largest island sits in the Gulf of Thailand, offering powdery white-sand beaches, world-class sunsets, vibrant coral reefs, and a unique heritage of fish sauce and pepper production. Phu Quoc has grown into a full-fledged resort destination while retaining its tropical island soul." },
+  "overview": "Phu Quoc is Vietnam's premier island destination and the country's largest island, spanning 574 square kilometers in the Gulf of Thailand, closer to Cambodia than to the Vietnamese mainland. Once a sleepy fishing island known primarily for its artisanal fish sauce production and black pepper farms, Phu Quoc has undergone dramatic transformation since receiving international airport status in 2012. The island now features luxury resorts, a massive cable car system, a safari park, and a burgeoning entertainment complex in the south. Yet despite this development, much of Phu Quoc remains genuinely wild - the northern half is dominated by Phu Quoc National Park, a UNESCO-recognized biosphere reserve covering nearly 70% of the island's land area. The west coast delivers Vietnam's most spectacular sunsets over open water, the southern An Thoi archipelago offers excellent snorkeling and diving, and the island's famous night market in Duong Dong town remains a highlight for street food lovers. Phu Quoc benefits from a special economic zone status that grants visa-free access for up to 30 days to all international visitors arriving directly on the island.",
+  "gettingThere": {
+    "byAir": "Phu Quoc International Airport (PQC) receives direct flights from Ho Chi Minh City (1 hour, multiple daily on Vietnam Airlines, VietJet, Bamboo Airways), Hanoi (2 hours, several daily), and Da Nang. International flights connect from Bangkok, Seoul, Singapore, and Kuala Lumpur seasonally. The airport is located in Duong Dong, the island's main town.",
+    "byFerry": "SuperDong fast ferries operate from Ha Tien (1 hour, 340,000 VND) and Rach Gia (2.5 hours, 350,000 VND) in the Mekong Delta. Ferries arrive at Bai Vong port on the island's east coast. The Ha Tien route is more scenic and shorter. Book tickets at superdong.com.vn or at the port."
+  },
+  "bestTimeToVisit": {
+    "best": "November to March",
+    "description": "The dry season brings sunny skies, calm seas, and ideal beach and snorkeling conditions. December and January are peak season with the most visitors and highest prices. November and March offer excellent weather with fewer crowds.",
+    "avoid": "July to September: the peak of the southwest monsoon brings heavy rain, rough seas, and some beach closures. Some boat tours and snorkeling trips may be cancelled. However, room rates drop significantly and the island is lush and green."
+  },
+  "topBeaches": [
+    {
+      "name": "Bai Sao (Star Beach)",
+      "description": "The most famous beach on Phu Quoc, featuring fine white sand and turquoise water on the island's southeast coast. Can get crowded at midday; arrive early morning for the best experience. Beach chairs and water sports available."
+    },
+    {
+      "name": "Long Beach (Bai Truong)",
+      "description": "A 20-kilometer stretch of golden sand along the west coast, lined with resorts, restaurants, and beach bars. The best spot on the island for watching the sunset with a cocktail in hand."
+    },
+    {
+      "name": "Ong Lang Beach",
+      "description": "A quieter alternative to Long Beach, located on the northwest coast. Rocky outcrops divide the beach into intimate coves, and mid-range resorts offer good value with direct beach access."
+    },
+    {
+      "name": "Bai Dai (Long Beach North)",
+      "description": "A less-developed stretch in the north, with several kilometers of relatively empty sand. Home to the Vinpearl resort complex but still with quiet sections further north."
+    }
+  ],
+  "activities": [
+    {
+      "name": "Snorkeling at An Thoi Islands",
+      "description": "Boat trips to the An Thoi archipelago south of Phu Quoc visit multiple islands with coral reefs, including Hon Thom, Hon May Rut, and Hon Dam Ngang. Clear water with good visibility from November to May.",
+      "price": "300,000 - 600,000 VND ($12-24) for a full-day group tour including lunch"
+    },
+    {
+      "name": "Hon Thom Cable Car",
+      "description": "The world's longest over-sea cable car (7.9 km) connects Phu Quoc's south coast to Hon Thom island, offering spectacular aerial views of the An Thoi archipelago. The Sun World complex on Hon Thom includes a waterpark and beach.",
+      "price": "500,000 - 750,000 VND ($20-30) round trip"
+    },
+    {
+      "name": "Fish Sauce Factory Tour",
+      "description": "Visit traditional fish sauce (nuoc mam) producers in Duong Dong to see the barrel-aging process of Phu Quoc's most famous export. Phu Quoc fish sauce has protected geographical indication status.",
+      "price": "Free admission at most factories"
+    },
+    {
+      "name": "Phu Quoc National Park Trekking",
+      "description": "Hiking trails through the UNESCO biosphere reserve in the island's northern half, with opportunities to see rare wildlife including the Phu Quoc langur. Ganh Dau area and Suoi Tranh waterfall are accessible starting points.",
+      "price": "Free (independent hiking) or 300,000 - 500,000 VND ($12-20) for guided treks"
+    },
+    {
+      "name": "Duong Dong Night Market",
+      "description": "The island's bustling night market runs nightly along Vo Thi Sau street, offering grilled seafood, Vietnamese street food, souvenirs, and fresh fruit. A must-visit for dinner at least one evening.",
+      "price": "Meals from 80,000 - 200,000 VND ($3-8) per person"
+    }
+  ],
+  "accommodation": {
+    "budget": "Hostels and guesthouses from 150,000 VND ($6)/night in Duong Dong town. Basic beach bungalows from 300,000 VND ($12)/night on Ong Lang or Long Beach.",
+    "midRange": "3-star resorts and boutique hotels from 800,000 VND ($32)/night. Popular choices include Cassia Cottage, La Veranda, and Chen Sea Resort on Ong Lang Beach.",
+    "luxury": "5-star international resorts from 4,000,000 VND ($160)/night. JW Marriott Phu Quoc Emerald Bay, InterContinental Long Beach, and Regent Phu Quoc represent the island's top tier, each with private beaches and world-class spas."
+  },
+  "localTips": [
+    "Rent a motorbike for 150,000-200,000 VND/day to explore the island independently - the north is much less developed and more scenic than the south",
+    "The visa-free 30-day policy for Phu Quoc applies only when flying directly to the island, not arriving via mainland Vietnam",
+    "Sunset on Long Beach is a daily event - find a beach bar by 5 PM to secure a good spot",
+    "Buy Phu Quoc pepper (tieu) at the local market as a souvenir - it is considered among the best in the world",
+    "Avoid the southern entertainment complexes if you want an authentic island experience - head north for quiet beaches and fishing villages",
+    "The best seafood is at local restaurants in Ham Ninh fishing village on the east coast, not at the tourist night market"
+  ],
+  "sources": [
+    "Vietnam National Administration of Tourism",
+    "Kien Giang Department of Tourism",
+    "UNESCO - Phu Quoc Biosphere Reserve",
+    "Phu Quoc Fish Sauce Association"
+  ]
+}

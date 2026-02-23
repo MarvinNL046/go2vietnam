@@ -1,0 +1,57 @@
+{
+  "slug": "bia-hoi",
+  "name": { "en": "Fresh Draft Beer" },
+  "vietnameseName": "Bia Hơi",
+  "image": "/images/drinks/bia-hoi.webp",
+  "category": "Beer",
+  "description": { "en": "Ultra-fresh, unfiltered draft beer brewed daily and served at low-slung sidewalk stalls across Hanoi. At around 25 cents per glass, bia hoi is among the cheapest beers in the world and one of Vietnam's most beloved social traditions." },
+  "overview": "Bia hoi is not just a beer - it is a social institution. Every afternoon across Hanoi, clusters of tiny plastic tables and stools materialize on sidewalks, and kegs of fresh, unpasteurized beer arrive from local microbreweries. The beer itself is light, low in alcohol (typically 3-4% ABV), slightly sweet, and extraordinarily refreshing. Because it contains no preservatives, each batch must be consumed within 24 hours of brewing, meaning every glass is as fresh as beer gets anywhere on Earth. The bia hoi experience is as much about the atmosphere as the drink: sitting knee-to-knee with strangers on impossibly small plastic chairs, watching motorbikes stream past, sharing plates of grilled meats and peanuts, and clinking glasses with the ubiquitous toast of 'mot, hai, ba, do!' (one, two, three, cheers!). The legendary Bia Hoi Corner at the intersection of Ta Hien and Luong Ngoc Quyen streets in Hanoi's Old Quarter has become one of the city's most famous social gathering points.",
+  "origin": {
+    "region": "Hanoi and Northern Vietnam",
+    "history": "Bia hoi emerged in the 1960s as a locally brewed alternative to bottled beer, which was expensive and scarce in wartime North Vietnam. Czech and German brewing techniques, introduced through Vietnam's socialist-era partnerships with Eastern European countries, influenced the initial recipes. The tradition of small daily-brew batches delivered to neighborhood stalls became firmly established in Hanoi and gradually spread to other northern cities. Unlike the mass-produced Bia Ha Noi, Bia Saigon, and Tiger brands, bia hoi remained a hyper-local product, with each neighborhood's stall sourcing from nearby microbreweries. The bia hoi culture survived economic reforms in the 1990s and has since become a recognized part of Hanoi's intangible cultural heritage."
+  },
+  "howItsMade": "Bia hoi is brewed using a simple recipe of malted barley, rice, hops, and water. The brewing process is shortened compared to commercial beer, with a brief fermentation period that produces a light, low-alcohol brew. The beer is not pasteurized, filtered, or preserved, which gives it a fresh, slightly cloudy appearance and a clean taste with minimal bitterness. Batches are brewed overnight or in the early morning, then transported in metal kegs by motorbike to street stalls across the city. Each stall typically receives fresh kegs once or twice daily. The beer is served at cool (not ice-cold) temperature, often poured from the keg into simple glass mugs. Because of its perishability, any unsold beer is discarded at the end of the day.",
+  "whereToTry": [
+    {
+      "name": "Bia Hoi Corner (Ta Hien Street)",
+      "location": "Intersection of Ta Hien and Luong Ngoc Quyen, Old Quarter, Hanoi",
+      "note": "The most famous bia hoi destination, packed every evening with backpackers and locals. Lively, loud, and unmissable"
+    },
+    {
+      "name": "Bia Hoi Ha Noi on Ton Duc Thang",
+      "location": "Ton Duc Thang Street, Dong Da District, Hanoi",
+      "note": "A more local, less touristy bia hoi experience frequented by neighborhood regulars"
+    },
+    {
+      "name": "Bia Hoi Hai Xom",
+      "location": "40 Duong Thanh, Hoan Kiem, Hanoi",
+      "note": "Small neighborhood joint popular with local workers, authentic prices and atmosphere"
+    },
+    {
+      "name": "Any sidewalk stall with a yellow 'Bia Hoi' sign",
+      "location": "Throughout Hanoi",
+      "note": "Look for clusters of plastic stools and a metal keg on the sidewalk - that is all you need"
+    }
+  ],
+  "variations": [
+    { "name": "Bia Hoi Ha Noi", "description": "The most widely available bia hoi brand in Hanoi, brewed by HABECO (Hanoi Beer Company)" },
+    { "name": "Bia Tuoi (Fresh Beer)", "description": "A slightly more upscale version of fresh draft beer served at beer gardens and modern restaurants" },
+    { "name": "Bia Hoi with ice", "description": "Locals often add ice to their bia hoi, which keeps it cold and dilutes the already light beer further" },
+    { "name": "Craft beer alternatives", "description": "Hanoi's growing craft beer scene (Pasteur Street, Heart of Darkness) offers higher-quality drafts at premium prices" }
+  ],
+  "priceRange": "5,000 - 10,000 VND ($0.20 - $0.40)",
+  "tips": [
+    "Bia hoi is freshest and most available from mid-afternoon onwards - the best time is around 4-6 PM",
+    "Bring small bills (5,000 and 10,000 VND notes) as most stalls do not accept cards or large denominations",
+    "Order snacks to go with your beer: dried squid, boiled peanuts, grilled meat skewers, or nem chua (fermented pork)",
+    "Avoid the most tourist-heavy spots on Ta Hien if you want authentic prices - walk one or two blocks away for a calmer experience",
+    "Bia hoi is very low alcohol, but the glasses add up fast - pace yourself and stay hydrated",
+    "The plastic stools are tiny and low - wear comfortable clothing and be prepared to sit close to strangers"
+  ],
+  "culturalNotes": "Bia hoi represents one of Vietnam's great social equalizers. At a bia hoi stall, you will see office workers in dress shirts sitting next to construction laborers, students next to retirees, all sharing the same plastic stools and the same cheap beer. The culture is overwhelmingly male-dominated, though this is gradually changing among younger Vietnamese. Toasting is enthusiastic and frequent - expect your tablemates to clink glasses with you. It is considered polite to reciprocate. The phrase 'mot, hai, ba, do!' (or the southern variant 'mot, hai, ba, yo!') will ring out constantly. While bia hoi is predominantly a Hanoi phenomenon, similar fresh beer stalls can be found throughout northern Vietnam. Southern Vietnam has a different drinking culture centered around bottled beer with ice.",
+  "sources": [
+    "Hanoi Department of Tourism",
+    "HABECO (Hanoi Beer Corporation)",
+    "Vietnam National Administration of Tourism"
+  ]
+}

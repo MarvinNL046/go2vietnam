@@ -1,0 +1,102 @@
+{
+  "slug": "nem-ran",
+  "name": { "en": "Nem Ran" },
+  "vietnameseName": "Nem Rán / Chả Giò",
+  "image": "/images/food/nem-ran.webp",
+  "category": "Appetizer",
+  "spiceLevel": "mild",
+  "description": { "en": "Golden, crispy fried spring rolls filled with a savory mixture of ground pork, crab meat, glass noodles, wood ear mushrooms, and shredded vegetables, served with fresh lettuce, herbs, and nuoc cham dipping sauce." },
+  "overview": "Nem ran (as they are called in the north) or cha gio (in the south) are Vietnam's beloved fried spring rolls, one of the country's most iconic dishes and a fixture at every festive meal, family gathering, and restaurant menu. These golden, crackling cylinders are filled with a savory mixture of ground pork, crab meat (or shrimp), glass noodles, wood ear mushrooms, shredded taro or carrot, and seasonings, then wrapped tightly in rice paper and deep-fried until shatteringly crisp. The traditional way to eat them is wrapped in a lettuce leaf with fresh herbs — mint, perilla, and Vietnamese balm — then dipped in nuoc cham sauce. This wrapping method adds freshness and crunch that balances the richness of the fried roll. Nem ran are perhaps the most universally loved Vietnamese dish: they appear as appetizers, side dishes (especially alongside bun cha in Hanoi), and as the star of festive holiday meals, particularly during Tet (Lunar New Year).",
+  "origin": {
+    "region": "Northern Vietnam (later spread nationwide)",
+    "history": "Fried spring rolls have ancient roots in Vietnamese cuisine, with techniques likely influenced by Chinese cooking traditions. The Vietnamese version distinguishes itself through the use of rice paper wrappers (as opposed to wheat-based wrappers used in Chinese spring rolls), which creates a uniquely light, bubbly, and crispy exterior when fried. The northern name 'nem rán' and the southern name 'chả giò' reflect the regional linguistic differences that are common in Vietnamese cuisine. Historically, nem ran were considered a celebratory dish prepared for Tet, weddings, and important family gatherings, as the deep-frying process required more oil and preparation than everyday cooking. The dish became one of the first Vietnamese foods to gain international recognition, popularized by Vietnamese diaspora communities around the world where 'Vietnamese spring rolls' became a staple of Asian restaurant menus."
+  },
+  "ingredients": {
+    "main": [
+      "Rice paper wrappers (bánh tráng) — the northern version uses thinner, crispier rice paper",
+      "Ground pork (thịt heo xay)",
+      "Crab meat or shrimp (thịt cua / tôm)",
+      "Glass noodles (miến), soaked and cut",
+      "Wood ear mushrooms (mộc nhĩ), minced",
+      "Shredded taro, carrot, or jicama",
+      "Egg (for binding)"
+    ],
+    "herbs": [
+      "Lettuce leaves (xà lách) for wrapping",
+      "Mint (húng lủi)",
+      "Perilla leaves (tía tô)",
+      "Vietnamese balm (kinh giới)",
+      "Thai basil (húng quế)"
+    ],
+    "condiments": [
+      "Nuoc cham dipping sauce (nước chấm) — fish sauce, lime, sugar, garlic, chili",
+      "Chili sauce (tương ớt)",
+      "Sweet chili sauce"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Nem Rán Hà Nội (Hanoi-Style Fried Spring Rolls)",
+      "description": "Northern style using thin rice paper that creates a bubbly, ultra-crispy exterior. Filling typically includes pork, crab, glass noodles, and wood ear mushrooms. Wrapped tightly in small, compact rolls."
+    },
+    {
+      "name": "Chả Giò Sài Gòn (Saigon-Style Fried Spring Rolls)",
+      "description": "Southern style often using a thicker rice paper or sometimes wheat-based wrappers. The filling may include more vegetables and taro. Rolls are often thicker and slightly chewier."
+    },
+    {
+      "name": "Nem Hải Sản (Seafood Spring Rolls)",
+      "description": "Filled primarily with shrimp, crab, and sometimes squid. A premium version common at restaurants and special occasions."
+    },
+    {
+      "name": "Nem Chay (Vegetarian Spring Rolls)",
+      "description": "Made with glass noodles, tofu, mushrooms, and vegetables. Very common during Buddhist festival days and at vegetarian restaurants."
+    },
+    {
+      "name": "Nem Cua Bể (Sea Crab Spring Rolls)",
+      "description": "A deluxe version using sea crab meat as the primary filling. Considered a premium dish and often served at upscale restaurants and special occasions."
+    }
+  ],
+  "howToOrder": "Order 'nem rán' in the north or 'chả giò' in the south. They typically come in servings of 2-4 rolls. If ordering alongside bun cha in Hanoi, say 'bún chả nem.' The lettuce and herb plate comes automatically. Wrap each roll in lettuce with herbs and dip in nuoc cham.",
+  "whereToEat": [
+    {
+      "name": "Bún Chả Đắc Kim (with Nem)",
+      "location": "Hanoi",
+      "note": "At 1 Hang Manh, Old Quarter. While famous for bun cha, their nem ran are equally outstanding — crispy, well-seasoned, and the perfect complement to the grilled pork noodles."
+    },
+    {
+      "name": "Quán Ăn Ngon",
+      "location": "Hanoi",
+      "note": "At 18 Phan Boi Chau. This restaurant showcases dishes from across Vietnam, including excellent nem ran prepared fresh. Good for trying multiple Vietnamese dishes in one sitting."
+    },
+    {
+      "name": "Wrap & Roll",
+      "location": "Ho Chi Minh City / Hanoi",
+      "note": "A popular Vietnamese restaurant chain with multiple locations. Specializes in spring rolls with many creative and traditional variations."
+    },
+    {
+      "name": "Ngon Garden",
+      "location": "Ho Chi Minh City",
+      "note": "At 40 Ho Tung Mau, District 1. A well-regarded restaurant offering crispy southern-style cha gio among other Vietnamese classics."
+    }
+  ],
+  "priceRange": {
+    "street": "15,000 - 30,000 VND ($0.60 - $1.25) per 2-3 rolls",
+    "restaurant": "40,000 - 80,000 VND ($1.70 - $3.30) per serving",
+    "upscale": "90,000 - 180,000 VND ($3.70 - $7.50) per serving"
+  },
+  "tips": [
+    "The best nem ran have a bubbly, lacy crisp exterior — this indicates proper rice paper and correct oil temperature",
+    "Always wrap in lettuce and herbs before eating; the fresh greens are essential to balancing the fried richness",
+    "In Hanoi, ordering bun cha without nem ran is like ordering a burger without fries — always get both",
+    "Homemade nem ran at family gatherings during Tet are often the best you will ever taste",
+    "The rolls should be served hot and crispy — avoid places where they sit in a warmer for too long",
+    "Try the northern and southern versions to appreciate the regional differences in wrapper and filling"
+  ],
+  "culturalNotes": "Nem ran hold a special place in Vietnamese culture as a festive and celebratory food. During Tet (Lunar New Year), families gather to make nem ran together, with everyone taking part in the assembly line of mixing filling, wrapping, and frying. This communal cooking activity is a cherished family bonding tradition. The dish also carries social significance: the quality of a family's nem ran at Tet is a point of pride, and recipes are guarded family secrets passed down through generations. Internationally, Vietnamese spring rolls (often labeled 'Vietnamese egg rolls' in the West) were among the first Vietnamese dishes to achieve global recognition, helping to build the worldwide appreciation for Vietnamese cuisine that exists today.",
+  "sources": [
+    "Vietnam National Administration of Tourism",
+    "Andrea Nguyen, 'Into the Vietnamese Kitchen' (Ten Speed Press, 2006)",
+    "Lonely Planet Vietnam Food Guide",
+    "VietnamNet — 'Traditional Tet Foods of Vietnam'"
+  ]
+}

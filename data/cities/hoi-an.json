@@ -1,0 +1,134 @@
+{
+  "slug": "hoi-an",
+  "name": { "en": "Hoi An" },
+  "vietnameseName": "Hội An",
+  "image": "/images/cities/hoi-an.webp",
+  "region": "Central Vietnam",
+  "highlights": ["Ancient Town Lanterns", "Custom Tailoring", "Japanese Covered Bridge", "An Bang Beach"],
+  "description": { "en": "This exquisitely preserved ancient trading port glows with hundreds of silk lanterns each evening, creating one of Vietnam's most photographed scenes. Hoi An's UNESCO-listed Old Town, world-renowned tailor shops, exceptional cuisine, and nearby beaches make it a destination that travelers consistently rank among their favorites in all of Southeast Asia." },
+  "overview": "Hoi An was one of Southeast Asia's most important trading ports from the 15th to 19th centuries, where Japanese, Chinese, Indian, Dutch, and Portuguese merchants exchanged silk, spices, ceramics, and precious metals. When the Thu Bon River silted up and trade shifted to nearby Da Nang, Hoi An was effectively frozen in time, preserving an architectural tapestry found nowhere else in Vietnam. The UNESCO World Heritage-listed Ancient Town contains over 1,000 historic buildings: Chinese assembly halls, Japanese merchant houses, French colonial shopfronts, and Vietnamese tube houses, all remarkably intact. Today this small city of around 150,000 residents has become one of Vietnam's most beloved destinations, famous not just for its history but for its world-class tailoring shops (you can have custom clothing made in 24 hours), its exceptional food scene, its iconic lantern-lit evenings, and beautiful beaches just a short bicycle ride away.",
+  "neighborhoods": [
+    {
+      "name": "Ancient Town (Phố Cổ Hội An)",
+      "description": "The UNESCO-protected core of Hoi An is a pedestrian-friendly area of narrow streets lined with centuries-old buildings. The Japanese Covered Bridge (Cau Nhat Ban, built in the 1590s), Chinese assembly halls, and merchant houses are all accessible with a single Old Town ticket. After dark, the entire area transforms as hundreds of silk lanterns illuminate the streets and the Thu Bon River, creating an enchanting atmosphere that peaks during the monthly Full Moon Lantern Festival.",
+      "highlights": ["Japanese Covered Bridge", "Fujian Assembly Hall (Phuc Kien)", "Tan Ky Ancient House", "Full Moon Lantern Festival (14th of lunar month)"]
+    },
+    {
+      "name": "An Bang Beach",
+      "description": "Located about 4km east of the Ancient Town, An Bang is Hoi An's most popular beach and consistently rated among Vietnam's finest. The beach has a relaxed bohemian vibe with beach bars, seafood restaurants, and comfortable sun loungers. The water is calm and swimmable from April to September. Several excellent beachfront restaurants like Soul Kitchen and The DeckHouse serve meals with ocean views.",
+      "highlights": ["Relaxed beach bar atmosphere", "Excellent seafood restaurants", "Swimming from April-September", "Sunset cocktails"]
+    },
+    {
+      "name": "Cam Nam Island",
+      "description": "A short walk across the Cam Nam Bridge from the Ancient Town, this quiet island offers a more local experience. Narrow lanes wind past small houses, gardens, and humble food stalls serving Hoi An's famous local specialties at lower prices than in the Old Town. The riverfront promenade offers lovely views back toward the Ancient Town, especially at sunset.",
+      "highlights": ["Authentic local food stalls", "Peaceful riverside walks", "Traditional boat building", "River views of the Ancient Town"]
+    },
+    {
+      "name": "Tra Que Vegetable Village",
+      "description": "This 300-year-old farming village just north of the Ancient Town grows herbs and vegetables using traditional methods and seaweed fertilizer from the nearby De Vong River. Several farms offer hands-on experiences where visitors can learn to tend crops, harvest vegetables, and cook traditional Vietnamese dishes. It's a genuinely immersive agricultural experience rather than a contrived tourist attraction.",
+      "highlights": ["Hands-on farming experience", "Cooking classes with fresh ingredients", "Cycling through herb gardens", "Water buffalo encounters"]
+    }
+  ],
+  "gettingThere": {
+    "byAir": "Hoi An does not have its own airport. The nearest airport is Da Nang International Airport (DAD), located approximately 30km north. From Da Nang Airport, a taxi or Grab to Hoi An costs 300,000-400,000 VND ($12-16) and takes 40-50 minutes. Many hotels and resorts offer free or discounted airport transfers — confirm when booking. A shared shuttle bus runs from the airport for around 120,000 VND ($5) per person.",
+    "byTrain": "The nearest railway station is Da Nang (Ga Đà Nẵng), 30km north. From the station, take a taxi or Grab to Hoi An (approximately 300,000 VND, 40 minutes). Some travel agencies sell combined train-plus-transfer tickets.",
+    "byBus": "Regular public buses (route 1, yellow bus) connect Da Nang to Hoi An every 20 minutes for 30,000 VND ($1.20), taking about 1 hour. Tourist shuttle buses from Hue (3-4 hours, approximately 200,000-350,000 VND) are also widely available. Open-tour buses on the Hanoi-HCMC route typically stop in Hoi An."
+  },
+  "gettingAround": "Hoi An is one of Vietnam's most walkable cities — the Ancient Town is largely pedestrian-only (vehicles are banned from the center from 8am-11am and 3pm-9:30pm daily). Bicycles are the perfect way to get around; most hotels provide them free of charge or they can be rented for 30,000-50,000 VND ($1.20-2) per day. For reaching the beach (4km) or Tra Que village, cycling is ideal. Grab is available for longer distances. Electric vehicles shuttle tourists around the Ancient Town area. Motorbike rentals are available (100,000-150,000 VND/day) but are unnecessary for most visitors given the compact size.",
+  "bestTimeToVisit": {
+    "best": "February to May",
+    "description": "Spring offers warm, dry weather perfect for both exploring the Ancient Town and enjoying the beach. Hoi An shares Central Vietnam's climate pattern, with a pronounced wet season from October to December that can bring serious flooding to the low-lying Ancient Town.",
+    "seasons": {
+      "spring": "February-May: The best season. Warm and dry, 24-32°C. Ideal for beach and sightseeing. Increasing heat toward May.",
+      "summer": "June-August: Hot and mostly dry, 28-36°C. Peak international tourism season despite the heat. Good beach weather but intense midday sun.",
+      "autumn": "September-November: Wet season, 22-28°C. Heavy rains, especially in October-November. Flooding of the Ancient Town is common during major storms, with water sometimes reaching waist height. Some businesses close temporarily during severe flooding.",
+      "winter": "December-January: Cooler and occasionally rainy, 18-24°C. Post-flood recovery in early December. Quieter tourist season with lower prices."
+    }
+  },
+  "budget": {
+    "backpacker": "$20-35/day",
+    "midRange": "$50-120/day",
+    "luxury": "$150-500+/day",
+    "details": "Hostel dorms from 100,000-180,000 VND ($4-7). Budget guesthouses from 300,000-600,000 VND ($12-24). Boutique hotels from 1,000,000-2,500,000 VND ($40-100). Luxury resorts (Four Seasons Nam Hai, Victoria Hoi An) from 5,000,000+ VND ($200+). Street food meals from 20,000-40,000 VND ($0.80-1.60). Restaurant meal: 100,000-250,000 VND ($4-10). Old Town entrance ticket: 120,000 VND ($5) for 5 attractions. Custom tailored shirt: from 400,000 VND ($16), suit: from 2,500,000 VND ($100)."
+  },
+  "mustDo": [
+    {
+      "name": "Explore the Ancient Town at dusk with lanterns glowing",
+      "description": "The magic of Hoi An peaks as the sun sets and hundreds of silk lanterns illuminate the narrow streets and riverside. Walk along Bach Dang Street beside the Thu Bon River, cross the Japanese Covered Bridge, and explore the Chinese assembly halls. Purchase an Old Town ticket (120,000 VND/$5) for entry to 5 heritage sites. The experience is even more spectacular during the monthly Full Moon Lantern Festival (14th of the lunar month) when electric lights are switched off entirely."
+    },
+    {
+      "name": "Get custom clothing tailored",
+      "description": "Hoi An is world-famous for its tailor shops, with over 400 operating in the Ancient Town alone. Quality varies enormously — reputable shops include Yaly Couture, A Dong Silk, and Bebe. Bring a photo or design of what you want, choose your fabric, get measured, and return for fittings within 24-48 hours. A custom suit costs from $100-300, a dress from $30-80, a shirt from $16-30. Allow at least two days for fittings and alterations."
+    },
+    {
+      "name": "Take a cooking class",
+      "description": "Hoi An is one of the best places in Vietnam to learn traditional cooking. Top-rated classes include Morning Glory Cooking School, Red Bridge Cooking School (on a riverside campus outside town), and Tra Que Water Wheel. Most classes begin with a market tour to buy ingredients, then teach 3-5 dishes. Full classes run 3-4 hours and cost 650,000-1,000,000 VND ($26-40) including all food and drinks."
+    },
+    {
+      "name": "Cycle to An Bang Beach",
+      "description": "The 4km ride from the Ancient Town to An Bang Beach along the flat Hai Ba Trung road is a quintessential Hoi An experience. Pass through rice paddies, local neighborhoods, and vegetable gardens. Spend the afternoon at a beach bar, swim in the South China Sea, and feast on fresh seafood before cycling back through the golden evening light."
+    },
+    {
+      "name": "Visit the Fujian Assembly Hall (Phuc Kien)",
+      "description": "The grandest of Hoi An's Chinese assembly halls was built in 1690 by Fujian merchants as a place to gather, trade, and worship Thien Hau, the goddess of the sea. The elaborate triple gate, intricate wood carvings, and colorful mosaic decorations are among the finest examples of Chinese architecture in Vietnam. Adjacent assembly halls by Cantonese, Hainan, and Teochew Chinese communities are also worth visiting."
+    },
+    {
+      "name": "Release lanterns on the Thu Bon River",
+      "description": "In the evening, vendors along the riverfront sell small floating candle lanterns that you can release onto the Thu Bon River. While touristy, the sight of hundreds of flickering lanterns drifting on the dark water is genuinely beautiful. Lanterns cost about 10,000-20,000 VND ($0.40-0.80). For a more immersive experience, hire one of the small round basket boats (thung chai) for a lantern-lit ride on the river."
+    },
+    {
+      "name": "Visit the Cham Islands (Cu Lao Cham) for snorkeling",
+      "description": "This marine protected area, a UNESCO Biosphere Reserve, lies 18km offshore and offers the best snorkeling and diving in the Hoi An area. Speed boats depart from Cua Dai Beach (20 minutes, about 400,000-500,000 VND roundtrip). The coral reefs are healthiest from June to September. The islands also have small beaches and a fishing village to explore."
+    }
+  ],
+  "food": {
+    "description": "Hoi An has one of Vietnam's most distinctive and celebrated local cuisines, shaped by centuries of international trade and the availability of fresh ingredients from the sea, river, and surrounding farmland. The town's signature dishes are found almost exclusively in Hoi An and are rarely replicated as well elsewhere. The food scene ranges from humble market stalls to internationally acclaimed restaurants.",
+    "specialties": [
+      "Cao Lau — Thick, chewy noodles (traditionally made with water from a specific ancient Cham well) topped with barbecued pork, croutons, herbs, and a small amount of rich broth. Found almost exclusively in Hoi An",
+      "Banh Mi Hoi An — The Hoi An-style baguette sandwich is considered by many to be Vietnam's finest. Madam Khanh (The Banh Mi Queen) at 115 Tran Cao Van is legendary",
+      "White Rose Dumplings (Banh Bao Banh Vac) — Delicate shrimp dumplings in translucent white wrappers resembling roses, a Hoi An original made by only one family (the White Rose Restaurant on Hai Ba Trung)",
+      "Com Ga Hoi An — Hoi An chicken rice: turmeric-tinted rice cooked in chicken broth, topped with shredded chicken, herbs, onions, and papaya salad",
+      "Banh Dap — A 'smashing cake' of crispy rice cracker pressed onto a soft rice paper, dipped in a savory mam (fermented shrimp) sauce",
+      "Mi Quang — Central Vietnam's iconic turmeric noodle dish with pork, shrimp, herbs, peanuts, and rice crackers",
+      "Hoi An Market Food — The central market's food stalls serve excellent cheap meals from early morning"
+    ]
+  },
+  "safety": "Hoi An is one of the safest destinations in Vietnam. The town is small, friendly, and well-policed. The main concerns are aggressive touts outside tailor shops and restaurants (a polite but firm 'no thank you' works), occasional bicycle theft (use provided locks), and flooding during October-November when the Ancient Town can flood rapidly. If visiting during wet season, check weather forecasts and be prepared to move to higher ground if heavy rain is forecast. When swimming at the beach, pay attention to flag warnings — currents can be dangerous during the wet season.",
+  "localTips": [
+    "The best tailor shops won't have touts outside pulling you in — research reputable shops online before arriving and avoid any shop that uses aggressive street solicitation.",
+    "Visit the Ancient Town early in the morning (7-9am) before tour groups arrive and before the vehicle restriction hours, when the streets are at their most atmospheric and authentic.",
+    "The Full Moon Lantern Festival (14th of each lunar month) transforms the town when electric lights are turned off — plan your visit to coincide if possible, but be prepared for larger crowds.",
+    "For the best Cao Lau, try the stalls inside the central market rather than tourist restaurants — the market vendors often have the most authentic version for about 30,000 VND.",
+    "An Bang Beach is far superior to the closer Cua Dai Beach, which has suffered severe erosion. The extra 5 minutes of cycling is worth it.",
+    "If ordering custom clothing, always schedule at least one fitting session and don't be afraid to ask for adjustments — good tailors expect this and will happily make changes.",
+    "Rent a bicycle and spend a morning exploring the countryside around Tra Que Village and Cam Thanh — the flat terrain, rice paddies, and water coconut groves offer a peaceful contrast to the bustling Ancient Town."
+  ],
+  "dayTrips": [
+    {
+      "name": "My Son Sanctuary",
+      "distance": "40km west, approximately 1 hour by car",
+      "description": "The most important Cham Hindu temple ruins in Vietnam, a UNESCO World Heritage Site dating from the 4th to 14th centuries. Set in a verdant jungle valley, the brick towers are remarkably atmospheric. Visit early morning to avoid heat and crowds. Some tours combine My Son with a scenic boat ride back to Hoi An along the Thu Bon River."
+    },
+    {
+      "name": "Da Nang city and Marble Mountains",
+      "distance": "30km north, approximately 30-40 minutes by car",
+      "description": "Combine the Marble Mountains (Buddhist caves and panoramic views), the Museum of Cham Sculpture, and Da Nang's beach and bridge scenery in a full day. The Dragon Bridge fire show on Saturday and Sunday evenings at 9pm is a spectacular way to end the trip."
+    },
+    {
+      "name": "Cham Islands (Cu Lao Cham)",
+      "distance": "18km offshore, 20 minutes by speedboat",
+      "description": "A UNESCO-recognized marine biosphere reserve with coral reefs ideal for snorkeling (June-September) and diving. Day trip tours include boat transfer, snorkeling gear, lunch, and island exploration for approximately 500,000-700,000 VND ($20-28)."
+    },
+    {
+      "name": "Hue via the Hai Van Pass",
+      "distance": "130km north, approximately 3 hours by car via the coastal route",
+      "description": "A spectacular day trip or one-way transfer combining the dramatic Hai Van Pass (one of the world's great coastal roads), Lang Co Beach, and the Imperial City of Hue. Many travelers hire a private car with driver for about 1,500,000-2,000,000 VND ($60-80) for the one-way journey."
+    }
+  ],
+  "sources": [
+    "UNESCO World Heritage Centre — Hoi An Ancient Town",
+    "Vietnam National Administration of Tourism (vietnam.travel)",
+    "Lonely Planet Hoi An Guide",
+    "Quang Nam Province Tourism Department"
+  ]
+}

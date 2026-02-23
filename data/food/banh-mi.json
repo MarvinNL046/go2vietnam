@@ -1,0 +1,103 @@
+{
+  "slug": "banh-mi",
+  "name": { "en": "Banh Mi" },
+  "vietnameseName": "Bánh Mì",
+  "image": "/images/food/banh-mi.webp",
+  "category": "Sandwich",
+  "spiceLevel": "mild",
+  "description": { "en": "A crispy, airy baguette filled with a harmonious combination of savory meats, pickled daikon and carrot, fresh cilantro, sliced chili, and rich pate — a perfect fusion of French and Vietnamese culinary traditions." },
+  "overview": "Banh mi is the ultimate expression of Franco-Vietnamese fusion cuisine, born from the collision of French colonialism and Vietnamese culinary ingenuity. The baguette itself was adapted from the French original but made lighter and crispier by substituting some wheat flour with rice flour, creating an impossibly thin, shattering crust with a cotton-soft interior. What makes banh mi extraordinary is its balance of flavors and textures in every bite: the crunch of the bread and pickled vegetables, the richness of pate and mayonnaise, the freshness of cilantro and cucumber, the heat of chili slices, and the umami depth of various meat fillings. Banh mi is Vietnam's ultimate street food — fast, cheap, delicious, and available on virtually every street corner from dawn to late at night.",
+  "origin": {
+    "region": "Saigon (Ho Chi Minh City), Southern Vietnam",
+    "history": "The French introduced the baguette to Vietnam during their colonial period (1858-1954), but it remained an expensive luxury food. After the French departed, Vietnamese bakers began adapting the bread using rice flour blended with wheat flour, making it more affordable and giving it its distinctive light, airy texture. The modern banh mi sandwich as we know it — stuffed with a combination of Vietnamese and French ingredients — emerged in Saigon in the late 1950s. The Hoa Ma bakery, opened in 1958 by a couple from Hanoi, is often credited as one of the first to sell the fully loaded banh mi sandwich. The dish spread rapidly due to its affordability and portability, becoming the country's most popular street food."
+  },
+  "ingredients": {
+    "main": [
+      "Vietnamese baguette (bánh mì — rice flour and wheat flour blend)",
+      "Pork liver pate (pâté gan)",
+      "Mayonnaise or butter",
+      "Assorted cold cuts: Vietnamese ham (chả lụa), head cheese (giò thủ), or roasted pork",
+      "Pickled daikon and carrot (đồ chua)",
+      "Fresh cucumber slices"
+    ],
+    "herbs": [
+      "Fresh cilantro (ngò rí)",
+      "Green onions (hành lá)"
+    ],
+    "condiments": [
+      "Maggi seasoning sauce",
+      "Soy sauce (nước tương)",
+      "Fresh chili slices or chili sauce",
+      "Black pepper"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Bánh Mì Thịt (Classic Combo)",
+      "description": "The classic version with a combination of Vietnamese cold cuts, pate, and mayo. This is what you get when you simply order 'bánh mì' at most stalls."
+    },
+    {
+      "name": "Bánh Mì Thịt Nướng (Grilled Pork)",
+      "description": "Filled with charcoal-grilled marinated pork, often lemongrass-flavored. The smoky grilled meat adds a wonderful charred flavor to the sandwich."
+    },
+    {
+      "name": "Bánh Mì Gà (Chicken)",
+      "description": "Shredded or sliced chicken, often with a butter or pate spread, herbs, and pickled vegetables. A lighter option."
+    },
+    {
+      "name": "Bánh Mì Xíu Mại (Meatball Banh Mi)",
+      "description": "Served with pork meatballs in a rich tomato-based sauce, ladled into the bread. A popular variation in Saigon, often eaten for breakfast."
+    },
+    {
+      "name": "Bánh Mì Ốp La (Fried Egg Banh Mi)",
+      "description": "A breakfast favorite with fried eggs, pate, and chili sauce. Simple, cheap, and satisfying."
+    },
+    {
+      "name": "Bánh Mì Chay (Vegetarian)",
+      "description": "Filled with tofu, mushroom pate, pickled vegetables, and fresh herbs. Widely available due to Vietnam's Buddhist vegetarian tradition."
+    }
+  ],
+  "howToOrder": "Simply say 'một bánh mì' (one banh mi) for the classic combo. For specific fillings, add the type: 'bánh mì thịt nướng' (grilled pork), 'bánh mì gà' (chicken), or 'bánh mì trứng' (egg). If you want it spicy, say 'cay' (spicy). 'Không cay' means no chili. At busy stalls, vendors work incredibly fast — have your money ready and step aside to let the next customer order.",
+  "whereToEat": [
+    {
+      "name": "Bánh Mì Huỳnh Hoa",
+      "location": "Ho Chi Minh City",
+      "note": "At 26 Le Thi Rieng, District 1. Widely considered the best banh mi in Saigon. Famous for overstuffed sandwiches with multiple layers of cold cuts, pate, and butter. Expect a queue, especially from 4:00 PM onward. Priced higher than average at around 55,000-65,000 VND."
+    },
+    {
+      "name": "Bánh Mì Phượng",
+      "location": "Hoi An",
+      "note": "At 2B Phan Chau Trinh. Put on the global map when Anthony Bourdain declared it the best banh mi he had ever eaten. Uses local Hoi An-style bread and generous fillings."
+    },
+    {
+      "name": "Bánh Mì 25",
+      "location": "Hanoi",
+      "note": "At 25 Hang Ca Street in the Old Quarter. A favorite among travelers for consistent quality, fresh bread, and flavorful pate. Also offers good vegetarian options."
+    },
+    {
+      "name": "Bánh Mì Hòa Mã",
+      "location": "Ho Chi Minh City",
+      "note": "At 53 Cao Thang, District 3. One of the original banh mi stalls in Saigon, opened in 1958. Famous for their 'bánh mì ốp la' (fried egg banh mi) served on a plate with pate and cold cuts."
+    }
+  ],
+  "priceRange": {
+    "street": "15,000 - 35,000 VND ($0.60 - $1.50)",
+    "restaurant": "40,000 - 80,000 VND ($1.70 - $3.30)",
+    "upscale": "90,000 - 180,000 VND ($3.70 - $7.50)"
+  },
+  "tips": [
+    "The best banh mi is found at dedicated stalls and carts, not at bakeries or restaurants",
+    "Order during peak hours (morning breakfast or late afternoon) when bread turnover is highest and everything is freshest",
+    "Ask for 'thêm đồ chua' (extra pickled vegetables) if you enjoy the tangy contrast",
+    "Do not be intimidated by long queues — banh mi vendors are extremely fast, and lines move quickly",
+    "Banh mi is best eaten immediately while the bread is still warm and crispy — it does not keep well",
+    "At 15,000-25,000 VND ($0.60-$1.00), street banh mi is the best value meal in Vietnam"
+  ],
+  "culturalNotes": "Banh mi represents one of the most successful culinary fusions in the world. While the French introduced the baguette to Vietnam, the Vietnamese transformed it into something entirely their own. During the American War era, wheat flour imports increased, making bread more accessible, and enterprising street vendors began creating the loaded sandwiches we know today. Banh mi has since become a global phenomenon — the word 'banh mi' was added to the Oxford English Dictionary in 2011, and March 24th has been recognized as International Banh Mi Day. In Vietnam, banh mi is the great equalizer: students, office workers, and business owners all line up at the same sidewalk carts for this affordable and delicious meal.",
+  "sources": [
+    "Vietnam National Administration of Tourism",
+    "Andrea Nguyen, 'The Banh Mi Handbook' (Ten Speed Press, 2014)",
+    "Oxford English Dictionary — 'banh mi' entry (2011)",
+    "Lonely Planet Vietnam Food Guide"
+  ]
+}

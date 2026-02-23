@@ -1,0 +1,56 @@
+{
+  "slug": "ca-phe-sua-da",
+  "name": { "en": "Vietnamese Iced Coffee" },
+  "vietnameseName": "Cà Phê Sữa Đá",
+  "image": "/images/drinks/ca-phe-sua-da.webp",
+  "category": "Coffee",
+  "description": { "en": "Strong dark roast coffee brewed through a traditional phin filter, mixed with sweetened condensed milk, and poured over ice. This is the drink that defines Vietnamese coffee culture and fuels the nation from sidewalk cafes to five-star hotels." },
+  "overview": "Ca phe sua da is Vietnam's national drink in all but name. Every day, millions of Vietnamese start their morning perched on tiny plastic stools at sidewalk cafes, watching dark coffee drip slowly through a small stainless-steel phin filter balanced atop their glass. The coffee used is typically a strong Robusta blend, often with a touch of butter or vanilla roasted in, giving it a bold, almost chocolatey intensity that stands up perfectly to the thick layer of sweetened condensed milk waiting at the bottom of the glass. Once the drip is complete, everything gets stirred together and poured over a tall glass of ice. The result is a drink that is simultaneously bitter, sweet, creamy, and bracingly cold. Vietnam is the world's second-largest coffee producer after Brazil, and the vast majority of that output is Robusta beans grown in the Central Highlands, making this drink inseparable from the country's agricultural identity.",
+  "origin": {
+    "region": "Nationwide (originated with French colonial influence)",
+    "history": "Coffee was introduced to Vietnam by French colonists in 1857, with the first plantations established near the central highland city of Buon Ma Thuot. Because fresh milk was scarce and expensive in tropical Vietnam, locals adapted by using sweetened condensed milk, which was shelf-stable and widely available. The phin filter, a small single-serving drip device, evolved as a distinctly Vietnamese brewing method. By the mid-20th century, ca phe sua da had become the nation's default coffee order, and the tradition of lingering at sidewalk cafes became deeply embedded in Vietnamese daily life."
+  },
+  "howItsMade": "A traditional ca phe sua da starts with 2-3 tablespoons of coarsely ground dark-roast Vietnamese coffee (typically Robusta or a Robusta-Arabica blend) placed into a phin filter. The phin consists of a small perforated plate, a brewing chamber, a press screen, and a cap. About 20-30ml of sweetened condensed milk is added to the bottom of a heat-resistant glass. The phin is placed on top of the glass, a small amount of hot water is added to bloom the grounds for 20 seconds, then the chamber is filled with near-boiling water (about 160ml). The coffee drips through slowly over 4-6 minutes. Once complete, the coffee and condensed milk are stirred together thoroughly, then poured into a separate tall glass filled with ice.",
+  "whereToTry": [
+    {
+      "name": "Trung Nguyen Legend Cafe",
+      "location": "Multiple locations, Ho Chi Minh City and Hanoi",
+      "note": "Vietnam's most famous coffee brand operates premium cafes serving their full range of blends"
+    },
+    {
+      "name": "Cong Caphe",
+      "location": "Nationwide chain, flagship in Hanoi Old Quarter",
+      "note": "Military-themed chain beloved by young Vietnamese, known for their coconut coffee twist on the classic"
+    },
+    {
+      "name": "The Workshop",
+      "location": "9 Nguyen Thiep, District 1, Ho Chi Minh City",
+      "note": "Third-wave specialty coffee bar offering both traditional phin and modern brewing methods"
+    },
+    {
+      "name": "Any sidewalk cafe",
+      "location": "Nationwide",
+      "note": "The most authentic experience is at a tiny family-run stall on plastic stools watching street life pass by"
+    }
+  ],
+  "variations": [
+    { "name": "Ca Phe Den Da", "description": "Black iced coffee without condensed milk, preferred by those who want the full intensity of Vietnamese coffee without sweetness" },
+    { "name": "Ca Phe Sua Nong", "description": "Hot version of milk coffee, served in winter months or for those who prefer a warm drink" },
+    { "name": "Bac Xiu", "description": "A milder, milkier version with more condensed milk and less coffee, popular in southern Vietnam, especially Saigon" },
+    { "name": "Ca Phe Dua (Coconut Coffee)", "description": "Blended with coconut cream or coconut milk, a modern variation popularized by Cong Caphe chain" }
+  ],
+  "priceRange": "15,000 - 45,000 VND ($0.60 - $1.80)",
+  "tips": [
+    "Say 'it duong' (less sugar) if you want less condensed milk, or 'nhieu da' for extra ice",
+    "The phin takes 4-6 minutes to drip - embrace the wait as part of the experience",
+    "Street stall coffee is typically 15,000-25,000 VND; trendy cafes charge 35,000-60,000 VND",
+    "Vietnamese coffee is exceptionally strong - if you are sensitive to caffeine, try bac xiu for a milder version",
+    "Buy a phin filter (30,000-50,000 VND) at any market to make it at home - they are practically weightless souvenirs"
+  ],
+  "culturalNotes": "Coffee culture in Vietnam is deeply social and unhurried. The Vietnamese phrase 'di ca phe' (go for coffee) really means 'let's hang out.' Business deals, dates, family catch-ups, and morning routines all revolve around the cafe. Unlike the grab-and-go culture of Western coffee chains, Vietnamese coffee is meant to be sipped slowly. You will notice that most cafes have no Wi-Fi pressure to leave - people sit for hours. In the south, iced coffee dominates year-round due to the heat, while northerners sometimes switch to hot coffee (nong) during the cooler winter months. The plastic stool sidewalk cafe is a quintessential Vietnamese institution that transcends class - executives and motorbike drivers sit side by side.",
+  "sources": [
+    "Vietnam Coffee-Cocoa Association (VICOFA)",
+    "International Coffee Organization - Vietnam Country Profile",
+    "Vietnam National Administration of Tourism"
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "slug": "mi-quang",
+  "name": { "en": "Mi Quang" },
+  "vietnameseName": "Mì Quảng",
+  "image": "/images/food/mi-quang.webp",
+  "category": "Noodle",
+  "spiceLevel": "medium",
+  "description": { "en": "A vibrant turmeric-tinted noodle dish from Quang Nam province served with just a small amount of rich broth, topped with shrimp, pork, quail eggs, peanuts, rice crackers, and an abundance of fresh herbs." },
+  "overview": "Mi Quang is the pride of Quang Nam province and the city of Da Nang, a vibrantly colored noodle dish that stands apart from other Vietnamese noodle soups through its use of turmeric and its unique 'dry soup' presentation. Unlike pho or bun bo Hue, where noodles swim in a deep bowl of broth, mi quang uses only a small ladleful of intensely flavored, golden-yellow broth to moisten wide, flat rice noodles that have been tinted yellow with turmeric. The toppings are generous and varied — typically including shrimp, sliced pork or chicken, quail eggs, roasted peanuts, and sesame rice crackers (bánh tráng nướng) — and the dish is crowned with a mountain of fresh herbs, shredded banana blossom, and lettuce. The concentrated broth, the crunch of peanuts and crackers, the freshness of herbs, and the rich toppings create a dish that is satisfying, complex, and deeply representative of central Vietnamese cuisine.",
+  "origin": {
+    "region": "Quang Nam Province / Da Nang, Central Vietnam",
+    "history": "Mi Quang takes its name directly from Quang Nam, the central Vietnamese province where it originated. The dish has been a staple of the region for centuries, evolving from a simple peasant meal into one of Vietnam's most celebrated noodle dishes. The turmeric used in both the noodles and broth reflects the spice's abundance in central Vietnam, and the dish's restrained use of broth is thought to reflect the region's historically more limited water resources compared to the rice-paddy-rich north and south. Mi Quang was traditionally a festive dish served at celebrations, weddings, and Tet (Lunar New Year), when families would prepare large batches with the best available toppings. Today, it is eaten daily and is considered the single most important dish in Quang Nam's culinary identity. The dish was officially recognized by the Vietnam Records Organization as one of Vietnam's culinary treasures."
+  },
+  "ingredients": {
+    "main": [
+      "Wide, flat rice noodles tinted with turmeric (mì Quảng)",
+      "Shrimp (tôm)",
+      "Sliced pork (thịt heo) or chicken (gà)",
+      "Quail eggs (trứng cút), hard-boiled",
+      "Concentrated pork and shrimp bone broth with turmeric"
+    ],
+    "herbs": [
+      "Banana blossom (bắp chuối), shredded",
+      "Lettuce and leafy greens (rau sống)",
+      "Thai basil (húng quế)",
+      "Sawtooth coriander (ngò gai)",
+      "Vietnamese coriander (rau răm)",
+      "Scallions (hành lá)"
+    ],
+    "condiments": [
+      "Roasted peanuts (đậu phộng rang), crushed",
+      "Sesame rice crackers (bánh tráng nướng), crumbled",
+      "Fresh chili slices or chili sauce",
+      "Lime wedges",
+      "Fish sauce (nước mắm)"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Mì Quảng Tôm Thịt (Shrimp and Pork)",
+      "description": "The most classic combination with both shrimp and sliced pork as the primary toppings. This is the standard version found at most stalls."
+    },
+    {
+      "name": "Mì Quảng Gà (Chicken Mi Quang)",
+      "description": "Made with chicken broth and topped with shredded or sliced chicken. A lighter version that is very popular, especially using free-range chicken for a more flavorful broth."
+    },
+    {
+      "name": "Mì Quảng Ếch (Frog Mi Quang)",
+      "description": "A unique variation using frog meat, which is tender and mild. More commonly found in rural areas of Quang Nam and considered a delicacy."
+    },
+    {
+      "name": "Mì Quảng Cá Lóc (Snakehead Fish Mi Quang)",
+      "description": "Made with freshwater snakehead fish, which has a firm, meaty texture. A less common but highly prized variation found in the countryside."
+    }
+  ],
+  "howToOrder": "Order 'một mì Quảng' for the standard version. Specify the protein: 'mì Quảng tôm thịt' (shrimp and pork), 'mì Quảng gà' (chicken). The peanuts, crackers, and herb plate come automatically. Mix everything together thoroughly before eating — crumble the rice crackers on top for extra crunch. Add chili and lime to taste.",
+  "whereToEat": [
+    {
+      "name": "Mì Quảng Bà Mua",
+      "location": "Da Nang",
+      "note": "At 19-21 Tran Binh Trong. One of the most famous mi quang shops in Da Nang, operating for decades. Known for their rich, flavorful broth and generous portions."
+    },
+    {
+      "name": "Mì Quảng Bà Vị",
+      "location": "Da Nang",
+      "note": "At 166 Le Dinh Duong. A local institution serving consistently excellent mi quang with perfectly balanced turmeric broth and fresh toppings."
+    },
+    {
+      "name": "Mì Quảng 1A",
+      "location": "Da Nang",
+      "note": "At 1 Hai Phong. Popular among both locals and visitors for generous portions and authentic flavor. Good all-around choice."
+    },
+    {
+      "name": "Trường Tiệc (Hoi An Market)",
+      "location": "Hoi An",
+      "note": "Inside Hoi An Central Market. Several vendors sell excellent mi quang alongside other local dishes. A great place to try it in an authentic market setting."
+    }
+  ],
+  "priceRange": {
+    "street": "25,000 - 40,000 VND ($1.00 - $1.70)",
+    "restaurant": "45,000 - 80,000 VND ($1.90 - $3.30)",
+    "upscale": "90,000 - 170,000 VND ($3.70 - $7.00)"
+  },
+  "tips": [
+    "Mi Quang is best eaten in Da Nang or Quang Nam province, where it is a source of enormous local pride",
+    "Crumble the sesame rice cracker into the bowl — it adds an essential crunchy, toasty element",
+    "Mix everything together before eating to combine the broth, noodles, toppings, and herbs",
+    "The broth should only come about one-third up the bowl — this is a dry noodle dish, not a soup",
+    "Roasted peanuts are essential — if they are missing, ask for them ('thêm đậu phộng')",
+    "Try the chicken version (mì Quảng gà) for a different perspective on the dish"
+  ],
+  "culturalNotes": "Mi Quang holds a place of deep cultural significance in Quang Nam province and Da Nang. The dish is considered the region's culinary ambassador and is served at nearly every significant life event — from weddings and funerals to Tet celebrations and house-warming parties. There is a saying in the region: 'Ai về Quảng Nam, ăn mì Quảng' ('Whoever comes to Quang Nam, eat mi Quang'). The dish embodies central Vietnamese culinary values: bold use of turmeric and spice, restrained use of broth, and a reliance on fresh herbs and textural contrasts. In recent years, mi Quang has gained wider recognition across Vietnam and internationally, with Da Nang's growing tourism industry introducing many visitors to this remarkable dish for the first time. Annual mi Quang festivals are held in Quang Nam to celebrate and preserve the tradition.",
+  "sources": [
+    "Vietnam National Administration of Tourism",
+    "Lonely Planet Central Vietnam Guide",
+    "Vietnam Records Organization (Tổ chức Kỷ lục Việt Nam)",
+    "Da Nang Tourism Department — 'Signature Dishes of Da Nang'"
+  ]
+}

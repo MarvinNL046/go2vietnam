@@ -1,0 +1,128 @@
+{
+  "slug": "da-nang",
+  "name": { "en": "Da Nang" },
+  "vietnameseName": "Đà Nẵng",
+  "image": "/images/cities/da-nang.webp",
+  "region": "Central Vietnam",
+  "highlights": ["My Khe Beach", "Ba Na Hills & Golden Bridge", "Dragon Bridge", "Marble Mountains"],
+  "description": { "en": "Central Vietnam's largest city combines stunning beaches, dramatic mountain scenery, and modern infrastructure in one surprisingly livable package. Da Nang serves as the perfect base for exploring the UNESCO heritage sites of Hoi An and Hue while offering its own impressive attractions like the Golden Bridge at Ba Na Hills." },
+  "overview": "Da Nang has transformed from a sleepy port city into one of Vietnam's most modern and livable urban centers. Situated on the central coast where the Han River meets the South China Sea, Da Nang is flanked by My Khe Beach (named one of the world's most attractive beaches by Forbes) to the east and the Truong Son mountain range to the west. With a population of approximately 1.2 million, the city serves as the economic hub of Central Vietnam and a major tourism gateway. Da Nang's strategic location puts it just 30km from Hoi An's ancient town and 100km from Hue's imperial citadel, making it the perfect base for exploring Central Vietnam's UNESCO World Heritage Sites. The city is also known for its spectacular bridges — the fire-breathing Dragon Bridge, the sail-shaped Tran Thi Ly Bridge, and the golden-hands-held Golden Bridge at Ba Na Hills have become iconic symbols of modern Vietnam.",
+  "neighborhoods": [
+    {
+      "name": "My Khe Beach Area (Bãi Biển Mỹ Khê)",
+      "description": "The long stretch of white sand along Da Nang's eastern shore is lined with hotels, resorts, and seafood restaurants. My Khe Beach was famously used as an R&R spot for American soldiers during the war and is now one of Vietnam's premier beach destinations. The area between Vo Nguyen Giap and Hoang Sa streets has the highest concentration of accommodation and dining options.",
+      "highlights": ["30km of sandy beach", "Surfing from September to March", "Beachfront seafood restaurants", "Sunrise views"]
+    },
+    {
+      "name": "Han River District (Hai Chau)",
+      "description": "The heart of Da Nang straddles both banks of the Han River. The western bank has the city's main commercial area, Bach Dang Street promenade, and the vibrant Han Market. The eastern bank, known as Son Tra, has newer developments, restaurants, and the best views of the illuminated bridges at night. Walking along the river at dusk when the bridges light up is a quintessential Da Nang experience.",
+      "highlights": ["Dragon Bridge fire show (Sat/Sun 9pm)", "Han Market", "Bach Dang riverfront promenade", "Bridge illuminations at night"]
+    },
+    {
+      "name": "Son Tra Peninsula (Bán Đảo Sơn Trà)",
+      "description": "This mountainous peninsula north of the city is a protected nature reserve home to the endangered red-shanked douc langur, one of the world's most colorful primates. The Linh Ung Pagoda with its 67-meter Lady Buddha statue overlooks the sea. The winding coastal road offers spectacular views, and secluded beaches like Bai But are perfect for a quiet escape.",
+      "highlights": ["Linh Ung Pagoda & Lady Buddha", "Red-shanked douc langur wildlife", "Secluded beaches", "Panoramic coastal road"]
+    },
+    {
+      "name": "Ngu Hanh Son (Marble Mountains Area)",
+      "description": "Located between Da Nang and Hoi An, this area is home to the famous Marble Mountains — five limestone hills named after the five elements. The surrounding village has been a center for stone carving and sculpture for centuries. Numerous workshops line the road where artisans create marble and stone works ranging from small souvenirs to monumental sculptures.",
+      "highlights": ["Marble Mountains caves and pagodas", "Stone carving village", "Panoramic elevator access", "Non Nuoc Beach"]
+    }
+  ],
+  "gettingThere": {
+    "byAir": "Da Nang International Airport (DAD) is remarkably close to the city center — just 3km from the Han River district and 10km from My Khe Beach. It's the third-busiest airport in Vietnam with domestic flights from Hanoi (1.5 hours), Ho Chi Minh City (1.5 hours), and international connections to destinations across Asia. A taxi or Grab to My Khe Beach costs about 80,000-120,000 VND ($3-5). Some beachfront hotels offer free airport shuttle service.",
+    "byTrain": "Da Nang Railway Station (Ga Đà Nẵng) is centrally located on Hai Phong Street. The Reunification Express stops here on its Hanoi-HCMC route. Journey times: Hanoi (16-20 hours), Hue (2.5-3.5 hours), Nha Trang (8-11 hours), Ho Chi Minh City (17-20 hours). The scenic stretch between Da Nang and Hue via the Hai Van Pass is one of the most beautiful train journeys in the world.",
+    "byBus": "The Central Bus Station (Ben Xe Trung Tam) serves routes throughout Central Vietnam. Regular buses and minivans connect Da Nang to Hoi An (45 minutes, 25,000 VND), Hue (3 hours, 100,000-150,000 VND), and other destinations. Tourist shuttle buses to Hoi An are also available through most hotels."
+  },
+  "gettingAround": "Da Nang is relatively easy to navigate by Vietnamese standards. Grab is widely available for both motorbike and car rides. Many visitors rent motorbikes (100,000-150,000 VND/day, $4-6) as traffic is considerably calmer than Hanoi or Saigon. Cycling is practical along the beachfront and riverside, with bike rentals available at many hotels. The city's main attractions are spread along a manageable north-south corridor, with the beach to the east and the river through the center. Local buses run between key areas but are infrequent.",
+  "bestTimeToVisit": {
+    "best": "February to May",
+    "description": "Spring offers the most pleasant weather with warm temperatures, low rainfall, and calm seas ideal for swimming. Da Nang has a different climate pattern than the north or south of Vietnam, with its wet season peaking in October-November when serious flooding can occur.",
+    "seasons": {
+      "spring": "February-May: The best season. Warm and mostly dry, 24-30°C. Calm seas, excellent beach weather. Gradually warming toward summer.",
+      "summer": "June-August: Hot and dry, 28-38°C. Peak temperatures in June-July. Good beach weather but intense midday heat. International tourism peak season despite the heat.",
+      "autumn": "September-November: Wet season, 22-28°C. October and November bring heavy rains and occasional typhoons. Flooding is possible. Sea conditions can be rough with dangerous currents.",
+      "winter": "December-January: Cool and sometimes drizzly, 18-24°C. Not ideal for beach activities but pleasant for sightseeing. The sea can be rough."
+    }
+  },
+  "budget": {
+    "backpacker": "$20-35/day",
+    "midRange": "$50-120/day",
+    "luxury": "$150-400+/day",
+    "details": "Hostel dorms from 120,000-180,000 VND ($5-7). Beachfront budget hotels from 400,000-800,000 VND ($16-32). Mid-range beach hotels from 1,000,000-2,500,000 VND ($40-100). Five-star resorts from 3,500,000+ VND ($140+). Street food meals from 25,000-50,000 VND ($1-2). Seafood restaurant dinner for two: 300,000-600,000 VND ($12-24). Local beer (Larue or Bia Da Nang): 15,000-25,000 VND ($0.60-1)."
+  },
+  "mustDo": [
+    {
+      "name": "Visit Ba Na Hills and the Golden Bridge",
+      "description": "Take one of the world's longest cable cars (5,800 meters) up to the French-themed hilltop resort at 1,500 meters elevation. The Golden Bridge, appearing to be held aloft by giant stone hands, has become one of Vietnam's most iconic modern landmarks. The complex also includes the Fantasy Park amusement area, French Village, gardens, and restaurants. Tickets cost approximately 900,000 VND ($36) for adults. Allow a full day."
+    },
+    {
+      "name": "Watch the Dragon Bridge breathe fire",
+      "description": "Every Saturday and Sunday at 9pm, Da Nang's 666-meter Dragon Bridge comes alive, shooting fire and water from its head in a spectacular display lasting about 15 minutes. Arrive early to claim a spot on the east bank of the Han River near the dragon's head. The bridge is illuminated in changing colors every evening, but the fire show is weekend-only."
+    },
+    {
+      "name": "Explore the Marble Mountains (Ngu Hanh Son)",
+      "description": "Five limestone and marble hills, each named after a natural element, contain hidden caves, ancient Buddhist and Hindu sanctuaries, and viewpoints accessible by steep stairs or a modern elevator. Thuy Son (Water Mountain) is the largest and most visited, with the Huyen Khong Cave being the highlight — a vast cavern with shafts of light streaming through ceiling openings onto Buddhist shrines. Admission: 40,000 VND ($1.60)."
+    },
+    {
+      "name": "Swim and surf at My Khe Beach",
+      "description": "This long stretch of clean white sand is ideal for swimming from May to September when the sea is calm. From September to March, consistent swells make it popular with surfers — board rentals are available from beachside shops for about 200,000 VND ($8) per hour. Sunrise over the ocean is spectacular and best enjoyed with a strong Vietnamese coffee from one of the beachfront cafes."
+    },
+    {
+      "name": "Drive the Hai Van Pass",
+      "description": "The spectacular 21km mountain pass between Da Nang and Hue, famously called 'one of the best coastal roads in the world' by Top Gear. Rent a motorbike or hire a driver to traverse the winding road with breathtaking views of the coastline, Lang Co lagoon, and the Truong Son mountains. The pass reaches 496 meters at its summit where a French-era fort provides a perfect viewpoint."
+    },
+    {
+      "name": "Visit the Museum of Cham Sculpture",
+      "description": "The world's largest collection of Cham artifacts, housed in a French colonial building. The Cham civilization flourished in Central Vietnam from the 2nd to 15th centuries, and this museum displays remarkable sandstone sculptures, altars, and linga from sites like My Son, Dong Duong, and Tra Kieu. A deeply underrated cultural experience. Admission: 60,000 VND ($2.40)."
+    }
+  ],
+  "food": {
+    "description": "Da Nang has its own distinct culinary identity within Central Vietnamese cuisine, characterized by bold flavors, generous use of chili, and fresh seafood. The city's food scene ranges from streetside vendors to excellent beachfront seafood restaurants. Central Vietnamese cuisine tends to be spicier than food in the north or south.",
+    "specialties": [
+      "Mi Quang — Da Nang's signature dish: thick turmeric-tinted rice noodles with pork, shrimp, herbs, peanuts, rice crackers, and a small amount of rich broth",
+      "Banh Trang Cuon Thit Heo — Fresh rice paper rolls with boiled pork, herbs, and a fermented shrimp dipping sauce unique to Da Nang",
+      "Bun Cha Ca — Fish cake noodle soup, a Da Nang breakfast staple featuring handmade fish cakes in a tomato-based broth",
+      "Banh Xeo (Central-style) — Smaller, crispier turmeric crepes than the southern version, stuffed with shrimp and bean sprouts",
+      "Fresh seafood — The beachfront restaurants along Vo Nguyen Giap serve enormous platters of grilled clams, shrimp, squid, and fish at excellent prices",
+      "Nem Lui — Grilled pork sausage on lemongrass skewers, wrapped in rice paper with herbs and dipped in a thick peanut sauce"
+    ]
+  },
+  "safety": "Da Nang is considered one of the safest cities in Vietnam. Petty crime is relatively low compared to Hanoi and Ho Chi Minh City. The main safety concerns are traffic (calmer than other cities but still requires caution), strong ocean currents during the wet season (September-November) when red flag warnings should be heeded, and sun exposure on the beach. The city is well-organized with good infrastructure. Tap water should not be drunk but ice in restaurants is generally safe as it's commercially produced.",
+  "localTips": [
+    "The Hai Van Pass is best driven north-to-south (from Hue to Da Nang) for the most dramatic ocean views as you descend toward Da Nang.",
+    "For the best Mi Quang, locals recommend Mi Quang Ba Mua (19-21 Tran Binh Trong) or Mi Quang 1A (1 Hai Phong Street).",
+    "Visit Ba Na Hills on a weekday to avoid large Vietnamese tour groups that pack the cable car and Golden Bridge on weekends.",
+    "The stretch of beach in front of the Furama Resort (south of My Khe) is generally less crowded and well-maintained.",
+    "Da Nang is an excellent base for visiting both Hoi An (30 minutes south) and Hue (2 hours north) — consider staying here and doing day trips rather than moving hotels.",
+    "The Dragon Bridge fire show draws huge crowds — for the best view without the crush, watch from a restaurant terrace on the east bank of the river."
+  ],
+  "dayTrips": [
+    {
+      "name": "Hoi An Ancient Town",
+      "distance": "30km south, approximately 30-45 minutes by car",
+      "description": "The UNESCO-listed ancient trading port with its iconic lantern-lit streets, Japanese Covered Bridge, centuries-old merchant houses, and world-renowned tailor shops. Easily accessible by taxi, Grab, or the local yellow bus (route 1, 30,000 VND). Allow a full day to explore."
+    },
+    {
+      "name": "Hue Imperial City",
+      "distance": "100km north, approximately 2-2.5 hours by car",
+      "description": "Vietnam's former imperial capital with its massive citadel, ornate royal tombs, and the Perfume River. The drive via the Hai Van Pass is spectacular. Can be done as a long day trip, though an overnight stay is recommended to see everything."
+    },
+    {
+      "name": "My Son Sanctuary",
+      "distance": "70km southwest, approximately 1.5 hours by car",
+      "description": "A UNESCO World Heritage Site of ancient Cham Hindu temples dating from the 4th to 14th centuries, set in a lush jungle valley. Often compared to a smaller Angkor Wat. Best visited in the early morning to avoid heat and crowds. Admission: 150,000 VND ($6)."
+    },
+    {
+      "name": "Bach Ma National Park",
+      "distance": "65km north, approximately 1.5 hours by car",
+      "description": "A former French hill station in a pristine national park with hiking trails through tropical forest, waterfalls, and panoramic viewpoints. The Five Lakes trail and Hai Vong Dai lookout are highlights. Cooler temperatures at elevation provide relief from the coastal heat."
+    }
+  ],
+  "sources": [
+    "Vietnam National Administration of Tourism (vietnam.travel)",
+    "Da Nang Tourism Promotion Center (danangfantasticity.com)",
+    "Lonely Planet Central Vietnam Guide",
+    "UNESCO World Heritage Centre — My Son Sanctuary"
+  ]
+}

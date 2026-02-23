@@ -1,0 +1,100 @@
+{
+  "slug": "bo-la-lot",
+  "name": { "en": "Bo La Lot" },
+  "vietnameseName": "Bò Lá Lốt",
+  "image": "/images/food/bo-la-lot.webp",
+  "category": "Grill",
+  "spiceLevel": "mild",
+  "description": { "en": "Fragrant parcels of seasoned ground beef wrapped in aromatic wild betel leaves and grilled over charcoal until the leaves are slightly charred and the filling is juicy and caramelized." },
+  "overview": "Bo la lot is one of Vietnam's most aromatic and addictive grilled dishes — small, tightly wrapped parcels of seasoned ground beef enclosed in wild betel leaves (lá lốt) and grilled over glowing charcoal until the leaves char slightly and the filling becomes juicy and caramelized. The wild betel leaf (Piper lolot, not to be confused with betel nut) has a uniquely peppery, slightly anise-like flavor that permeates the beef during grilling, creating an irresistible combination of smoky, peppery, and savory tastes. The rolls are typically served on a plate as part of a larger spread, accompanied by rice paper, rice vermicelli noodles, fresh herbs, pickled vegetables, and nuoc cham dipping sauce. Diners wrap the grilled beef rolls in rice paper with herbs and noodles, creating a fresh roll around the smoky filling. Bo la lot is a staple of Vietnamese 'quan nhau' (drinking food) culture and is found at grilled meat restaurants and beer gardens across the country.",
+  "origin": {
+    "region": "Southern Vietnam",
+    "history": "Bo la lot has its roots in southern Vietnam, where the wild betel leaf plant grows abundantly in the tropical climate. The use of betel leaves in cooking has ancient roots in Vietnamese cuisine, predating the better-known betel nut chewing tradition. The combination of wrapping meat in leaves and grilling over charcoal reflects the fundamental Vietnamese cooking technique of 'nuong' (grilling), which dates back centuries. While the dish uses beef (bò), which became widely available during the French colonial period, the cooking method and the use of aromatic leaves are deeply traditional Vietnamese practices. Bo la lot became particularly popular as a drinking accompaniment (mồi nhậu) in southern Vietnam's vibrant beer garden culture, and from there spread to restaurants across the country."
+  },
+  "ingredients": {
+    "main": [
+      "Ground beef (bò xay)",
+      "Wild betel leaves (lá lốt)",
+      "Lemongrass (sả), finely minced",
+      "Shallots (hành tím)",
+      "Garlic (tỏi)",
+      "Five-spice powder (ngũ vị hương)"
+    ],
+    "herbs": [
+      "Lettuce leaves (xà lách) for wrapping",
+      "Thai basil (húng quế)",
+      "Perilla leaves (tía tô)",
+      "Mint (húng lủi)",
+      "Vietnamese coriander (rau răm)",
+      "Pickled daikon and carrot (đồ chua)"
+    ],
+    "condiments": [
+      "Nuoc cham dipping sauce (nước chấm)",
+      "Rice paper wrappers (bánh tráng) for table-side wrapping",
+      "Rice vermicelli noodles (bún) served alongside",
+      "Crushed roasted peanuts",
+      "Chili sauce (tương ớt)"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Bò Lá Lốt Nướng (Grilled, Classic Version)",
+      "description": "The standard and most common preparation: beef wrapped in betel leaves and grilled over charcoal. The smoky char is essential to the dish's character."
+    },
+    {
+      "name": "Bò Lá Lốt Chiên (Pan-Fried Version)",
+      "description": "A variation where the beef rolls are pan-fried instead of grilled. Less smoky but still flavorful, common at home-cooked meals where a charcoal grill is not available."
+    },
+    {
+      "name": "Lá Lốt Cuốn Tôm (Shrimp in Betel Leaf)",
+      "description": "Using shrimp paste instead of beef as the filling. The betel leaf complements the sweetness of the shrimp beautifully."
+    },
+    {
+      "name": "Bò Nướng Lá Lốt in Bò 7 Món (Seven Courses of Beef)",
+      "description": "Bo la lot is traditionally one of the seven courses in the elaborate 'bò 7 món' (seven courses of beef) feast, a popular dining experience in southern Vietnam."
+    }
+  ],
+  "howToOrder": "Order 'bò lá lốt' at any grilled meat restaurant or beer garden. It often comes as part of a grilled meat platter (thịt nướng). At some restaurants, order 'bò 7 món' (seven courses of beef) to experience bo la lot as part of a full beef tasting menu. The rice paper, noodles, and herb plate usually come with the order — wrap and dip as you eat.",
+  "whereToEat": [
+    {
+      "name": "Quán Bò Tùng Xẻo",
+      "location": "Ho Chi Minh City",
+      "note": "At 31 Ly Tu Trong, District 1. Famous for 'bò 7 món' (seven courses of beef) which features excellent bo la lot. A Saigon institution since the 1970s."
+    },
+    {
+      "name": "Quán Nướng 3CE",
+      "location": "Ho Chi Minh City",
+      "note": "Popular grilled meat restaurant with multiple locations. Known for well-seasoned bo la lot with proper charcoal grilling and generous herb plates."
+    },
+    {
+      "name": "Bo La Lot vendors along Vinh Khanh Street",
+      "location": "Ho Chi Minh City",
+      "note": "Vinh Khanh Street in District 4 is Saigon's famous 'seafood and grilled meat street' with multiple excellent stalls serving bo la lot alongside other grilled dishes."
+    },
+    {
+      "name": "Quan Nuong Ngon",
+      "location": "Hanoi",
+      "note": "Various locations in Hanoi. The capital has embraced this southern specialty, and many beer garden-style restaurants serve excellent versions."
+    }
+  ],
+  "priceRange": {
+    "street": "30,000 - 50,000 VND ($1.25 - $2.10) per serving",
+    "restaurant": "60,000 - 100,000 VND ($2.50 - $4.10) per serving",
+    "upscale": "120,000 - 200,000 VND ($5.00 - $8.30) per serving"
+  },
+  "tips": [
+    "Bo la lot is best when freshly grilled over real charcoal — the smoky char is essential",
+    "Always wrap the grilled roll in rice paper with herbs and noodles; eating it alone is not the intended experience",
+    "This dish pairs exceptionally well with cold beer, which is how most Vietnamese enjoy it",
+    "If you enjoy bo la lot, try the full 'bò 7 món' (seven courses of beef) experience for an unforgettable meal",
+    "The wild betel leaf has a unique flavor you will not find in any other cuisine — it is worth seeking out",
+    "Look for restaurants with visible charcoal grills and the smell of grilling meat wafting onto the street"
+  ],
+  "culturalNotes": "Bo la lot is deeply embedded in Vietnam's 'nhau' (drinking and socializing) culture, particularly in the south. Vietnamese social life revolves around gatherings at beer gardens and grilled meat restaurants, where friends and colleagues sit on low stools around charcoal grills, sharing plates of grilled meats, seafood, and cold beer. Bo la lot is one of the essential dishes at these gatherings. The wild betel leaf itself has cultural significance in Vietnam — the betel plant family has been part of Vietnamese tradition for thousands of years, and the proverb 'miếng trầu là đầu câu chuyện' ('a betel leaf begins a conversation') reflects the plant's role in Vietnamese social customs. The seven courses of beef (bò 7 món) tradition, of which bo la lot is a part, is a distinctive southern Vietnamese dining custom that turns a single ingredient into an elaborate culinary journey.",
+  "sources": [
+    "Vietnam National Administration of Tourism",
+    "Lonely Planet Vietnam Food Guide",
+    "Luke Nguyen, 'The Songs of Sapa' (Hardie Grant, 2009)",
+    "Saveur Magazine — 'Vietnamese Grilled Beef in Betel Leaves'"
+  ]
+}

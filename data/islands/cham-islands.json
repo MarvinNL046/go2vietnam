@@ -1,0 +1,78 @@
+{
+  "slug": "cham-islands",
+  "name": { "en": "Cham Islands" },
+  "vietnameseName": "Cù Lao Chàm",
+  "image": "/images/islands/cham-islands.webp",
+  "bestFor": ["Snorkeling", "Day Trip from Hoi An", "UNESCO Biosphere", "Seafood", "Marine Life"],
+  "description": { "en": "A cluster of eight small islands just 15 kilometers off the coast of Hoi An, the Cham Islands are a UNESCO World Biosphere Reserve offering excellent snorkeling, traditional fishing villages, and pristine coral reefs accessible as a day trip from one of Vietnam's most popular towns." },
+  "overview": "The Cham Islands (Cu Lao Cham) are a group of eight islands lying 15 kilometers east of Hoi An in Quang Nam province. Together they form a UNESCO World Biosphere Reserve, recognized for their exceptional marine biodiversity including over 200 species of coral and 500 species of marine life. The largest island, Hon Lao, is the only one that is permanently inhabited, home to a community of about 3,000 people who have lived from fishing for generations. The island has a small village, several seafood restaurants, a few guesthouses, and walking trails through forest that leads to pagodas and historic wells. Snorkeling and diving around the islands reveal healthy coral gardens, schools of tropical fish, and occasional sightings of sea turtles. For most visitors, the Cham Islands are a perfect day trip from Hoi An - speed boats make the crossing in just 20 minutes, and a full day allows time for snorkeling at two or three sites, a seafood lunch on Hon Lao, and exploration of the village. The islands have been plastic-free since 2009 when a local initiative banned single-use plastic bags, making them one of Vietnam's early environmental success stories.",
+  "gettingThere": {
+    "byAir": "The nearest airport is Da Nang International Airport (DAD), approximately 30 kilometers from Cua Dai port in Hoi An. From Da Nang airport, taxis to Hoi An take about 45 minutes (300,000-400,000 VND).",
+    "byFerry": "Speed boats depart from Cua Dai port in Hoi An to the Cham Islands (20 minutes, approximately 150,000 VND one-way or included in tour packages). Traditional wooden boats take longer (1-1.5 hours) and are used by locals. Most visitors book a combined speed boat transfer and snorkeling tour through agencies in Hoi An. Boats operate from March to September; services are limited or suspended from October to February due to rough seas."
+  },
+  "bestTimeToVisit": {
+    "best": "June to August",
+    "description": "The warmest water temperatures (26-29 degrees Celsius), best underwater visibility (15-25 meters), and calmest seas. July and August are peak season with the most boat departures and tour options.",
+    "avoid": "October to February: the northeast monsoon brings rough seas and strong currents, making boat crossings uncomfortable or impossible. Most tour operators suspend Cham Islands trips during these months."
+  },
+  "topBeaches": [
+    {
+      "name": "Bai Chong Beach",
+      "description": "The main beach on Hon Lao island where most tour boats dock. A crescent of sand with basic facilities, restaurants, and the starting point for snorkeling trips to nearby reefs."
+    },
+    {
+      "name": "Bai Ong Beach",
+      "description": "A quieter beach on the west side of Hon Lao, accessible by walking trail from the village. Better water clarity than Bai Chong and fewer visitors."
+    },
+    {
+      "name": "Bai Bac Beach",
+      "description": "The northern beach of Hon Lao, reachable by a 30-minute walk from the village. More rugged and less visited, with good snorkeling directly from shore."
+    }
+  ],
+  "activities": [
+    {
+      "name": "Snorkeling at Coral Reefs",
+      "description": "The primary activity for visitors, with snorkeling sites around Hon Lao and the smaller islands offering views of staghorn, brain, and table coral formations, along with angelfish, clownfish, parrotfish, and occasionally sea turtles. Most day tours include snorkeling gear and visits to 2-3 sites.",
+      "price": "500,000 - 800,000 VND ($20-32) for a full-day snorkeling tour from Hoi An including boat transfer, lunch, and equipment"
+    },
+    {
+      "name": "Scuba Diving",
+      "description": "Several dive operators based in Hoi An offer trips to the Cham Islands with dives at sites around Hon Tai and Hon Kho. Coral gardens, reef fish, and macro marine life are the main attractions. Visibility can reach 25 meters in peak season.",
+      "price": "1,800,000 - 2,500,000 VND ($72-100) for two-dive trips including equipment"
+    },
+    {
+      "name": "Village Walking Tour",
+      "description": "Explore the traditional fishing village on Hon Lao, visit the ancient well (Gieng Xom Cam), the Hai Tang pagoda, and observe the daily life of the fishing community. The village has maintained its character despite tourism growth.",
+      "price": "Free (self-guided) or 100,000 VND ($4) with a local guide"
+    },
+    {
+      "name": "Overnight Homestay Experience",
+      "description": "Stay overnight in a local homestay on Hon Lao to experience the island after the day-trippers leave. Evening activities include night fishing with locals, fresh seafood dinners, and watching the sunset from a nearly empty beach.",
+      "price": "300,000 - 500,000 VND ($12-20) per night including meals"
+    },
+    {
+      "name": "Forest Trekking to Hai Tang Pagoda",
+      "description": "A moderate hike through the island's interior forest to the historic Hai Tang pagoda and viewpoints overlooking the archipelago. The trail passes through tropical forest with birding opportunities.",
+      "price": "Free"
+    }
+  ],
+  "accommodation": {
+    "budget": "Homestays on Hon Lao from 200,000 VND ($8)/night with meals, basic but authentic. Only available if you stay overnight on the island.",
+    "midRange": "A small number of guesthouses on Hon Lao from 400,000 VND ($16)/night. Limited options - most visitors stay in Hoi An and visit the islands as a day trip.",
+    "luxury": "There are no luxury resorts on the Cham Islands, which is part of their appeal. For luxury accommodation, stay at one of Hoi An's numerous high-end resorts and take a day trip to the islands."
+  },
+  "localTips": [
+    "Book your day trip through a reputable agency in Hoi An - most include boat transfer, snorkeling gear, lunch, and a guide for 500,000-800,000 VND",
+    "Bring reef-safe sunscreen - the islands are a UNESCO biosphere reserve and chemical sunscreens harm coral",
+    "The islands have been plastic-free since 2009 - bring a reusable water bottle",
+    "Consider staying overnight to experience the island without crowds - the evening and early morning are magical",
+    "If prone to seasickness, take medication before the boat ride - even the 20-minute speed boat can be bouncy",
+    "The best snorkeling is on the quieter eastern side of the islands - ask your guide to avoid the most crowded spots"
+  ],
+  "sources": [
+    "UNESCO - Cu Lao Cham Marine Park World Biosphere Reserve",
+    "Quang Nam Department of Tourism",
+    "Vietnam National Administration of Tourism",
+    "Cu Lao Cham Marine Protected Area Management Board"
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "slug": "hanoi",
+  "name": { "en": "Hanoi (Ha Noi)" },
+  "vietnameseName": "Hà Nội",
+  "image": "/images/cities/hanoi.webp",
+  "region": "Northern Vietnam",
+  "highlights": ["Old Quarter", "Street Food Capital", "Thousand-Year History", "Hoan Kiem Lake"],
+  "description": { "en": "Vietnam's thousand-year-old capital is a captivating blend of ancient temples, tree-lined boulevards, and the chaotic energy of the Old Quarter. Hanoi rewards those who slow down to savor its legendary street food, misty lakes, and French colonial architecture layered over centuries of Vietnamese history." },
+  "overview": "Founded in 1010 AD by Emperor Ly Thai To, Hanoi (meaning 'city between rivers') is one of the oldest continuously inhabited capitals in Southeast Asia. The city sits on the banks of the Red River in northern Vietnam and serves as the country's political, cultural, and educational center with a population of over 8 million. Hanoi's charm lies in its layered history: ancient Vietnamese temples sit alongside French colonial villas, while Soviet-era architecture gives way to gleaming modern towers. The Old Quarter, with its 36 streets each historically dedicated to a single trade, remains the beating heart of the city, where vendors sell everything from silk to herbal medicine just as they have for centuries. Unlike the frenetic energy of Ho Chi Minh City in the south, Hanoi moves at a more contemplative pace, with residents gathering at dawn around its many lakes for tai chi, and spending languid afternoons in egg coffee cafes.",
+  "neighborhoods": [
+    {
+      "name": "Old Quarter (Phố Cổ)",
+      "description": "The historic 36 streets of Hanoi's Old Quarter have been the city's commercial heart for nearly 1,000 years. Each street was originally dedicated to a specific guild or trade — Hang Gai for silk, Hang Bac for silver, Hang Ma for paper goods — and many retain traces of their original character. The narrow tube houses, some only 2-3 meters wide, reflect the historical practice of taxing shop fronts by width. Today the quarter buzzes with motorbikes, street food vendors, backpacker hostels, and an overwhelming sensory experience that defines Hanoi for most visitors.",
+      "highlights": ["36 ancient trading streets", "Weekend night market (Hang Dao)", "Street food on every corner", "Dong Xuan Market"]
+    },
+    {
+      "name": "French Quarter (Quận Hoàn Kiếm south)",
+      "description": "South of Hoan Kiem Lake, the wide tree-lined boulevards of the French Quarter showcase Hanoi's colonial heritage. This area is home to the magnificent Hanoi Opera House (modeled after the Palais Garnier in Paris), the Sofitel Legend Metropole hotel, upscale restaurants, and elegant government buildings. Trang Tien Street and the surrounding blocks offer high-end shopping and some of the city's best fine dining.",
+      "highlights": ["Hanoi Opera House", "Sofitel Legend Metropole", "Trang Tien Plaza", "Fine dining restaurants"]
+    },
+    {
+      "name": "West Lake (Hồ Tây)",
+      "description": "Hanoi's largest lake is surrounded by a rapidly developing area popular with expats, diplomats, and affluent Vietnamese. The lakeside Xuan Dieu and To Ngoc Van streets are lined with international restaurants, boutique cafes, and modern apartment buildings. The ancient Tran Quoc Pagoda sits on a small peninsula jutting into the lake, while the shores are dotted with seafood restaurants and shrimp cake vendors.",
+      "highlights": ["Tran Quoc Pagoda", "Expat dining scene", "Lakeside cycling path", "Thanh Nien Road causeway"]
+    },
+    {
+      "name": "Ba Dinh District",
+      "description": "The political heart of Vietnam centers on Ba Dinh Square, where Ho Chi Minh read the Declaration of Independence in 1945. This district is home to the Ho Chi Minh Mausoleum, the Presidential Palace, and the One Pillar Pagoda. It has a more spacious, quieter feel than the Old Quarter, with wide avenues and significant government buildings set among gardens and parks.",
+      "highlights": ["Ho Chi Minh Mausoleum", "One Pillar Pagoda", "Presidential Palace", "Vietnam Military History Museum"]
+    }
+  ],
+  "gettingThere": {
+    "byAir": "Noi Bai International Airport (HAN) is located 30km north of the city center. The airport has two terminals — T1 for domestic flights and T2 for international. Airport taxi to the Old Quarter costs approximately 350,000-400,000 VND ($14-16) and takes 40-60 minutes depending on traffic. The official airport bus (route 86) runs every 25-30 minutes to Hanoi Railway Station for 45,000 VND ($2). Grab rides cost roughly 250,000-350,000 VND ($10-14).",
+    "byTrain": "Hanoi Railway Station (Ga Hà Nội) on Le Duan Street is the northern terminus of Vietnam's Reunification Express, which runs the full length of the country to Ho Chi Minh City (30-34 hours). Trains also run to Lao Cai (for Sapa, 8 hours overnight), Hai Phong (2.5 hours), Dong Hoi (for Phong Nha, 10 hours), Hue (13 hours), and Da Nang (16 hours). Book tickets through the official Vietnam Railways website (dsvn.vn) or at the station.",
+    "byBus": "Long-distance buses arrive at several terminals: Giap Bat (southern routes), My Dinh (western and northern routes), Gia Lam (eastern routes including Ha Long), and Nuoc Ngam. Limousine-style sleeper buses connect Hanoi to major cities and are popular for overnight journeys. Reputable operators include Hoang Long, The Sinh Tourist, and Sao Viet."
+  },
+  "gettingAround": "Hanoi is best explored by a combination of walking and ride-hailing apps. Grab (Vietnam's equivalent of Uber) is the most reliable option for both motorbike taxis (Grab Bike, from 15,000 VND) and cars (Grab Car, from 30,000 VND). The Old Quarter and French Quarter are highly walkable, though crossing streets requires confidence — walk slowly and steadily, and traffic will flow around you. Hanoi's public bus system covers the city for 7,000-9,000 VND per ride. Cyclos (cycle rickshaws) are available in tourist areas but always agree on a price before departing. Renting a motorbike is common for longer-term visitors but Hanoi traffic is not recommended for inexperienced riders.",
+  "bestTimeToVisit": {
+    "best": "October to December",
+    "description": "Autumn is widely considered the best time to visit Hanoi, with cool temperatures, low humidity, clear skies, and the city's famous golden light filtering through yellowing trees. The weeks around Tet (Vietnamese Lunar New Year, usually late January or February) are culturally fascinating but many businesses close for the holiday.",
+    "seasons": {
+      "spring": "February-April: Warm and gradually humid, 18-25°C. Occasional drizzle (mưa phùn). Tet celebrations in early spring bring festive energy, peach blossoms, and crowded travel.",
+      "summer": "May-August: Hot and humid, 30-38°C. Frequent heavy afternoon thunderstorms, sometimes causing localized flooding. Lush green surroundings but uncomfortable heat.",
+      "autumn": "September-November: The most pleasant season, 20-28°C. Clear skies, comfortable humidity, golden light. Mid-Autumn Festival (Tết Trung Thu) celebrations in September/October.",
+      "winter": "December-January: Cool and sometimes misty, 10-18°C. Can feel surprisingly cold due to high humidity and lack of central heating. Pack layers and a warm jacket."
+    }
+  },
+  "budget": {
+    "backpacker": "$25-40/day",
+    "midRange": "$60-120/day",
+    "luxury": "$150-400+/day",
+    "details": "Hostel dorm beds start from 150,000-200,000 VND ($6-8). Budget hotels/guesthouses range from 400,000-700,000 VND ($16-28) per night. Mid-range boutique hotels cost 1,200,000-2,500,000 VND ($48-100). Street food meals typically cost 30,000-60,000 VND ($1.20-2.50). A meal at a mid-range restaurant runs 150,000-350,000 VND ($6-14). Local bia hoi (draft beer) costs just 10,000-15,000 VND ($0.40-0.60) per glass. A coffee at a cafe is 25,000-50,000 VND ($1-2)."
+  },
+  "mustDo": [
+    {
+      "name": "Walk around Hoan Kiem Lake at sunrise",
+      "description": "The spiritual heart of Hanoi is at its most magical in the early morning when locals practice tai chi, joggers circle the shoreline, and mist rises from the jade-green water. The iconic red Huc Bridge leads to Ngoc Son Temple on a small island. On weekends, the surrounding streets become car-free, filling with street performers and families."
+    },
+    {
+      "name": "Eat your way through the Old Quarter",
+      "description": "Hanoi's street food is legendary. Start with pho bo (beef noodle soup) for breakfast, bun cha (grilled pork with noodles — the dish Obama ate with Anthony Bourdain at Bun Cha Huong Lien) for lunch, and banh mi from a sidewalk vendor anytime. Don't miss egg coffee (ca phe trung) at Giang Cafe on Nguyen Huu Huan Street, where it was invented in the 1940s."
+    },
+    {
+      "name": "Visit the Temple of Literature (Văn Miếu)",
+      "description": "Vietnam's first national university, founded in 1070 and dedicated to Confucius, is a serene complex of courtyards, gardens, and pavilions. The stone stele carried on turtle backs, each inscribed with the names of doctoral graduates, are recognized as a UNESCO Memory of the World. Allow 1-2 hours and visit early to avoid tour groups."
+    },
+    {
+      "name": "Watch a water puppet show (Múa Rối Nước)",
+      "description": "This uniquely Vietnamese art form originated in the rice paddies of the Red River Delta over 1,000 years ago. The Thang Long Water Puppet Theatre on the north shore of Hoan Kiem Lake puts on daily performances (50 minutes) with traditional live music. Tickets cost 100,000-200,000 VND ($4-8). Book ahead as shows often sell out."
+    },
+    {
+      "name": "Explore Ho Chi Minh Mausoleum and surrounding sites",
+      "description": "The imposing granite mausoleum where Ho Chi Minh's embalmed body lies in state is free to enter but expect long queues and strict dress code (no shorts, sleeveless tops). Combine with visits to the Presidential Palace, Ho Chi Minh's stilt house, the One Pillar Pagoda, and the excellent Ho Chi Minh Museum. The mausoleum is closed on Monday, Friday, and typically during October-November for annual maintenance."
+    },
+    {
+      "name": "Stroll through the Vietnamese Women's Museum",
+      "description": "One of Hanoi's best museums, with excellent English signage, covering women's roles in Vietnamese history, culture, and wartime. Displays on ethnic minority customs, street vendor culture, and women's contributions during the American War are particularly compelling. Located on Ly Thuong Kiet Street near Hoan Kiem Lake."
+    },
+    {
+      "name": "Spend an evening at Train Street (Phố Đường Tàu)",
+      "description": "One of Hanoi's most unique experiences: a narrow residential street where the railway line runs just inches from houses and cafes. When the train passes (check schedules — usually around 3:30pm and 7:30pm), residents pull in their belongings and everyone flattens against the walls. Access has been restricted periodically for safety, so check current status before visiting."
+    }
+  ],
+  "food": {
+    "description": "Hanoi is Vietnam's undisputed street food capital, with dishes perfected over generations and served from tiny plastic stools on bustling sidewalks. The city's cuisine emphasizes subtle, balanced flavors rather than the sweetness found in southern Vietnamese cooking. Meals are best experienced at small specialist stalls that have served one dish for decades.",
+    "specialties": [
+      "Pho (phở) — Hanoi-style beef or chicken noodle soup, lighter and more delicate than its southern counterpart",
+      "Bun Cha — Charcoal-grilled pork patties and sliced pork belly with rice vermicelli and herb-laden dipping broth",
+      "Banh Cuon — Delicate steamed rice rolls filled with minced pork and wood ear mushroom",
+      "Egg Coffee (Cà Phê Trứng) — Whipped egg yolk and condensed milk over strong Vietnamese coffee, invented at Giang Cafe",
+      "Bun Thang — Refined rice noodle soup with shredded chicken, egg, and Vietnamese ham",
+      "Cha Ca La Vong — Turmeric-marinated fish sizzled tableside with dill and spring onion, a Hanoi original since 1871",
+      "Nem Ran (Fried Spring Rolls) — Hanoi's crispy spring rolls filled with minced pork, crab, and glass noodles"
+    ]
+  },
+  "safety": "Hanoi is generally very safe for tourists, with violent crime against visitors being extremely rare. The main concerns are petty theft (bag snatching from motorbikes in crowded areas), scams targeting tourists (overcharging by cyclo drivers, fake tour operators), and traffic. Always use metered taxis from reputable companies (Mai Linh, Vinasun) or Grab. When crossing streets, walk at a slow, steady pace and do not stop or run — the motorbike traffic will flow around you. Keep valuables in a front pocket or cross-body bag. Tap water is not safe to drink; bottled water is widely available for 5,000-10,000 VND ($0.20-0.40).",
+  "localTips": [
+    "Learn to cross the street by walking slowly and steadily — do not stop, run, or make sudden movements. Motorbikes will navigate around you. It feels terrifying the first time but becomes natural quickly.",
+    "Try bun cha at lunch, not dinner — many bun cha stalls only operate from 11am to 2pm, and the charcoal-grilled flavor is always best fresh.",
+    "The Old Quarter weekend night market runs Friday through Sunday evenings on Hang Dao Street and is worth visiting for the atmosphere, snacks, and people-watching.",
+    "Download the Grab app before arriving — it's essential for getting around at fair prices and eliminates language-barrier issues with taxi drivers.",
+    "Visit Hoan Kiem Lake area on weekend mornings when surrounding streets become pedestrian-only zones with street performers, games, and a festive atmosphere.",
+    "Carry small denominations of Vietnamese dong (10,000-50,000 notes) for street food and small purchases — vendors may not have change for 500,000 VND notes.",
+    "For the best egg coffee experience, visit the original Giang Cafe (39 Nguyen Huu Huan) — look for the narrow alley entrance and head upstairs for lake-view seating."
+  ],
+  "dayTrips": [
+    {
+      "name": "Ninh Binh / Trang An",
+      "distance": "95km south, approximately 2 hours by car",
+      "description": "The UNESCO-listed Trang An Landscape Complex features dramatic limestone karsts, river caves, and ancient temples. Take a rowboat through the caves at Trang An or the more intimate Tam Coc. Combine with a visit to the vast Bai Dinh Pagoda and Hoa Lu, the ancient capital of Vietnam."
+    },
+    {
+      "name": "Ha Long Bay",
+      "distance": "170km east, approximately 3-4 hours by car",
+      "description": "Vietnam's most famous natural wonder, with nearly 2,000 limestone islands and karsts rising from emerald waters. Most visitors book overnight cruises (from $80-300+ per person), but day trips are possible via the modern Ha Long Expressway. The nearby Lan Ha Bay offers a less crowded alternative."
+    },
+    {
+      "name": "Perfume Pagoda (Chua Huong)",
+      "description": "A complex of Buddhist temples built into limestone cliffs, reached by a scenic sampan boat ride along the Yen Stream. The journey itself — through karst landscapes and past rice paddies — is as memorable as the destination. Most popular during the spring pilgrimage season (February-March). Located 65km southwest, approximately 2 hours by car.",
+      "distance": "65km southwest, approximately 2 hours by car"
+    },
+    {
+      "name": "Ba Vi National Park",
+      "distance": "60km west, approximately 1.5 hours by car",
+      "description": "A forested mountain retreat popular with Hanoians for weekend escapes. Hiking trails lead through subtropical forest to the summit at 1,296 meters, offering panoramic views on clear days. The park also contains French-era ruins, hot springs, and a bird garden."
+    }
+  ],
+  "sources": [
+    "Vietnam National Administration of Tourism (vietnam.travel)",
+    "Lonely Planet Vietnam Guide (2024 edition)",
+    "UNESCO World Heritage Centre — Trang An Landscape Complex",
+    "Hanoi Tourism Department (hanoitourism.gov.vn)"
+  ]
+}

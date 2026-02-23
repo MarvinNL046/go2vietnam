@@ -1,0 +1,56 @@
+{
+  "slug": "ca-phe-trung",
+  "name": { "en": "Egg Coffee" },
+  "vietnameseName": "Cà Phê Trứng",
+  "image": "/images/drinks/ca-phe-trung.webp",
+  "category": "Coffee",
+  "description": { "en": "A rich, creamy coffee topped with a whipped egg yolk and condensed milk foam, invented in 1940s Hanoi as a substitute when fresh milk was scarce. This decadent drink tastes like liquid tiramisu and has become one of the capital's most iconic specialties." },
+  "overview": "Egg coffee is Hanoi's gift to the coffee world - a velvety, custard-like concoction that sits somewhere between a drink and a dessert. Created out of wartime necessity, it has become one of the most celebrated specialty coffees in Southeast Asia. The top layer is a thick, airy foam made from whipped egg yolk, condensed milk, and sugar, beaten until it resembles a light meringue. Underneath sits strong, dark Vietnamese coffee. When sipped together, the effect is remarkably similar to a drinkable tiramisu - rich, creamy, slightly sweet, with the robust bitterness of Robusta coffee cutting through the egg cream. The drink is traditionally served in a small cup nestled in a bowl of hot water to keep it warm, as it is best enjoyed hot in Hanoi's cool autumn and winter months. Today, iced versions and variations with cocoa or matcha have also become popular.",
+  "origin": {
+    "region": "Hanoi",
+    "history": "Ca phe trung was invented in 1946 by Nguyen Van Giang, a bartender at the Sofitel Metropole Hotel in Hanoi. During the First Indochina War, fresh milk was extremely scarce in the city. Giang experimented with whisking egg yolk as a milk substitute and discovered that when beaten with condensed milk and sugar, it created an unexpectedly luxurious topping for coffee. He eventually left the hotel to open his own cafe, Cafe Giang, on Nguyen Huu Huan Street in 1946, where the recipe has been passed down through three generations of his family. The drink remained a beloved Hanoi secret for decades before gaining international recognition in the 2010s through food blogs and travel media."
+  },
+  "howItsMade": "The preparation begins with strong Vietnamese coffee brewed through a phin filter. Separately, a fresh egg yolk (from chicken eggs; some versions use duck eggs for extra richness) is combined with 2-3 tablespoons of sweetened condensed milk and a teaspoon of sugar. This mixture is vigorously whisked by hand or with an electric mixer for several minutes until it becomes a thick, pale, airy foam with roughly triple the original volume. The hot coffee is poured into a small ceramic cup, then the egg cream is spooned generously on top. The cup is placed in a small bowl of hot water to maintain temperature. Some cafes add a dusting of cocoa powder on top. The key to great egg coffee is the quality of the whipping - the foam should be thick enough to hold its shape but light enough to melt on the tongue.",
+  "whereToTry": [
+    {
+      "name": "Cafe Giang",
+      "location": "39 Nguyen Huu Huan, Hoan Kiem, Hanoi",
+      "note": "The original birthplace of egg coffee, founded in 1946 by inventor Nguyen Van Giang. Now run by his son, this tiny upstairs cafe is a pilgrimage site for coffee lovers"
+    },
+    {
+      "name": "Cafe Dinh (Cafe Nang)",
+      "location": "13 Dinh Tien Hoang, Hoan Kiem, Hanoi",
+      "note": "Hidden second-floor cafe overlooking Hoan Kiem Lake. A former Giang apprentice runs this spot with equally excellent egg coffee"
+    },
+    {
+      "name": "Cafe Lam",
+      "location": "60 Nguyen Huu Huan, Hoan Kiem, Hanoi",
+      "note": "Historic art-filled cafe near Cafe Giang, a fixture of Hanoi's bohemian scene since the 1950s"
+    },
+    {
+      "name": "Loading T Cafe",
+      "location": "8 Chan Cam, Hoan Kiem, Hanoi",
+      "note": "A popular modern cafe with rooftop seating that serves excellent egg coffee alongside contemporary drinks"
+    }
+  ],
+  "variations": [
+    { "name": "Ca Phe Trung Nong", "description": "The classic hot version, served in a cup nestled in a bowl of warm water to maintain temperature" },
+    { "name": "Ca Phe Trung Da", "description": "Iced version where the egg cream tops cold coffee and ice, popular in warmer months" },
+    { "name": "Ca Cao Trung", "description": "Hot cocoa with egg cream instead of coffee, a caffeine-free alternative popular with younger Vietnamese" },
+    { "name": "Bia Trung", "description": "An adventurous variation where egg cream tops cold beer, occasionally found at experimental Hanoi cafes" }
+  ],
+  "priceRange": "25,000 - 55,000 VND ($1.00 - $2.20)",
+  "tips": [
+    "Go to Cafe Giang for the authentic original, but expect crowds - arrive early morning or late afternoon to get a seat",
+    "The hot version is the traditional way to drink it and allows the egg cream to stay perfectly warm and fluffy",
+    "Stir the egg cream into the coffee halfway through for a different texture experience",
+    "Egg coffee does not travel well - drink it fresh at the cafe rather than ordering takeaway",
+    "If you love it, ask the barista for their recipe - most are happy to share the basic technique"
+  ],
+  "culturalNotes": "Egg coffee represents the quintessential Vietnamese trait of creating something extraordinary from scarcity. The drink's origin during wartime, when milk was unavailable, mirrors countless Vietnamese culinary innovations born from necessity. In Hanoi, egg coffee is more than a novelty - it is a point of genuine civic pride. The Giang family's preservation of the original recipe across three generations is a story Hanoians love to tell visitors. The drink gained sudden global attention in 2017 when several international media outlets featured it, leading to a surge of copycat versions worldwide. Despite this, purists insist that egg coffee is best experienced in Hanoi, where the combination of the cool autumn air, a tiny upstairs cafe, and the slow ritual of sipping creates an atmosphere impossible to replicate.",
+  "sources": [
+    "Cafe Giang (est. 1946) - official family history",
+    "Vietnam National Administration of Tourism",
+    "Hanoi Department of Tourism"
+  ]
+}

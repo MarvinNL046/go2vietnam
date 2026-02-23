@@ -1,1 +1,146 @@
-[]
+[
+  {
+    "slug": "pho",
+    "name": { "en": "Pho" },
+    "image": "/images/food/pho.webp",
+    "category": "Soup",
+    "spiceLevel": "mild",
+    "description": { "en": "Vietnam's iconic rice noodle soup featuring a deeply aromatic broth simmered for hours with star anise, cinnamon, and charred ginger, served with silky flat noodles and your choice of beef or chicken." }
+  },
+  {
+    "slug": "banh-mi",
+    "name": { "en": "Banh Mi" },
+    "image": "/images/food/banh-mi.webp",
+    "category": "Sandwich",
+    "spiceLevel": "mild",
+    "description": { "en": "A crispy, airy baguette filled with a harmonious combination of savory meats, pickled daikon and carrot, fresh cilantro, sliced chili, and rich pate — a perfect fusion of French and Vietnamese culinary traditions." }
+  },
+  {
+    "slug": "bun-cha",
+    "name": { "en": "Bun Cha" },
+    "image": "/images/food/bun-cha.webp",
+    "category": "Noodle",
+    "spiceLevel": "mild",
+    "description": { "en": "Hanoi's beloved lunchtime dish of smoky charcoal-grilled pork patties and sliced pork belly served in a sweet and tangy dipping broth alongside rice vermicelli noodles and a basket of fresh herbs." }
+  },
+  {
+    "slug": "goi-cuon",
+    "name": { "en": "Goi Cuon" },
+    "image": "/images/food/goi-cuon.webp",
+    "category": "Appetizer",
+    "spiceLevel": "mild",
+    "description": { "en": "Translucent rice paper rolls filled with shrimp, pork, rice vermicelli, and fresh herbs, served with a rich peanut hoisin dipping sauce — a refreshing and healthy Vietnamese classic." }
+  },
+  {
+    "slug": "banh-xeo",
+    "name": { "en": "Banh Xeo" },
+    "image": "/images/food/banh-xeo.webp",
+    "category": "Pancake",
+    "spiceLevel": "mild",
+    "description": { "en": "A sizzling crispy crepe made from rice flour and turmeric, stuffed with shrimp, pork, bean sprouts, and mung beans, then wrapped in lettuce and herbs before dipping in nuoc cham sauce." }
+  },
+  {
+    "slug": "bun-bo-hue",
+    "name": { "en": "Bun Bo Hue" },
+    "image": "/images/food/bun-bo-hue.webp",
+    "category": "Soup",
+    "spiceLevel": "hot",
+    "description": { "en": "A bold, spicy beef noodle soup from the former imperial capital of Hue, featuring thick round rice noodles in a lemongrass-infused broth colored vibrant red with annatto oil and fermented shrimp paste." }
+  },
+  {
+    "slug": "com-tam",
+    "name": { "en": "Com Tam" },
+    "image": "/images/food/com-tam.webp",
+    "category": "Rice",
+    "spiceLevel": "mild",
+    "description": { "en": "Saigon's signature broken rice dish topped with a grilled pork chop marinated in lemongrass and garlic, accompanied by a shredded pork skin cake, steamed egg meatloaf, and sweet fish sauce." }
+  },
+  {
+    "slug": "cao-lau",
+    "name": { "en": "Cao Lau" },
+    "image": "/images/food/cao-lau.webp",
+    "category": "Noodle",
+    "spiceLevel": "mild",
+    "description": { "en": "A unique Hoi An specialty featuring thick, chewy noodles made with water from the ancient Ba Le well, topped with sliced pork, crispy croutons, fresh herbs, and a small amount of savory broth." }
+  },
+  {
+    "slug": "mi-quang",
+    "name": { "en": "Mi Quang" },
+    "image": "/images/food/mi-quang.webp",
+    "category": "Noodle",
+    "spiceLevel": "medium",
+    "description": { "en": "A vibrant turmeric-tinted noodle dish from Quang Nam province served with just a small amount of rich broth, topped with shrimp, pork, quail eggs, peanuts, rice crackers, and an abundance of fresh herbs." }
+  },
+  {
+    "slug": "banh-cuon",
+    "name": { "en": "Banh Cuon" },
+    "image": "/images/food/banh-cuon.webp",
+    "category": "Appetizer",
+    "spiceLevel": "mild",
+    "description": { "en": "Delicate steamed rice flour sheets rolled around a savory filling of seasoned ground pork and wood ear mushrooms, served with crispy fried shallots, fresh herbs, and a light dipping fish sauce." }
+  },
+  {
+    "slug": "bun-rieu",
+    "name": { "en": "Bun Rieu" },
+    "image": "/images/food/bun-rieu.webp",
+    "category": "Soup",
+    "spiceLevel": "mild",
+    "description": { "en": "A tangy, tomato-based noodle soup enriched with freshwater crab paste formed into delicate egg-crab cakes, served with rice vermicelli, tofu puffs, and a medley of fresh herbs and vegetables." }
+  },
+  {
+    "slug": "hu-tieu",
+    "name": { "en": "Hu Tieu" },
+    "image": "/images/food/hu-tieu.webp",
+    "category": "Soup",
+    "spiceLevel": "mild",
+    "description": { "en": "A clear, sweet pork bone broth noodle soup from southern Vietnam featuring thin, chewy rice noodles topped with pork, shrimp, quail eggs, and Chinese celery — also commonly served dry with broth on the side." }
+  },
+  {
+    "slug": "nem-ran",
+    "name": { "en": "Nem Ran" },
+    "image": "/images/food/nem-ran.webp",
+    "category": "Appetizer",
+    "spiceLevel": "mild",
+    "description": { "en": "Golden, crispy fried spring rolls filled with a savory mixture of ground pork, crab meat, glass noodles, wood ear mushrooms, and shredded vegetables, served with fresh lettuce, herbs, and nuoc cham dipping sauce." }
+  },
+  {
+    "slug": "bo-la-lot",
+    "name": { "en": "Bo La Lot" },
+    "image": "/images/food/bo-la-lot.webp",
+    "category": "Grill",
+    "spiceLevel": "mild",
+    "description": { "en": "Fragrant parcels of seasoned ground beef wrapped in aromatic wild betel leaves and grilled over charcoal until the leaves are slightly charred and the filling is juicy and caramelized." }
+  },
+  {
+    "slug": "ca-kho-to",
+    "name": { "en": "Ca Kho To" },
+    "image": "/images/food/ca-kho-to.webp",
+    "category": "Main",
+    "spiceLevel": "medium",
+    "description": { "en": "Catfish fillets braised in a clay pot with a rich caramel sauce made from coconut water, fish sauce, and black pepper, slowly simmered until the sauce thickens and the fish absorbs all the deep, savory-sweet flavors." }
+  },
+  {
+    "slug": "banh-khot",
+    "name": { "en": "Banh Khot" },
+    "image": "/images/food/banh-khot.webp",
+    "category": "Appetizer",
+    "spiceLevel": "mild",
+    "description": { "en": "Bite-sized crispy rice flour pancakes with a tender center, each topped with a whole shrimp and green onion, originating from Vung Tau and served with fresh lettuce, herbs, and tangy fish sauce." }
+  },
+  {
+    "slug": "xoi",
+    "name": { "en": "Xoi" },
+    "image": "/images/food/xoi.webp",
+    "category": "Rice",
+    "spiceLevel": "mild",
+    "description": { "en": "Vietnamese sticky rice cooked by steaming and served with a wide array of savory or sweet toppings, from shredded chicken and fried shallots to mung bean paste and coconut — a beloved breakfast staple across the country." }
+  },
+  {
+    "slug": "che",
+    "name": { "en": "Che" },
+    "image": "/images/food/che.webp",
+    "category": "Dessert",
+    "spiceLevel": "mild",
+    "description": { "en": "A colorful family of Vietnamese sweet soups and puddings made with combinations of beans, tapioca, jelly, tropical fruits, and coconut milk, served warm or over crushed ice as a beloved everyday dessert." }
+  }
+]

@@ -1,0 +1,82 @@
+{
+  "slug": "con-dao",
+  "name": { "en": "Con Dao" },
+  "vietnameseName": "Côn Đảo",
+  "image": "/images/islands/con-dao.webp",
+  "bestFor": ["Eco-Tourism", "Sea Turtles", "History", "Diving", "Luxury Resorts"],
+  "description": { "en": "A remote archipelago of 16 islands off Vietnam's southeastern coast, Con Dao combines pristine marine ecosystems, nesting sea turtles, and a harrowing colonial-era prison history. This is Vietnam's most exclusive island destination, favored by those seeking solitude and natural beauty." },
+  "overview": "Con Dao is Vietnam's most compelling island destination, a place where extraordinary natural beauty coexists with a deeply moving human history. This archipelago of 16 islands lies 185 kilometers off the southern coast, far enough from the mainland to have remained one of the best-preserved marine environments in Southeast Asia. Con Son, the main island, is dominated by dense tropical forest that is home to the endemic black giant squirrel and numerous bird species. The surrounding waters are part of Con Dao National Park, protecting coral reefs, seagrass meadows, dugongs, and critically important sea turtle nesting beaches - between June and September, endangered green and hawksbill turtles come ashore to lay eggs on several of the archipelago's beaches. Contrasting with this natural paradise is Con Dao's brutal history as a prison archipelago, used by the French colonial administration from 1862 and later by the South Vietnamese government through 1975. The infamous 'tiger cages' and other prison facilities are now preserved as a museum and memorial. This unusual combination of ecological significance and historical gravity gives Con Dao a depth that few tropical islands can match.",
+  "gettingThere": {
+    "byAir": "Con Dao Airport (VCS) on Con Son island receives flights from Ho Chi Minh City (45 minutes, 3-5 daily on Vietnam Airlines and Bamboo Airways) and occasional services from Hanoi and Can Tho. The airport is small and flights fill quickly in peak season - book well in advance. VASCO (Vietnam Air Services Company) operates most routes using ATR 72 turboprops.",
+    "byFerry": "High-speed ferries operate from Vung Tau (3.5 hours, Con Dao Express) and from Soc Trang's Tran De port (2.5 hours, Superdong). Ferry services are weather-dependent and may be cancelled during rough sea conditions from June to September. The Vung Tau route is more frequent and reliable."
+  },
+  "bestTimeToVisit": {
+    "best": "March to June",
+    "description": "Calm seas, excellent visibility for diving and snorkeling, and warm but not oppressive temperatures. March-April offers the best underwater visibility. June marks the beginning of turtle nesting season, combining good weather with wildlife encounters.",
+    "avoid": "September to November: the roughest seas and heaviest rainfall. Some ferry services are suspended, diving is impossible on many days, and outer island trips may be cancelled. However, this is peak turtle nesting season (June-September) for those willing to accept the weather trade-off."
+  },
+  "topBeaches": [
+    {
+      "name": "Bai Dat Doc",
+      "description": "A secluded crescent of fine sand backed by forested hills, accessible via a winding road from Con Son town. Home to the Six Senses resort but with public access at the far end. One of Vietnam's most beautiful beaches."
+    },
+    {
+      "name": "Bai Nhat",
+      "description": "A small, photogenic beach on the northeast coast of Con Son, famous for its clear turquoise water and dramatic rocky surroundings. Best visited at low tide when the sand is most exposed."
+    },
+    {
+      "name": "Dam Trau Beach",
+      "description": "Located near the airport at the northern tip of Con Son, this wide beach with golden sand is popular with locals and offers views of planes landing overhead. Good swimming conditions."
+    },
+    {
+      "name": "Bay Canh Island beaches",
+      "description": "Pristine beaches on the uninhabited Bay Canh island, accessible by boat. This is the primary sea turtle nesting site - night visits are organized by the national park during nesting season."
+    }
+  ],
+  "activities": [
+    {
+      "name": "Sea Turtle Nesting Observation",
+      "description": "From June to September, the national park organizes guided night visits to Bay Canh island to watch endangered green turtles lay eggs on the beach. One of the most unforgettable wildlife experiences in Vietnam. Limited permits available - book through Con Dao National Park headquarters.",
+      "price": "500,000 - 1,000,000 VND ($20-40) including boat transfer and park ranger guide"
+    },
+    {
+      "name": "Scuba Diving",
+      "description": "Con Dao offers Vietnam's best diving conditions with 20-30 meter visibility, healthy coral gardens, and marine life including reef sharks, barracuda, manta rays, and sea turtles. Dive sites around Bay Canh and Hon Tai islands are highlights.",
+      "price": "1,500,000 - 2,500,000 VND ($60-100) for two-dive boat trips with equipment"
+    },
+    {
+      "name": "Con Dao Prison Museum Complex",
+      "description": "A sobering historical site encompassing multiple prison compounds built by the French from 1862, including the notorious 'tiger cages' where political prisoners were held in inhumane conditions. The museum provides essential historical context and is one of Vietnam's most important memorial sites.",
+      "price": "40,000 VND ($1.60) entry; guided tours available"
+    },
+    {
+      "name": "Trekking in Con Dao National Park",
+      "description": "Several marked trails through the island's tropical forest, ranging from easy coastal walks to challenging summit hikes. The trail to Thanh Gia peak (577m) rewards hikers with panoramic views of the archipelago.",
+      "price": "Free for most trails; national park entry 60,000 VND ($2.40)"
+    },
+    {
+      "name": "Island-Hopping by Boat",
+      "description": "Charter a boat or join a tour to visit the smaller islands of the archipelago, including Hon Bay Canh, Hon Cau, and Hon Tre Lon. Snorkeling, swimming, and picnic lunches on uninhabited islands.",
+      "price": "800,000 - 2,000,000 VND ($32-80) per person for full-day tours"
+    }
+  ],
+  "accommodation": {
+    "budget": "Guesthouses and mini-hotels in Con Son town from 300,000 VND ($12)/night. Basic but clean, with air conditioning and hot water. Options are limited compared to mainland destinations.",
+    "midRange": "Con Dao Resort and Poulo Condor Boutique Resort from 1,200,000 VND ($48)/night. Good locations with pool and restaurant facilities.",
+    "luxury": "Six Senses Con Dao from 12,000,000 VND ($480)/night, consistently ranked among Asia's best eco-luxury resorts. Private pool villas on Bai Dat Doc beach with exceptional service and sustainability practices."
+  },
+  "localTips": [
+    "Book flights and accommodation well in advance for the March-June high season - capacity is limited on this small island",
+    "Rent a motorbike (150,000 VND/day) to explore Con Son island - the coastal road circling the island is scenic and easy to navigate",
+    "Visit Hang Duong Cemetery at night - locals place incense and offerings for the estimated 20,000 political prisoners who died on the islands",
+    "The Six Senses resort is worth visiting even if not staying there - their bar is open to outside guests for sunset cocktails",
+    "Bring sufficient cash - ATMs exist but can run out, and credit card acceptance is limited outside major hotels",
+    "Allow at least 3 nights to properly experience Con Dao - the island rewards a slower pace"
+  ],
+  "sources": [
+    "Con Dao National Park Administration",
+    "Vietnam National Administration of Tourism",
+    "Ba Ria - Vung Tau Department of Tourism",
+    "IUCN - Marine Turtle Conservation in Vietnam"
+  ]
+}

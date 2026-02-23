@@ -1,0 +1,87 @@
+{
+  "slug": "bun-cha",
+  "name": { "en": "Bun Cha" },
+  "vietnameseName": "Bún Chả",
+  "image": "/images/food/bun-cha.webp",
+  "category": "Noodle",
+  "spiceLevel": "mild",
+  "description": { "en": "Hanoi's beloved lunchtime dish of smoky charcoal-grilled pork patties and sliced pork belly served in a sweet and tangy dipping broth alongside rice vermicelli noodles and a basket of fresh herbs." },
+  "overview": "Bun cha is the quintessential Hanoi lunch dish, a meal so beloved in the capital that entire streets fill with the intoxicating aroma of charcoal-grilled pork every day around 11:00 AM. Unlike many Vietnamese noodle dishes where broth and noodles are served together, bun cha is a deconstructed affair: grilled pork patties (chả) and slices of caramelized pork belly arrive swimming in a bowl of warm, sweet-and-sour dipping broth (nước chấm), while the white rice vermicelli noodles (bún) and a generous plate of fresh herbs come separately. Diners dip clumps of noodles and lettuce-wrapped herbs into the meaty broth, creating each bite to their own preference. The dish gained worldwide fame in 2016 when President Barack Obama and chef Anthony Bourdain shared bun cha at Bun Cha Huong Lien in Hanoi, a meal that was broadcast globally and forever linked bun cha to Hanoi's culinary identity.",
+  "origin": {
+    "region": "Hanoi, Northern Vietnam",
+    "history": "Bun cha is deeply rooted in Hanoi's food culture and has been a staple of the capital for generations, with written references dating back to at least the 19th century. The dish evolved from the Vietnamese tradition of grilling marinated meats over charcoal, combined with the ubiquitous rice vermicelli noodles and dipping sauce that define northern Vietnamese cuisine. Unlike pho, which has spread throughout Vietnam, bun cha has remained strongly associated with Hanoi. While you can find it in other cities, Hanoians will tell you that authentic bun cha can only be properly made (and enjoyed) in the capital, where vendors have perfected the charcoal grilling technique over generations."
+  },
+  "ingredients": {
+    "main": [
+      "Ground pork patties (chả miếng) — seasoned with shallots, fish sauce, sugar, and pepper",
+      "Sliced pork belly (chả nướng) — marinated and grilled",
+      "Rice vermicelli noodles (bún)",
+      "Dipping broth (nước chấm) — fish sauce, sugar, vinegar, garlic, chili, warm water"
+    ],
+    "herbs": [
+      "Lettuce leaves (xà lách)",
+      "Perilla / shiso leaves (tía tô)",
+      "Fresh mint (húng lủi)",
+      "Cilantro (ngò rí)",
+      "Vietnamese balm (kinh giới)"
+    ],
+    "condiments": [
+      "Pickled green papaya and carrot in the dipping broth",
+      "Fresh garlic and chili in the broth",
+      "Extra fish sauce (nước mắm)",
+      "Chili sauce (tương ớt)"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Bún Chả Hà Nội (Classic Hanoi Style)",
+      "description": "The original and most common version: a combination of hand-formed pork patties and sliced pork belly, both grilled over charcoal and served in dipping broth with noodles and herbs."
+    },
+    {
+      "name": "Bún Chả Nem (with Fried Spring Rolls)",
+      "description": "The classic bun cha served with a side of crispy fried spring rolls (nem rán). This is an extremely popular combination in Hanoi — many locals will not order bun cha without nem."
+    },
+    {
+      "name": "Bún Chả Sinh Từ",
+      "description": "A Hanoi neighborhood variation from the Sinh Tu Street area, known for slightly sweeter marinade and thinner patties with more caramelized edges."
+    }
+  ],
+  "howToOrder": "Simply say 'một bún chả' (one bun cha). If you want the spring roll addition, say 'bún chả nem' or 'bún chả có nem.' For extra noodles, ask for 'thêm bún.' The dish comes as a set — you will receive the grilled pork in broth, a plate of noodles, and a herb basket. Dip noodles and herbs into the broth bowl as you eat.",
+  "whereToEat": [
+    {
+      "name": "Bún Chả Hương Liên (Obama Bun Cha)",
+      "location": "Hanoi",
+      "note": "At 24 Le Van Huu Street. Famous as the spot where Obama and Bourdain dined in 2016. The table and chairs they used are now preserved behind glass. Good bun cha, though some locals argue it has become more of a tourist attraction."
+    },
+    {
+      "name": "Bún Chả Đắc Kim",
+      "location": "Hanoi",
+      "note": "At 1 Hang Manh Street, Old Quarter. A longtime local favorite with consistently excellent grilled pork and a perfectly balanced dipping broth. Often packed at lunchtime."
+    },
+    {
+      "name": "Bún Chả 34 Hang Than",
+      "location": "Hanoi",
+      "note": "At 34 Hang Than Street. Beloved by Hanoians for generations. Known for plump, juicy patties and a particularly well-balanced sweet-sour broth."
+    }
+  ],
+  "priceRange": {
+    "street": "35,000 - 50,000 VND ($1.50 - $2.10)",
+    "restaurant": "55,000 - 90,000 VND ($2.30 - $3.70)",
+    "upscale": "100,000 - 200,000 VND ($4.10 - $8.30)"
+  },
+  "tips": [
+    "Bun cha is traditionally a lunch dish — most stalls serve it from 11:00 AM to 2:00 PM only",
+    "Arrive early (before 11:30 AM) to ensure the freshest grilled pork and to avoid the rush",
+    "Always order the combo with nem (fried spring rolls) for the full Hanoi experience",
+    "Dip the noodles and herbs into the broth bowl rather than pouring the broth over the noodles",
+    "The broth is meant for dipping, not drinking — though many people do drink the remaining broth at the end",
+    "This dish is Hanoi-specific. If you are only visiting Ho Chi Minh City, bun cha will be available but not at the same quality"
+  ],
+  "culturalNotes": "Bun cha is inseparable from Hanoi's identity. The dish represents the capital's approach to food: elegant simplicity, fresh ingredients, and a focus on balance. At lunchtime in Hanoi, office workers, students, and shopkeepers all converge on their favorite bun cha stalls, and the smoky, sweet aroma of grilling pork fills entire neighborhoods. The 2016 'Obama bun cha' moment was a watershed event for Vietnamese food tourism — it introduced millions of viewers worldwide to a dish that had been relatively unknown outside of Vietnam, and the subsequent 'Bun Cha Obama' combo (a set meal priced at the same amount the President paid) became one of the most famous food-tourism stories in modern history.",
+  "sources": [
+    "Vietnam National Administration of Tourism",
+    "Lonely Planet Hanoi Street Food Guide",
+    "CNN Travel — 'Obama and Bourdain dine in Hanoi' (2016)",
+    "Mark Wiens, 'Vietnamese Food Guide'"
+  ]
+}

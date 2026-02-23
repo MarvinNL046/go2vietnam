@@ -1,0 +1,105 @@
+{
+  "slug": "xoi",
+  "name": { "en": "Xoi" },
+  "vietnameseName": "Xôi",
+  "image": "/images/food/xoi.webp",
+  "category": "Rice",
+  "spiceLevel": "mild",
+  "description": { "en": "Vietnamese sticky rice cooked by steaming and served with a wide array of savory or sweet toppings, from shredded chicken and fried shallots to mung bean paste and coconut — a beloved breakfast staple across the country." },
+  "overview": "Xoi (sticky rice or glutinous rice) is one of Vietnam's most ancient and fundamental foods, eaten daily by millions as a breakfast staple, snack, and ceremonial offering. Vietnamese sticky rice is prepared by soaking glutinous rice for several hours or overnight, then steaming it (never boiling) in a cloth-lined steamer or bamboo basket until each grain is tender, glossy, and pleasantly chewy. What makes xoi remarkable is its incredible versatility: it serves as a blank canvas for dozens of different toppings, from savory combinations like shredded chicken, Chinese sausage, fried shallots, and pate to sweet preparations with mung bean paste, coconut, sugar, and tropical fruits. In the mornings, xoi vendors are found on virtually every street corner in Vietnamese cities, ladling scoops of steaming sticky rice into banana leaf wraps or styrofoam containers for workers and students on their way to start the day. Xoi is also an essential ceremonial food, present at weddings, funerals, ancestral worship, and Tet celebrations.",
+  "origin": {
+    "region": "Nationwide (ancient Vietnamese tradition)",
+    "history": "Sticky rice cultivation in Vietnam dates back thousands of years, with archaeological evidence suggesting that glutinous rice was one of the earliest crops cultivated in the Red River Delta. Xoi is among the oldest dishes in Vietnamese cuisine, predating many of the noodle soups and stir-fries that define modern Vietnamese food. In ancient Vietnamese society, sticky rice held both practical and spiritual importance: it was a calorie-dense food that sustained farmers through hard labor, and it was offered to ancestors and spirits in religious ceremonies. The legendary Vietnamese creation myth involves banh chung (square sticky rice cakes) and banh day (round sticky rice cakes), linking sticky rice to the very origins of Vietnamese civilization. Over centuries, the many varieties of xoi developed as different regions and communities created their own toppings and preparations using local ingredients."
+  },
+  "ingredients": {
+    "main": [
+      "Glutinous (sticky) rice (gạo nếp), soaked and steamed",
+      "Various toppings (see variations below)"
+    ],
+    "savory_toppings": [
+      "Shredded chicken (gà xé)",
+      "Chinese sausage (lạp xưởng)",
+      "Fried shallots (hành phi)",
+      "Pork floss (ruốc / chà bông)",
+      "Pate (pâté)",
+      "Fried egg (trứng chiên)",
+      "Braised pork (thịt kho)"
+    ],
+    "sweet_toppings": [
+      "Mung bean paste (đậu xanh)",
+      "Coconut shreds (dừa bào)",
+      "Black beans (đậu đen)",
+      "Peanuts (đậu phộng)",
+      "Sugar and sesame seeds (đường và mè)"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Xôi Gà (Chicken Sticky Rice)",
+      "description": "One of the most popular savory versions: steamed sticky rice topped with shredded chicken, fried shallots, and served with a chicken broth dipping sauce. A hearty and satisfying breakfast."
+    },
+    {
+      "name": "Xôi Xéo (Yellow Mung Bean Sticky Rice)",
+      "description": "A Hanoi specialty: turmeric-tinted sticky rice topped with peeled mung beans, fried shallots, and a drizzle of green onion oil. Elegant, simple, and quintessentially Hanoian."
+    },
+    {
+      "name": "Xôi Mặn (Savory Mixed Sticky Rice)",
+      "description": "A loaded version with multiple savory toppings: Chinese sausage, pork floss, fried egg, pate, and fried shallots. The ultimate filling breakfast."
+    },
+    {
+      "name": "Xôi Gấc (Red Sticky Rice)",
+      "description": "A striking crimson-colored sticky rice made with gac fruit (Momordica cochinchinensis), which gives it a brilliant red-orange color and a subtle, sweet flavor. Often served at weddings and Tet as a symbol of good luck."
+    },
+    {
+      "name": "Xôi Đậu Đen (Black Bean Sticky Rice)",
+      "description": "Sticky rice cooked with black beans, giving it a purple-black hue. Served sweet with sugar and coconut or savory with shallots. A common and affordable street food option."
+    },
+    {
+      "name": "Xôi Lá Dứa (Pandan Sticky Rice)",
+      "description": "Infused with pandan leaf juice for a green color and aromatic flavor. Often served with a sweet coconut sauce or mung bean paste."
+    }
+  ],
+  "howToOrder": "At a xoi stall, point to the variety you want or say the name: 'xôi gà' (chicken), 'xôi xéo' (mung bean), 'xôi mặn' (savory mixed). Vendors typically scoop the rice and toppings together, wrapping them in banana leaf or a container. Say 'thêm hành phi' for extra fried shallots or 'thêm trứng' for a fried egg. Prices are low, so ordering a large portion is still affordable.",
+  "whereToEat": [
+    {
+      "name": "Xôi Yến",
+      "location": "Hanoi",
+      "note": "At 35B Nguyen Huu Huan, Old Quarter. One of the most famous xoi shops in all of Vietnam. Known for their xoi xeo and various savory sticky rice options. Expect a queue in the morning."
+    },
+    {
+      "name": "Xôi Bà Mập",
+      "location": "Ho Chi Minh City",
+      "note": "At 196 Vo Van Tan, District 3. A well-known Saigon xoi vendor famous for generous toppings and consistently good sticky rice. Popular breakfast spot."
+    },
+    {
+      "name": "Xôi Gà Number One",
+      "location": "Hanoi",
+      "note": "At 36 Nguyen Cong Tru. Specializes in chicken sticky rice with beautifully shredded chicken and aromatic fried shallots. A breakfast institution."
+    },
+    {
+      "name": "Street vendors citywide",
+      "location": "Nationwide",
+      "note": "Xoi vendors are ubiquitous on Vietnamese streets, especially in the morning from 6:00-9:00 AM. Look for carts with steaming baskets and various toppings on display."
+    }
+  ],
+  "priceRange": {
+    "street": "15,000 - 35,000 VND ($0.60 - $1.50)",
+    "restaurant": "40,000 - 70,000 VND ($1.70 - $2.90)",
+    "upscale": "80,000 - 150,000 VND ($3.30 - $6.20)"
+  },
+  "tips": [
+    "Xoi is primarily a breakfast food — go early in the morning (6:00-8:00 AM) for the freshest, warmest rice",
+    "Ask for 'nhiều hành phi' (lots of fried shallots) — they add incredible flavor and crunch",
+    "Try xoi xeo if you are in Hanoi and xoi man (savory mixed) if you are in Ho Chi Minh City",
+    "Xoi gac (red sticky rice) is worth trying if available — the gac fruit gives it a beautiful color and unique taste",
+    "Sticky rice is very filling — a portion is usually sufficient for a complete breakfast",
+    "Many xoi vendors only operate in the morning, so do not wait until afternoon to seek this dish out"
+  ],
+  "culturalNotes": "Xoi occupies a unique position in Vietnamese culture as both an everyday food and a sacred offering. On any given morning, millions of Vietnamese start their day with a packet of xoi from a street vendor — it is affordable, portable, filling, and delicious. But sticky rice also features prominently in Vietnamese spiritual life: it is offered at ancestral altars, brought to temple ceremonies, and is central to the Tet celebration in the form of banh chung (square sticky rice cakes wrapped in banana leaves) and banh tet (the cylindrical southern equivalent). Red xoi gac is considered lucky and is present at weddings and celebrations. The Vietnamese creation myth tells of Prince Lang Lieu, who invented banh chung using sticky rice to honor his parents and the earth — linking this humble grain to the origins of Vietnamese civilization itself. In this way, xoi bridges the gap between the sacred and the everyday in Vietnamese food culture.",
+  "sources": [
+    "Vietnam National Administration of Tourism",
+    "Lonely Planet Vietnam Food Guide",
+    "Vu Bang, 'Miếng Ngon Hà Nội' ('Delicious Foods of Hanoi', 1960)",
+    "VietnamNet — 'Vietnamese Sticky Rice Traditions'"
+  ]
+}

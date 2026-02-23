@@ -1,0 +1,57 @@
+{
+  "slug": "sinh-to",
+  "name": { "en": "Tropical Fruit Smoothie" },
+  "vietnameseName": "Sinh Tố",
+  "image": "/images/drinks/sinh-to.webp",
+  "category": "Smoothie",
+  "description": { "en": "Fresh tropical fruit smoothies blended with ice and condensed milk, available at street stalls nationwide. From avocado and mango to soursop and sapodilla, sinh to showcases Vietnam's extraordinary bounty of tropical fruits." },
+  "overview": "Sinh to is Vietnam's answer to the smoothie, and it benefits from one of the most diverse selections of tropical fruit in the world. Vietnam's geography, stretching across multiple climate zones from the subtropical north to the tropical south, supports an astonishing range of fruits, many of which are virtually unknown outside Southeast Asia. At any sinh to stall, you will typically find a dazzling display of fresh fruit including mango, avocado, dragon fruit, soursop (mang cau), sapodilla (xa po che), jackfruit, passion fruit, papaya, watermelon, and banana. The fruit is blended with crushed ice and sweetened with condensed milk (or sugar syrup for a lighter version), producing a thick, frosty, intensely flavorful drink. Sinh to stalls are everywhere - from dedicated juice shops to street carts to restaurant menus - making fresh tropical smoothies one of the most accessible and affordable pleasures in Vietnam.",
+  "origin": {
+    "region": "Nationwide",
+    "history": "Sinh to evolved naturally from Vietnam's abundant tropical fruit culture and the widespread availability of ice and blenders from the mid-20th century onward. The use of sweetened condensed milk as a creamer (a legacy of French colonial influence when fresh dairy was scarce) gives Vietnamese smoothies their distinctive richness compared to smoothies elsewhere in Southeast Asia. While there is no single origin story, sinh to became a fixture of Vietnamese street food culture by the 1970s and 1980s. The Mekong Delta and southern regions, where tropical fruit production is most prolific, are considered the heartland of sinh to culture."
+  },
+  "howItsMade": "The preparation is straightforward but relies on perfectly ripe fruit. Fresh fruit is peeled and cut into chunks, then combined in a blender with crushed ice, a generous splash of sweetened condensed milk (typically 2-3 tablespoons), and occasionally a small amount of water or coconut milk to achieve the desired consistency. The mixture is blended until smooth and thick. Some stalls add yogurt for tang or sugar syrup for extra sweetness. The drink is poured into a tall glass, sometimes topped with additional fruit pieces. Avocado smoothies (sinh to bo) often include a scoop of ice cream or extra condensed milk. Multi-fruit combinations are also common - mango-passion fruit and avocado-coconut are popular pairings.",
+  "whereToTry": [
+    {
+      "name": "Juice stalls at Ben Thanh Market",
+      "location": "Ben Thanh Market, District 1, Ho Chi Minh City",
+      "note": "Dozens of stalls offer a dizzying array of fresh fruits, great for trying unusual varieties"
+    },
+    {
+      "name": "Sinh To Bo 207",
+      "location": "207 Nguyen Van Thu, District 1, Ho Chi Minh City",
+      "note": "Famous specifically for avocado smoothie (sinh to bo), considered the best in Saigon by many locals"
+    },
+    {
+      "name": "Fruit stalls along Hang Buom Street",
+      "location": "Old Quarter, Hanoi",
+      "note": "A cluster of fruit juice and smoothie vendors serving the Old Quarter area"
+    },
+    {
+      "name": "Any street stall with a fruit display",
+      "location": "Nationwide",
+      "note": "Look for stalls with whole fruits stacked on display and a blender behind the counter"
+    }
+  ],
+  "variations": [
+    { "name": "Sinh To Bo (Avocado)", "description": "Vietnam's most beloved smoothie flavor, blended thick with condensed milk - tastes like a milkshake" },
+    { "name": "Sinh To Mang Cau (Soursop)", "description": "Creamy, tangy, and slightly sweet, this uniquely tropical flavor is a must-try" },
+    { "name": "Sinh To Xoai (Mango)", "description": "Made with Vietnam's fragrant cat chu or hoa loc mangoes, available March to June" },
+    { "name": "Sinh To Dau (Strawberry)", "description": "Made with Da Lat-grown strawberries, a Central Highlands specialty" },
+    { "name": "Sinh To Thap Cam (Mixed Fruit)", "description": "A blend of multiple fruits, sometimes called a 'fruit cocktail' smoothie" }
+  ],
+  "priceRange": "15,000 - 40,000 VND ($0.60 - $1.60)",
+  "tips": [
+    "Point at the fruit you want if the language barrier is an issue - visual ordering works perfectly",
+    "Ask for 'khong duong' (no sugar) or 'it duong' (less sugar) if you prefer to taste the natural fruit sweetness",
+    "Avocado sinh to is a must-try even if you would never drink avocado at home - it tastes completely different with condensed milk",
+    "Mango season (March-June) and mangosteen season (May-August) are the best times for fruit smoothies",
+    "For food safety, choose stalls where you can see them cut and blend fresh fruit in front of you"
+  ],
+  "culturalNotes": "Sinh to reflects Vietnam's deep connection to seasonal, fresh produce. Vietnamese consumers are remarkably knowledgeable about fruit quality, seasonality, and provenance - asking which variety of mango or where the avocados come from is completely normal. The Mekong Delta is Vietnam's fruit basket, producing most of the tropical fruits you will encounter, and southern Vietnamese take particular pride in their fruit culture. It is common for Vietnamese families to end meals with fresh fruit rather than sugary desserts, and sinh to serves as an indulgent extension of this habit. The drink is popular across all age groups and is considered a healthy option compared to sugary sodas, despite the condensed milk content.",
+  "sources": [
+    "Vietnam Fruit and Vegetable Association (Vinafruit)",
+    "Vietnam National Administration of Tourism",
+    "Mekong Delta Agricultural Extension Center"
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "slug": "hue",
+  "name": { "en": "Hue" },
+  "vietnameseName": "Huế",
+  "image": "/images/cities/hue.webp",
+  "region": "Central Vietnam",
+  "highlights": ["Imperial Citadel", "Royal Tombs", "Perfume River", "Hue Royal Cuisine"],
+  "description": { "en": "Vietnam's former imperial capital sits gracefully along the Perfume River, its massive citadel and ornate royal tombs bearing witness to the Nguyen Dynasty's 143-year reign. Hue is also celebrated as Vietnam's culinary capital, famous for its refined royal cuisine and fiery local dishes that reflect centuries of courtly sophistication." },
+  "overview": "Hue served as the capital of Vietnam's Nguyen Dynasty from 1802 to 1945, and the city's identity remains deeply intertwined with its imperial legacy. The massive Citadel — modeled partly on Beijing's Forbidden City — dominates the north bank of the Perfume River, while elaborate royal tombs are scattered through the hills and forests to the south. Despite suffering devastating damage during the 1968 Tet Offensive, when fierce fighting between American/South Vietnamese and North Vietnamese forces destroyed much of the Citadel, Hue has been painstakingly restored and the Complex of Hue Monuments was designated a UNESCO World Heritage Site in 1993. Beyond its historical significance, Hue is celebrated as Vietnam's culinary capital, with a food culture that ranges from refined royal cuisine (once served exclusively to emperors) to fiery street food. The city of approximately 450,000 people retains a more gentle, scholarly pace than Vietnam's bigger cities, with a poetic atmosphere enhanced by the misty Perfume River, ancient pagodas, and the surrounding pine-forested hills.",
+  "neighborhoods": [
+    {
+      "name": "The Citadel (Kinh Thành Huế)",
+      "description": "The walled citadel on the north bank of the Perfume River covers nearly 520 hectares and was the political center of Vietnam for 143 years. Within its thick walls lies the Imperial City (Dai Noi), and within that, the Purple Forbidden City where the emperor lived. Though much was destroyed in 1968, restoration is ongoing and the remaining halls, gates, and gardens are magnificent. The Flag Tower (Cot Co) is the city's most recognizable landmark.",
+      "highlights": ["Thai Hoa Palace (Hall of Supreme Harmony)", "Ngo Mon Gate", "The Purple Forbidden City", "Imperial Gardens and lotus ponds"]
+    },
+    {
+      "name": "South Bank (Phường Phú Hội / Phú Nhuận)",
+      "description": "The area south of the Perfume River is the more modern commercial center of Hue, with the main tourist hotels, restaurants, and bars concentrated along Le Loi and Nguyen Hue streets. Dong Ba Market on the north bank near the Citadel is the city's largest traditional market. The south bank has a more relaxed, walkable feel with excellent restaurants serving both royal and street-food cuisine.",
+      "highlights": ["Tourist hotel and restaurant district", "Trang Tien Bridge (illuminated at night)", "Riverside cafes", "Backpacker area along Pham Ngu Lao"]
+    },
+    {
+      "name": "Kim Long area (west of the Citadel)",
+      "description": "This leafy residential area west of the Citadel walls is home to Thien Mu Pagoda, Hue's most iconic religious site, perched on a hilltop overlooking the Perfume River. The quiet streets are lined with garden houses (nha vuon), a distinctive Hue architectural style combining traditional Vietnamese houses with French-influenced gardens. Several garden houses are open to visitors and serve traditional Hue cuisine.",
+      "highlights": ["Thien Mu Pagoda", "Traditional garden houses (nha vuon)", "Quiet riverside walks", "Local vegetarian restaurants"]
+    }
+  ],
+  "gettingThere": {
+    "byAir": "Phu Bai International Airport (HUI) is located 15km south of the city center. The airport handles domestic flights from Hanoi (1.5 hours) and Ho Chi Minh City (1.5 hours), with limited international connections. A taxi or Grab from the airport to the city center costs approximately 200,000-250,000 VND ($8-10) and takes about 25 minutes. Airport shuttle buses are also available for 50,000 VND ($2).",
+    "byTrain": "Hue Railway Station (Ga Huế) is centrally located on Le Loi Street, a short walk from most hotels. Hue is a key stop on the Reunification Express. Journey times: Hanoi (13-15 hours), Da Nang (2.5-3.5 hours), Ho Chi Minh City (19-22 hours). The train ride between Hue and Da Nang over the Hai Van Pass is considered one of the most scenic rail journeys in the world — sit on the right side heading south for the best views.",
+    "byBus": "Tourist shuttle buses and limousine vans connect Hue to Hoi An (3-4 hours, 150,000-250,000 VND) and Da Nang (2.5-3 hours, 100,000-150,000 VND). Long-distance buses to Hanoi and HCMC depart from the southern bus station. Phong Nha (Quang Binh) is accessible by direct tourist shuttle (4 hours)."
+  },
+  "gettingAround": "Hue is compact enough to explore the south bank on foot, but the spread-out nature of the Royal Tombs and pagodas means you'll need transport for a full exploration. Bicycle rental (30,000-50,000 VND/day) is excellent for getting between the Citadel, south bank, and Thien Mu Pagoda. Motorbike rental (120,000-150,000 VND/day) is ideal for reaching the more distant Royal Tombs. Grab is available but drivers are less plentiful than in larger cities. A popular option is hiring a boat on the Perfume River (from 300,000 VND for a half-day) to visit Thien Mu Pagoda and the tombs along the riverbank.",
+  "bestTimeToVisit": {
+    "best": "February to April",
+    "description": "Spring is the most pleasant season with mild temperatures and relatively low rainfall. Hue has a reputation as one of Vietnam's wettest cities, with the heaviest rains falling from September to January. The Hue Festival, a major cultural event held every two years, typically takes place in April.",
+    "seasons": {
+      "spring": "February-April: The best season. Warm and relatively dry, 20-28°C. Clear skies for exploring the Citadel and tombs. The biennial Hue Festival (even years) is a major draw.",
+      "summer": "May-August: Hot, 28-36°C. Occasional rain but generally drier than autumn. The heat can be intense at the exposed Royal Tombs — visit early morning.",
+      "autumn": "September-November: The wettest season, 22-28°C. Heavy and persistent rain, especially October-November. Flooding is possible. Not ideal for sightseeing but fewer tourists.",
+      "winter": "December-January: Cool and often rainy, 16-22°C. Can feel quite cold due to persistent drizzle and high humidity. The atmospheric mist can be beautiful but pack waterproof layers."
+    }
+  },
+  "budget": {
+    "backpacker": "$18-30/day",
+    "midRange": "$45-100/day",
+    "luxury": "$120-300+/day",
+    "details": "Hostel dorms from 100,000-150,000 VND ($4-6). Budget hotels from 300,000-600,000 VND ($12-24). Boutique hotels from 800,000-2,000,000 VND ($32-80). Luxury hotels (Azerai La Residence, Pilgrimage Village) from 3,000,000+ VND ($120+). Imperial Citadel entrance: 200,000 VND ($8). Individual Royal Tomb entrance: 100,000-150,000 VND ($4-6). Combo ticket (Citadel + 3 tombs): 530,000 VND ($21). Street food meals: 20,000-40,000 VND ($0.80-1.60). Royal cuisine dinner: 200,000-500,000 VND ($8-20)."
+  },
+  "mustDo": [
+    {
+      "name": "Explore the Imperial Citadel (Dai Noi)",
+      "description": "The heart of Hue's UNESCO World Heritage Site, the Imperial City contains palaces, temples, theaters, and gardens spread across a vast fortified complex. Enter through the imposing Ngo Mon Gate, cross the Golden Water Bridge to the restored Thai Hoa Palace (Hall of Supreme Harmony), and explore the ruins of the Purple Forbidden City. Despite war damage, the scale and surviving structures are deeply impressive. Allow 2-3 hours. Admission: 200,000 VND ($8)."
+    },
+    {
+      "name": "Visit the Royal Tombs of the Nguyen Emperors",
+      "description": "Seven of the thirteen Nguyen Dynasty emperors built elaborate tomb complexes in the hills south of the city. Each reflects the personality and philosophy of its ruler. The three most impressive are: Tomb of Tu Duc (most poetic, set around a pine-fringed lake), Tomb of Khai Dinh (most ornate, with stunning mosaic interiors blending Vietnamese, Chinese, and European styles), and Tomb of Minh Mang (most harmonious, symmetrically arranged around a series of lakes). Each requires a separate entrance fee of 100,000-150,000 VND ($4-6)."
+    },
+    {
+      "name": "Visit Thien Mu Pagoda (Chua Thien Mu)",
+      "description": "Hue's most iconic religious site, founded in 1601, features a seven-story octagonal tower overlooking the Perfume River. The pagoda is an active Buddhist monastery and houses the Austin car that carried Thich Quang Duc to Saigon in 1963, where he self-immolated in protest against the South Vietnamese government's persecution of Buddhists — a photograph that shocked the world. Free entry."
+    },
+    {
+      "name": "Take a Perfume River boat cruise",
+      "description": "Hire a traditional dragon boat for a leisurely cruise along the Huong (Perfume) River. The river flows past the Citadel, Thien Mu Pagoda, and several Royal Tombs, and is named for the fragrant flowers that fall into its waters from riverside orchards. Sunset cruises are particularly atmospheric. Charter a boat from the south bank for 300,000-500,000 VND ($12-20) for 2-3 hours."
+    },
+    {
+      "name": "Experience Hue's royal cuisine (Com Cung Dinh)",
+      "description": "Hue's royal cuisine — originally prepared for the Nguyen emperors — is a refined, labor-intensive tradition involving dozens of small, exquisitely presented dishes. Restaurants like Ancient Hue and Y Thao Garden serve multi-course royal meals in elegant traditional settings for 300,000-800,000 VND ($12-32) per person. Even street food in Hue reflects this culinary heritage — the city's dishes tend to be more complex and artfully presented than elsewhere in Vietnam."
+    },
+    {
+      "name": "Eat banh beo, banh nam, and banh loc at Dong Ba Market",
+      "description": "Hue's trio of famous steamed rice cakes are unique to the city. Banh beo (water fern cake) are small, saucer-shaped steamed rice cakes topped with dried shrimp and crispy pork skin. Banh nam are flat, banana leaf-wrapped rice cakes with shrimp. Banh loc are translucent tapioca dumplings filled with shrimp and pork. The stalls inside Dong Ba Market serve all three for around 20,000-30,000 VND per serving."
+    }
+  ],
+  "food": {
+    "description": "Hue is widely considered Vietnam's culinary capital, with a food tradition profoundly shaped by its imperial history. The royal cuisine demanded that no dish be repeated within a month, driving extraordinary creativity. Today, Hue's food is characterized by complex flavors, artistic presentation, and a marked spiciness that distinguishes it from the milder cuisines of Hanoi and Saigon. Vegetarian food is also exceptionally good here due to the city's strong Buddhist tradition — on the 1st and 15th of each lunar month, many locals eat vegetarian.",
+    "specialties": [
+      "Bun Bo Hue — A rich, spicy beef and pork noodle soup with lemongrass, fermented shrimp paste, and thick round noodles. Considered one of Vietnam's three great noodle soups alongside pho and bun cha",
+      "Banh Beo, Banh Nam, Banh Loc — The 'holy trinity' of Hue steamed rice cakes, each with distinct textures and fillings, typically served together",
+      "Com Hen — Clam rice: baby clams from the Perfume River served over cold rice with a complex mix of herbs, peanuts, pork rinds, sesame, and chili",
+      "Banh Khoai — Hue's version of the crispy turmeric crepe, smaller and crunchier than southern banh xeo, served with a unique peanut-liver dipping sauce",
+      "Nem Lui — Grilled pork on lemongrass skewers, wrapped in rice paper with fresh herbs and vegetables, dipped in a rich peanut sauce",
+      "Hue Royal Cuisine (Com Cung Dinh) — Multi-course meals of miniature, elaborately prepared dishes recreating the imperial dining experience",
+      "Che Hue — Hue's famous sweet dessert soups come in numerous varieties, including lotus seed, corn, and black bean"
+    ]
+  },
+  "safety": "Hue is very safe for tourists. The city has a gentle, scholarly atmosphere and street crime against visitors is rare. The main safety considerations are traffic (as always in Vietnam), heavy rain and potential flooding during wet season (September-January), and sun exposure at the outdoor Royal Tombs during summer. Some tourists report being approached by persistent tour guides and cyclo drivers near the Citadel — a polite decline is sufficient. Tap water is not safe to drink.",
+  "localTips": [
+    "Buy a combo ticket for the Citadel plus Royal Tombs — it saves money and is valid for 2 days, giving you time to explore at a leisurely pace.",
+    "The train ride between Hue and Da Nang is one of the most scenic in Vietnam — even if you're traveling by road, consider taking the train one way over the Hai Van Pass. Sit on the right side heading south.",
+    "Visit the Royal Tombs early in the morning (before 9am) when they open to avoid tour groups and the midday heat.",
+    "Bun bo Hue (the spicy noodle soup) varies enormously by vendor — locals recommend Bun Bo Hue O Phuong (6 Nguyen Du) as among the most authentic.",
+    "Hue's garden houses (nha vuon) in the Kim Long area offer a unique glimpse of traditional Vietnamese residential architecture — some serve lunch or dinner by advance booking.",
+    "The Citadel is vast — rent a bicycle to cover more ground within the walls, or focus on the central Imperial Enclosure if time is limited.",
+    "Hue is an excellent base for a day trip to the DMZ (Demilitarized Zone) sites including the Vinh Moc Tunnels, Khe Sanh Combat Base, and the Ben Hai River bridge."
+  ],
+  "dayTrips": [
+    {
+      "name": "DMZ (Demilitarized Zone) Tour",
+      "distance": "80-100km north, full-day tour",
+      "description": "Visit the sites along the former dividing line between North and South Vietnam: the Vinh Moc Tunnels (where entire village families lived underground for years), Khe Sanh Combat Base, the Rockpile, the former Hien Luong/Ben Hai Bridge, and the Doc Mieu Firebase. Guided tours from Hue cost 500,000-800,000 VND ($20-32) per person."
+    },
+    {
+      "name": "Bach Ma National Park",
+      "distance": "60km south, approximately 1.5 hours by car",
+      "description": "A former French hill station at 1,450 meters elevation with well-maintained hiking trails through pristine tropical forest. The summit offers panoramic views of the coast, Hai Van Pass, and the surrounding mountains. The Rhododendron Trail and Five Lakes waterfall trail are highlights. Pack warm layers — it's significantly cooler at altitude."
+    },
+    {
+      "name": "Thanh Toan Bridge and countryside cycling",
+      "distance": "8km east, approximately 20 minutes by bicycle",
+      "description": "A beautiful covered Japanese-style bridge in a rural village setting, far less touristed than Hoi An's Japanese Bridge. Combine with cycling through rice paddies and farming villages on the outskirts of Hue for a peaceful half-day excursion."
+    },
+    {
+      "name": "Phong Nha-Ke Bang National Park",
+      "distance": "280km north, approximately 4-5 hours by car/bus",
+      "description": "Home to the world's largest cave (Son Doong) and the spectacular Paradise Cave and Phong Nha Cave, this UNESCO World Heritage Site is a must for adventure seekers. Too far for a day trip — plan at least 2-3 nights. Direct tourist shuttles run daily from Hue."
+    }
+  ],
+  "sources": [
+    "UNESCO World Heritage Centre — Complex of Hue Monuments",
+    "Vietnam National Administration of Tourism (vietnam.travel)",
+    "Lonely Planet Central Vietnam Guide",
+    "Hue Monuments Conservation Centre (huedisan.com.vn)"
+  ]
+}

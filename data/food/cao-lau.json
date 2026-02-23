@@ -1,0 +1,93 @@
+{
+  "slug": "cao-lau",
+  "name": { "en": "Cao Lau" },
+  "vietnameseName": "Cao Lầu",
+  "image": "/images/food/cao-lau.webp",
+  "category": "Noodle",
+  "spiceLevel": "mild",
+  "description": { "en": "A unique Hoi An specialty featuring thick, chewy noodles made with water from the ancient Ba Le well, topped with sliced pork, crispy croutons, fresh herbs, and a small amount of savory broth." },
+  "overview": "Cao lau is one of the most location-specific dishes in all of Vietnamese cuisine — it can only be authentically made in Hoi An, a charming ancient trading port on the central coast. The dish revolves around its extraordinary noodles, which are thick, chewy, and golden-brown, made using water drawn from the centuries-old Ba Le well (Giếng Bá Lệ) and lye water derived from the ash of trees found on the nearby Cham Islands. This unique preparation gives the noodles their distinctive color and firm, almost al dente bite that is unlike any other Vietnamese noodle. The noodles are topped with slices of char siu-style roasted pork, fresh bean sprouts, leafy herbs, and crispy croutons made from the same noodle dough, all moistened with just a few spoonfuls of concentrated, savory broth rather than a full soup. The result is a complex, textural dish that reflects Hoi An's history as a multicultural trading hub where Vietnamese, Chinese, and Japanese influences converged.",
+  "origin": {
+    "region": "Hoi An, Quang Nam Province, Central Vietnam",
+    "history": "Cao lau's origins are as layered as the dish itself. Hoi An was one of Southeast Asia's most important trading ports from the 15th to 19th centuries, welcoming merchants from China, Japan, India, and Europe. The dish shows clear multicultural influences: the thick noodles resemble Japanese udon, the char siu pork reflects Chinese roasting traditions, and the fresh herbs and nuoc mam are purely Vietnamese. Legend holds that the noodles can only be made with water from the Ba Le well, an ancient Cham-era well in the center of town, and that the lye ash must come from specific trees on the Cham Islands (Cu Lao Cham). While modern noodle makers may not adhere strictly to these traditions, the mythology surrounding cao lau is central to its identity. The dish cannot be replicated elsewhere precisely because of these hyper-local ingredient requirements, making it one of Vietnam's most terroir-driven foods."
+  },
+  "ingredients": {
+    "main": [
+      "Cao lau noodles (thick, chewy rice noodles made with Ba Le well water and lye ash)",
+      "Sliced char siu-style roasted pork (thịt xá xíu)",
+      "Crispy fried noodle croutons (made from the same cao lau dough)",
+      "A small amount of concentrated pork broth"
+    ],
+    "herbs": [
+      "Bean sprouts (giá đỗ)",
+      "Lettuce and leafy greens (rau sống)",
+      "Thai basil (húng quế)",
+      "Mint (húng lủi)",
+      "Sawtooth coriander (ngò gai)",
+      "Banana blossom (bắp chuối), shredded"
+    ],
+    "condiments": [
+      "Fish sauce (nước mắm)",
+      "Chili sauce or fresh chili slices",
+      "Lime wedges",
+      "Soy sauce"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Cao Lầu Truyền Thống (Traditional Cao Lau)",
+      "description": "The classic version with sliced char siu pork, crispy croutons, herbs, and a small amount of broth. This is what you will find at most stalls and restaurants in Hoi An."
+    },
+    {
+      "name": "Cao Lầu Đặc Biệt (Special Cao Lau)",
+      "description": "An upgraded version with extra toppings, sometimes including additional meats, a fried wonton, or extra croutons. Available at some restaurants."
+    },
+    {
+      "name": "Cao Lầu Chay (Vegetarian Cao Lau)",
+      "description": "A Buddhist vegetarian version replacing pork with tofu and mushrooms, available at some restaurants in Hoi An, particularly near temples."
+    }
+  ],
+  "howToOrder": "Simply order 'một cao lầu' (one cao lau). The dish comes in one standard form at most places. Some upscale restaurants offer 'cao lầu đặc biệt' (special) with extra toppings. Mix the noodles, pork, and herbs together before eating. The small amount of broth is meant to moisten the noodles, not to be a soup.",
+  "whereToEat": [
+    {
+      "name": "Cao Lầu Bà Bé",
+      "location": "Hoi An",
+      "note": "Inside Hoi An Central Market (Cho Hoi An). One of the most authentic and long-running cao lau stalls. Eat at the market for the genuine Hoi An street food experience. Best visited in the morning."
+    },
+    {
+      "name": "Cao Lầu Thanh",
+      "location": "Hoi An",
+      "note": "At 26 Thai Phien. A small, unassuming shop known among locals for excellent noodles with the proper chewy texture and well-seasoned pork."
+    },
+    {
+      "name": "Ong Hai (Mr. Hai) Cao Lau",
+      "location": "Hoi An",
+      "note": "In the Hoi An market area. Mr. Hai is one of the last traditional cao lau noodle makers who still uses the Ba Le well water and Cham Island ash in his noodle production."
+    },
+    {
+      "name": "Morning Glory Restaurant",
+      "location": "Hoi An",
+      "note": "At 106 Nguyen Thai Hoc. A well-known restaurant by chef Trinh Diem Vy, offering an elevated version of cao lau along with other Hoi An specialties. Good for those who want a more comfortable dining setting."
+    }
+  ],
+  "priceRange": {
+    "street": "30,000 - 45,000 VND ($1.25 - $1.90)",
+    "restaurant": "50,000 - 90,000 VND ($2.10 - $3.70)",
+    "upscale": "100,000 - 200,000 VND ($4.10 - $8.30)"
+  },
+  "tips": [
+    "Cao lau should ONLY be eaten in Hoi An — it simply cannot be authentically made elsewhere",
+    "Visit the Ba Le well (Gieng Ba Le) at 35/17 Phan Chu Trinh to see the legendary water source",
+    "Eat cao lau at the Hoi An Central Market in the morning for the most authentic experience",
+    "The noodles should be chewy and firm, not soft — this is their defining characteristic",
+    "Mix everything together before eating to combine the flavors of pork, herbs, croutons, and broth",
+    "Ask about the noodle-making process — many vendors are proud to explain the traditional methods"
+  ],
+  "culturalNotes": "Cao lau is one of the purest examples of a terroir-driven dish in Vietnamese cuisine — its identity is inseparable from the specific place where it is made. The Ba Le well, believed to have been dug by the Cham people centuries ago, and the specific type of ash from the Cham Islands create conditions that proponents say cannot be replicated anywhere else. Whether or not the water truly makes the difference, the mythology is central to the dish's cultural value. Cao lau also tells the story of Hoi An itself — a place where Vietnamese, Chinese, Japanese, and eventually European cultures met and mingled, creating something unique. Today, the dish is recognized as an intangible cultural heritage of Quang Nam province, and efforts are being made to preserve the traditional noodle-making techniques as modern convenience threatens to replace them.",
+  "sources": [
+    "Vietnam National Administration of Tourism",
+    "Lonely Planet Hoi An & Central Vietnam Guide",
+    "Quang Nam Province Department of Culture",
+    "Trinh Diem Vy, 'Taste of Hoi An' (The Gioi Publishers)"
+  ]
+}

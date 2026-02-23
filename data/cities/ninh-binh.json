@@ -1,0 +1,124 @@
+{
+  "slug": "ninh-binh",
+  "name": { "en": "Ninh Binh" },
+  "vietnameseName": "Ninh Bình",
+  "image": "/images/cities/ninh-binh.webp",
+  "region": "Northern Vietnam",
+  "highlights": ["Trang An Landscape Complex", "Tam Coc", "Bai Dinh Pagoda", "Limestone Karsts"],
+  "description": { "en": "Often called 'Ha Long Bay on land,' Ninh Binh province features dramatic limestone karsts rising from emerald rice paddies and winding waterways. The UNESCO-listed Trang An Landscape Complex, the boat-trip caves of Tam Coc, and the vast Bai Dinh Pagoda make this one of northern Vietnam's most visually stunning and culturally rich destinations." },
+  "overview": "Ninh Binh Province, located 95km south of Hanoi, is one of Vietnam's most visually spectacular destinations. The landscape is dominated by hundreds of limestone karst towers — geologically similar to Ha Long Bay's famous formations but rising from lush rice paddies instead of seawater, earning it the nickname 'Ha Long Bay on land' (Ha Long Bay tren can). The centerpiece is the Trang An Landscape Complex, a UNESCO World Heritage Site since 2014, recognized for both its outstanding natural beauty and archaeological significance (cave sites here show evidence of human habitation dating back 30,000 years). The region also encompasses the Tam Coc area (three cave grottoes along the Ngo Dong River), the ancient capital of Hoa Lu, the enormous Bai Dinh Pagoda complex, and the Van Long Nature Reserve. Despite its proximity to Hanoi and its extraordinary landscapes, Ninh Binh receives far fewer international tourists than Ha Long Bay, making it a more peaceful and immersive experience. The city of Ninh Binh itself is a small, unpretentious provincial capital — the attractions are in the surrounding countryside.",
+  "neighborhoods": [
+    {
+      "name": "Tam Coc Village Area",
+      "description": "The small village of Tam Coc, about 9km south of Ninh Binh city, is where most tourists base themselves. The village has a growing concentration of homestays, small hotels, and restaurants along the road to the Tam Coc boat dock. The setting is stunning — limestone karsts rise directly behind the village, rice paddies stretch in every direction, and the Ngo Dong River winds through it all. The area has a peaceful, rural atmosphere that contrasts sharply with Vietnam's cities.",
+      "highlights": ["Tam Coc boat dock (starting point for sampan rides)", "Limestone karst backdrop", "Homestays with rice paddy views", "Cycling through rice paddies"]
+    },
+    {
+      "name": "Trang An Area",
+      "description": "The Trang An Scenic Landscape Complex is located about 7km west of Ninh Binh city. The boat tour area has a well-organized ticketing system and landing stage from which sampans depart for 2-3 hour boat trips through a series of caves and along waterways surrounded by towering karsts. The area is less congested than Tam Coc and the boat route passes through longer and more dramatic caves.",
+      "highlights": ["Trang An boat tours (UNESCO site)", "Longer and more dramatic caves", "Well-organized visitor facilities", "King Kong: Skull Island filming location"]
+    },
+    {
+      "name": "Ninh Binh City",
+      "description": "The small provincial capital serves primarily as a transport hub and accommodation base for those not staying in Tam Coc. The city has a range of hotels, restaurants, and the Ninh Binh train station on the main Hanoi-HCMC line. While the city itself has limited attractions, the central market is worth a visit for local produce and the city makes a practical base for early-morning departures to the surrounding sites.",
+      "highlights": ["Transport hub (train station, bus connections)", "Budget accommodation", "Central market", "Restaurants and local food stalls"]
+    }
+  ],
+  "gettingThere": {
+    "byAir": "The nearest airports are Hanoi's Noi Bai International Airport (HAN), 120km north (approximately 2-2.5 hours by car), and Thanh Hoa's Tho Xuan Airport, 100km south. Most visitors travel from Hanoi by road.",
+    "byTrain": "Ninh Binh Railway Station is on the main Reunification Express line. Trains from Hanoi take 2-2.5 hours and cost from 75,000-120,000 VND ($3-5). This is an underrated option for budget travelers — trains depart several times daily from Hanoi Station. From the Ninh Binh station, a taxi to Tam Coc costs about 100,000 VND ($4).",
+    "byBus": "Tourist shuttle buses from Hanoi's Old Quarter run daily (2-2.5 hours, 150,000-200,000 VND/$6-8). Public buses from Hanoi's Giap Bat station are cheaper (70,000-90,000 VND) but slower. Most organized day trips from Hanoi include round-trip transport. From the south, buses from Thanh Hoa and Vinh stop at Ninh Binh."
+  },
+  "gettingAround": "Cycling is by far the best way to explore the Ninh Binh countryside. The flat terrain, quiet roads, and stunning scenery between Tam Coc, Bich Dong Pagoda, Thung Nham Bird Garden, and surrounding villages make this one of Vietnam's best cycling destinations. Most hotels and homestays provide free bicycles or rent them for 30,000-50,000 VND ($1.20-2) per day. For reaching Trang An, Bai Dinh Pagoda, and Hoa Lu (which are spread over a wider area), a motorbike (100,000-150,000 VND/day) or hired car with driver (800,000-1,200,000 VND/$32-48 per day) is necessary. Grab has limited availability in Ninh Binh.",
+  "bestTimeToVisit": {
+    "best": "May to June (rice season) or September to October",
+    "description": "The landscape changes dramatically with the rice growing cycle. Late May through June brings vivid green rice paddies beneath the karsts — the most iconic image of Ninh Binh. September-October shows golden ripe rice before harvest. Winter months are cool and often misty, which creates a moody atmosphere but duller colors.",
+    "seasons": {
+      "spring": "February-April: Warming and occasionally misty, 18-26°C. Rice planting begins, filling paddies with water that reflects the karsts. Tet celebrations at Bai Dinh Pagoda draw enormous Vietnamese crowds (avoid if possible).",
+      "summer": "May-August: Warm to hot, 28-36°C. Late May through June is the peak rice season when brilliant green paddies create the landscape seen in postcards. Afternoon rain showers are common but usually brief.",
+      "autumn": "September-October: The rice turns golden before harvest (late September-early October), creating another spectacular color palette. Comfortable temperatures, 24-30°C. Excellent cycling and photography weather.",
+      "winter": "November-January: Cool and often misty or overcast, 12-20°C. Rice paddies are mostly bare or flooded. The karsts look dramatic emerging from fog but the landscape lacks the vivid color of other seasons. Fewest tourists."
+    }
+  },
+  "budget": {
+    "backpacker": "$15-25/day",
+    "midRange": "$30-70/day",
+    "luxury": "$80-200+/day",
+    "details": "Hostel dorms from 80,000-120,000 VND ($3-5). Homestays with rice paddy views from 200,000-500,000 VND ($8-20). Boutique hotels from 600,000-1,500,000 VND ($24-60). Luxury (Ninh Binh Hidden Charm, Tam Coc Garden) from 2,000,000+ VND ($80+). Tam Coc boat trip: 150,000 VND ($6) per boat (fits 2 people) plus 50,000 VND entrance. Trang An boat trip: 200,000 VND ($8) per person including entrance. Bai Dinh Pagoda: free entry. Street food: 20,000-40,000 VND ($0.80-1.60). Restaurant meals: 80,000-200,000 VND ($3.20-8). Bicycle rental: 30,000-50,000 VND ($1.20-2)/day, often free from hotels."
+  },
+  "mustDo": [
+    {
+      "name": "Take a sampan boat ride at Tam Coc",
+      "description": "The classic Ninh Binh experience: a 2-hour rowboat trip along the Ngo Dong River, passing through three natural caves (Tam Coc means 'three caves') carved through the base of limestone mountains. The boats are rowed by local women, often skillfully using their feet. The river winds through rice paddies hemmed in by towering karsts, creating an almost surreal landscape. Best visited early morning (before 9am) to avoid crowds. Boats cost 150,000 VND ($6) and fit 2 passengers."
+    },
+    {
+      "name": "Explore the Trang An Scenic Landscape Complex",
+      "description": "The UNESCO World Heritage Site offers a 2-3 hour boat tour through a series of caves and along waterways surrounded by soaring karst peaks. There are three route options with different combinations of caves and temples. The caves at Trang An are longer and more dramatic than Tam Coc's — several require ducking as the boat passes through narrow, low-ceilinged passages. Trang An was used as a filming location for Kong: Skull Island (2017). Tickets: 200,000 VND ($8) per person including boat."
+    },
+    {
+      "name": "Cycle through the rice paddies",
+      "description": "The flat roads and paths connecting Tam Coc, Bich Dong Pagoda, Thung Nang, and the surrounding villages create a perfect cycling circuit of 15-25km. Pedaling through golden or green rice paddies with limestone mountains rising on all sides is one of Vietnam's most memorable outdoor experiences. Stop at Bich Dong Pagoda (a three-level Buddhist cave temple built into a cliff face), Thung Nham Bird Garden, and the many small temples and pagodas along the way."
+    },
+    {
+      "name": "Visit Bai Dinh Pagoda",
+      "description": "The largest Buddhist temple complex in Southeast Asia sprawls across a mountain valley 15km north of Ninh Binh. The complex includes over 500 Buddha statues, a 100-ton bronze Buddha, corridors lined with 500 Arhat statues, and a 13-story pagoda. An electric cart (30,000 VND) runs from the entrance to the main temples, which are built up the mountainside with sweeping valley views. Despite its modern construction (completed 2010), the scale is genuinely impressive. Free entry."
+    },
+    {
+      "name": "Climb to the Mua Cave viewpoint (Hang Mua)",
+      "description": "The undisputed best viewpoint in Ninh Binh: 500 stone steps climb steeply to the top of a karst peak, where a dragon sculpture marks the summit. The panoramic views over the Tam Coc river valley, rice paddies, and surrounding karst landscape are absolutely breathtaking and among the most photographed scenes in all of Vietnam. Visit at sunrise or late afternoon for the best light. The climb is strenuous but manageable in 20-30 minutes. Entrance: 100,000 VND ($4)."
+    },
+    {
+      "name": "Visit the ancient capital of Hoa Lu",
+      "description": "The capital of Vietnam from 968 to 1010 AD, before the seat of power moved to Hanoi. Two well-preserved 17th-century temples honoring the Dinh and Le dynasty emperors remain, set against a dramatic backdrop of karst mountains that provided natural fortification. The site conveys a sense of Vietnam's deep history in a beautiful setting. Located 12km from Ninh Binh city. Entrance: 20,000 VND ($0.80)."
+    }
+  ],
+  "food": {
+    "description": "Ninh Binh has a small but distinctive culinary tradition rooted in the region's limestone karst geography and agricultural heritage. The local food tends to be hearty and rustic, with several unique specialties not commonly found elsewhere in Vietnam. Most restaurants in the Tam Coc area serve these dishes alongside standard Vietnamese fare.",
+    "specialties": [
+      "Com Chay (Scorched Rice) — Ninh Binh's signature dish: rice is spread thin and scorched in a pan until crispy, then topped with a savory sauce of goat meat, pork, or vegetables. The crispy-chewy rice texture is unique",
+      "Thit De (Goat Meat) — Ninh Binh is famous throughout Vietnam for its goat dishes. Mountain goats graze on the limestone karsts, and their meat is served grilled, in hot pot, steamed, or stir-fried with lemon leaves. Goat restaurants line the roads near Tam Coc",
+      "Mien Luon (Eel Vermicelli) — Glass noodle soup with freshwater eel from the rice paddies, a local breakfast staple",
+      "Nem Chua Yen Mac — Fermented raw pork wrapped in banana leaves with garlic and chili, a tangy regional delicacy",
+      "Oc Nui (Mountain Snails) — Small snails gathered from the karst mountains, boiled and dipped in a ginger-chili sauce",
+      "Kim Son Steamed Rice Rolls — A local variation of banh cuon from the coastal Kim Son district, served with fish sauce and fresh herbs"
+    ]
+  },
+  "safety": "Ninh Binh is extremely safe, with virtually no crime affecting tourists. The main safety considerations are road safety when cycling (stay on smaller paths when possible and be cautious at road crossings), the steep and sometimes slippery climb at Mua Cave (wear proper shoes, not flip-flops), and sun exposure during the hot months. The boat rides at Tam Coc and Trang An are very safe but sit calmly in the boat. Some visitors report Tam Coc boatswomen requesting additional tips or pressuring visitors to buy embroidered goods — a polite decline is sufficient. Tap water is not safe to drink.",
+  "localTips": [
+    "Stay in Tam Coc village rather than Ninh Binh city — the village has far better accommodation options (many with stunning karst and rice paddy views), and you'll be close to the main attractions.",
+    "Visit Tam Coc boat dock before 7:30am or after 2pm to avoid the worst crowds. Early morning offers the best light and the mist rising from the rice paddies is magical.",
+    "The Mua Cave viewpoint is best at sunrise or in the late afternoon — midday visits are brutally hot and the light is flat for photography. Bring water.",
+    "If choosing between Tam Coc and Trang An, Trang An offers a more complete experience with longer caves and better organization, while Tam Coc has the more iconic rice paddy scenery. Ideally, do both.",
+    "The rice harvest timing varies by year but typically falls in late September to early October (golden paddies) and late May through June (vivid green). Check locally for exact timing.",
+    "Bai Dinh Pagoda is best combined with Trang An in a single half-day since they are near each other. Visit Bai Dinh first (early morning, before tour groups) then continue to Trang An.",
+    "Rent a bicycle and explore beyond the main tourist routes — the paths leading south from Tam Coc toward Thung Nham Bird Garden pass through some of the most stunning countryside in all of Vietnam."
+  ],
+  "dayTrips": [
+    {
+      "name": "Cuc Phuong National Park",
+      "distance": "45km west, approximately 1 hour by car",
+      "description": "Vietnam's first national park (established 1962) protects one of the country's last remaining tracts of primary lowland tropical forest. Highlights include the Endangered Primate Rescue Center (which rehabilitates langurs and gibbons), an ancient 1,000-year-old tree, caves with prehistoric human remains, and excellent hiking trails through old-growth forest. Allow a full day."
+    },
+    {
+      "name": "Van Long Nature Reserve",
+      "distance": "20km north, approximately 30 minutes by car",
+      "description": "A tranquil wetland reserve with dramatic karst scenery and boat trips through calm waterways — often described as a quieter, less commercial version of Tam Coc. Van Long is an important habitat for the critically endangered Delacour's langur. Boat rides cost about 60,000 VND per person."
+    },
+    {
+      "name": "Phat Diem Cathedral",
+      "distance": "30km southeast, approximately 45 minutes by car",
+      "description": "A remarkable 19th-century Catholic cathedral blending Vietnamese and European architectural styles. The stone-and-wood complex, built between 1875 and 1898, incorporates pagoda-like rooflines with Gothic elements. The cathedral was featured in Graham Greene's 'The Quiet American.' Entry is free."
+    },
+    {
+      "name": "Kenh Ga (Chicken Village) hot springs and boat trip",
+      "distance": "25km northeast, approximately 40 minutes by car",
+      "description": "A floating village accessible by boat ride along a river winding through karst scenery. Natural hot springs emerge along the riverbank. Less visited than Tam Coc or Trang An, offering a more off-the-beaten-path Ninh Binh experience."
+    }
+  ],
+  "sources": [
+    "UNESCO World Heritage Centre — Trang An Landscape Complex",
+    "Vietnam National Administration of Tourism (vietnam.travel)",
+    "Lonely Planet Northern Vietnam Guide",
+    "Ninh Binh Province Tourism Department"
+  ]
+}

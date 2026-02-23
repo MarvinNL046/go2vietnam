@@ -1,1 +1,65 @@
-[]
+[
+  {
+    "slug": "ca-phe-sua-da",
+    "name": { "en": "Vietnamese Iced Coffee" },
+    "image": "/images/drinks/ca-phe-sua-da.webp",
+    "category": "Coffee",
+    "description": { "en": "Strong dark roast coffee brewed through a traditional phin filter, mixed with sweetened condensed milk, and poured over ice. This is the drink that defines Vietnamese coffee culture and fuels the nation from sidewalk cafes to five-star hotels." }
+  },
+  {
+    "slug": "ca-phe-trung",
+    "name": { "en": "Egg Coffee" },
+    "image": "/images/drinks/ca-phe-trung.webp",
+    "category": "Coffee",
+    "description": { "en": "A rich, creamy coffee topped with a whipped egg yolk and condensed milk foam, invented in 1940s Hanoi as a substitute when fresh milk was scarce. This decadent drink tastes like liquid tiramisu and has become one of the capital's most iconic specialties." }
+  },
+  {
+    "slug": "ca-phe-muoi",
+    "name": { "en": "Salted Coffee" },
+    "image": "/images/drinks/ca-phe-muoi.webp",
+    "category": "Coffee",
+    "description": { "en": "A trending Vietnamese coffee variation originating from Hue that tops robust phin-dripped coffee with a salted cream foam. The interplay of bitter coffee, sweet condensed milk, and a pinch of salt creates an unexpectedly addictive flavor profile." }
+  },
+  {
+    "slug": "bia-hoi",
+    "name": { "en": "Fresh Draft Beer" },
+    "image": "/images/drinks/bia-hoi.webp",
+    "category": "Beer",
+    "description": { "en": "Ultra-fresh, unfiltered draft beer brewed daily and served at low-slung sidewalk stalls across Hanoi. At around 25 cents per glass, bia hoi is among the cheapest beers in the world and one of Vietnam's most beloved social traditions." }
+  },
+  {
+    "slug": "sinh-to",
+    "name": { "en": "Tropical Fruit Smoothie" },
+    "image": "/images/drinks/sinh-to.webp",
+    "category": "Smoothie",
+    "description": { "en": "Fresh tropical fruit smoothies blended with ice and condensed milk, available at street stalls nationwide. From avocado and mango to soursop and sapodilla, sinh to showcases Vietnam's extraordinary bounty of tropical fruits." }
+  },
+  {
+    "slug": "nuoc-mia",
+    "name": { "en": "Fresh Sugarcane Juice" },
+    "image": "/images/drinks/nuoc-mia.webp",
+    "category": "Juice",
+    "description": { "en": "Freshly pressed sugarcane juice extracted through hand-cranked or motorized rollers at street-side carts, often mixed with a squeeze of kumquat or calamansi. This refreshing, naturally sweet drink is a beloved thirst quencher in Vietnam's tropical heat." }
+  },
+  {
+    "slug": "tra-da",
+    "name": { "en": "Vietnamese Iced Tea" },
+    "image": "/images/drinks/tra-da.webp",
+    "category": "Tea",
+    "description": { "en": "Complimentary iced green tea served automatically at nearly every restaurant, cafe, and street food stall in Vietnam. This light, slightly bitter tea is as ubiquitous as water and serves as the default drink that accompanies every Vietnamese meal." }
+  },
+  {
+    "slug": "tra-sen",
+    "name": { "en": "Lotus Tea" },
+    "image": "/images/drinks/tra-sen.webp",
+    "category": "Tea",
+    "description": { "en": "Premium Vietnamese tea scented with the delicate fragrance of lotus blossoms, traditionally prepared by placing tea leaves inside lotus flowers overnight. This refined drink has been a symbol of Vietnamese elegance and hospitality for centuries." }
+  },
+  {
+    "slug": "ruou-can",
+    "name": { "en": "Reed Straw Rice Wine" },
+    "image": "/images/drinks/ruou-can.webp",
+    "category": "Alcohol",
+    "description": { "en": "Traditional fermented rice wine stored in large ceramic jars and communally sipped through long bamboo straws. This ceremonial drink of Vietnam's Central Highland ethnic minorities is central to community celebrations, harvests, and welcoming guests." }
+  }
+]

@@ -1,0 +1,94 @@
+{
+  "slug": "bun-rieu",
+  "name": { "en": "Bun Rieu" },
+  "vietnameseName": "Bún Riêu",
+  "image": "/images/food/bun-rieu.webp",
+  "category": "Soup",
+  "spiceLevel": "mild",
+  "description": { "en": "A tangy, tomato-based noodle soup enriched with freshwater crab paste formed into delicate egg-crab cakes, served with rice vermicelli, tofu puffs, and a medley of fresh herbs and vegetables." },
+  "overview": "Bun rieu is one of Vietnam's most distinctive noodle soups, immediately recognizable by its vibrant red-orange broth and floating pillows of crab-egg mixture. The broth is built on a base of freshwater paddy crab (cua đồng) pounded into a paste and strained, combined with ripe tomatoes to create a soup that is simultaneously tangy, sweet, and deeply savory with umami from the crab. The crab paste is mixed with egg and spooned into the simmering broth, where it sets into soft, custard-like cakes that float on the surface. Rice vermicelli noodles form the base, and the bowl is completed with fried tofu puffs, tomato wedges, and often a spoonful of mam tom (fermented shrimp paste) for those who want an extra layer of pungent depth. A generous plate of herbs, shredded banana blossom, and water spinach accompanies every bowl. Bun rieu is especially beloved in northern Vietnam and is a common choice for a light yet satisfying lunch.",
+  "origin": {
+    "region": "Northern Vietnam (Red River Delta)",
+    "history": "Bun rieu has ancient roots in the Vietnamese countryside, originating in the rice paddies of the Red River Delta where small freshwater crabs (cua đồng) were abundant. These tiny crabs — too small to eat on their own — were pounded whole in a stone mortar, creating a flavorful paste that became the basis for the broth. The addition of tomatoes likely came later, as tomatoes were introduced to Vietnam through trade with the Portuguese and Spanish in the 16th-17th centuries. The dish represents the ingenuity of Vietnamese peasant cooking: using humble, readily available ingredients to create something flavorful and nourishing. Over time, bun rieu spread throughout Vietnam, with regional variations developing in the central and southern regions, though the northern version remains the most traditional."
+  },
+  "ingredients": {
+    "main": [
+      "Rice vermicelli noodles (bún)",
+      "Freshwater crab paste (riêu cua) mixed with egg, forming soft crab-egg cakes",
+      "Ripe tomatoes, cut into wedges",
+      "Fried tofu puffs (đậu phụ rán)",
+      "Pork bones for base broth"
+    ],
+    "herbs": [
+      "Thai basil (húng quế)",
+      "Perilla leaves (tía tô)",
+      "Vietnamese balm (kinh giới)",
+      "Banana blossom (bắp chuối), shredded",
+      "Water spinach (rau muống)",
+      "Cilantro (ngò rí)"
+    ],
+    "condiments": [
+      "Fermented shrimp paste (mắm tôm) — the traditional accompaniment",
+      "Lime wedges",
+      "Fresh chili slices",
+      "Fish sauce (nước mắm)",
+      "Chili vinegar"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Bún Riêu Cua (Classic Crab Bun Rieu)",
+      "description": "The original and most common version with freshwater crab paste broth, tomatoes, and crab-egg cakes. This is the standard bun rieu."
+    },
+    {
+      "name": "Bún Riêu Cua Ốc (Crab and Snail)",
+      "description": "An enhanced version adding boiled snails (ốc) to the bowl, popular in Hanoi. The snails add a chewy texture and additional flavor depth."
+    },
+    {
+      "name": "Bún Riêu Chả (With Pork Meatballs)",
+      "description": "Includes fried pork and crab meatballs (chả) in addition to the standard toppings. Creates a heartier, more protein-rich bowl."
+    },
+    {
+      "name": "Bún Riêu Bò (Beef Bun Rieu)",
+      "description": "A less common variation using beef broth and beef slices alongside the crab paste. Found mainly in southern Vietnam."
+    }
+  ],
+  "howToOrder": "Order 'một bún riêu' for the standard crab version. 'Bún riêu cua ốc' adds snails. If you are unsure about fermented shrimp paste (mam tom), ask for it on the side rather than mixed in. Say 'không mắm tôm' if you want none at all. 'Thêm bún' for extra noodles.",
+  "whereToEat": [
+    {
+      "name": "Bún Riêu Cua Bà Xuân",
+      "location": "Hanoi",
+      "note": "At 23 Hang Lược, Old Quarter. A beloved Hanoi institution serving excellent traditional bun rieu with rich crab flavor and perfect crab-egg cakes."
+    },
+    {
+      "name": "Bún Ốc - Bún Riêu 73 Mai Hắc Đế",
+      "location": "Hanoi",
+      "note": "At 73 Mai Hac De. Famous for their combination of bun rieu with snails, a quintessential Hanoi pairing. Very popular with locals at lunchtime."
+    },
+    {
+      "name": "Bún Riêu Gánh",
+      "location": "Ho Chi Minh City",
+      "note": "At 33 Le Quoc Hung, District 4. 'Gánh' means shoulder pole, referencing the traditional way bun rieu was sold by wandering vendors. Authentic and well-loved."
+    }
+  ],
+  "priceRange": {
+    "street": "30,000 - 45,000 VND ($1.25 - $1.90)",
+    "restaurant": "50,000 - 85,000 VND ($2.10 - $3.50)",
+    "upscale": "90,000 - 180,000 VND ($3.70 - $7.50)"
+  },
+  "tips": [
+    "Try mam tom (fermented shrimp paste) in your bun rieu — it is the traditional accompaniment and adds incredible depth, but ask for it on the side first if you are new to it",
+    "The crab-egg cakes should be soft and custard-like, not rubbery — this indicates freshly made crab paste",
+    "Squeeze lime generously into the broth to brighten the tangy tomato flavors",
+    "Bun rieu is best as a lunch dish and many stalls only serve it from 10:00 AM to 2:00 PM",
+    "This is considered one of Vietnam's 'top three' noodle soups alongside pho and bun bo Hue",
+    "The tomato gives the broth a beautiful color but also a natural sweetness — no added sugar needed"
+  ],
+  "culturalNotes": "Bun rieu is a dish that connects urban Vietnamese to their rural roots. The freshwater paddy crabs used in the broth come from the rice paddies that define Vietnam's agricultural landscape, and for many people, bun rieu evokes memories of countryside living and family cooking. In the past, bun rieu was sold by women carrying a shoulder pole (gánh) with the broth pot on one end and the noodles and toppings on the other — a mobile kitchen that served neighborhoods across cities and villages. While this traditional selling method is now rare, it remains an iconic image in Vietnamese culinary memory. Bun rieu is also associated with the mam tom debate — Vietnamese are divided on whether the fermented shrimp paste belongs in the soup, making it a fun topic of conversation at any meal.",
+  "sources": [
+    "Vietnam National Administration of Tourism",
+    "Lonely Planet Vietnam Food Guide",
+    "Andrea Nguyen, 'Into the Vietnamese Kitchen' (Ten Speed Press, 2006)",
+    "VnExpress International — 'Vietnam's Best Noodle Soups'"
+  ]
+}

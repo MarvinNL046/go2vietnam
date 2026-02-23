@@ -1,0 +1,109 @@
+{
+  "slug": "pho",
+  "name": { "en": "Pho" },
+  "vietnameseName": "Phở",
+  "image": "/images/food/pho.webp",
+  "category": "Soup",
+  "spiceLevel": "mild",
+  "description": { "en": "Vietnam's iconic rice noodle soup featuring a deeply aromatic broth simmered for hours with star anise, cinnamon, and charred ginger, served with silky flat noodles and your choice of beef or chicken." },
+  "overview": "Pho is arguably the most recognized Vietnamese dish worldwide, a fragrant and comforting rice noodle soup that has become synonymous with Vietnamese cuisine. The soul of pho lies in its broth, which is painstakingly simmered for 12 to 24 hours using beef bones, charred onions, ginger, and a carefully balanced blend of whole spices including star anise, cinnamon bark, cardamom, cloves, and coriander seeds. The result is a clear yet deeply flavored liquid served over flat rice noodles (bánh phở) and topped with thinly sliced meat, fresh herbs, and a squeeze of lime. While pho is available throughout the day, most Vietnamese eat it as a breakfast dish, starting their morning at small sidewalk stalls where the broth has been simmering since before dawn.",
+  "origin": {
+    "region": "Northern Vietnam (Nam Dinh / Hanoi)",
+    "history": "Pho originated in the early 20th century in northern Vietnam, most likely in the Nam Dinh province or Hanoi area. The dish is believed to have been influenced by both Chinese and French culinary traditions — the slow-simmered bone broth technique resembles Chinese cooking methods, while the use of beef may have been spurred by French colonial demand for the meat. The word 'phở' may derive from the French 'pot-au-feu' (a French beef stew) or the Cantonese 'ngau yuk fun' (beef noodle soup). After the 1954 partition of Vietnam, many northerners migrated south, bringing pho with them and giving rise to the distinctly different southern style. Today, pho is recognized as Vietnam's national dish and was inscribed on Vietnam's National Intangible Cultural Heritage list."
+  },
+  "ingredients": {
+    "main": [
+      "Flat rice noodles (bánh phở)",
+      "Beef bones (leg bones, knuckle bones, oxtail)",
+      "Thinly sliced beef (sirloin, flank, brisket, tendon, tripe) or whole chicken",
+      "Charred onion and ginger"
+    ],
+    "spices": [
+      "Star anise (đại hồi)",
+      "Cinnamon bark (quế)",
+      "Whole cloves (đinh hương)",
+      "Cardamom pods (thảo quả)",
+      "Coriander seeds (hạt ngò)",
+      "Fennel seeds (tiểu hồi)"
+    ],
+    "herbs": [
+      "Thai basil (húng quế)",
+      "Cilantro / coriander (ngò rí)",
+      "Green onions (hành lá)",
+      "Sawtooth coriander (ngò gai)"
+    ],
+    "condiments": [
+      "Hoisin sauce (tương đen)",
+      "Sriracha or chili sauce (tương ớt)",
+      "Lime wedges",
+      "Bean sprouts (giá)",
+      "Fresh chili slices",
+      "Fish sauce (nước mắm)"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Phở Bò Tái (Rare Beef Pho)",
+      "description": "The most popular variant: paper-thin slices of raw beef sirloin are placed on top and cook instantly when the boiling broth is ladled over them, resulting in perfectly tender, pink-centered meat."
+    },
+    {
+      "name": "Phở Bò Chín (Well-Done Beef Pho)",
+      "description": "Features pre-cooked beef brisket or flank that has been simmered in the broth until tender. The meat is sliced thin and has a more robust, deeper beef flavor."
+    },
+    {
+      "name": "Phở Gà (Chicken Pho)",
+      "description": "A lighter, more delicate version using whole chicken to make the broth. The meat is shredded or sliced and placed on top. Often considered easier to digest and popular as a lighter meal."
+    },
+    {
+      "name": "Phở Bò Viên (Beef Meatball Pho)",
+      "description": "Served with homemade beef meatballs that are bouncy and chewy in texture. Often combined with sliced beef for a 'phở tái bò viên' combination bowl."
+    },
+    {
+      "name": "Phở Hà Nội vs Phở Sài Gòn",
+      "description": "Northern (Hanoi) style pho features a clearer, more delicate broth with fewer garnishes — just green onion, cilantro, and a squeeze of lime. Southern (Saigon) style uses a slightly sweeter broth and is served with a large plate of herbs, bean sprouts, hoisin sauce, and chili sauce. The noodles in the south also tend to be slightly thinner."
+    }
+  ],
+  "howToOrder": "Order 'phở bò tái' for rare beef slices or 'phở bò chín' for well-done beef. 'Phở gà' gets you chicken pho. Ask for 'tô lớn' for a large bowl or 'tô nhỏ' for a small. If you want extra noodles, say 'thêm bánh'. At most stalls, simply say 'một phở bò' (one beef pho) and point to indicate your size preference. Some shops offer combination bowls like 'phở tái nạm' (rare beef and flank) or 'phở đặc biệt' (special with all cuts).",
+  "whereToEat": [
+    {
+      "name": "Phở Thìn Bờ Hồ",
+      "location": "Hanoi",
+      "note": "Famous since 1979 at 61 Dinh Tien Hoang, near Hoan Kiem Lake. Known for a unique stir-fried beef style where the beef is quickly seared in a wok with garlic before adding to the broth."
+    },
+    {
+      "name": "Phở Gia Truyền Bát Đàn",
+      "location": "Hanoi",
+      "note": "Legendary pho stall at 49 Bat Dan Street. Open since the 1960s, it draws long queues every morning. No-frills service with an exceptionally clean and balanced beef broth."
+    },
+    {
+      "name": "Phở Hòa Pasteur",
+      "location": "Ho Chi Minh City",
+      "note": "Iconic Saigon-style pho at 260C Pasteur Street, District 3. Operating since 1968, known for rich broth and generous toppings served with a full herb plate."
+    },
+    {
+      "name": "Phở Lệ",
+      "location": "Ho Chi Minh City",
+      "note": "A favorite at 413 Nguyen Trai, District 5. Known for their intensely flavored, slightly sweet broth and excellent beef meatballs."
+    }
+  ],
+  "priceRange": {
+    "street": "35,000 - 55,000 VND ($1.50 - $2.30)",
+    "restaurant": "60,000 - 120,000 VND ($2.50 - $5.00)",
+    "upscale": "150,000 - 300,000 VND ($6.00 - $12.00)"
+  },
+  "tips": [
+    "Eat pho for breakfast like the locals — the best stalls open at 6:00 AM and often sell out by 10:00 AM",
+    "The best pho shops usually specialize in pho only and serve nothing else",
+    "Do not add hoisin sauce in Hanoi — locals consider it a southern habit and some shops will not even have it on the table",
+    "Squeeze lime directly into the broth and tear basil leaves before adding them to release more flavor",
+    "Taste the broth on its own before adding any condiments to appreciate the cook's craft",
+    "Look for shops with a constant stream of local customers — high turnover means fresh broth"
+  ],
+  "culturalNotes": "Pho is far more than just a soup in Vietnam — it is a cultural institution woven into daily life. For many Vietnamese, the day begins at a familiar pho stall where the owner knows their regular order. Pho also serves as a social equalizer: business executives and motorbike taxi drivers sit on the same tiny plastic stools at the same sidewalk stalls. The dish gained international prominence after the Vietnam War, when the Vietnamese diaspora brought it to cities around the world. In 2024, pho was added to Vietnam's National Intangible Cultural Heritage list, and there is even a 'Day of Pho' (Ngày của Phở) celebrated annually on December 12th, organized by Tuoi Tre newspaper since 2017.",
+  "sources": [
+    "Vietnam National Administration of Tourism",
+    "Lonely Planet Vietnam Food Guide",
+    "Andrea Nguyen, 'The Pho Cookbook' (Ten Speed Press, 2017)",
+    "Tuoi Tre News — Ngày của Phở (Day of Pho)"
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "slug": "ho-chi-minh-city",
+  "name": { "en": "Ho Chi Minh City (Saigon)" },
+  "vietnameseName": "Thành phố Hồ Chí Minh",
+  "image": "/images/cities/ho-chi-minh-city.webp",
+  "region": "Southern Vietnam",
+  "highlights": ["War Remnants Museum", "Cu Chi Tunnels", "Ben Thanh Market", "Rooftop Bars"],
+  "description": { "en": "Vietnam's largest and most dynamic city pulses with energy from dawn to well past midnight. Known locally as Saigon, this southern metropolis offers world-class street food, sobering war history museums, French colonial landmarks, and a booming modern skyline that rivals any Southeast Asian capital." },
+  "overview": "Ho Chi Minh City — still universally called Saigon by locals — is Vietnam's economic engine and largest city, home to over 9 million people (13 million in the greater metropolitan area). Originally a small Khmer fishing village, it became the capital of French Cochinchina in the 1860s and later the capital of South Vietnam. After reunification in 1975, it was renamed Ho Chi Minh City, though the name Saigon endures in everyday conversation and even on the city's airport code (SGN). Today the city is a study in contrasts: century-old pagodas stand in the shadow of glass skyscrapers, street vendors with bamboo shoulder poles navigate between luxury SUVs, and serene Buddhist temples sit just blocks from thumping rooftop bars. The energy is relentless, the food scene is extraordinary, and the war history sites are deeply moving. District 1 is the historic heart, but neighborhoods like District 3, Binh Thanh, and Thu Duc (formerly District 2/Thao Dien) each offer distinct personalities.",
+  "neighborhoods": [
+    {
+      "name": "District 1 (Quận 1)",
+      "description": "The historic and commercial center of Saigon, where most tourists spend their time. This compact district contains the city's major French colonial landmarks, the famous backpacker strip of Bui Vien, luxury hotels, and the central Ben Thanh Market. Dong Khoi Street is the upscale shopping and dining corridor, while Nguyen Hue Walking Street is a popular promenade lined with cafes and the iconic People's Committee Hall.",
+      "highlights": ["Notre-Dame Cathedral Basilica", "Central Post Office", "Nguyen Hue Walking Street", "Bui Vien backpacker area"]
+    },
+    {
+      "name": "District 3 (Quận 3)",
+      "description": "Widely considered the most livable and local-feeling district in central Saigon. District 3 has tree-lined residential streets, excellent local restaurants, trendy cafes, and a more relaxed atmosphere than District 1. Vo Van Tan and Tran Quoc Thao streets are dotted with beautiful French colonial villas, many now converted into restaurants and boutiques.",
+      "highlights": ["War Remnants Museum", "Authentic local restaurants", "Hip cafe culture", "Jade Emperor Pagoda"]
+    },
+    {
+      "name": "Thao Dien (Thu Duc City)",
+      "description": "Across the Saigon River, this affluent neighborhood (formerly in District 2) is the expat hub of the city. Thao Dien has a distinctly international feel with organic grocery stores, international schools, Western restaurants, yoga studios, and craft beer bars. The area is connected to District 1 by the Thu Thiem Bridge and the new Metro Line 1.",
+      "highlights": ["International dining scene", "Craft breweries", "Riverside parks", "Weekend brunch culture"]
+    },
+    {
+      "name": "Cholon — District 5 (Quận 5)",
+      "description": "Saigon's Chinatown is one of the largest in the world, with a history stretching back over 300 years. The bustling Binh Tay Market is the commercial center, while ornate Chinese temples, herbal medicine shops, and some of the city's best Chinese-Vietnamese food line the atmospheric streets. Cholon feels like a different city entirely from the rest of Saigon.",
+      "highlights": ["Binh Tay Market", "Thien Hau Temple", "Chinese-Vietnamese street food", "Traditional medicine shops"]
+    }
+  ],
+  "gettingThere": {
+    "byAir": "Tan Son Nhat International Airport (SGN) is located just 7km from the city center in Tan Binh District, making it one of the most conveniently located major airports in Southeast Asia. It serves as Vietnam's busiest airport with direct flights to major cities across Asia, Europe, Australia, and North America. A Grab car to District 1 costs approximately 100,000-150,000 VND ($4-6) and takes 20-45 minutes depending on traffic. The airport bus (route 109) runs to the city center for 20,000 VND ($0.80). Metered taxis from official stands cost similar to Grab.",
+    "byTrain": "Saigon Railway Station (Ga Sài Gòn) on Nguyen Thong Street in District 3 is the southern terminus of the Reunification Express. Trains run daily to Nha Trang (7-9 hours), Da Nang (17-20 hours), Hue (19-22 hours), and Hanoi (30-34 hours). Sleeper berths are recommended for overnight journeys. The SE1-SE8 trains are the fastest and most comfortable.",
+    "byBus": "Long-distance buses depart from multiple stations. Mien Dong Bus Station (eastern routes: Nha Trang, Da Lat, Mui Ne) and Mien Tay Bus Station (western routes: Mekong Delta, Can Tho, Phu Quoc ferry). Modern sleeper buses from operators like Phuong Trang (FUTA), Hanh Cafe, and The Sinh Tourist offer comfortable overnight options."
+  },
+  "gettingAround": "Grab is the dominant ride-hailing app and the most convenient way to get around. Grab Bike rides within central Saigon cost 15,000-30,000 VND ($0.60-1.20), while Grab Car rides are typically 30,000-80,000 VND ($1.20-3.20) within the center. The new Metro Line 1 (Ben Thanh to Suoi Tien) opened in late 2024, connecting District 1 to Thu Duc. City buses cover major routes for 6,000-7,000 VND but are slow in traffic. Walking is practical within districts but crossing between districts on foot is challenging due to distances and heat. Renting a motorbike is popular but Saigon traffic is intense — experienced riders only.",
+  "bestTimeToVisit": {
+    "best": "December to April",
+    "description": "The dry season brings sunny skies and lower humidity, making sightseeing more comfortable. However, Ho Chi Minh City is a year-round destination — even in the wet season, rain typically comes in intense but short afternoon downpours, leaving mornings and evenings clear.",
+    "seasons": {
+      "spring": "February-April: End of dry season, hot and sunny, 28-35°C. Tet (Vietnamese New Year) in January/February brings festive decorations but many businesses close for a week.",
+      "summer": "May-August: Wet season begins, 27-34°C. Afternoon thunderstorms are common but usually brief (30-60 minutes). Lush green surroundings, lower tourist numbers.",
+      "autumn": "September-November: Peak of wet season, 26-32°C. September and October see the heaviest rainfall, with occasional flooding in low-lying streets. Still very manageable for tourism.",
+      "winter": "December-January: Dry season, 25-32°C. The most comfortable weather, with lower humidity. Christmas and New Year bring festive decorations to Nguyen Hue Street."
+    }
+  },
+  "budget": {
+    "backpacker": "$25-45/day",
+    "midRange": "$60-150/day",
+    "luxury": "$200-500+/day",
+    "details": "Hostel dorms on Bui Vien from 150,000-250,000 VND ($6-10). Budget hotels in District 1 range from 500,000-900,000 VND ($20-36). Mid-range boutique hotels cost 1,500,000-3,500,000 VND ($60-140). Street food meals cost 30,000-60,000 VND ($1.20-2.50). Mid-range restaurants charge 150,000-400,000 VND ($6-16). Craft beer runs 80,000-120,000 VND ($3.20-4.80). Rooftop bar cocktails cost 200,000-400,000 VND ($8-16). A coffee at a trendy cafe is 40,000-70,000 VND ($1.60-2.80)."
+  },
+  "mustDo": [
+    {
+      "name": "Visit the War Remnants Museum",
+      "description": "One of the most visited museums in Vietnam, with harrowing exhibits on the American War (as it's known in Vietnam), including the effects of Agent Orange, the Son My (My Lai) massacre, and the war's impact on civilians. The collection of photographs by international war correspondents is particularly powerful. Allow 2-3 hours. Located on Vo Van Tan Street in District 3. Admission: 40,000 VND ($1.60)."
+    },
+    {
+      "name": "Explore the Cu Chi Tunnels",
+      "description": "This vast underground network stretching over 250 kilometers was used by Viet Cong guerrillas during the American War. Two sites are open to visitors — Ben Dinh (more tourist-friendly, 70km from the city) and Ben Duoc (less crowded, 80km). Visitors can crawl through widened tunnel sections, see trap demonstrations, and fire AK-47s at the shooting range. Half-day tours start from $15-25."
+    },
+    {
+      "name": "Wander through Ben Thanh Market",
+      "description": "Saigon's most iconic market, operating since 1912, is a sensory overload of souvenirs, clothing, spices, coffee, and food stalls. Come for the atmosphere and food court rather than bargain shopping (prices are inflated for tourists — start negotiations at 40-50% of the asking price). At night, the surrounding streets transform into a busy night market with street food stalls."
+    },
+    {
+      "name": "Drink cocktails with a skyline view",
+      "description": "Saigon's rooftop bar scene is world-class. The Saigon Saigon Bar atop the Caravelle Hotel is a historic favorite (war correspondents gathered here in the 1960s). Chill Skybar on the 26th floor of the AB Tower and the Deck at the Reverie Saigon offer stunning panoramic views. For a more local experience, try the rooftop bars along Bui Vien where cold beers cost a fraction of the fancy spots."
+    },
+    {
+      "name": "Take a food tour through District 4 or the alleys of District 1",
+      "description": "Ho Chi Minh City's street food rivals Hanoi's, with bolder, sweeter flavors reflecting southern Vietnamese cuisine. Must-try dishes include banh mi (the city's legendary baguette sandwiches, try Banh Mi Huynh Hoa on Le Thi Rieng), hu tieu (southern rice noodle soup), com tam (broken rice with grilled pork), and bo kho (beef stew). Guided food tours from operators like XO Tours and Saigon Street Eats provide expert navigation."
+    },
+    {
+      "name": "Admire the Saigon Notre-Dame Cathedral and Central Post Office",
+      "description": "The neo-Romanesque Notre-Dame Cathedral (built 1863-1880 with bricks imported from Marseille) stands across from the stunning Central Post Office designed by Gustave Eiffel's firm, with its soaring arched ceiling and ornamental iron framework. The cathedral has been under restoration since 2017 but the exterior and the post office interior remain impressive."
+    },
+    {
+      "name": "Experience Saigon by night on a vintage Vespa tour",
+      "description": "Several operators offer evening tours on classic Vespa scooters, weaving through Saigon's illuminated streets with stops at hidden street food stalls, rooftop bars, and local neighborhoods that most tourists never see. Vespa Adventures and XO Tours are the most established operators. Tours run approximately 4 hours and cost $75-100 per person including food and drinks."
+    }
+  ],
+  "food": {
+    "description": "Ho Chi Minh City's food scene reflects the south's love of bold, sweet-savory flavors, fresh herbs, and generous portions. The city has one of the world's densest concentrations of street food vendors, plus a rapidly growing fine-dining scene. Southern pho is served with a basket of fresh herbs (Thai basil, bean sprouts, saw-leaf herb) on the side, a stark contrast to Hanoi's more austere northern version.",
+    "specialties": [
+      "Banh Mi — The iconic Vietnamese baguette sandwich, arguably perfected in Saigon. Try Banh Mi Huynh Hoa (26 Le Thi Rieng) for the ultimate loaded version",
+      "Com Tam (Broken Rice) — Saigon's beloved everyday meal: fractured rice grains topped with grilled pork chop, shredded pork skin, and a steamed egg meatloaf",
+      "Hu Tieu — Southern-style rice noodle soup with pork, shrimp, and a clear savory broth, often of Chinese-Vietnamese origin",
+      "Bo Kho — Rich, aromatic beef stew with carrots, lemongrass, and star anise, eaten with bread or rice noodles",
+      "Banh Xeo — Crispy turmeric crepes stuffed with pork, shrimp, bean sprouts, and herbs, wrapped in rice paper and lettuce",
+      "Goi Cuon (Fresh Spring Rolls) — Translucent rice paper rolls filled with shrimp, pork, herbs, and vermicelli, served with hoisin-peanut dipping sauce",
+      "Che — Sweet dessert soups and puddings in endless varieties, found at dedicated che stalls throughout the city"
+    ]
+  },
+  "safety": "Ho Chi Minh City is generally safe for tourists, but petty crime is more common than in other Vietnamese cities. Bag snatching by motorbike riders is the primary risk — always carry bags on the side away from the road, use a cross-body bag, and be vigilant when walking near traffic. Phone snatching while sitting at street-side cafes is also reported. Avoid displaying expensive jewelry or electronics unnecessarily. The Bui Vien backpacker area can be rowdy late at night. Traffic is the biggest genuine danger — cross streets cautiously using the same slow-and-steady technique as in Hanoi. Use Grab rather than flagging down random motorbike taxis. Tap water is not safe to drink.",
+  "localTips": [
+    "Most locals still call it Saigon in everyday conversation — using the name will not cause offense and will often earn you a smile.",
+    "Carry a lightweight rain jacket or compact umbrella during wet season (May-November) — afternoon storms are sudden but usually pass within an hour.",
+    "District 3 is the best area for authentic local food experiences without tourist-inflated prices — explore the streets around Vo Van Tan and Nguyen Dinh Chieu.",
+    "Visit the War Remnants Museum early in the morning to avoid large tour groups and give yourself emotional processing time.",
+    "The best banh mi in the city is widely considered to be Banh Mi Huynh Hoa (26 Le Thi Rieng, District 1) — expect a queue, especially between 3-6pm.",
+    "Take the Metro Line 1 to experience Saigon's modern infrastructure — it runs from Ben Thanh Market to the eastern suburbs.",
+    "For a break from the city heat, head to a cafe with air conditioning — The Workshop Coffee (District 1) and Okkio Caffe (District 3) are excellent choices."
+  ],
+  "dayTrips": [
+    {
+      "name": "Cu Chi Tunnels",
+      "distance": "70km northwest, approximately 1.5-2 hours by car",
+      "description": "The vast tunnel network used during the American War. Choose between the Ben Dinh site (more developed, better for first-time visitors) or Ben Duoc (more authentic, less crowded). Half-day tours are widely available from $15-25 per person."
+    },
+    {
+      "name": "Mekong Delta day trip (My Tho & Ben Tre)",
+      "distance": "70km southwest, approximately 1.5-2 hours by car",
+      "description": "A popular day trip to experience the Mekong Delta: ride a sampan through narrow canals, visit coconut candy workshops in Ben Tre, sample tropical fruits at riverside orchards, and enjoy a fish ear (tai ca) lunch. Full-day tours from $20-40."
+    },
+    {
+      "name": "Cao Dai Temple (Tay Ninh)",
+      "distance": "100km northwest, approximately 2.5 hours by car",
+      "description": "The ornate Holy See of the Cao Dai religion, an indigenous Vietnamese faith blending Buddhism, Taoism, Confucianism, and Christianity. The noon prayer ceremony (12:00pm) is open to respectful visitors and the architecture is stunning. Often combined with Cu Chi Tunnels in a full-day trip."
+    },
+    {
+      "name": "Vung Tau beach getaway",
+      "distance": "100km southeast, approximately 2 hours by car or 1.5 hours by hydrofoil",
+      "description": "The nearest beach escape from Saigon. Vung Tau is popular with locals for weekend trips and has decent beaches (Back Beach is the best), excellent seafood restaurants, and the imposing Christ of Vung Tau statue. The Greenlines hydrofoil from Bach Dang Wharf in District 1 is the most scenic way to get there."
+    }
+  ],
+  "sources": [
+    "Vietnam National Administration of Tourism (vietnam.travel)",
+    "Lonely Planet Ho Chi Minh City Guide",
+    "Ho Chi Minh City Tourism Department",
+    "Rough Guides Vietnam (2024 edition)"
+  ]
+}

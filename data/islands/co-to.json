@@ -1,0 +1,81 @@
+{
+  "slug": "co-to",
+  "name": { "en": "Co To" },
+  "vietnameseName": "Cô Tô",
+  "image": "/images/islands/co-to.webp",
+  "bestFor": ["Remote Beaches", "Island Life", "Camping", "Adventure", "Sunrise"],
+  "description": { "en": "A remote archipelago in the far northeast of Quang Ninh province, Co To offers untouched beaches, a functioning lighthouse, and genuine local island life far from the tourist trail. This is the island for travelers seeking quiet, authenticity, and rugged natural beauty." },
+  "overview": "Co To is one of the most remote inhabited islands in northern Vietnam, an archipelago of about 50 islands and islets in the far northeastern corner of Quang Ninh province, near the Chinese maritime border. The main island, Co To Lon, is home to approximately 6,000 residents who live primarily from fishing, aquaculture, and small-scale agriculture. Tourism is still in its early stages here, which is exactly the appeal - this is not an island with luxury resorts and infinity pools, but rather a place where you can walk along genuinely empty beaches, watch fishing boats return with the morning catch, and climb to the island's lighthouse for unobstructed views of the open sea. The island's landscape is defined by dense coastal forest, rocky coves, and a series of beaches that range from wide sandy stretches to intimate pebble coves. Co To Lighthouse, built during the French colonial period and still operational, sits at the island's highest point and offers the best sunrise viewpoint in northern Vietnam. The island has become popular with adventurous young Vietnamese travelers looking for an alternative to the crowds of Ha Long Bay and Cat Ba, but remains largely unknown to international visitors.",
+  "gettingThere": {
+    "byAir": "There is no airport on Co To. The nearest airport is Van Don International Airport (VDO) in Quang Ninh province, opened in 2018. From Van Don airport, travel to Cai Rong port takes approximately 1-1.5 hours by taxi.",
+    "byFerry": "Ferries to Co To depart from Cai Rong port in Van Don district, Quang Ninh province. High-speed ferries take approximately 1 hour (250,000-300,000 VND), while slow ferries take 2.5-3 hours (130,000-180,000 VND). There are typically 2-4 departures daily depending on the season. From Hanoi, the total journey (bus to Cai Rong port plus ferry) takes 6-8 hours. Seas can be rough and services cancelled during typhoon season and the northeast monsoon."
+  },
+  "bestTimeToVisit": {
+    "best": "May to August",
+    "description": "Warm weather, calm seas, and reliable ferry service. June and July are the warmest months with the best swimming conditions. Sunrise at the lighthouse during clear summer mornings is spectacular.",
+    "avoid": "November to March: cold, grey weather with frequent rough seas that disrupt ferry schedules. Temperatures can drop to 12-16 degrees Celsius and the island feels bleak. Some accommodation closes for the winter season."
+  },
+  "topBeaches": [
+    {
+      "name": "Hong Van Beach (Bai Hong Van)",
+      "description": "The most beautiful beach on Co To, a 1.5-kilometer arc of fine white sand on the island's eastern coast. Calm, clear water and minimal development make this the island's highlight. Camping on the beach is permitted and popular with Vietnamese backpackers."
+    },
+    {
+      "name": "Van Chay Beach",
+      "description": "A wide sandy beach on the west coast near the main town, backed by casuarina trees. More accessible than Hong Van with a few basic restaurants and hammock rentals."
+    },
+    {
+      "name": "Bac Van Beach",
+      "description": "A remote beach on the island's northern tip, reached by a scenic motorbike ride through forest. Rocky sections and strong currents make it better for scenery than swimming."
+    },
+    {
+      "name": "Co To Con (Small Co To) beaches",
+      "description": "The smaller island of Co To Con, accessible by short boat ride, has several pristine beaches with virtually no visitors. A true Robinson Crusoe experience."
+    }
+  ],
+  "activities": [
+    {
+      "name": "Co To Lighthouse Sunrise",
+      "description": "Climb to the French-built lighthouse at the island's highest point (100 meters above sea level) for sunrise. The 360-degree views of the archipelago and open sea are the island's most iconic sight. The 15-minute uphill walk through forest adds to the atmosphere.",
+      "price": "10,000 VND ($0.40) entry"
+    },
+    {
+      "name": "Motorbike Exploration of the Island",
+      "description": "Co To Lon can be circled by motorbike in 2-3 hours, with coastal roads passing through fishing hamlets, forest, beaches, and viewpoints. The road surface is generally good. Stop at local villages, fish markets, and scenic overlooks along the way.",
+      "price": "100,000 - 150,000 VND ($4-6) per day for motorbike rental"
+    },
+    {
+      "name": "Beach Camping at Hong Van",
+      "description": "Pitch a tent directly on Hong Van Beach for a night under the stars. Camping is popular with Vietnamese travelers on summer weekends. Basic tent rentals are available from nearby stalls during peak season.",
+      "price": "Free (own tent) or 150,000 - 200,000 VND ($6-8) for tent rental"
+    },
+    {
+      "name": "Boat Trip to Co To Con",
+      "description": "Take a small boat to the uninhabited island of Co To Con (Small Co To) for swimming, snorkeling, and beachcombing on completely empty beaches. Some tours include fishing along the way.",
+      "price": "200,000 - 400,000 VND ($8-16) per person for a half-day boat trip"
+    },
+    {
+      "name": "Seafood at the Local Market",
+      "description": "Visit the morning fish market near the port to see the day's catch come in, then have lunch at one of the simple seafood restaurants nearby where the fish is as fresh as it gets anywhere in Vietnam.",
+      "price": "100,000 - 250,000 VND ($4-10) for a seafood meal"
+    }
+  ],
+  "accommodation": {
+    "budget": "Homestays and basic guesthouses from 200,000 VND ($8)/night. Camping on Hong Van Beach is free or very cheap. Most accommodation is simple but clean.",
+    "midRange": "Co To Resort and a handful of newer hotels from 500,000 VND ($20)/night. The most comfortable rooms on the island, usually with air conditioning and sea views.",
+    "luxury": "There are no luxury resorts on Co To. The island's appeal is precisely its undeveloped nature. Accept basic amenities and enjoy the trade-off of having empty beaches to yourself."
+  },
+  "localTips": [
+    "Wake up at 4:30 AM to reach the lighthouse for sunrise - it is worth the early alarm and is the island's top experience",
+    "Bring cash - ATMs are unreliable and often out of money, and cards are not accepted anywhere",
+    "Pack insect repellent, especially for evening camping - mosquitoes can be fierce",
+    "Summer weekends (June-August) draw Vietnamese backpackers and the island can feel busy - visit weekdays for solitude",
+    "Stock up on snacks and essentials at the main town before heading to remote beaches - there are no shops outside the port area",
+    "Learn the Vietnamese word 'dep qua' (beautiful!) - locals will love hearing your reaction to their island"
+  ],
+  "sources": [
+    "Quang Ninh Department of Tourism",
+    "Vietnam National Administration of Tourism",
+    "Co To District People's Committee"
+  ]
+}

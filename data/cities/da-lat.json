@@ -1,0 +1,128 @@
+{
+  "slug": "da-lat",
+  "name": { "en": "Da Lat" },
+  "vietnameseName": "Đà Lạt",
+  "image": "/images/cities/da-lat.webp",
+  "region": "Central Highlands",
+  "highlights": ["Cool Mountain Climate", "Coffee Plantations", "Flower Gardens", "French Colonial Villas"],
+  "description": { "en": "Perched at 1,500 meters in the Central Highlands, Da Lat offers a refreshing escape from Vietnam's tropical heat with year-round spring-like temperatures. This romantic hill station, originally built as a French colonial retreat, is now celebrated for its artisan coffee culture, flower farms, pine forests, and a growing adventure sports scene." },
+  "overview": "Da Lat (sometimes written Dalat) was established in 1893 by French colonial physician Alexandre Yersin as a hill station retreat from the sweltering lowland heat. Situated at approximately 1,500 meters elevation on the Langbian Plateau, the city enjoys a perpetual spring-like climate that earned it the nickname 'The City of Eternal Spring' (Thành phố mùa xuân). With a population of around 400,000, Da Lat is the capital of Lam Dong Province and the agricultural heartland of Vietnam's flower, vegetable, and specialty coffee industries. The city's unique character blends faded French colonial grandeur — pastel-colored villas, a Gustave Eiffel-designed railway station, and European-style gardens — with Vietnamese highland culture and a youthful, creative energy fueled by art students and specialty coffee entrepreneurs. Da Lat is one of Vietnam's most popular domestic tourism destinations, especially beloved by Vietnamese honeymooners, but it's increasingly attracting international visitors drawn to its cool temperatures, emerging specialty coffee scene, canyoning adventures, and stunning pine-forested landscapes.",
+  "neighborhoods": [
+    {
+      "name": "City Center / Xuan Huong Lake Area",
+      "description": "The heart of Da Lat wraps around the crescent-shaped Xuan Huong Lake, surrounded by colonial-era buildings, the Da Lat Market, and pleasant walking paths. The market (Cho Da Lat) is a multi-level structure selling everything from avocados and strawberries to artichokes and local wine. The lakeside is popular for evening strolls and pedal boats. Nguyen Chi Thanh Street leading to the market is the main commercial thoroughfare.",
+      "highlights": ["Xuan Huong Lake", "Da Lat Market (Cho Da Lat)", "Colonial architecture", "Lakeside evening walks"]
+    },
+    {
+      "name": "Ward 3 / Coffee District",
+      "description": "The hilly streets of Ward 3, particularly around Phan Dinh Phung and Truong Cong Dinh streets, have become the center of Da Lat's specialty coffee scene. Small-batch roasters, minimalist coffee studios, and cafe-galleries populate former French villas and modernist buildings. This is where Da Lat's creative class gathers and where some of Vietnam's best single-origin arabica coffee is served.",
+      "highlights": ["Specialty coffee shops", "Art galleries", "French villa conversions", "La Viet Coffee roastery"]
+    },
+    {
+      "name": "Tuyen Lam Lake Area (south of center)",
+      "description": "About 7km south of the city center, the scenic Tuyen Lam Lake is surrounded by pine forests, meditation retreats, and luxury resorts. The area offers a quieter alternative to the busy city center with excellent hiking, cycling around the lake, and visits to the Truc Lam Zen Monastery accessible by cable car. The surrounding forests contain some of Da Lat's oldest and tallest pine trees.",
+      "highlights": ["Truc Lam Zen Monastery", "Pine forest hiking trails", "Cable car ride", "Luxury lakeside resorts"]
+    }
+  ],
+  "gettingThere": {
+    "byAir": "Lien Khuong Airport (DLI) is located 30km south of Da Lat city center. The airport handles domestic flights from Hanoi (2 hours) and Ho Chi Minh City (55 minutes). From the airport, a shuttle bus costs 50,000 VND ($2) and takes about 45 minutes. Taxi/Grab to the city center costs approximately 250,000-300,000 VND ($10-12).",
+    "byTrain": "Da Lat's original colonial railway station (Ga Da Lat) is now a historical landmark and museum. A short tourist train runs 7km to the village of Trai Mat (30,000 VND one way). For long-distance rail travel, the nearest mainline station is Ninh Hoa (near Nha Trang), approximately 130km away.",
+    "byBus": "Comfortable sleeper and limousine buses connect Da Lat to Ho Chi Minh City (7-8 hours, from 200,000 VND/$8), Nha Trang (4 hours, from 150,000 VND/$6), Mui Ne (4 hours, from 170,000 VND/$7), and Da Nang (14 hours overnight). Phuong Trang (FUTA) and Thanh Buoi are the most popular operators. The scenic mountain roads to both Nha Trang and HCMC pass through impressive highland landscapes."
+  },
+  "gettingAround": "Da Lat's hilly terrain makes it less suitable for cycling than flatter Vietnamese cities, though electric bikes and motorcycles handle the slopes well. Motorbike rental is the most popular option (100,000-150,000 VND/day, $4-6) and essential for reaching attractions outside the center. Grab is available but drivers are less numerous than in larger cities — service can be slow during peak hours. Walking is pleasant around the lake and city center. Many tourists hire a car with driver for a full day of sightseeing (approximately 1,000,000-1,500,000 VND/$40-60 per day).",
+  "bestTimeToVisit": {
+    "best": "November to March",
+    "description": "The dry season offers the most pleasant weather, with cool mornings, warm sunny afternoons, and clear skies. Da Lat's elevation means temperatures are comfortable year-round compared to the lowlands, but the dry season minimizes the afternoon rain showers that characterize the wet months.",
+    "seasons": {
+      "spring": "February-April: Warm and mostly dry, 15-25°C. The flower festival season (late December through February) fills the city with color. Cherry blossoms (mai anh dao) bloom in January-February.",
+      "summer": "May-August: Warm days with frequent afternoon rain showers, 16-27°C. Mornings are usually clear and sunny. The lush green landscapes are at their most beautiful but carry rain gear.",
+      "autumn": "September-November: Tail end of wet season, 15-25°C. October is often the wettest month. Misty mornings create atmospheric photography conditions.",
+      "winter": "December-January: The coolest months, 10-22°C. Temperatures can drop to 5-8°C on the coldest mornings. Clear skies and crisp air. Popular with Vietnamese tourists escaping the lowland humidity."
+    }
+  },
+  "budget": {
+    "backpacker": "$18-30/day",
+    "midRange": "$40-90/day",
+    "luxury": "$120-300+/day",
+    "details": "Hostel dorms from 100,000-150,000 VND ($4-6). Budget guesthouses from 250,000-500,000 VND ($10-20). Boutique hotels in French villas from 800,000-2,000,000 VND ($32-80). Luxury resorts (Ana Mandara Villas, Terracotta Hotel) from 2,500,000+ VND ($100+). Street food and market meals from 25,000-50,000 VND ($1-2). Specialty coffee from 35,000-70,000 VND ($1.40-2.80). Restaurant dinner for two: 200,000-500,000 VND ($8-20). Canyoning tour: from 1,500,000 VND ($60)."
+  },
+  "mustDo": [
+    {
+      "name": "Explore Da Lat's specialty coffee scene",
+      "description": "Da Lat and its surrounding highlands are Vietnam's arabica coffee heartland, and the city has developed a specialty coffee culture that rivals Southeast Asia's best. Visit La Viet Coffee for in-house roasting and brewing classes, The Married Beans for single-origin pour-overs in a converted French villa, or Horizon Coffee for views over pine forests while drinking exceptional arabica. The K'Ho Coffee cooperative in Langbian town (20km north) offers farm-to-cup experiences with coffee grown by K'Ho ethnic minority farmers."
+    },
+    {
+      "name": "Go canyoning at Datanla Falls",
+      "description": "Da Lat is Vietnam's adventure sports capital, and canyoning (rappelling down waterfalls, cliff jumping, and river sliding) at Datanla Falls is the signature experience. Phat Tire Ventures, the pioneer of canyoning in Vietnam, runs professionally guided half-day and full-day trips with safety standards matching international levels. Half-day trips start from $60. No experience necessary — just reasonable fitness and a willingness to get wet."
+    },
+    {
+      "name": "Wander through the Da Lat Night Market",
+      "description": "Every evening, the streets around Cho Da Lat come alive with food stalls selling local specialties: grilled rice paper (banh trang nuong — sometimes called 'Da Lat pizza'), soy milk, grilled corn, avocado ice cream, and strawberry everything. The market also sells warm clothing (Da Lat is cold by Vietnamese standards), flowers, local wines, and dried fruits. It's the social center of Da Lat after dark."
+    },
+    {
+      "name": "Visit the Crazy House (Hang Nga Guesthouse)",
+      "description": "Designed by Vietnamese architect Dang Viet Nga (who studied in Moscow), this surreal building resembles a giant melting tree trunk with rooms themed around animals and nature. The architecture evokes Gaudi, with organic shapes, winding staircases, and unexpected passages. Opinions range from 'architectural masterpiece' to 'bizarre folly' — either way, it's unforgettable. Admission: 80,000 VND ($3.20). You can also stay overnight in one of the themed rooms."
+    },
+    {
+      "name": "Take the cable car to Truc Lam Zen Monastery",
+      "description": "A scenic cable car (80,000 VND/$3.20 roundtrip) glides over pine forests to this tranquil Zen Buddhist monastery on the shores of Tuyen Lam Lake. The monastery grounds include manicured gardens, meditation halls, and flower beds with peaceful lake views. The ride itself offers panoramic views of Da Lat's highland landscape. Early morning visits are the most serene."
+    },
+    {
+      "name": "Explore the abandoned colonial landmarks",
+      "description": "Da Lat is dotted with atmospheric remnants of its French colonial past. The ruins of the French-built nuclear reactor facility (never completed), the abandoned Palace Hotel II, and several crumbling French villas scattered through the pine forests offer haunting photo opportunities. The Yersin Institute (named for Da Lat's founder) is a small but interesting museum dedicated to the pioneering physician and explorer."
+    },
+    {
+      "name": "Hike to Langbian Mountain summit",
+      "description": "The twin peaks of Langbian Mountain (2,167 meters) offer the best panoramic views in the Da Lat area. The moderately challenging hike from the base takes 2-3 hours through pine forest and montane scrub. A jeep service runs to the lower summit (1,929 meters) for those preferring a less strenuous option. Clear mornings are best for views. The mountain is sacred to the local K'Ho people."
+    }
+  ],
+  "food": {
+    "description": "Da Lat's cuisine is distinctly different from the rest of Vietnam, reflecting its cool climate, highland produce, and colonial heritage. The city is Vietnam's primary source of temperate vegetables (artichokes, strawberries, avocados, cauliflower, lettuce) and its food reflects this agricultural abundance. Da Lat also has a unique grilled street food culture that comes alive at the night market.",
+    "specialties": [
+      "Banh Trang Nuong — Grilled rice paper topped with egg, spring onion, dried shrimp, pork floss, and chili sauce. Known as 'Da Lat pizza,' it's the city's most iconic street food",
+      "Nem Nuong Da Lat — Grilled pork sausage rolls wrapped in rice paper with herbs and pickled vegetables, slightly different from the Nha Trang version",
+      "Lau — Hot pot is enormously popular in Da Lat's cool climate, with varieties ranging from mushroom to wild game",
+      "Banh Canh — Thick tapioca noodle soup, often with chicken or pork, served piping hot on cool mornings",
+      "Artichoke Tea (Tra Atiso) — Da Lat is Vietnam's artichoke capital, and the dried artichoke is brewed into a mildly sweet, supposedly medicinal tea sold throughout the city",
+      "Strawberries and Avocados — Da Lat's highland farms produce Vietnam's best strawberries and avocados, consumed fresh, in smoothies, or in ice cream",
+      "Da Lat Wine — Made from local mulberries, strawberries, and grapes, these sweet wines are a popular souvenir (quality varies considerably)"
+    ]
+  },
+  "safety": "Da Lat is one of Vietnam's safest cities, with very low crime rates even by Vietnamese standards. The main safety considerations are the cool weather (pack warm layers — many visitors arrive from the tropics unprepared for temperatures that can drop to 10°C or below), winding mountain roads if renting a motorbike (fog is common in the mornings), and the altitude (1,500 meters, which occasionally causes mild altitude discomfort for those arriving from sea level). The canyoning operators maintain good safety records but ensure your operator is properly licensed and insured.",
+  "localTips": [
+    "Bring warm clothes — Da Lat's temperatures surprise many visitors who pack only tropical clothing. Evenings can drop to 10-15°C and early mornings are even cooler. The night market sells cheap jackets and sweaters if caught unprepared.",
+    "The specialty coffee scene is best experienced at small independent roasters rather than chain cafes — ask your hotel for current recommendations as new places open frequently.",
+    "For the best view of the city, drive up to the rooftop of the Hoa Binh Hotel or visit the viewing point behind the Crazy House in the late afternoon golden light.",
+    "Visit the Cau Dat Tea Farm (25km southeast) for rolling green tea plantations with misty mountain backdrops — it's one of the most photogenic spots in the Da Lat area.",
+    "The weekend brings large numbers of Vietnamese domestic tourists — visit on weekdays for a more relaxed experience, especially at popular spots like the Valley of Love and Datanla Falls.",
+    "For authentic K'Ho ethnic minority culture, visit the village of Langbian town (Lac Duong) north of Da Lat, where K'Ho Coffee offers fair-trade coffee experiences and cultural exchanges."
+  ],
+  "dayTrips": [
+    {
+      "name": "Cau Dat Tea Plantation",
+      "distance": "25km southeast, approximately 45 minutes by motorbike",
+      "description": "Rolling green tea plantations set against misty mountain scenery, originally planted during the French colonial period. The farm offers tours, tea tasting, and a small cafe with panoramic views. Best visited in the early morning when mist drifts through the tea rows. Free entry."
+    },
+    {
+      "name": "Elephant Falls and Linh An Pagoda",
+      "distance": "30km southwest, approximately 1 hour by motorbike",
+      "description": "One of Da Lat's most powerful waterfalls, accessible via a scramble over slippery rocks (wear proper shoes). The adjacent Linh An Pagoda features a large reclining Buddha and a massive Happy Buddha statue with views over the surrounding highlands."
+    },
+    {
+      "name": "Bidoup Nui Ba National Park",
+      "distance": "50km north, approximately 1.5 hours by car",
+      "description": "One of Vietnam's largest national parks, protecting pristine highland forest with exceptional biodiversity. Trekking routes range from easy nature walks to multi-day expeditions. The park is home to rare species including black bears, leopards, and numerous endemic birds. A guide is required for longer trails."
+    },
+    {
+      "name": "Pongour Falls",
+      "distance": "50km south, approximately 1 hour by car",
+      "description": "A dramatic wide-cascading waterfall considered one of the most beautiful in Vietnam's Central Highlands. The falls are most impressive during and just after the wet season (August-November). A relatively easy walk from the parking area. Entrance fee: 20,000 VND ($0.80)."
+    }
+  ],
+  "sources": [
+    "Vietnam National Administration of Tourism (vietnam.travel)",
+    "Lam Dong Province Tourism Department",
+    "Lonely Planet Vietnam Guide",
+    "Specialty Coffee Association — Vietnam Arabica Growing Regions"
+  ]
+}

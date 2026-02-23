@@ -1,0 +1,124 @@
+{
+  "slug": "can-tho",
+  "name": { "en": "Can Tho" },
+  "vietnameseName": "Cần Thơ",
+  "image": "/images/cities/can-tho.webp",
+  "region": "Mekong Delta",
+  "highlights": ["Cai Rang Floating Market", "Mekong River Life", "Rice Paddies", "Tropical Orchards"],
+  "description": { "en": "As the largest city in the Mekong Delta, Can Tho is the gateway to experiencing the extraordinary waterway culture that defines southern Vietnam's river life. Early morning boat trips to the Cai Rang floating market, cycling through endless rice paddies, and sampling tropical fruits straight from riverside orchards offer an authentic side of Vietnam that few travelers forget." },
+  "overview": "Can Tho is the largest and most important city in the Mekong Delta (Dong Bang Song Cuu Long), serving as the economic, cultural, and transportation hub for Vietnam's southwestern region. With a population of approximately 1.2 million, it sits at the junction of the Hau River (a major branch of the Mekong) and the Can Tho River, in the heart of one of the world's most productive agricultural regions. The Mekong Delta produces over half of Vietnam's rice, 60% of its fruit, and a significant portion of its fish and shrimp, and this extraordinary agricultural wealth is visible everywhere in Can Tho. The city's famous floating markets — where farmers sell produce directly from boats — have operated for over a century and represent one of Vietnam's most authentic cultural experiences. While Can Tho itself is a pleasant but unremarkable Vietnamese city, it serves as the ideal base for exploring the waterways, orchards, rice paddies, and traditional communities of the Mekong Delta. The delta's flat, water-laced landscape, colorful boats, fruit-laden orchards, and unhurried pace of life offer a profound contrast to Vietnam's dynamic cities.",
+  "neighborhoods": [
+    {
+      "name": "Ninh Kieu Wharf / Riverfront",
+      "description": "The scenic waterfront area along Hai Ba Trung Street is the heart of tourist Can Tho. The Ninh Kieu Wharf is where boat trips to the floating markets depart (typically 5-5:30am). The riverside promenade is pleasant for evening strolls, with views across the wide Hau River. The area also hosts the main concentration of hotels, restaurants, and the ornate Ong Temple (a Chinese-Vietnamese pagoda).",
+      "highlights": ["Ninh Kieu Wharf (floating market departure)", "Riverside promenade", "Ong Temple (Chua Ong)", "Hotel and restaurant district"]
+    },
+    {
+      "name": "Cai Rang District",
+      "description": "Located about 6km from the city center, the Cai Rang floating market takes place on the Cai Rang River every morning from approximately 5am to 9am. This is the Mekong Delta's largest floating market, where farmers and wholesalers trade fruits, vegetables, and other goods directly from their boats. Each boat displays a sample of its goods on a tall pole (called a cay beo) so buyers can see what's for sale from a distance.",
+      "highlights": ["Cai Rang Floating Market (5am-9am daily)", "Riverside fruit orchards", "Traditional boat-building", "Early morning river culture"]
+    },
+    {
+      "name": "Binh Thuy District",
+      "description": "North of the center, Binh Thuy is known for the beautifully preserved Binh Thuy Ancient House (Nha Co Binh Thuy), a 19th-century merchant's residence blending Vietnamese, Chinese, and French architectural styles that was featured in the 1992 film 'The Lover' (L'Amant). The surrounding area has a more local, residential feel with excellent food stalls and access to quiet canal networks perfect for kayaking or small boat exploration.",
+      "highlights": ["Binh Thuy Ancient House", "Quiet canal networks", "Local food stalls", "Filming location of 'The Lover'"]
+    }
+  ],
+  "gettingThere": {
+    "byAir": "Can Tho International Airport (VCA) is located 10km from the city center and handles domestic flights from Hanoi (2 hours) and limited connections from other cities. Direct flights from Ho Chi Minh City are no longer routinely scheduled as the bus is faster given airport transfer times. A taxi from the airport to the city center costs about 100,000-150,000 VND ($4-6).",
+    "byTrain": "There is no railway to Can Tho or anywhere in the Mekong Delta.",
+    "byBus": "The most common way to reach Can Tho is by bus from Ho Chi Minh City (3-3.5 hours, 130,000-200,000 VND/$5-8). Phuong Trang (FUTA) operates frequent services with comfortable buses. The Can Tho bus station is about 2km from the center. Buses also connect Can Tho to Chau Doc (3 hours, for the border crossing to Cambodia's Phnom Penh), Rach Gia (3 hours, for ferries to Phu Quoc), and other delta towns."
+  },
+  "gettingAround": "Can Tho is best explored by a combination of boat trips (for the waterways) and cycling (for the countryside). Grab is available for city transport. Hotels and tour operators arrange boat trips to the floating markets (typically 5am departure, 3-4 hours, from 200,000 VND/$8 per person for group tours). Bicycle rental is available from most hotels for 50,000-80,000 VND ($2-3.20) per day — the flat terrain makes cycling easy and rewarding. Motorbike rental costs 100,000-150,000 VND/day for reaching more distant areas of the delta.",
+  "bestTimeToVisit": {
+    "best": "December to February",
+    "description": "The dry season brings sunny skies and comfortable temperatures, ideal for early-morning floating market visits and cycling through the countryside. The floating markets operate year-round but are most photogenic and active during the dry season when river traffic is heaviest.",
+    "seasons": {
+      "spring": "February-April: Warm and mostly dry, 26-34°C. The tail end of the fruit harvest season. Good weather for all activities. Tet festivities bring extra color to the markets.",
+      "summer": "May-August: Hot and increasingly wet, 27-34°C. Afternoon rain showers become frequent. The delta is at its greenest. Fruit season peaks with mangosteen, rambutan, and durian flooding the markets.",
+      "autumn": "September-November: The wettest period, 25-32°C. Heavy rains can cause flooding in low-lying areas. Some roads may be impassable. The floating markets still operate but river conditions can be rougher.",
+      "winter": "December-January: Dry season, 24-31°C. The most comfortable weather. The floating markets are busiest as the rice and fruit harvests are in full swing. Peak tourist season."
+    }
+  },
+  "budget": {
+    "backpacker": "$15-25/day",
+    "midRange": "$35-80/day",
+    "luxury": "$100-200+/day",
+    "details": "Hostel dorms from 80,000-150,000 VND ($3-6). Budget guesthouses from 200,000-400,000 VND ($8-16). Mid-range hotels from 600,000-1,500,000 VND ($24-60). Luxury hotels (Victoria Can Tho, Azerai Can Tho) from 2,500,000+ VND ($100+). Street food meals from 20,000-40,000 VND ($0.80-1.60). Restaurant meal: 80,000-200,000 VND ($3.20-8). Floating market boat trip: from 200,000 VND ($8) per person group tour, 500,000-800,000 VND ($20-32) private boat. Bicycle rental: 50,000-80,000 VND ($2-3.20) per day."
+  },
+  "mustDo": [
+    {
+      "name": "Visit the Cai Rang Floating Market at dawn",
+      "description": "The Mekong Delta's largest floating market is a must-see and one of Vietnam's most authentic cultural experiences. Dozens of boats laden with tropical fruits, vegetables, and other goods congregate on the Cai Rang River from 5am to about 8-9am. Each seller displays their product on a tall pole above the boat. Your small tourist boat weaves among the trading vessels, and you can buy fresh fruit, pho from floating kitchens, and coffee from boat-side vendors. Leave from Ninh Kieu Wharf by 5:30am to arrive at peak activity."
+    },
+    {
+      "name": "Cycle through the Mekong Delta countryside",
+      "description": "Rent a bicycle and explore the flat, canal-laced countryside surrounding Can Tho. Ride along narrow paths between rice paddies, cross monkey bridges (narrow bamboo footbridges), pass through fruit orchards, and stop at small villages where daily life revolves around the water. The area south of the city toward Phong Dien is particularly scenic. A half-day cycling excursion covers 15-25km and provides an intimate view of delta life impossible to see from a car."
+    },
+    {
+      "name": "Visit a tropical fruit orchard",
+      "description": "The Mekong Delta produces over 60% of Vietnam's fruit, and Can Tho is surrounded by orchards growing mangosteen, rambutan, longan, durian, dragon fruit, pomelo, and dozens more varieties. Several orchards welcome visitors for tours and tastings, particularly on the islands in the Hau River accessible by boat from Ninh Kieu Wharf. Eating fresh tropical fruit picked straight from the tree is a highlight — the flavors bear no resemblance to exported supermarket fruit."
+    },
+    {
+      "name": "Explore the Phong Dien Floating Market",
+      "description": "Smaller and more local than Cai Rang, the Phong Dien floating market (20km southwest, about 1 hour by boat) offers a more intimate and less touristy experience. The market trades primarily in fruits and vegetables from surrounding farms. It's best visited in combination with Cai Rang on the same early-morning boat trip — ask your boatman to continue to Phong Dien after Cai Rang."
+    },
+    {
+      "name": "Walk the Ninh Kieu Wharf promenade at sunset",
+      "description": "The riverfront promenade along the Hau River comes alive in the evening as locals and visitors stroll, exercise, and enjoy the cooling breeze. Street food vendors set up along the waterfront, and the views across the wide river — one of the mightiest waterways in Southeast Asia — are particularly beautiful as the sun sets. The nearby Ong Temple and Can Tho Museum are worth combining with an evening walk."
+    },
+    {
+      "name": "Visit Binh Thuy Ancient House",
+      "description": "This elegant 19th-century merchant's house is one of the finest examples of Mekong Delta colonial-era architecture, blending Vietnamese, Chinese, and French styles. The house was featured in the 1992 Jean-Jacques Annaud film 'The Lover' starring Jane March. Original furnishings, ceramic tiles, and carved woodwork remain beautifully preserved. Located in Binh Thuy district, about 6km from the center. Admission: 15,000 VND ($0.60)."
+    }
+  ],
+  "food": {
+    "description": "Can Tho's cuisine reflects the extraordinary agricultural bounty of the Mekong Delta — abundant fresh river fish, tropical fruits, rice, and coconut form the foundation. Southern Vietnamese cooking tends toward sweeter flavors than the north, with liberal use of coconut milk, caramel, and fresh herbs. The floating markets themselves are a food experience, with vendors serving breakfast from their boats.",
+    "specialties": [
+      "Banh Cong — A deep-fried savory cake made from rice flour and mung bean batter with pork and shrimp filling, crispy outside and soft inside. A Can Tho specialty",
+      "Lau Mam — A pungent fermented fish hot pot with vegetables, eggplant, and a variety of fresh herbs. Divisive but beloved in the delta",
+      "Ca Tai Tuong Chien Xu — Crispy-fried elephant ear fish, a Mekong Delta signature dish served whole and wrapped in rice paper with herbs and noodles",
+      "Hu Tieu — Southern rice noodle soup with pork, shrimp, and a clear sweet broth. The Mekong Delta version is considered the most authentic",
+      "Tropical Fruits — Mangosteen, rambutan, longan, dragon fruit, custard apple, pomelo, and dozens more. The floating markets are the best source",
+      "Banh Tet — Cylindrical sticky rice cakes filled with mung bean and pork, wrapped in banana leaves. The delta's Tet (New Year) specialty, available year-round",
+      "Floating Market Pho and Coffee — Eaten from a bowl on a rocking boat at dawn, accompanied by strong Vietnamese coffee, is a quintessential delta experience"
+    ]
+  },
+  "safety": "Can Tho is very safe with low crime rates. The main considerations are water safety (wear life jackets provided on boat trips, be cautious on narrow docks), traffic when cycling on roads shared with motorbikes and trucks, and sun/heat exposure during outdoor activities. The flat terrain and lack of shade mean sun protection is essential, even on overcast days. During wet season (September-November), some rural roads flood and become impassable. Mosquitoes can be persistent near waterways — use repellent, especially at dawn and dusk.",
+  "localTips": [
+    "The Cai Rang floating market is most active between 5:30am and 7:00am — later arrivals miss the best atmosphere as many boats depart by 8am. Set your alarm for 4:30am; the early wake-up is absolutely worth it.",
+    "Book a private boat rather than a group tour for a more flexible experience — private boats can linger at the market and continue to Phong Dien or visit orchards. A private boat for 4-6 hours costs approximately 500,000-800,000 VND ($20-32).",
+    "Can Tho is a great base for exploring the wider delta, but consider also visiting Chau Doc (3 hours west, near the Cambodian border) for the Sam Mountain, Cham Muslim communities, and floating fish farms.",
+    "The best fruit season is May through August, when mangosteen, rambutan, and durian flood the markets. If you like durian, the Mekong Delta varieties are considered among the finest.",
+    "Cycling along the small paths between rice paddies is one of the most peaceful experiences in Vietnam — ask your hotel to recommend routes or hire a local guide for 200,000-300,000 VND ($8-12).",
+    "The Ninh Kieu night food area (near the wharf) has excellent local food stalls serving banh cong, grilled seafood, and fresh fruit smoothies at very reasonable prices."
+  ],
+  "dayTrips": [
+    {
+      "name": "Phong Dien Floating Market",
+      "distance": "20km southwest, 1 hour by boat from Ninh Kieu Wharf",
+      "description": "A smaller, more authentic floating market than Cai Rang. Best visited as an extension of an early morning Cai Rang trip. The surrounding canals and fruit orchards are accessible by small boat for an immersive delta waterway experience."
+    },
+    {
+      "name": "Chau Doc and Sam Mountain",
+      "distance": "120km west, approximately 3 hours by bus",
+      "description": "A fascinating border town near Cambodia with a diverse population of Vietnamese, Cham Muslims, Khmer, and Chinese. Highlights include Sam Mountain (with its colorful temples and panoramic border views), floating fish farms, and the ornate Mubarak Mosque of the Cham community. Also the departure point for fast boats to Phnom Penh."
+    },
+    {
+      "name": "Vinh Long and An Binh Island",
+      "distance": "60km northeast, approximately 1.5 hours by car",
+      "description": "Vinh Long province offers excellent homestay experiences on river islands. An Binh Island, accessible by a short ferry ride, has fruit orchards, traditional houses, and a peaceful village atmosphere that captures the essence of Mekong Delta life."
+    },
+    {
+      "name": "Soc Trang and Khmer Pagodas",
+      "distance": "60km south, approximately 1.5 hours by car",
+      "description": "Soc Trang province has a significant Khmer population and some of the Mekong Delta's most impressive pagodas, including the Bat Pagoda (Chua Doi) where thousands of fruit bats roost in the gardens, and the elaborate Clay Pagoda (Chua Dat Set) built entirely from clay."
+    }
+  ],
+  "sources": [
+    "Vietnam National Administration of Tourism (vietnam.travel)",
+    "Can Tho City Tourism Department",
+    "Lonely Planet Mekong Delta Guide",
+    "Mekong River Commission — Delta Agriculture Reports"
+  ]
+}

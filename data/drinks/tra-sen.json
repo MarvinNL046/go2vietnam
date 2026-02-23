@@ -1,0 +1,58 @@
+{
+  "slug": "tra-sen",
+  "name": { "en": "Lotus Tea" },
+  "vietnameseName": "Trà Sen",
+  "image": "/images/drinks/tra-sen.webp",
+  "category": "Tea",
+  "description": { "en": "Premium Vietnamese tea scented with the delicate fragrance of lotus blossoms, traditionally prepared by placing tea leaves inside lotus flowers overnight. This refined drink has been a symbol of Vietnamese elegance and hospitality for centuries." },
+  "overview": "Lotus tea is Vietnam's most prestigious tea, a drink that embodies patience, refinement, and deep cultural heritage. The production process is extraordinarily labor-intensive: green tea leaves are carefully placed inside freshly picked lotus blossoms, which are then tied shut and left overnight so the tea absorbs the flower's delicate fragrance. This scenting process is repeated multiple times over several days or weeks to build layers of aroma. The resulting tea carries a subtle, haunting floral perfume that is unmistakably lotus - sweet but not cloying, delicate but persistent. True lotus tea from Hanoi's West Lake (Ho Tay) is considered the finest, as the lotus flowers grown in this specific lake are believed to produce the most fragrant blossoms. A single kilogram of premium West Lake lotus tea can require the stamens of over 1,000 lotus flowers and several weeks of preparation, making it one of the most expensive teas in Vietnam.",
+  "origin": {
+    "region": "Hanoi (West Lake / Ho Tay), with production also in Dong Thap, Hue, and other regions",
+    "history": "Lotus tea has been part of Vietnamese culture for centuries, with roots in the imperial courts where it was reserved for royalty and distinguished guests. The tradition of scenting tea with lotus is documented in Vietnamese literature dating back hundreds of years. West Lake in Hanoi has been the most revered source of lotus flowers for tea production since at least the Le Dynasty (15th-18th centuries). The specific variety of lotus grown in West Lake, known as bach dien (hundred-petal lotus), is prized for its intense fragrance. During the Nguyen Dynasty in Hue, lotus tea was prepared for the imperial court using flowers from the moats surrounding the Imperial Citadel. Today, West Lake lotus tea remains the gold standard, and the families who produce it are considered artisans preserving an important cultural tradition."
+  },
+  "howItsMade": "Traditional lotus tea production begins before dawn, when lotus flowers are at their most fragrant. Artisans paddle boats onto West Lake to collect lotus blossoms that are still tightly closed. The flowers are opened, and their stamens - the tiny, pollen-bearing filaments inside - are carefully extracted. High-quality green tea leaves (typically from Thai Nguyen) are layered with the fresh lotus stamens in sealed containers. The tea and stamens remain together for 24 hours, during which the tea absorbs the lotus fragrance. The stamens are then removed, and fresh ones are added. This scenting process is repeated 6-7 times over the course of several weeks for premium grades. Some producers use the whole-flower method, placing tea directly inside unopened lotus buds and tying them shut overnight. After the final scenting, the tea is dried gently to lock in the fragrance while preserving the green tea base.",
+  "whereToTry": [
+    {
+      "name": "West Lake lotus tea houses",
+      "location": "Quang An and Nghi Tam villages, Tay Ho District, Hanoi",
+      "note": "Several families along West Lake produce and serve authentic lotus tea. Visit during lotus season (May-August) to see the full production process"
+    },
+    {
+      "name": "Uu Dam Chay",
+      "location": "6 Hang Bai, Hoan Kiem, Hanoi",
+      "note": "An elegant vegetarian restaurant that serves premium lotus tea in a refined setting"
+    },
+    {
+      "name": "Reaching Out Tea House",
+      "location": "131 Tran Phu, Hoi An",
+      "note": "A silent tea house (staff are deaf) serving beautiful Vietnamese tea ceremonies including lotus tea"
+    },
+    {
+      "name": "Hue Imperial tea rooms",
+      "location": "Inside the Imperial Citadel area, Hue",
+      "note": "Several tea houses near the citadel serve lotus tea in the imperial tradition"
+    }
+  ],
+  "variations": [
+    { "name": "Tra Sen Ho Tay (West Lake Lotus Tea)", "description": "The most prestigious variety, scented with lotus from Hanoi's West Lake, considered the finest in Vietnam" },
+    { "name": "Tra Sen Dong Thap", "description": "Lotus tea from the Mekong Delta province of Dong Thap, known as Vietnam's 'lotus kingdom' with vast lotus fields" },
+    { "name": "Tra Sen Hue", "description": "Lotus tea from the former imperial capital, produced using techniques preserved from the Nguyen Dynasty court" },
+    { "name": "Tra Shan Tuyet Sen", "description": "Ancient Shan Tuyet tea (from old-growth trees in northern highlands) scented with lotus, a premium combination" }
+  ],
+  "priceRange": "50,000 - 200,000 VND per serving ($2 - $8) at tea houses; 300,000 - 3,000,000 VND per 100g ($12 - $120) for premium leaves",
+  "tips": [
+    "Visit West Lake between May and August (lotus season) for the freshest tea and the chance to see production firsthand",
+    "Genuine West Lake lotus tea is expensive - if it seems too cheap, it is likely artificially flavored rather than naturally scented",
+    "Lotus tea is best brewed at 80-85 degrees Celsius (not boiling) to preserve the delicate floral aroma",
+    "The same tea leaves can be re-steeped 3-5 times, with the second and third infusions often considered the best",
+    "Premium lotus tea makes an exceptional gift - look for beautifully packaged versions at West Lake tea houses",
+    "Ask your hotel concierge in Hanoi to arrange a visit to a West Lake lotus tea producer for a truly special experience"
+  ],
+  "culturalNotes": "The lotus flower is Vietnam's national flower, symbolizing purity, enlightenment, and resilience - it grows from muddy water yet produces a pristine blossom. Lotus tea carries all of this symbolism in every cup. Serving lotus tea to guests is one of the highest expressions of Vietnamese hospitality, signaling respect and warmth. The tea ceremony around lotus tea, while less formalized than Japanese or Chinese traditions, has its own quiet elegance - the slow pouring, the appreciation of the aroma before tasting, and the mindful silence that often accompanies the first sip. For Hanoians, West Lake lotus tea is a source of deep local pride, and the artisans who produce it are celebrated as cultural custodians. The production of genuine lotus tea is declining as urbanization encroaches on West Lake's lotus ponds, making authentic West Lake lotus tea increasingly rare and precious.",
+  "sources": [
+    "Vietnam Tea Association (VITAS)",
+    "Hanoi Department of Cultural Heritage",
+    "UNESCO Intangible Cultural Heritage - Vietnamese tea culture documentation",
+    "Tay Ho District People's Committee"
+  ]
+}

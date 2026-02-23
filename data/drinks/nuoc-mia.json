@@ -1,0 +1,57 @@
+{
+  "slug": "nuoc-mia",
+  "name": { "en": "Fresh Sugarcane Juice" },
+  "vietnameseName": "Nước Mía",
+  "image": "/images/drinks/nuoc-mia.webp",
+  "category": "Juice",
+  "description": { "en": "Freshly pressed sugarcane juice extracted through hand-cranked or motorized rollers at street-side carts, often mixed with a squeeze of kumquat or calamansi. This refreshing, naturally sweet drink is a beloved thirst quencher in Vietnam's tropical heat." },
+  "overview": "Nuoc mia is one of Vietnam's most refreshing and satisfying street drinks - pure sugarcane stalks fed through a mechanical press, yielding fresh, naturally sweet green-gold juice that is immediately poured over ice. The drink is everywhere in Vietnam, especially in the south, where sugarcane grows abundantly in provinces like Tay Ninh and the Mekong Delta. Street vendors operate motorized or hand-cranked roller presses mounted on mobile carts, feeding long stalks of sugarcane through the heavy rollers multiple times to extract maximum juice. The juice is typically served with a squeeze of kumquat (tac) or calamansi lime to balance the sweetness with a touch of citrus tartness. On a sweltering day in Saigon or the Mekong Delta, there is arguably no more satisfying drink available than a tall glass of freshly pressed nuoc mia over ice.",
+  "origin": {
+    "region": "Nationwide, especially Southern Vietnam and the Mekong Delta",
+    "history": "Sugarcane has been cultivated in Vietnam for centuries, with the southern provinces of Tay Ninh, Phu Yen, and the Mekong Delta serving as the primary growing regions. Pressing sugarcane for fresh juice is a tradition shared across Southeast Asia, but it became a prominent Vietnamese street drink in the mid-20th century as mobile pressing carts became widely affordable. Vietnam is one of the world's major sugarcane producers, cultivating approximately 300,000 hectares annually, and the availability of cheap, fresh cane made nuoc mia a natural street beverage. The drink is also deeply tied to Vietnamese folk medicine, where sugarcane juice is considered cooling (mat) and is recommended for heat relief, sore throats, and digestive health."
+  },
+  "howItsMade": "The vendor selects fresh sugarcane stalks, peels off the tough outer bark with a machete, and feeds the white inner stalks through a motorized roller press. The stalks pass through the heavy metal rollers two or three times to extract all the juice. The fresh juice drips into a collection basin, is strained to remove any fibers or pulp, then poured into a plastic cup or bag filled with ice. Most vendors add a squeeze of kumquat (tac) or calamansi lime at the end. Some vendors also run the sugarcane through the press with a few drops of pandan leaf extract for a subtle aromatic flavor. The entire process takes less than a minute, and the juice is best consumed immediately while cold and fresh. No sugar is added - the cane provides all the sweetness naturally.",
+  "whereToTry": [
+    {
+      "name": "Street vendors throughout Saigon",
+      "location": "District 1 and District 3, Ho Chi Minh City",
+      "note": "Mobile carts with green sugarcane stalks bundled on the side are easy to spot on nearly every major street"
+    },
+    {
+      "name": "Ben Thanh Market area",
+      "location": "Ben Thanh Market, District 1, Ho Chi Minh City",
+      "note": "Multiple sugarcane juice vendors clustered around the market, especially on the Le Thanh Ton side"
+    },
+    {
+      "name": "Mekong Delta floating markets",
+      "location": "Cai Rang (Can Tho) and Cai Be (Tien Giang)",
+      "note": "Sugarcane juice boats at the floating markets offer the freshest possible version from locally grown cane"
+    },
+    {
+      "name": "Roadside stalls along National Highway 1",
+      "location": "Tay Ninh and Mekong Delta provinces",
+      "note": "The sugarcane-growing heartland, where roadside stalls press juice from cane harvested the same morning"
+    }
+  ],
+  "variations": [
+    { "name": "Nuoc Mia Tac (with kumquat)", "description": "The most common version, with fresh kumquat juice squeezed in to add a citrus tang to balance the sweetness" },
+    { "name": "Nuoc Mia La Dua (with pandan)", "description": "Pressed with pandan leaf for a subtle aromatic, slightly vanilla-like flavor" },
+    { "name": "Nuoc Mia Dua (with coconut)", "description": "Mixed with fresh coconut water for an extra tropical, electrolyte-rich combination" },
+    { "name": "Nuoc Mia Gung (with ginger)", "description": "A warming variation with fresh ginger added, sometimes found in northern Vietnam during cooler months" }
+  ],
+  "priceRange": "10,000 - 20,000 VND ($0.40 - $0.80)",
+  "tips": [
+    "Make sure the vendor presses the cane fresh in front of you rather than pouring from a pre-made container",
+    "Always ask for kumquat (tac) to be added - the citrus elevates the drink significantly",
+    "Nuoc mia is best in the midday heat as a natural energy and hydration boost",
+    "The juice oxidizes quickly and tastes best within 15-20 minutes of pressing",
+    "Sugarcane juice is quite caloric despite being 'natural' - one glass contains around 180-250 calories",
+    "If you are concerned about ice quality, choose stalls that use commercial tube ice (da vien) rather than block ice"
+  ],
+  "culturalNotes": "Nuoc mia holds a special place in Vietnamese folk medicine and everyday culture. Traditional Vietnamese medicine classifies sugarcane as a 'cooling' food, making nuoc mia a natural remedy for the country's intense heat. Parents often buy it for children as a treat, and it is a common offering at roadside shrines and ancestral altars during festivals. The sugarcane juice cart is also one of Vietnam's most iconic street scenes - the sound of the motorized roller press, the sight of green stalks being fed through heavy metal rollers, and the vendor's practiced efficiency form a sensory experience that travelers remember long after leaving. In rural areas, freshly pressed sugarcane juice is sometimes the first thing offered to a guest in someone's home.",
+  "sources": [
+    "Vietnam Sugarcane and Sugar Association (VSSA)",
+    "Vietnam National Administration of Tourism",
+    "Institute of Traditional Vietnamese Medicine"
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "slug": "banh-xeo",
+  "name": { "en": "Banh Xeo" },
+  "vietnameseName": "Bánh Xèo",
+  "image": "/images/food/banh-xeo.webp",
+  "category": "Pancake",
+  "spiceLevel": "mild",
+  "description": { "en": "A sizzling crispy crepe made from rice flour and turmeric, stuffed with shrimp, pork, bean sprouts, and mung beans, then wrapped in lettuce and herbs before dipping in nuoc cham sauce." },
+  "overview": "Banh xeo is one of Vietnam's most spectacular street foods, named for the loud sizzling sound ('xèo') the batter makes when it hits the hot, oiled pan. This crispy, golden crepe is made from a batter of rice flour, coconut milk, and turmeric, which gives it its vibrant yellow color. The batter is poured into a large, well-oiled skillet and swirled thin, then filled with a combination of shrimp, sliced pork, mung beans, and bean sprouts before being folded in half and cooked until the edges are lacy and crackling crisp. The crepe is never eaten on its own — it is always torn into pieces, wrapped in lettuce leaves and fresh herbs, and dipped in nuoc cham (fish sauce dipping sauce). This combination of crispy, savory crepe with cool, fresh greens and tangy sauce creates an addictive interplay of textures and flavors.",
+  "origin": {
+    "region": "Central and Southern Vietnam",
+    "history": "Banh xeo has roots in both Vietnamese and Khmer culinary traditions. The dish exists in various forms across Southeast Asia — similar crepes are found in Cambodia (banh chao) and Thailand (khanom bueang). In Vietnam, banh xeo is most closely associated with southern and central regions, where the crepes tend to be large (up to 30 cm in diameter). The turmeric-infused batter likely developed in southern Vietnam, where the spice was readily available and the dish shows influence from Khmer cooking traditions of the Mekong Delta. Regional variations are significant: in central Vietnam (particularly Hue and Da Nang), the crepes are much smaller and called 'bánh khoái,' while in the south they are large, golden, and lavishly filled."
+  },
+  "ingredients": {
+    "main": [
+      "Rice flour batter with turmeric and coconut milk",
+      "Shrimp (tôm)",
+      "Thinly sliced pork belly (thịt ba chỉ)",
+      "Mung beans (đậu xanh), soaked and steamed",
+      "Bean sprouts (giá đỗ)"
+    ],
+    "herbs": [
+      "Lettuce leaves (xà lách) for wrapping",
+      "Thai basil (húng quế)",
+      "Mint (húng lủi)",
+      "Perilla (tía tô)",
+      "Fish mint (diếp cá) — common in the south"
+    ],
+    "condiments": [
+      "Nuoc cham dipping sauce (nước chấm) — fish sauce, lime, sugar, garlic, chili",
+      "Peanut sauce (in some central Vietnam versions)",
+      "Fermented soybean dipping sauce (in some regions)"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Bánh Xèo Miền Nam (Southern Style)",
+      "description": "The most common version: large, golden crepes filled with shrimp, pork, bean sprouts, and mung beans. The batter includes coconut milk for a richer flavor and crispier texture. Served with a massive plate of lettuce and herbs."
+    },
+    {
+      "name": "Bánh Khoái (Hue Style)",
+      "description": "A smaller, thicker version from the former imperial city of Hue. Served with a distinctive peanut-liver dipping sauce (nước lèo) instead of nuoc cham, and often includes quail eggs in the filling."
+    },
+    {
+      "name": "Bánh Xèo Miền Tây (Mekong Delta Style)",
+      "description": "Extra-large crepes that can be as big as a dinner plate. Often include more ingredients like squid, mushrooms, and taro. The batter may be slightly thicker with more coconut milk."
+    },
+    {
+      "name": "Bánh Xèo Chay (Vegetarian)",
+      "description": "Made with mushrooms, tofu, mung beans, and vegetables instead of meat and shrimp. Common during Buddhist festival days."
+    }
+  ],
+  "howToOrder": "Order 'một bánh xèo' for one crepe. In the south, one large banh xeo can be a full meal. Say 'bánh xèo tôm thịt' (shrimp and pork) for the classic filling. Some restaurants allow custom fillings — 'thêm tôm' means extra shrimp. The herb plate comes automatically. Tear off a piece of crepe, wrap it in lettuce with herbs, and dip in the nuoc cham.",
+  "whereToEat": [
+    {
+      "name": "Bánh Xèo 46A",
+      "location": "Ho Chi Minh City",
+      "note": "At 46A Dinh Cong Trang, District 1. One of the most famous banh xeo restaurants in Saigon. The crepes are enormous, perfectly crispy, and stuffed generously. Always busy, especially at dinner time."
+    },
+    {
+      "name": "Bánh Xèo Mười Xiềm",
+      "location": "Ho Chi Minh City",
+      "note": "In the Ben Thanh area. Known for authentic Mekong Delta-style large crepes with generous fillings and a particularly flavorful batter."
+    },
+    {
+      "name": "Bánh Khoái Hạnh",
+      "location": "Hue",
+      "note": "At 11 Pho Duc Chinh. Serves the distinctive Hue-style smaller crepes with the rich peanut-liver dipping sauce. An essential Hue food experience."
+    },
+    {
+      "name": "Quan Banh Xeo Ba Duong",
+      "location": "Da Nang",
+      "note": "At K280/23 Hoang Dieu. A local institution famous for their central Vietnamese-style banh xeo with generous fillings and perfect crispiness."
+    }
+  ],
+  "priceRange": {
+    "street": "20,000 - 40,000 VND ($0.85 - $1.70) per crepe",
+    "restaurant": "50,000 - 90,000 VND ($2.10 - $3.70) per crepe",
+    "upscale": "100,000 - 180,000 VND ($4.10 - $7.50) per crepe"
+  },
+  "tips": [
+    "Banh xeo must be eaten hot and fresh — it loses its signature crispiness within minutes",
+    "Always use the lettuce and herbs for wrapping; eating the crepe alone misses the point of the dish",
+    "Watch the cook make your banh xeo — the sizzling sound and the swirling of the batter is part of the experience",
+    "In the south, one large banh xeo with the herb plate is usually enough for one person",
+    "The best banh xeo has a thin, lacy, shatteringly crisp texture — avoid places where the crepes are thick and soggy",
+    "Pair with a cold bia hơi (fresh beer) for the complete Vietnamese street food experience"
+  ],
+  "culturalNotes": "Banh xeo is one of Vietnam's great communal dishes, often ordered to share among friends and family. The act of tearing off pieces, wrapping them in herbs, and dipping together creates a convivial, hands-on eating experience that is central to Vietnamese food culture. In the Mekong Delta, banh xeo parties are common family events where multiple crepes are cooked in succession and everyone gathers around to eat. The dish also demonstrates the Vietnamese culinary principle of balance: the richness of the fried crepe is offset by the freshness of raw herbs and the acidity of the dipping sauce, creating a harmonious whole that is satisfying without being heavy.",
+  "sources": [
+    "Vietnam National Administration of Tourism",
+    "Lonely Planet Vietnam Food Guide",
+    "Luke Nguyen, 'The Songs of Sapa' (Hardie Grant, 2009)",
+    "Saveur Magazine — 'Vietnamese Sizzling Crepes'"
+  ]
+}

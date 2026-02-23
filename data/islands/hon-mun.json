@@ -1,0 +1,78 @@
+{
+  "slug": "hon-mun",
+  "name": { "en": "Hon Mun" },
+  "vietnameseName": "Hòn Mun",
+  "image": "/images/islands/hon-mun.webp",
+  "bestFor": ["Diving", "Snorkeling", "Marine Life", "Coral Reefs"],
+  "description": { "en": "Part of Nha Trang Bay's marine protected area, Hon Mun boasts Vietnam's best coral reefs and underwater visibility. This small island is the premier destination for scuba diving and snorkeling in south-central Vietnam, with over 350 species of hard coral recorded." },
+  "overview": "Hon Mun (literally 'Ebony Island,' named for the dark-colored rock visible at its base) is a small island approximately 10 kilometers southeast of Nha Trang city, and it sits at the core of the Nha Trang Bay Marine Protected Area established in 2001. Despite its modest size, Hon Mun is widely considered the best diving and snorkeling destination in all of mainland Vietnam. Marine surveys have recorded over 350 species of hard coral (one of the highest concentrations in the Western Pacific), more than 200 species of reef fish, and diverse populations of mollusks, crustaceans, and other invertebrates. The surrounding waters benefit from a unique convergence of ocean currents that brings nutrient-rich water close to shore, supporting this extraordinary biodiversity. Underwater visibility regularly reaches 15-20 meters and can exceed 25 meters on the best days. The island itself is uninhabited, with steep rocky shores and dense vegetation above the waterline. Visitors come here for one reason: what lies beneath the surface. Whether you are a certified diver or a first-time snorkeler, Hon Mun delivers Vietnam's most reliable and rewarding underwater experience.",
+  "gettingThere": {
+    "byAir": "The nearest airport is Cam Ranh International Airport (CXR), approximately 35 kilometers south of Nha Trang. Direct flights from Ho Chi Minh City (1 hour), Hanoi (2 hours), and Da Nang (1.5 hours) on Vietnam Airlines, VietJet, and Bamboo Airways. International flights from Seoul, Bangkok, and several Chinese cities. Airport buses and taxis reach Nha Trang city in 30-45 minutes.",
+    "byFerry": "Hon Mun is reached by boat from Nha Trang city, typically as part of an organized diving or snorkeling tour. Tour boats depart from Cau Da port or Nha Trang harbor (15-30 minutes to Hon Mun depending on the boat). There is no independent ferry service - access is through dive operators, snorkeling tours, or private boat charters."
+  },
+  "bestTimeToVisit": {
+    "best": "March to September",
+    "description": "Calm seas and the best underwater visibility, with water temperatures of 26-29 degrees Celsius. April to June typically offers the clearest water. This period coincides with the dry season in Nha Trang.",
+    "avoid": "October to December: the northeast monsoon brings rough seas, reduced visibility, and occasional suspended boat services. January-February can still have rough conditions. Some dive operators reduce schedules during the monsoon months."
+  },
+  "topBeaches": [
+    {
+      "name": "Hon Mun has no conventional beaches",
+      "description": "The island's shores are predominantly rocky, which is precisely why the coral reefs here are so healthy and undisturbed. The appeal of Hon Mun is entirely underwater."
+    },
+    {
+      "name": "Nearby: Bai Tranh (Hon Tre island)",
+      "description": "For beach time after diving, the nearest sandy beach is on neighboring Hon Tre island, home to the Vinpearl resort. Many island-hopping tours combine Hon Mun snorkeling with beach time at Hon Tre or Hon Tam."
+    },
+    {
+      "name": "Nha Trang City Beach",
+      "description": "The 6-kilometer city beach in Nha Trang itself is where visitors base themselves. It is a proper urban beach with a lively promenade, but not the reason people come to this area."
+    }
+  ],
+  "activities": [
+    {
+      "name": "Scuba Diving",
+      "description": "Hon Mun is Vietnam's premier dive destination. Sites around the island range from shallow coral gardens (5-12 meters) suitable for beginners to deeper walls and drift dives (18-30 meters) for experienced divers. Key dive sites include Moray Beach (rich in eels and macro life), Madonna Rock (dramatic underwater pinnacle), and the south face of Hon Mun (hard coral fields). Multiple PADI-certified dive centers operate from Nha Trang.",
+      "price": "1,200,000 - 2,000,000 VND ($48-80) for two-dive boat trips with equipment; PADI Open Water certification courses from 8,000,000 VND ($320)"
+    },
+    {
+      "name": "Snorkeling",
+      "description": "Even with just a mask and snorkel, Hon Mun's shallow reefs are rewarding. The coral starts just 1-2 meters below the surface in many areas, and the clarity of the water makes it easy to spot reef fish, sea stars, and anemones. Most island-hopping tours from Nha Trang include a snorkeling stop at Hon Mun.",
+      "price": "300,000 - 600,000 VND ($12-24) for snorkeling as part of an island-hopping tour"
+    },
+    {
+      "name": "Glass-Bottom Boat Tour",
+      "description": "For those who prefer to stay dry, glass-bottom boats at Hon Mun allow viewing of the coral reefs from above the waterline. While not as immersive as snorkeling, the clear water and shallow reefs make for surprisingly good viewing.",
+      "price": "100,000 - 200,000 VND ($4-8) per person"
+    },
+    {
+      "name": "Island-Hopping Tour (Four Islands)",
+      "description": "The classic Nha Trang boat tour visits four islands: Hon Mun for snorkeling, Hon Mot for relaxation, Hon Tam for beach time, and Hon Mieu for the Tri Nguyen Aquarium. A full-day tour with lunch, drinks, and entertainment.",
+      "price": "250,000 - 400,000 VND ($10-16) for the budget 'four islands' tour; 600,000 - 1,200,000 VND ($24-48) for premium options with fewer crowds"
+    },
+    {
+      "name": "Underwater Photography",
+      "description": "The excellent visibility and diverse marine life make Hon Mun one of Vietnam's best spots for underwater photography. Several dive operators offer photography-focused dive trips with dedicated guides who know the best sites for specific marine life.",
+      "price": "2,000,000 - 3,000,000 VND ($80-120) for specialized photography dive trips with GoPro or camera rental available"
+    }
+  ],
+  "accommodation": {
+    "budget": "No accommodation on Hon Mun itself. In Nha Trang, backpacker hostels from 150,000 VND ($6)/night and budget hotels from 300,000 VND ($12)/night along Nguyen Thien Thuat and Biet Thu streets.",
+    "midRange": "3-4 star hotels in Nha Trang from 800,000 VND ($32)/night. Liberty Central and Novotel on the beachfront offer good value with sea views and pool access.",
+    "luxury": "5-star resorts in the Nha Trang area from 3,500,000 VND ($140)/night. Six Senses Ninh Van Bay (accessible by boat, about 20 minutes north), Evason Ana Mandara on Nha Trang beach, and Vinpearl Resort on Hon Tre island. The Six Senses is one of Vietnam's finest luxury properties."
+  },
+  "localTips": [
+    "Book diving through a reputable PADI-certified center in Nha Trang - Sailing Club Divers, Vietnam Active, and Rainbow Divers are well-established operators",
+    "The marine protected area charges an entry fee (200,000 VND) which is usually included in tour prices - verify before booking",
+    "Avoid the cheapest 'four islands' tours if you care about the marine environment - budget tours can be crowded, noisy, and some operators anchor on coral",
+    "For serious diving, book a private or small-group trip rather than joining a large boat tour - you will spend more time in the water and less time waiting",
+    "Visibility is best in the morning before afternoon winds pick up - request early departure times",
+    "Do not touch, stand on, or remove any coral - the marine protected area regulations are enforced and fines apply"
+  ],
+  "sources": [
+    "Nha Trang Bay Marine Protected Area Authority",
+    "Vietnam National Administration of Tourism",
+    "Khanh Hoa Department of Tourism",
+    "IUCN - Nha Trang Bay Biodiversity Assessment"
+  ]
+}

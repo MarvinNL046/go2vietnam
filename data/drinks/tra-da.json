@@ -1,0 +1,57 @@
+{
+  "slug": "tra-da",
+  "name": { "en": "Vietnamese Iced Tea" },
+  "vietnameseName": "Trà Đá",
+  "image": "/images/drinks/tra-da.webp",
+  "category": "Tea",
+  "description": { "en": "Complimentary iced green tea served automatically at nearly every restaurant, cafe, and street food stall in Vietnam. This light, slightly bitter tea is as ubiquitous as water and serves as the default drink that accompanies every Vietnamese meal." },
+  "overview": "Tra da is the most consumed drink in Vietnam, though it rarely gets the attention it deserves because it is so utterly ordinary to Vietnamese life. Walk into virtually any restaurant, pho shop, com binh dan (rice plate stall), or even a coffee shop in Vietnam, and a glass of iced tea will appear at your table within seconds - often before you have even ordered. It is almost always free or included in the cost of your meal. The tea itself is simple: a light brew of green tea (usually artichoke tea or a basic green tea from Thai Nguyen province), served over ice in a tall glass. It is barely sweet, slightly bitter, and above all, refreshing. For the Vietnamese, tra da is not really a 'drink' in the way coffee or beer is - it is more like flavored water, the constant companion to every meal and conversation. Entire micro-businesses exist around tra da: tiny sidewalk stalls selling nothing but glasses of iced tea for 2,000-3,000 VND to passing motorbike drivers and workers.",
+  "origin": {
+    "region": "Nationwide",
+    "history": "Tea drinking in Vietnam stretches back over a thousand years, influenced by Chinese tea culture but evolved into distinctly Vietnamese traditions. Green tea cultivation is concentrated in the northern provinces of Thai Nguyen, Ha Giang, and Lam Dong, with Thai Nguyen widely considered Vietnam's premier tea-growing region. The tradition of serving free iced tea at restaurants likely developed in the mid-20th century as ice became commercially available and affordable. Unlike the formal tea ceremonies of China and Japan, Vietnamese tea culture is characteristically casual and egalitarian - tra da is served the same way to everyone, from street vendors to government officials. The drink also functions as a public health measure, encouraging hydration in Vietnam's tropical climate."
+  },
+  "howItsMade": "Tra da is brewed simply: green tea leaves (usually a basic grade of Thai Nguyen green tea or dried artichoke flowers in some regions) are steeped in hot water at a light concentration - much weaker than what you would find in a Chinese or Japanese tea service. The brewed tea is cooled to room temperature or chilled, then poured into glasses filled with ice. No sugar is added in the traditional preparation, though some southern vendors add a touch of sugar syrup. The tea is intentionally brewed light so it can be consumed in large quantities alongside meals without overwhelming the palate. In restaurants, tra da is typically kept in large pitchers or dispensers and refilled continuously throughout the meal.",
+  "whereToTry": [
+    {
+      "name": "Literally any restaurant or food stall",
+      "location": "Nationwide",
+      "note": "Tra da is served automatically and almost always free at every Vietnamese eatery"
+    },
+    {
+      "name": "Sidewalk tra da stalls",
+      "location": "Street corners throughout Hanoi and Ho Chi Minh City",
+      "note": "Tiny stalls selling only iced tea and sometimes cigarettes, the most basic form of Vietnamese commerce"
+    },
+    {
+      "name": "Pho restaurants",
+      "location": "Nationwide",
+      "note": "The classic pairing of hot pho and cold tra da is one of Vietnam's most essential culinary experiences"
+    },
+    {
+      "name": "Com binh dan (workers' rice stalls)",
+      "location": "Nationwide",
+      "note": "Budget rice-and-dish restaurants always include unlimited tra da with your meal"
+    }
+  ],
+  "variations": [
+    { "name": "Tra Da (plain)", "description": "The standard free iced green tea served at meals - light, unsweetened, and endlessly refillable" },
+    { "name": "Tra Atiso (Artichoke Tea)", "description": "Made from dried artichoke flowers, common in Da Lat and central Vietnam, with a slightly sweet, herbal flavor" },
+    { "name": "Tra Chanh (Lemon Tea)", "description": "Iced tea with fresh lime and sugar, a popular sweetened variation at dedicated tra chanh stalls" },
+    { "name": "Tra Tac (Kumquat Tea)", "description": "Iced tea with kumquat, offering a citrusy twist, popular in northern Vietnam" },
+    { "name": "Tra Dao (Peach Tea)", "description": "A sweeter, modern variation with peach syrup, common at trendy cafes and tea shops" }
+  ],
+  "priceRange": "Free (at restaurants) or 2,000 - 5,000 VND ($0.08 - $0.20) at street stalls",
+  "tips": [
+    "Do not be surprised when tea appears at your table without ordering - it is standard Vietnamese hospitality",
+    "Tra da is almost always free at restaurants and food stalls; you only pay at dedicated tea stalls",
+    "It is perfectly acceptable to ask for a refill - most places offer unlimited tra da",
+    "If the tea tastes unusually sweet, you are probably in southern Vietnam where some vendors add sugar",
+    "Tra da stalls on the street double as informal social clubs - it is fine to sit and watch the world go by"
+  ],
+  "culturalNotes": "Tra da is so embedded in Vietnamese life that it is practically invisible to the Vietnamese themselves. When asked about Vietnamese drinks, most locals would mention coffee or beer before thinking to mention tra da, precisely because it is as unremarkable as breathing. Yet this humble iced tea is arguably the most important drink in the country's food culture - the universal palate cleanser, hydration source, and hospitality gesture rolled into one. The tradition of serving free tra da at restaurants reflects a deeply Vietnamese concept of hospitality: a guest should never be thirsty. Tra da stalls also serve an important social function, particularly for motorbike taxi drivers and manual laborers who need an affordable place to rest, hydrate, and socialize between jobs. The 2,000 VND glass of iced tea is one of the last remaining ultra-affordable pleasures in Vietnam's rapidly modernizing economy.",
+  "sources": [
+    "Thai Nguyen Tea Association",
+    "Vietnam Tea Association (VITAS)",
+    "Vietnam National Administration of Tourism"
+  ]
+}

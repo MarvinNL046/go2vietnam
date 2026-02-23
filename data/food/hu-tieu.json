@@ -1,0 +1,101 @@
+{
+  "slug": "hu-tieu",
+  "name": { "en": "Hu Tieu" },
+  "vietnameseName": "Hủ Tiếu",
+  "image": "/images/food/hu-tieu.webp",
+  "category": "Soup",
+  "spiceLevel": "mild",
+  "description": { "en": "A clear, sweet pork bone broth noodle soup from southern Vietnam featuring thin, chewy rice noodles topped with pork, shrimp, quail eggs, and Chinese celery — also commonly served dry with broth on the side." },
+  "overview": "Hu tieu is the noodle soup of southern Vietnam, a lighter and sweeter counterpart to the north's pho. The dish features a clear pork bone broth that is naturally sweet and clean-tasting, served over thin, slightly chewy rice noodles (or sometimes egg noodles) with a variety of toppings including sliced pork, shrimp, pork liver, quail eggs, and Chinese celery. What makes hu tieu particularly versatile is that it can be served either as a soup (hủ tiếu nước) or dry (hủ tiếu khô), where the noodles are tossed in a savory sauce and the broth comes in a separate bowl on the side. The dish reflects the Chinese-Vietnamese culinary heritage of the Mekong Delta and Saigon, brought by Teochew (Chaozhou) Chinese immigrants who settled in the region centuries ago. Hu tieu is a common breakfast food throughout southern Vietnam, with stalls opening before dawn to serve the morning rush.",
+  "origin": {
+    "region": "Southern Vietnam (Mekong Delta / Ho Chi Minh City)",
+    "history": "Hu tieu has its roots in the Teochew (Chaozhou) Chinese community of southern Vietnam and Cambodia. The name 'hủ tiếu' derives from the Teochew pronunciation of 'kway teow' (rice noodle strips). Chinese immigrants from the Guangdong province brought their noodle soup traditions to the Mekong Delta region, where the dish evolved to incorporate Vietnamese flavors and ingredients. The Mekong Delta town of My Tho and the Sa Dec area in Dong Thap province are considered the spiritual homes of hu tieu, and the dish is named after these places in its most famous variants: 'Hủ Tiếu Mỹ Tho' and 'Hủ Tiếu Sa Đéc.' In Saigon, the dish was further refined by the city's Chinese-Vietnamese (Hoa) community, particularly in Cholon (Chinatown), District 5, where some of the best hu tieu in Vietnam can still be found."
+  },
+  "ingredients": {
+    "main": [
+      "Thin rice noodles (hủ tiếu) or egg noodles (mì)",
+      "Clear pork bone broth (nước lèo) — simmered with dried squid and daikon",
+      "Sliced pork (thịt heo)",
+      "Shrimp (tôm)",
+      "Pork liver (gan heo)",
+      "Quail eggs (trứng cút), hard-boiled",
+      "Ground pork (thịt bằm)"
+    ],
+    "herbs": [
+      "Chinese celery (cần tàu)",
+      "Green onions (hành lá)",
+      "Fried garlic (tỏi phi)",
+      "Lettuce (xà lách)",
+      "Bean sprouts (giá đỗ)"
+    ],
+    "condiments": [
+      "Fish sauce (nước mắm)",
+      "Chili sauce (tương ớt)",
+      "Hoisin sauce (tương đen)",
+      "Lime wedges",
+      "Fresh chili slices",
+      "Soy sauce (nước tương)"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Hủ Tiếu Nam Vang (Phnom Penh Style)",
+      "description": "The most popular variant in Saigon, named after Phnom Penh (Nam Vang in Vietnamese). Features a sweeter broth with pork, shrimp, pork liver, ground pork, and quail eggs. This is the standard hu tieu in Ho Chi Minh City."
+    },
+    {
+      "name": "Hủ Tiếu Mỹ Tho (My Tho Style)",
+      "description": "From the Mekong Delta town of My Tho. Uses wider, chewier noodles and a broth that includes pork bones and dried seafood. Known for a cleaner, more refined flavor profile."
+    },
+    {
+      "name": "Hủ Tiếu Sa Đéc (Sa Dec Style)",
+      "description": "Features noodles made from the famous rice of Sa Dec, Dong Thap province. The noodles are thinner and more delicate, and the dish is known for its particularly sweet, clear broth."
+    },
+    {
+      "name": "Hủ Tiếu Khô (Dry Hu Tieu)",
+      "description": "The noodles are served dry, tossed in a savory mixture of soy sauce, lard, and seasonings, with the broth served separately on the side. Very popular in Saigon and allows you to enjoy the noodles' texture more directly."
+    }
+  ],
+  "howToOrder": "For soup, order 'hủ tiếu nước' or simply 'hủ tiếu.' For the dry version, say 'hủ tiếu khô.' Specify the style if available: 'hủ tiếu Nam Vang' is the most common. Some shops let you choose between rice noodles (hủ tiếu) and egg noodles (mì) — 'hủ tiếu mì' gets you a combination of both. Add 'thêm trứng cút' for extra quail eggs.",
+  "whereToEat": [
+    {
+      "name": "Hủ Tiếu Nam Vang Thanh Xuân",
+      "location": "Ho Chi Minh City",
+      "note": "At 62 Ton That Thiep, District 1. A legendary Saigon hu tieu shop operating since the 1950s. Known for rich, clear broth and a generous variety of toppings. Always busy at breakfast time."
+    },
+    {
+      "name": "Hủ Tiếu Sa Đéc - Chú Cường",
+      "location": "Ho Chi Minh City",
+      "note": "In the Sa Dec community area. Specializes in the delicate Sa Dec-style noodles with a particularly sweet and clean broth."
+    },
+    {
+      "name": "Hu Tieu My Tho Shops",
+      "location": "My Tho, Tien Giang Province",
+      "note": "Visit My Tho in the Mekong Delta for the most authentic hu tieu My Tho experience. Multiple excellent shops line the main roads — look for those packed with locals."
+    },
+    {
+      "name": "Hủ Tiếu Hồng Phát",
+      "location": "Ho Chi Minh City",
+      "note": "At Cholon (Chinatown), District 5. An excellent Chinese-Vietnamese style hu tieu in the heart of Saigon's Chinatown. Rich broth with Chinese culinary influence."
+    }
+  ],
+  "priceRange": {
+    "street": "30,000 - 50,000 VND ($1.25 - $2.10)",
+    "restaurant": "55,000 - 90,000 VND ($2.30 - $3.70)",
+    "upscale": "100,000 - 180,000 VND ($4.10 - $7.50)"
+  },
+  "tips": [
+    "Hu tieu is primarily a southern Vietnamese dish — eat it in Ho Chi Minh City or the Mekong Delta for the best experience",
+    "Try both the soup and dry versions to appreciate the versatility of the dish",
+    "Breakfast is prime hu tieu time — most stalls open around 6:00 AM and may sell out by mid-morning",
+    "The combination of rice noodles and egg noodles ('hủ tiếu mì') gives you the best of both textures",
+    "Visit Cholon (District 5) in Saigon for Chinese-influenced hu tieu with particularly rich broths",
+    "If visiting the Mekong Delta, a detour to My Tho specifically for hu tieu is worthwhile"
+  ],
+  "culturalNotes": "Hu tieu tells the story of Vietnam's multicultural south, where Vietnamese, Chinese, Cambodian, and other culinary traditions have blended over centuries. The Teochew Chinese community that brought the original noodle soup to Vietnam's Mekong Delta created a foundation that Vietnamese cooks then adapted with local fish sauce, fresh herbs, and their own flavor preferences. The dish also reflects the economic connections between southern Vietnam and Cambodia — 'Hủ Tiếu Nam Vang' literally means 'Phnom Penh noodle soup,' acknowledging the Cambodian capital's role in the dish's evolution. Today, hu tieu is as much a part of Saigon's identity as com tam and banh mi, representing the city's embrace of diverse culinary influences and its reputation as Vietnam's most cosmopolitan food city.",
+  "sources": [
+    "Vietnam National Administration of Tourism",
+    "Lonely Planet Mekong Delta Guide",
+    "Luke Nguyen, 'The Songs of Sapa' (Hardie Grant, 2009)",
+    "Saigoneer — 'The History of Hu Tieu'"
+  ]
+}

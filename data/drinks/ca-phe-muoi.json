@@ -1,0 +1,56 @@
+{
+  "slug": "ca-phe-muoi",
+  "name": { "en": "Salted Coffee" },
+  "vietnameseName": "Cà Phê Muối",
+  "image": "/images/drinks/ca-phe-muoi.webp",
+  "category": "Coffee",
+  "description": { "en": "A trending Vietnamese coffee variation originating from Hue that tops robust phin-dripped coffee with a salted cream foam. The interplay of bitter coffee, sweet condensed milk, and a pinch of salt creates an unexpectedly addictive flavor profile." },
+  "overview": "Salted coffee is the newest star of Vietnam's inventive coffee scene, originating in the former imperial capital of Hue before spreading rapidly across the country. The drink layers strong Vietnamese phin coffee with condensed milk and tops it with a salted cream foam, sometimes made with fermented milk or fresh cream. The salt does not make the drink taste salty; instead, it performs the same culinary trick as salted caramel - suppressing bitterness and amplifying sweetness and complexity. The result is a remarkably smooth, rounded coffee experience that has won over even die-hard traditionalists. Salted coffee hit the international spotlight in 2023 when it was featured on several global 'best coffee' lists and has since become a must-try for visitors to Hue and beyond.",
+  "origin": {
+    "region": "Hue, Central Vietnam",
+    "history": "Salted coffee is credited to the cafe chain Ca Phe Muoi in Hue, which began serving the drink around 2014. The creator reportedly drew inspiration from Hue's coastal location and its culinary tradition of balancing flavors through salt, fermented ingredients, and complex layering. Hue cuisine is known throughout Vietnam for its sophisticated flavor profiles, and salted coffee fits perfectly into this tradition. The drink remained a Hue specialty for several years before gaining nationwide popularity around 2022-2023, when Vietnamese social media food influencers brought it to widespread attention. Today, major chains like Highlands Coffee and Phuc Long have added their own salted coffee versions to menus nationwide."
+  },
+  "howItsMade": "The base is classic Vietnamese coffee brewed through a phin filter using dark-roast Robusta beans. A layer of sweetened condensed milk sits at the bottom of the glass. The salted cream topping is the signature element, typically made by whipping fresh cream or condensed milk with a small amount of fine salt (some versions use fermented milk or a butter-cream base). The cream is whipped until thick and fluffy, then spooned or poured on top of the coffee. The drink can be served hot or iced. Some variations incorporate salted cheese cream, similar to the cheese tea trend. The ideal ratio produces a drink where each sip delivers coffee bitterness, milk sweetness, and a subtle savory finish from the salt.",
+  "whereToTry": [
+    {
+      "name": "Ca Phe Muoi (Salt Coffee Original)",
+      "location": "12 Nguyen Luong Bang, Hue",
+      "note": "The original cafe credited with creating the salted coffee trend in Hue"
+    },
+    {
+      "name": "Mot Hoi An",
+      "location": "150 Tran Phu, Hoi An",
+      "note": "Popular cafe in the ancient town serving an excellent version with locally sourced ingredients"
+    },
+    {
+      "name": "Highlands Coffee",
+      "location": "Nationwide chain",
+      "note": "Vietnam's largest coffee chain added salted coffee to their permanent menu following the trend"
+    },
+    {
+      "name": "Local cafes along the Perfume River",
+      "location": "Hue riverside area",
+      "note": "Several small cafes along Le Loi street serve salted coffee with views of the iconic river"
+    }
+  ],
+  "variations": [
+    { "name": "Ca Phe Muoi Da", "description": "Iced version served over ice, the most popular choice in warmer southern cities" },
+    { "name": "Ca Phe Muoi Nong", "description": "Hot version, preferred in Hue during the cooler months from November to February" },
+    { "name": "Salted Cheese Coffee", "description": "A variation using cheese cream foam instead of plain salted cream, influenced by the cheese tea trend from Taiwan" },
+    { "name": "Salted Coconut Coffee", "description": "A fusion version combining salted cream with coconut milk, found in modern cafes in Saigon and Da Nang" }
+  ],
+  "priceRange": "25,000 - 50,000 VND ($1.00 - $2.00)",
+  "tips": [
+    "Try it in Hue first for the most authentic version and to experience it in its city of origin",
+    "Do not stir the drink immediately - sip through the salted cream layer to get all three flavors at once",
+    "Ask for 'muoi it' (less salt) if you are worried about the saltiness, though the salt is subtle in most versions",
+    "The iced version is more refreshing, but the hot version lets you taste the cream's texture more clearly",
+    "Pair it with a Hue specialty snack like banh beo (water fern cake) or banh nam (flat steamed rice cake)"
+  ],
+  "culturalNotes": "Salted coffee represents the dynamic, ever-evolving nature of Vietnamese coffee culture. While ca phe sua da and egg coffee have decades of history, salted coffee shows that Vietnamese baristas continue to innovate and create new classics. Its origin in Hue is fitting - the former imperial capital has always been Vietnam's most culinarily creative city, known for complex flavor combinations that other regions rarely attempt. The drink's rapid spread across Vietnam also reflects how social media has accelerated food trends in the country. What once might have remained a regional specialty for decades can now go viral in weeks. Salted coffee has even begun appearing in specialty cafes in Bangkok, Seoul, and Tokyo, positioning it as Vietnam's next coffee export to the world.",
+  "sources": [
+    "Vietnam National Administration of Tourism",
+    "Thua Thien Hue Department of Tourism",
+    "Vietnam Coffee-Cocoa Association (VICOFA)"
+  ]
+}

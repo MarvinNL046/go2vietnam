@@ -1,0 +1,103 @@
+{
+  "slug": "bun-bo-hue",
+  "name": { "en": "Bun Bo Hue" },
+  "vietnameseName": "Bún Bò Huế",
+  "image": "/images/food/bun-bo-hue.webp",
+  "category": "Soup",
+  "spiceLevel": "hot",
+  "description": { "en": "A bold, spicy beef noodle soup from the former imperial capital of Hue, featuring thick round rice noodles in a lemongrass-infused broth colored vibrant red with annatto oil and fermented shrimp paste." },
+  "overview": "Bun bo Hue is widely regarded by Vietnamese food lovers as the country's most complex and flavorful noodle soup, even surpassing pho in the eyes of many. Originating from the former imperial capital of Hue in central Vietnam, this soup features a deeply layered broth that balances spicy, sour, salty, and umami flavors. The broth is built from pork and beef bones, infused with lemongrass, colored a vivid red-orange with annatto seed oil, and given its distinctive funky depth by mắm ruốc (fermented shrimp paste). The soup is served with thick, round rice noodles (bún bò) that are chewier than the flat noodles in pho, along with sliced beef shank, pork knuckle, cubes of congealed pig blood, and Vietnamese ham. The generous garnish plate of banana blossom, shredded cabbage, herbs, lime, and chili allows diners to customize each bowl to their liking.",
+  "origin": {
+    "region": "Hue, Central Vietnam",
+    "history": "Bun bo Hue has its roots in the royal court cuisine of the Nguyen Dynasty, which ruled from Hue from 1802 to 1945. The dish reflects Hue's culinary traditions, which are known for their complexity, elaborate preparation, and bold use of chili and fermented ingredients. Central Vietnamese cuisine is notably spicier than that of the north or south, and bun bo Hue is the flagship example. The dish was originally a common people's food that incorporated humble cuts of meat — knuckles, shanks, and offal — simmered for hours to create a rich broth. Over time, it became recognized as one of Vietnam's three great noodle soups alongside pho and bun rieu. The 'Huế' in the name is essential: while you can find the dish throughout Vietnam, Hue's version remains the benchmark."
+  },
+  "ingredients": {
+    "main": [
+      "Thick round rice noodles (bún bò)",
+      "Beef shank (bắp bò), sliced",
+      "Pork knuckle or trotters (giò heo)",
+      "Vietnamese pork ham/sausage (chả Huế)",
+      "Congealed pig blood (huyết), optional",
+      "Beef bones and pork bones for broth"
+    ],
+    "spices": [
+      "Lemongrass (sả), bruised and chopped",
+      "Annatto seed oil (dầu hạt điều) for color",
+      "Fermented shrimp paste (mắm ruốc Huế)",
+      "Chili flakes and chili oil (ớt sa tế)",
+      "Shallots and garlic"
+    ],
+    "herbs": [
+      "Banana blossom (bắp chuối), thinly shredded",
+      "Shredded cabbage (bắp cải)",
+      "Morning glory / water spinach (rau muống)",
+      "Perilla leaves (tía tô)",
+      "Mint (húng lủi)",
+      "Thai basil (húng quế)",
+      "Cilantro (ngò rí)"
+    ],
+    "condiments": [
+      "Chili sa te oil (ớt sa tế) — the essential chili condiment",
+      "Lime wedges",
+      "Extra fermented shrimp paste",
+      "Fish sauce (nước mắm)"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Bún Bò Huế Truyền Thống (Traditional Hue Style)",
+      "description": "The authentic Hue version with the full range of meats including pig blood, extra spicy broth, and fermented shrimp paste. Unapologetically bold and complex."
+    },
+    {
+      "name": "Bún Bò Huế Sài Gòn (Saigon Style)",
+      "description": "A milder adaptation popular in the south with a slightly sweeter broth, often omitting pig blood and reducing the shrimp paste. More accessible to those unaccustomed to the intense Hue flavor."
+    },
+    {
+      "name": "Bún Bò Giò Heo (Pork Knuckle Version)",
+      "description": "Emphasizes large pieces of tender pork knuckle in the soup, with the gelatinous meat falling off the bone. A hearty and comforting version."
+    }
+  ],
+  "howToOrder": "Order 'một bún bò Huế' or simply 'bún bò.' In Hue, you can specify 'bún bò giò heo' if you want extra pork knuckle. Ask for 'cay nhiều' (extra spicy) or 'ít cay' (less spicy). Add 'sa tế' (chili oil) from the table to taste. 'Thêm bún' gets you more noodles. The herb and vegetable plate comes automatically at most places.",
+  "whereToEat": [
+    {
+      "name": "Bún Bò Huế Bà Tuyết",
+      "location": "Hue",
+      "note": "At 47 Nguyen Cong Tru. A legendary Hue institution serving deeply flavored, intensely spicy broth that represents the authentic Hue standard. Simple setting with outstanding soup."
+    },
+    {
+      "name": "Quán Bún Bò Mụ Rớt",
+      "location": "Hue",
+      "note": "At 11 Ly Thuong Kiet. Considered one of the best in Hue by many locals. Known for their extremely rich broth and generous portions of meat."
+    },
+    {
+      "name": "Bún Bò Huế 3A3",
+      "location": "Ho Chi Minh City",
+      "note": "At 3A3 Nguyen Dinh Chieu, District 3. One of the best Hue-style noodle soups in Saigon, run by a family from Hue who maintain the authentic recipe."
+    },
+    {
+      "name": "Bún Bò Nam Bộ",
+      "location": "Hanoi",
+      "note": "At 67 Hang Dieu. Despite the name (which means 'southern style'), this Hanoi spot serves an excellent adaptation of the Hue classic."
+    }
+  ],
+  "priceRange": {
+    "street": "30,000 - 50,000 VND ($1.25 - $2.10)",
+    "restaurant": "55,000 - 100,000 VND ($2.30 - $4.10)",
+    "upscale": "120,000 - 250,000 VND ($5.00 - $10.40)"
+  },
+  "tips": [
+    "Start with a small amount of sa te chili oil and add more gradually — the Hue version is genuinely very spicy",
+    "Do not skip the banana blossom and herbs — they provide essential freshness and crunch against the rich broth",
+    "Try to eat bun bo Hue in Hue itself for the most authentic experience — the local fermented shrimp paste makes a real difference",
+    "If you find the fermented shrimp paste flavor too strong, start with a Saigon-adapted version first",
+    "This dish is often considered superior to pho by Vietnamese food enthusiasts — give it a serious try",
+    "Many places serve bun bo Hue for breakfast as well as lunch and dinner"
+  ],
+  "culturalNotes": "Bun bo Hue is a point of immense pride for the people of Hue, who consider their city the culinary capital of Vietnam. Hue's food culture was shaped by the Nguyen Dynasty's imperial court, where elaborate meals with dozens of small dishes were the norm. This emphasis on complexity and bold flavor pervades Hue street food as well, and bun bo Hue is the prime example. The dish also reflects central Vietnam's climate — hotter and more humid than the north — which led to spicier, more assertively flavored food. Many food critics and chefs, including the late Anthony Bourdain, have called bun bo Hue the best soup in Vietnam. For visitors, trying the authentic version in Hue is a culinary pilgrimage worth making.",
+  "sources": [
+    "Vietnam National Administration of Tourism",
+    "Lonely Planet Central Vietnam Food Guide",
+    "Bobby Chinn, 'Vietnamese Food' (Conran Octopus)",
+    "CNN Travel — 'Best Vietnamese Food: 40 Delicious Dishes'"
+  ]
+}

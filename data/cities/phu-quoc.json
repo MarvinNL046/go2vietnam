@@ -1,0 +1,129 @@
+{
+  "slug": "phu-quoc",
+  "name": { "en": "Phu Quoc" },
+  "vietnameseName": "Phú Quốc",
+  "image": "/images/cities/phu-quoc.webp",
+  "region": "Southern Vietnam",
+  "highlights": ["Pristine Beaches", "Snorkeling & Diving", "Night Market", "Fish Sauce Heritage"],
+  "description": { "en": "Vietnam's largest island sits in the Gulf of Thailand, offering powdery white-sand beaches, coral reefs teeming with marine life, and spectacular sunsets over the ocean. Phu Quoc has rapidly developed from a sleepy fishing island into a resort destination while preserving its famous fish sauce production, pepper farms, and the wild jungle interior of its national park." },
+  "overview": "Phu Quoc is Vietnam's largest island, covering 574 square kilometers in the Gulf of Thailand, closer to Cambodia than to the Vietnamese mainland. Once a sleepy island known primarily for producing Vietnam's finest fish sauce (nuoc mam) and black pepper, Phu Quoc has undergone dramatic transformation since being designated a Special Economic Zone. International airport connections, large-scale resorts, a cable car to neighboring islands, and an entertainment complex have brought modern tourism infrastructure, while the island's stunning natural assets — white-sand beaches, coral reefs, and a UNESCO-recognized national park covering more than half the island — remain its primary draw. Phu Quoc's west coast catches spectacular sunsets over the Gulf of Thailand, its southern islands offer some of Vietnam's best snorkeling and diving, and the Duong Dong night market is one of the country's best seafood experiences. Despite rapid development in the south and northwest, much of the island retains its laid-back fishing village character, particularly along the northeast coast and in the national park interior.",
+  "neighborhoods": [
+    {
+      "name": "Duong Dong Town",
+      "description": "The island's main town and administrative center on the west coast. Duong Dong has the island's largest market, the famous night market, and the Dinh Cau fishing temple perched on rocks at the harbor entrance. The town retains a working fishing village feel, with colorful boats filling the harbor and the pungent aroma of fish sauce production wafting from nearby factories. Most mid-range hotels and independent restaurants are located here.",
+      "highlights": ["Phu Quoc Night Market", "Dinh Cau Rock Temple", "Fishing harbor", "Fish sauce factories"]
+    },
+    {
+      "name": "Long Beach (Bai Truong)",
+      "description": "Stretching 20km along the west coast south of Duong Dong, Long Beach is the island's main tourism strip. The northern section near Duong Dong has budget and mid-range accommodation, while the southern section features large international resorts including InterContinental, JW Marriott, and Novotel. The entire beach faces west, making it the prime sunset-watching location on the island.",
+      "highlights": ["20km sandy beach", "Spectacular sunsets", "Resort strip", "Beach bars and restaurants"]
+    },
+    {
+      "name": "Ong Lang Beach",
+      "description": "Located on the northwest coast about 8km north of Duong Dong, Ong Lang is a quieter, more secluded alternative to Long Beach. Several boutique resorts and eco-lodges are set among coconut palms along the beach. The area has a more relaxed, upscale feel with fewer crowds. Some of the island's best mid-range and boutique accommodations are found here.",
+      "highlights": ["Secluded beach atmosphere", "Boutique resorts", "Coconut palm settings", "Quieter than Long Beach"]
+    },
+    {
+      "name": "An Thoi (South of the island)",
+      "description": "The southern tip of Phu Quoc is the departure point for island-hopping and snorkeling trips to the An Thoi Archipelago (15 small islands with coral reefs). The area is also home to the Hon Thom Cable Car (the world's longest over-sea cable car at 7,899 meters), Sun World Aquatopia water park, and a developing tourism complex. The traditional fishing town of An Thoi retains some local character.",
+      "highlights": ["Hon Thom Cable Car", "An Thoi Islands snorkeling", "Sun World Aquatopia", "Island-hopping departure point"]
+    }
+  ],
+  "gettingThere": {
+    "byAir": "Phu Quoc International Airport (PQC) opened in 2012 and handles domestic flights from Ho Chi Minh City (1 hour, multiple daily flights), Hanoi (2 hours), Da Nang, and Can Tho, plus international flights from several Asian cities. The airport is located in the center of the island near Duong Dong, making transfers short — most hotels are 15-30 minutes away. Grab and taxis are available; a ride to Long Beach hotels costs approximately 50,000-100,000 VND ($2-4).",
+    "byTrain": "There is no railway on Phu Quoc Island.",
+    "byBus": "There is no direct bus to Phu Quoc. The combination bus-ferry route from Ho Chi Minh City goes via Rach Gia or Ha Tien on the mainland (7-8 hours by bus), then by high-speed ferry to Phu Quoc (2-2.5 hours). SuperDong and Phu Quoc Express operate ferry services. The bus-ferry option is significantly slower than flying but can be a scenic alternative. Ferries arrive at either Bai Vong or Da Chong ports."
+  },
+  "gettingAround": "Phu Quoc is a large island (approximately 50km long) and public transport is minimal, so personal transport is essential. Motorbike rental is the most popular and practical option (150,000-200,000 VND/day, $6-8), with roads having improved significantly in recent years. Grab is available but coverage can be patchy in remote areas. Car rental with driver costs approximately 1,000,000-1,500,000 VND ($40-60) per day. Some resorts provide free shuttle buses to Duong Dong town. For beach hopping and island exploration, renting a motorbike is strongly recommended.",
+  "bestTimeToVisit": {
+    "best": "November to March",
+    "description": "The dry season brings clear skies, calm seas, and the best conditions for beach activities and snorkeling. Phu Quoc sits in the Gulf of Thailand and has a monsoon pattern opposite to most of Vietnam's east coast — its wet season peaks from July to September.",
+    "seasons": {
+      "spring": "February-April: Hot and dry, 27-33°C. Excellent beach weather with calm, clear seas. The driest period of the year. Visibility for snorkeling and diving is at its best.",
+      "summer": "May-June: Transitional period, 27-33°C. Increasing humidity and occasional showers. Still good for beach activities. Fewer tourists than peak season.",
+      "autumn": "July-September: Wet season peak, 25-31°C. Heavy rain, sometimes for extended periods. Seas can be rough, limiting island hopping and diving. Some beachfront businesses reduce hours. The lowest prices of the year.",
+      "winter": "October-January: Dry season returns, 25-31°C. October can still see some rain but November onwards is reliably dry. December-January is peak tourist season with the best weather and highest prices."
+    }
+  },
+  "budget": {
+    "backpacker": "$25-40/day",
+    "midRange": "$60-150/day",
+    "luxury": "$200-800+/day",
+    "details": "Hostel dorms from 150,000-250,000 VND ($6-10). Budget guesthouses from 350,000-700,000 VND ($14-28). Mid-range beach hotels from 1,000,000-2,500,000 VND ($40-100). Luxury resorts (JW Marriott, InterContinental, Salinda) from 4,000,000+ VND ($160+). Ultra-luxury (Six Senses Phu Quoc) from 15,000,000+ VND ($600+). Night market seafood dinner: 150,000-300,000 VND ($6-12). Restaurant meal: 100,000-300,000 VND ($4-12). Snorkeling day trip: 300,000-600,000 VND ($12-24). Diving (2 dives): from 1,800,000 VND ($72). Hon Thom Cable Car: 350,000 VND ($14)."
+  },
+  "mustDo": [
+    {
+      "name": "Feast at the Duong Dong Night Market",
+      "description": "Every evening, the streets around Vo Thi Sau and Bach Dang in Duong Dong town transform into one of Vietnam's best night markets. Dozens of stalls serve fresh seafood — grilled scallops, barbecued squid, steamed crab, grilled sea urchin — at remarkably affordable prices. Point at what you want from the ice displays, choose your cooking style, and eat at communal tables. A generous seafood dinner for two costs 300,000-500,000 VND ($12-20)."
+    },
+    {
+      "name": "Snorkel or dive around the An Thoi Islands",
+      "description": "The 15 islands of the An Thoi Archipelago off the southern tip of Phu Quoc offer Vietnam's most accessible coral reef snorkeling. Boat trips (typically departing 8:30am, returning 4pm) visit 3-4 islands with stops for snorkeling, swimming, and a seafood lunch on board. Day trips cost 300,000-600,000 VND ($12-24). For divers, the reefs feature hard and soft corals, anemone gardens, and a variety of tropical fish. Visibility is best from November to May."
+    },
+    {
+      "name": "Watch the sunset from Long Beach",
+      "description": "Phu Quoc's west-facing beaches offer some of Vietnam's most spectacular sunsets. Find a spot along Long Beach — many beach bars and restaurants provide sun loungers and cocktail service — and watch the sun drop into the Gulf of Thailand in a blaze of orange and red. The stretch near Duong Dong town and the area around the Sailing Club are particularly popular sunset spots."
+    },
+    {
+      "name": "Ride the Hon Thom Cable Car",
+      "description": "At 7,899 meters, the Hon Thom (Pineapple Island) Cable Car is the world's longest over-sea cable car. The 15-minute ride from An Thoi to Hon Thom Island passes over turquoise water and coral reefs visible from above. On Hon Thom, a beach and the Sun World Aquatopia water park await. The views from the cable car cabins are genuinely breathtaking. One-way ticket: 350,000 VND ($14), roundtrip: 500,000 VND ($20)."
+    },
+    {
+      "name": "Visit a fish sauce factory",
+      "description": "Phu Quoc's fish sauce (nuoc mam Phu Quoc) is considered the finest in Vietnam, protected by a geographical indication similar to Champagne. The island produces over 6 million liters annually from anchovies fermented in massive wooden barrels for 12-15 months. The Hung Thanh and Khai Hoan factories near Duong Dong offer free tours showing the production process. The aroma is intense but the experience is fascinating."
+    },
+    {
+      "name": "Explore Phu Quoc National Park",
+      "description": "Covering over 31,000 hectares (more than half the island), the UNESCO-recognized national park protects primary tropical forest, mangroves, and diverse wildlife. Hiking trails lead through old-growth forest to streams and waterfalls. The Ganh Dau area in the northwest offers particularly good trails. The park is also home to the Phu Quoc ridgeback dog, a distinctive breed native to the island recognizable by the ridge of hair running backward along its spine."
+    }
+  ],
+  "food": {
+    "description": "Phu Quoc's cuisine revolves around the abundant seafood pulled from the Gulf of Thailand and the island's two most famous products: fish sauce and black pepper. The night market in Duong Dong is the epicenter of the island's food scene, but excellent seafood restaurants dot the coastline. The island also has a small but growing fine-dining scene in the resort areas.",
+    "specialties": [
+      "Grilled Seafood at the Night Market — Sea urchin, scallops, squid, crab, prawns, and fish grilled over charcoal with spring onion oil and peanuts",
+      "Bun Quay (Phu Quoc Noodle Soup) — A unique local noodle soup where fresh rice noodles are swirled ('quay' means 'stir') into a rich seafood broth with fish cakes and shrimp",
+      "Goi Ca Trich (Herring Salad) — Raw herring mixed with coconut, onion, peanuts, herbs, and wrapped in rice paper. A Phu Quoc original, best at beachside restaurants in Ganh Dau or Ham Ninh",
+      "Cua Hap (Steamed Crab) — Flower crabs steamed and served with Phu Quoc pepper salt dip. The Ham Ninh fishing village on the east coast is famous for its crab restaurants",
+      "Phu Quoc Fish Sauce (Nuoc Mam) — The island's most famous product, used in everything. Premium fish sauce aged 12+ months has a complex, umami-rich flavor",
+      "Phu Quoc Pepper — The island's black, white, and red peppercorns are prized for their pungency and aroma. Visit a pepper farm to see production and buy direct"
+    ]
+  },
+  "safety": "Phu Quoc is generally very safe. The main concerns are road safety (motorbike accidents are the most common tourist incidents — roads can be sandy and some are unpaved), sun exposure and dehydration (the tropical sun is intense), and jellyfish stings during certain seasons (particularly June-September). If motorbike riding, wear a helmet, drive cautiously especially on unfamiliar roads, and avoid riding at night on unlit coastal roads. The seas around the An Thoi Islands can have currents — follow your snorkeling guide's instructions. Petty theft is relatively rare but don't leave valuables unattended on the beach.",
+  "localTips": [
+    "Rent a motorbike and explore the undeveloped northeast coast — Bai Sao (Star Beach) and Bai Khem are among the island's most beautiful beaches with far fewer people than Long Beach.",
+    "Visit Ham Ninh fishing village on the east coast for the freshest and cheapest crab on the island — the small restaurants on stilts over the water serve steamed crab with salt, pepper, and lime for a fraction of resort prices.",
+    "The best snorkeling visibility is from November to May — avoid the July-September rainy season when seas are rough and visibility drops significantly.",
+    "Buy fish sauce and pepper directly from the source — factory shops and pepper farm direct sales offer better quality and lower prices than tourist shops in Duong Dong.",
+    "Bai Sao (Star Beach) is often called Phu Quoc's most beautiful beach but has become increasingly developed — arrive early morning for the most pristine experience, or head to the less-known northern section.",
+    "Sunset viewing is best from the northern section of Long Beach or from the rooftop bars along Tran Hung Dao Street in Duong Dong.",
+    "The island has a visa exemption: foreign visitors can stay up to 30 days on Phu Quoc without a Vietnamese visa, even if they don't have one for the rest of Vietnam."
+  ],
+  "dayTrips": [
+    {
+      "name": "An Thoi Islands snorkeling trip",
+      "distance": "Off the southern tip of Phu Quoc, 30-60 minutes by boat",
+      "description": "Full-day boat trips visit 3-4 islands in the archipelago with snorkeling stops, swimming, and a seafood lunch. Hon Thom (Pineapple Island) and Hon May Rut have the best coral reefs. Trips depart from An Thoi port and cost 300,000-600,000 VND ($12-24) including gear and lunch."
+    },
+    {
+      "name": "Northern Island exploration (Ganh Dau, Bai Dai)",
+      "distance": "30km from Duong Dong, 45 minutes by motorbike",
+      "description": "The northern tip of the island is less developed and offers a glimpse of old Phu Quoc. Ganh Dau has a quiet beach with views of Cambodia's coast across the water, excellent herring salad restaurants, and access to hiking trails in the northern section of the national park."
+    },
+    {
+      "name": "Ham Ninh fishing village and Bai Sao",
+      "distance": "East coast, 25-35km from Duong Dong",
+      "description": "Combine a crab lunch at the waterfront restaurants of Ham Ninh fishing village with an afternoon at Bai Sao (Star Beach), widely considered the island's most photogenic beach with its white sand and turquoise water."
+    },
+    {
+      "name": "Pepper farm and bee farm circuit",
+      "distance": "Various locations, half-day motorbike circuit",
+      "description": "Several pepper plantations and bee farms in the island's interior welcome visitors. Tour the pepper growing and drying process, taste different varieties (black, white, red), and buy direct from growers. Bee farms offer honey tasting and sell royal jelly and beeswax products."
+    }
+  ],
+  "sources": [
+    "Vietnam National Administration of Tourism (vietnam.travel)",
+    "Kien Giang Province Tourism Department",
+    "UNESCO — Phu Quoc Biosphere Reserve",
+    "Lonely Planet Vietnam Guide"
+  ]
+}

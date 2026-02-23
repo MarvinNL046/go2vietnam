@@ -1,0 +1,89 @@
+{
+  "slug": "com-tam",
+  "name": { "en": "Com Tam" },
+  "vietnameseName": "Cơm Tấm",
+  "image": "/images/food/com-tam.webp",
+  "category": "Rice",
+  "spiceLevel": "mild",
+  "description": { "en": "Saigon's signature broken rice dish topped with a grilled pork chop marinated in lemongrass and garlic, accompanied by a shredded pork skin cake, steamed egg meatloaf, and sweet fish sauce." },
+  "overview": "Com tam is the soul food of Ho Chi Minh City, a dish so deeply woven into the fabric of Saigon life that it is eaten for breakfast, lunch, and dinner. The dish centers on broken rice (cơm tấm) — fractured grains that were once considered inferior and sold cheaply to the poor, but whose slightly sticky, chewy texture has made them the preferred rice for this dish. The classic 'com tam suon bi cha' plate features three essential toppings: a grilled pork chop (sườn nướng) marinated in lemongrass, garlic, shallots, and fish sauce; shredded pork skin mixed with toasted rice powder (bì); and a slice of steamed egg and pork meatloaf (chả trứng). The plate is drizzled with sweet fish sauce (nước mắm pha ngọt) and served with pickled vegetables, sliced cucumber, and a small bowl of clear broth. Com tam stalls are found on virtually every street in Saigon, recognizable by their glass display cases showing rows of marinated pork chops ready for the grill.",
+  "origin": {
+    "region": "Ho Chi Minh City (Saigon), Southern Vietnam",
+    "history": "Com tam originated in the Mekong Delta and Saigon area, where rice milling was a major industry. Broken rice — grains that fractured during the milling process — was a cheap byproduct sold at a discount. Resourceful street vendors began using this affordable ingredient as the base for a hearty plate of food, topping it with grilled pork and other accompaniments. What started as humble poverty food gradually became a beloved dish in its own right, with the broken rice's unique texture becoming a sought-after quality rather than a defect. By the mid-20th century, com tam was firmly established as Saigon's signature dish. Today, dedicated com tam shops are among the most common eateries in Ho Chi Minh City, and the dish has expanded across the country, though it remains most authentically associated with the south."
+  },
+  "ingredients": {
+    "main": [
+      "Broken rice (cơm tấm)",
+      "Grilled pork chop (sườn nướng) — marinated in lemongrass, garlic, shallots, fish sauce, sugar",
+      "Shredded pork skin with toasted rice powder (bì)",
+      "Steamed egg and pork meatloaf (chả trứng)"
+    ],
+    "herbs": [
+      "Sliced cucumber",
+      "Sliced tomato",
+      "Pickled daikon and carrot (đồ chua)",
+      "Green onion oil (mỡ hành)"
+    ],
+    "condiments": [
+      "Sweet fish sauce (nước mắm ngọt / nước mắm pha)",
+      "Chili sauce (tương ớt)",
+      "Clear broth (nước canh) served on the side"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Cơm Tấm Sườn Bì Chả (The Classic Trio)",
+      "description": "The most traditional and popular version with all three toppings: grilled pork chop, shredded pork skin, and egg meatloaf. This is the standard order."
+    },
+    {
+      "name": "Cơm Tấm Sườn (Pork Chop Only)",
+      "description": "A simpler version with just the grilled pork chop on broken rice. Good for those who want to focus on the star of the dish."
+    },
+    {
+      "name": "Cơm Tấm Sườn Ốp La (Pork Chop with Fried Egg)",
+      "description": "The grilled pork chop served with a sunny-side-up fried egg on top. A popular breakfast choice."
+    },
+    {
+      "name": "Cơm Tấm Đặc Biệt (Special Plate)",
+      "description": "The deluxe version with all available toppings including grilled pork, shredded pork skin, egg meatloaf, fried egg, grilled shrimp, and sometimes a small spring roll."
+    }
+  ],
+  "howToOrder": "The full classic is 'cơm tấm sườn bì chả.' For a simpler meal, 'cơm tấm sườn' (just pork chop). Add 'ốp la' for a fried egg. 'Cơm tấm đặc biệt' gets you the works. Most com tam stalls display their toppings in a glass case — you can simply point to what you want. The sweet fish sauce is usually already drizzled on, but extra is on the table.",
+  "whereToEat": [
+    {
+      "name": "Cơm Tấm Bụi",
+      "location": "Ho Chi Minh City",
+      "note": "Multiple locations including 364 Cong Hoa, Tan Binh. A favorite chain among Saigon locals known for consistently excellent grilled pork chops and authentic sweet fish sauce."
+    },
+    {
+      "name": "Cơm Tấm Ba Ghiền",
+      "location": "Ho Chi Minh City",
+      "note": "At 84 Dang Van Ngu, Phu Nhuan. One of the most famous com tam shops in Saigon. Known for perfectly caramelized pork chops with crispy, charred edges. Always packed, especially at dinner."
+    },
+    {
+      "name": "Cơm Tấm Thuận Kiều",
+      "location": "Ho Chi Minh City",
+      "note": "At 220 Nguyen Thien Thuat, District 3. A long-running local favorite with generous portions and excellent bì (shredded pork skin). Open from early morning."
+    }
+  ],
+  "priceRange": {
+    "street": "30,000 - 50,000 VND ($1.25 - $2.10)",
+    "restaurant": "55,000 - 90,000 VND ($2.30 - $3.70)",
+    "upscale": "100,000 - 180,000 VND ($4.10 - $7.50)"
+  },
+  "tips": [
+    "Com tam is Saigon's dish — eat it in Ho Chi Minh City for the best experience",
+    "The grilled pork chop should have slightly charred, caramelized edges — this is a sign of a good stall",
+    "Do not skip the sweet fish sauce drizzle — it ties all the components together",
+    "Com tam makes an excellent breakfast, which is when many Saigon locals eat it",
+    "Look for stalls with a charcoal grill out front and rows of pork chops in the display case",
+    "The clear broth served on the side is meant to sip between bites to cleanse the palate"
+  ],
+  "culturalNotes": "Com tam is perhaps the most 'Saigon' of all Saigon dishes. The city's relationship with broken rice tells a story of resourcefulness and ingenuity — taking what was once a waste product and transforming it into a beloved culinary tradition. Com tam stalls are integral to the rhythm of daily life in Ho Chi Minh City: workers grab a plate before their shift, students fuel up between classes, and families stop by for an easy, satisfying dinner. The dish also reflects southern Vietnam's cuisine in general, which tends to be sweeter and more generously portioned than the north. For visitors, sitting on a tiny stool at a busy com tam stall and eating a plate of perfectly grilled pork chop on broken rice is one of the essential Saigon experiences.",
+  "sources": [
+    "Vietnam National Administration of Tourism",
+    "Lonely Planet Ho Chi Minh City Food Guide",
+    "Daniel Hoyer, 'Culinary Vietnam' (Gibbs Smith, 2009)",
+    "Saigoneer — 'The Story of Com Tam'"
+  ]
+}

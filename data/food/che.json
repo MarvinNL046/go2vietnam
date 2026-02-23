@@ -1,0 +1,115 @@
+{
+  "slug": "che",
+  "name": { "en": "Che" },
+  "vietnameseName": "Chè",
+  "image": "/images/food/che.webp",
+  "category": "Dessert",
+  "spiceLevel": "mild",
+  "description": { "en": "A colorful family of Vietnamese sweet soups and puddings made with combinations of beans, tapioca, jelly, tropical fruits, and coconut milk, served warm or over crushed ice as a beloved everyday dessert." },
+  "overview": "Che is not a single dish but an entire family of Vietnamese sweet desserts, encompassing dozens of varieties of sweet soups, puddings, and drinks made from combinations of beans, seeds, tubers, fruits, jellies, tapioca, and coconut milk. The variety is staggering: from the warm, comforting che dau xanh (mung bean sweet soup) to the colorful, icy che ba mau (three-color dessert) served in a tall glass on hot days. What unites all che is their role as an affordable, everyday Vietnamese dessert that provides a sweet, refreshing end to a meal or a pick-me-up snack at any time of day. Che stalls and shops are found throughout Vietnam, typically displaying rows of clear containers filled with brightly colored ingredients that customers can mix and match. In the south, che is usually served cold over crushed ice, while in the north, warm preparations are more common, especially during the cooler months. Che represents Vietnamese dessert culture at its most vibrant and creative.",
+  "origin": {
+    "region": "Nationwide (varies by variety)",
+    "history": "Che has ancient roots in Vietnamese cuisine, with many varieties tracing back centuries. The tradition of making sweet soups from beans and tubers is deeply embedded in Vietnamese food culture, likely predating Chinese influence. Over time, the che repertoire expanded enormously, absorbing ingredients from Chinese, Southeast Asian, and later French culinary traditions. The use of tapioca (from cassava, introduced from the Americas via the Portuguese) and various tropical fruits reflect the global trade routes that brought new ingredients to Vietnam over the centuries. Hue, the former imperial capital, is particularly famous for its che tradition — the city's Dong Ba Market and the area around Gia Hoi are legendary for their variety and quality of che. Southern Vietnam's che culture tends toward colder, icier preparations, reflecting the warmer climate, while the north favors warm, comforting versions."
+  },
+  "ingredients": {
+    "main": [
+      "Mung beans (đậu xanh)",
+      "Black beans (đậu đen)",
+      "Red beans / adzuki beans (đậu đỏ)",
+      "Tapioca pearls (bột báng)",
+      "Coconut milk (nước cốt dừa)",
+      "Palm sugar or cane sugar"
+    ],
+    "additional": [
+      "Pandan leaves (lá dứa) for flavoring and color",
+      "Taro (khoai môn)",
+      "Sweet potato (khoai lang)",
+      "Water chestnuts (củ năn)",
+      "Various jellies (thạch) — agar-based",
+      "Lotus seeds (hạt sen)",
+      "Longan fruit (nhãn)",
+      "Banana (chuối)",
+      "Jackfruit (mít)",
+      "Corn kernels (bắp)"
+    ],
+    "condiments": [
+      "Crushed ice (đá bào) — for cold versions",
+      "Coconut cream (kem dừa) as topping",
+      "Roasted sesame seeds (mè rang)",
+      "Roasted peanuts (đậu phộng rang)"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Chè Ba Màu (Three-Color Dessert)",
+      "description": "The most visually striking che: three layers of red beans, green mung bean paste, and clear jelly in a tall glass, topped with coconut milk and crushed ice. The three colors create a beautiful gradient."
+    },
+    {
+      "name": "Chè Đậu Xanh (Mung Bean Sweet Soup)",
+      "description": "A simple, comforting warm sweet soup of mung beans simmered in sugar syrup, often with coconut milk. One of the most traditional and widely loved che varieties."
+    },
+    {
+      "name": "Chè Bưởi (Pomelo Che)",
+      "description": "A Hue specialty featuring the white pith of pomelo cooked until translucent and served in a sweet soup with tapioca pearls and coconut milk. Uniquely textured and refreshing."
+    },
+    {
+      "name": "Chè Trôi Nước (Floating Rice Balls)",
+      "description": "Soft, chewy glutinous rice balls filled with mung bean paste, served in a warm ginger syrup with coconut milk. A beloved traditional dessert, especially during festivals."
+    },
+    {
+      "name": "Chè Thập Cẩm (Mixed Che)",
+      "description": "A 'everything-in-it' version where multiple ingredients — beans, jellies, tapioca, fruit, coconut — are combined in one glass. Popular in the south as a cold dessert."
+    },
+    {
+      "name": "Chè Hạt Sen Nhãn Nhục (Lotus Seed and Longan)",
+      "description": "A refined, elegant dessert of dried lotus seeds and longan fruit in a light sugar syrup. Often served warm and considered one of the most sophisticated che varieties."
+    },
+    {
+      "name": "Chè Chuối (Banana in Coconut Milk)",
+      "description": "Ripe bananas simmered in sweetened coconut milk with tapioca pearls. A simple, homey dessert common throughout southern Vietnam."
+    }
+  ],
+  "howToOrder": "At a che stall, point to the varieties you want or name them: 'chè ba màu' (three-color), 'chè đậu xanh' (mung bean), etc. Specify 'nóng' (warm) or 'lạnh' (cold/iced). At mixed che stalls, you can say 'chè thập cẩm' and the vendor will combine several ingredients. In Hue, stalls often serve a tray of small bowls with different varieties — try ordering a selection to sample multiple types.",
+  "whereToEat": [
+    {
+      "name": "Chè Hẻm (Alley Che Shops)",
+      "location": "Ho Chi Minh City",
+      "note": "Multiple locations in alleys throughout Saigon. These small, hidden che shops are where locals go for the best and cheapest desserts. Look for clusters of plastic stools in narrow alleys."
+    },
+    {
+      "name": "Chè Huế on Dong Ba Market",
+      "location": "Hue",
+      "note": "Inside and around Dong Ba Market in Hue. The former imperial capital is considered the che capital of Vietnam, with dozens of varieties not found elsewhere. A must-visit for dessert lovers."
+    },
+    {
+      "name": "Che Thanh Dat",
+      "location": "Ho Chi Minh City",
+      "note": "At 86 Tran Dinh Xu, District 1. Popular che shop with a wide variety of options displayed in clear containers. Good introduction to the range of che available."
+    },
+    {
+      "name": "Xoi Che Bui Thi Xuan",
+      "location": "Hanoi",
+      "note": "On Bui Thi Xuan Street. A cluster of xoi and che vendors where you can try traditional northern Vietnamese warm che varieties."
+    }
+  ],
+  "priceRange": {
+    "street": "10,000 - 25,000 VND ($0.40 - $1.00)",
+    "restaurant": "30,000 - 55,000 VND ($1.25 - $2.30)",
+    "upscale": "60,000 - 120,000 VND ($2.50 - $5.00)"
+  },
+  "tips": [
+    "Hue is the undisputed che capital of Vietnam — if you visit, make sampling che a priority",
+    "In hot weather, opt for cold che varieties served over crushed ice for maximum refreshment",
+    "Che ba mau (three-color) is the best starting point if you are new to Vietnamese desserts",
+    "At stalls with many varieties displayed in containers, try 'che thap cam' (mixed) for a sample of everything",
+    "Che is extremely affordable — even in tourist areas, it rarely costs more than $1-2 per serving",
+    "Do not miss che troi nuoc (floating rice balls in ginger syrup) for something warm and comforting"
+  ],
+  "culturalNotes": "Che holds a special place in Vietnamese daily life and cultural traditions. It is the default dessert option at restaurants, the go-to afternoon snack, and a nostalgic childhood treat for many Vietnamese. Certain che varieties have ceremonial significance: che troi nuoc (floating rice balls) is traditionally eaten during Tet Han Thuc (Cold Food Festival) in the third lunar month, while che kho (dried che made from mung beans) is a Tet staple in northern Vietnam. In Hue, the incredible diversity of che varieties reflects the imperial court's tradition of elaborate, multi-course meals that always concluded with a selection of sweet dishes. Hue's Dong Ba Market and the che stalls along the Perfume River are legendary among Vietnamese food lovers. Internationally, Vietnamese che has gained recognition as part of the global bubble tea and Asian dessert trend, with che ba mau and che thap cam appearing on menus in Vietnamese restaurants worldwide.",
+  "sources": [
+    "Vietnam National Administration of Tourism",
+    "Lonely Planet Vietnam Food Guide",
+    "Hue Monuments Conservation Centre — 'Imperial Cuisine of Hue'",
+    "VnExpress International — 'A Guide to Vietnamese Che'"
+  ]
+}

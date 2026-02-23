@@ -1,0 +1,78 @@
+{
+  "slug": "ly-son",
+  "name": { "en": "Ly Son" },
+  "vietnameseName": "Lý Sơn",
+  "image": "/images/islands/ly-son.webp",
+  "bestFor": ["Off-the-Beaten-Path", "Volcanic Landscapes", "Garlic Fields", "Local Culture"],
+  "description": { "en": "A tiny volcanic island off the central coast of Quang Ngai province, Ly Son is famous for its garlic cultivation, dramatic geological formations, and deep-sea fishing traditions. This is Vietnam at its most authentic and untouched by mass tourism." },
+  "overview": "Ly Son is one of Vietnam's most unique and undervisited islands - a volcanic outcrop just 25 kilometers off the coast of Quang Ngai province in central Vietnam. The island measures only about 10 square kilometers but packs an extraordinary amount of character into its small area. Ly Son was formed by volcanic activity millions of years ago, and the evidence is everywhere: dramatic basalt cliffs, a volcanic crater (Gieng Tien), columnar basalt formations resembling giant organ pipes, and incredibly fertile soil that supports the island's famous garlic crop. Ly Son garlic, grown in sandy volcanic soil mixed with seaweed, is considered the finest in Vietnam and commands premium prices on the mainland. The island has a population of about 22,000, almost entirely dependent on garlic farming and deep-sea fishing. Tourism infrastructure is basic but growing, and the island offers a window into traditional Vietnamese island life that has largely vanished elsewhere. For travelers willing to accept limited amenities, Ly Son rewards with genuinely unique geological scenery, warm hospitality, and an authenticity that polished resort islands cannot match.",
+  "gettingThere": {
+    "byAir": "There is no airport on Ly Son. The nearest airport is Chu Lai Airport (VCL) in Quang Nam province, approximately 100 kilometers south of Sa Ky port. From Chu Lai, take a taxi or arranged transfer to Sa Ky port (about 2 hours).",
+    "byFerry": "High-speed ferries depart from Sa Ky port in Quang Ngai province to Ly Son (30-40 minutes, approximately 170,000 VND one-way). Multiple departures daily from early morning. Seas can be rough from October to March, occasionally causing cancellations. Buy tickets at the port or book online through local ferry companies. From Quang Ngai city, Sa Ky port is about 20 kilometers by taxi."
+  },
+  "bestTimeToVisit": {
+    "best": "March to August",
+    "description": "Calm seas ensure reliable ferry service, and the weather is warm and dry. March-April coincides with garlic harvest season when the fields are at their most photogenic. June-August has the best swimming conditions.",
+    "avoid": "October to January: the northeast monsoon brings rough seas that frequently cancel ferry services, trapping visitors on the island or preventing arrivals. The weather is cool and grey."
+  },
+  "topBeaches": [
+    {
+      "name": "Be Island (Dao Be / An Binh)",
+      "description": "The smaller island adjacent to Ly Son (reached by a short boat ride) has the clearest water and best swimming. The natural rock pool on the island's east side is a highlight."
+    },
+    {
+      "name": "Chua Hang Beach",
+      "description": "A small beach at the base of volcanic cliffs on Ly Son's north coast, adjacent to the Chua Hang cave pagoda. Rocky with interesting geological formations rather than sandy."
+    },
+    {
+      "name": "Bai Sau (Back Beach)",
+      "description": "The longest sandy beach on Ly Son's southern coast. Simple, uncrowded, and backed by garlic fields rather than resorts."
+    }
+  ],
+  "activities": [
+    {
+      "name": "Gieng Tien Volcanic Crater",
+      "description": "Hike to the top of the ancient volcanic crater on the island's highest point (Thoi Loi peak, 169m). The crater rim provides panoramic views of the entire island, the garlic fields below, and the open sea. The site also has a freshwater lake and a memorial to Hoang Sa (Paracel Islands) soldiers.",
+      "price": "Free"
+    },
+    {
+      "name": "Garlic Field Visits",
+      "description": "Walk or ride through Ly Son's distinctive garlic fields, where rows of garlic grow in sandy volcanic soil enriched with seaweed. During harvest season (March-April), the fields are bustling with activity. Buy fresh garlic, black garlic, and garlic-based products directly from farmers.",
+      "price": "Free (buy garlic from 80,000 VND per kilogram)"
+    },
+    {
+      "name": "Chua Hang (Cave Pagoda)",
+      "description": "A Buddhist pagoda built inside a natural volcanic cave on the island's north coast. The approach passes through dramatic basalt formations, and the cave interior houses altars and statues in an atmospheric setting.",
+      "price": "Free"
+    },
+    {
+      "name": "Be Island (Dao Be) Day Trip",
+      "description": "Take a short boat ride to the tiny satellite island of An Binh (Be Island), where volcanic rock formations create natural swimming pools with crystal-clear water. The island has a handful of residents and no development.",
+      "price": "50,000 - 100,000 VND ($2-4) for the boat transfer"
+    },
+    {
+      "name": "Hang Cau Cliff and Columnar Basalt",
+      "description": "Walk along the island's dramatic western coastline to see Hang Cau cliff and the columnar basalt formations, where hexagonal rock columns formed by cooling lava create a geological spectacle similar to Ireland's Giant's Causeway on a smaller scale.",
+      "price": "Free"
+    }
+  ],
+  "accommodation": {
+    "budget": "Guesthouses and homestays from 200,000 VND ($8)/night. Basic rooms with air conditioning, hot water, and friendly hosts. This is the primary accommodation type on the island.",
+    "midRange": "Ly Son Pearl Island Hotel and a handful of newer mini-hotels from 500,000 VND ($20)/night. The most comfortable options on the island, though still modest by mainland standards.",
+    "luxury": "There are no luxury resorts on Ly Son. The island's charm is precisely its lack of development. Expect clean, basic accommodation regardless of price."
+  },
+  "localTips": [
+    "Ly Son is small enough to explore entirely by motorbike in half a day - rent one from your guesthouse for 100,000-150,000 VND/day",
+    "Buy Ly Son garlic to bring home - one-headed garlic (toi mot nhanh) is the premium variety and makes an excellent gift",
+    "Bring cash - there are very few ATMs on the island and credit cards are not widely accepted",
+    "Book your return ferry in advance during peak season (summer weekends) as boats fill up with domestic tourists",
+    "Learn a few Vietnamese phrases - English is rarely spoken on Ly Son, and the effort is deeply appreciated",
+    "Try the local seafood, especially the sea urchin (nhum) which Ly Son is famous for, available at simple restaurants near the port"
+  ],
+  "sources": [
+    "Quang Ngai Department of Tourism",
+    "Vietnam National Administration of Tourism",
+    "Ly Son Island Geopark Project (under UNESCO Global Geopark application)",
+    "Vietnam Geological Survey"
+  ]
+}

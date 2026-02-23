@@ -1,0 +1,78 @@
+{
+  "slug": "cat-ba",
+  "name": { "en": "Cat Ba" },
+  "vietnameseName": "Cát Bà",
+  "image": "/images/islands/cat-ba.webp",
+  "bestFor": ["Ha Long Bay", "Rock Climbing", "National Park", "Kayaking", "Budget Travel"],
+  "description": { "en": "The largest island in Ha Long Bay, Cat Ba serves as a less-crowded gateway to Vietnam's most famous seascape while offering its own national park, endangered langur monkeys, rock climbing, and a laid-back fishing village atmosphere." },
+  "overview": "Cat Ba Island is the largest of the 367 islands in Cat Ba Archipelago, sitting at the southern edge of Ha Long Bay in northern Vietnam. At 285 square kilometers, it offers a grittier, more adventurous alternative to the standard Ha Long Bay cruise experience. Nearly half the island is covered by Cat Ba National Park, a rugged landscape of limestone karst peaks, tropical forest, freshwater lakes, and mangrove wetlands that shelters the critically endangered Cat Ba langur - one of the world's rarest primates with fewer than 80 individuals remaining. Cat Ba town, the island's main settlement, is a compact waterfront strip of hotels, restaurants, and tour agencies that serves as the launching point for boat trips into Lan Ha Bay, the stunning and less-visited body of water that surrounds the island's eastern coast. Rock climbing has become a major draw, with hundreds of bolted routes on the limestone cliffs overlooking the bay. For budget travelers, Cat Ba offers the most affordable way to experience Ha Long Bay's limestone karst landscape without the premium pricing of Quang Ninh-based cruises.",
+  "gettingThere": {
+    "byAir": "The nearest airport is Cat Bi International Airport (HPH) in Hai Phong, approximately 30 kilometers from the Binh ferry port. From Hanoi, Noi Bai Airport to Cat Bi takes about 1 hour by flight, though most travelers go by road.",
+    "byFerry": "The most common route is Hanoi to Cat Ba by bus-ferry combination (3.5-4 hours, 250,000-350,000 VND). Tourist buses from Hanoi's Old Quarter include the ferry crossing and drop off in Cat Ba town. Alternatively, take a bus to Hai Phong then the Got ferry (20 minutes) or Binh ferry (30 minutes) to Cat Ba. Speed boats also operate from Ha Long city's Tuan Chau port to Cat Ba (45 minutes, 250,000 VND)."
+  },
+  "bestTimeToVisit": {
+    "best": "September to November",
+    "description": "Pleasant temperatures (22-28 degrees Celsius), reduced rainfall compared to summer, and fewer tourists than the peak spring season. The seas are generally calm and visibility is good for kayaking and boat trips.",
+    "avoid": "December to February: cold, grey, and misty weather with temperatures dropping to 10-15 degrees Celsius. While atmospheric, it is not ideal for beaches or water activities. March-April is busy with domestic tourists on holiday weekends."
+  },
+  "topBeaches": [
+    {
+      "name": "Cat Co 1, 2, and 3",
+      "description": "Three small beaches connected by cliffside walkways on the southern tip of Cat Ba town. Cat Co 1 is the most developed with loungers and restaurants, Cat Co 3 is the quietest with better water quality. Walking between all three takes about 20 minutes."
+    },
+    {
+      "name": "Monkey Island Beach",
+      "description": "A beach on an islet near Cat Ba accessible by boat, known for its resident monkeys (observe from a distance). The beach itself is small but scenic with clear water."
+    },
+    {
+      "name": "Lan Ha Bay floating beaches",
+      "description": "Several sheltered coves in Lan Ha Bay have tiny sandy beaches accessible only by kayak or boat tour, offering a private beach experience surrounded by limestone karsts."
+    }
+  ],
+  "activities": [
+    {
+      "name": "Lan Ha Bay Boat Trip and Kayaking",
+      "description": "Full-day tours explore Lan Ha Bay, the less-crowded extension of Ha Long Bay. Trips typically include kayaking through limestone arches, swimming at secluded beaches, visiting floating fishing villages, and lunch on the boat. Far fewer tourist boats than Ha Long Bay proper.",
+      "price": "600,000 - 1,200,000 VND ($24-48) for full-day tours; overnight cruises from 2,500,000 VND ($100)"
+    },
+    {
+      "name": "Rock Climbing on Limestone Cliffs",
+      "description": "Cat Ba has become Vietnam's premier rock climbing destination with over 150 bolted sport climbing routes on the sea cliffs overlooking Lan Ha Bay. Routes range from beginner (5a) to expert (8a+). Deep water soloing (climbing without ropes over deep water) is also popular.",
+      "price": "800,000 - 1,500,000 VND ($32-60) for half-day guided climbing with equipment rental"
+    },
+    {
+      "name": "Cat Ba National Park Trekking",
+      "description": "Marked trails through the national park range from the easy Frog Pond trek (2 hours) to the strenuous Ngu Lam Peak hike (4-5 hours) with panoramic views. The park is home to 32 mammal species including the critically endangered Cat Ba langur.",
+      "price": "80,000 VND ($3.20) national park entry; guided treks 300,000-500,000 VND ($12-20)"
+    },
+    {
+      "name": "Cua Van Floating Village Visit",
+      "description": "Boat or kayak to one of the floating fishing villages in Ha Long Bay, where families have lived on the water for generations. Cua Van is the largest and most accessible from Cat Ba.",
+      "price": "Included in most Lan Ha Bay boat tours, or 200,000 VND ($8) by separate kayak rental"
+    },
+    {
+      "name": "Hospital Cave (Hang Quan Y)",
+      "description": "A three-story cave complex used as a secret bomb-proof hospital during the American War, now open as a museum. The cave's operating rooms, recovery wards, and meeting halls are remarkably well-preserved.",
+      "price": "80,000 VND ($3.20) entry with local guide"
+    }
+  ],
+  "accommodation": {
+    "budget": "Hostels from 120,000 VND ($5)/night in Cat Ba town. Basic hotels with harbor views from 250,000 VND ($10)/night. Cat Ba town's waterfront has dozens of budget options.",
+    "midRange": "Cat Ba Sunrise Resort and Cat Ba Island Resort from 700,000 VND ($28)/night. Set on their own small beaches outside of town with pool facilities.",
+    "luxury": "Flamingo Cat Ba Beach Resort from 2,500,000 VND ($100)/night, the island's most upscale option with private beach. Alternatively, luxury Lan Ha Bay overnight cruises from major operators like Indochina Junk start at 5,000,000 VND ($200)/night."
+  },
+  "localTips": [
+    "Cat Ba town can feel overcrowded on Vietnamese holiday weekends - avoid major holidays if possible or book well ahead",
+    "Lan Ha Bay is the real highlight, not Cat Ba town itself - budget at least one full day on the water",
+    "Rent a motorbike (100,000-150,000 VND/day) to explore the island's interior roads and reach the national park",
+    "For rock climbing, Asia Outdoors is the most established operator with experienced English-speaking guides",
+    "The bus-ferry combo from Hanoi is straightforward - book through your hostel or at tourist agencies on Ma May Street in Hanoi's Old Quarter",
+    "Cat Ba is significantly cheaper than Ha Long Bay cruise experiences departing from Quang Ninh side"
+  ],
+  "sources": [
+    "Cat Ba National Park Administration",
+    "Vietnam National Administration of Tourism",
+    "Hai Phong Department of Tourism",
+    "Cat Ba Langur Conservation Project"
+  ]
+}

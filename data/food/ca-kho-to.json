@@ -1,0 +1,100 @@
+{
+  "slug": "ca-kho-to",
+  "name": { "en": "Ca Kho To" },
+  "vietnameseName": "Cá Kho Tộ",
+  "image": "/images/food/ca-kho-to.webp",
+  "category": "Main",
+  "spiceLevel": "medium",
+  "description": { "en": "Catfish fillets braised in a clay pot with a rich caramel sauce made from coconut water, fish sauce, and black pepper, slowly simmered until the sauce thickens and the fish absorbs all the deep, savory-sweet flavors." },
+  "overview": "Ca kho to is one of the most comforting and deeply flavored dishes in Vietnamese home cooking — thick steaks of catfish (or other firm fish) braised low and slow in a small clay pot with a caramel sauce that combines the sweetness of coconut water, the saltiness of fish sauce, the heat of black pepper, and the depth of caramelized sugar. The clay pot (tộ) is essential to the dish: its porous walls absorb and radiate heat gently, allowing the fish to braise evenly and develop a rich, mahogany-colored glaze without burning. As the liquid reduces, the sauce becomes thick and intensely concentrated, coating each piece of fish with layers of savory-sweet flavor. Ca kho to is the definition of Vietnamese comfort food — it is served directly in the clay pot at the table, accompanied by a large bowl of steamed white rice and a simple vegetable dish. The salty-sweet sauce is meant to be drizzled over the rice, making each bite a perfect balance of flavors.",
+  "origin": {
+    "region": "Southern Vietnam (Mekong Delta)",
+    "history": "Ca kho to originates from the Mekong Delta, Vietnam's vast river delta system where freshwater fish, particularly catfish (cá basa and cá tra), are abundantly available. The 'kho' (braising in caramel sauce) technique is one of the fundamental cooking methods of Vietnamese cuisine, used for pork, fish, eggs, and tofu. The use of clay pots for cooking dates back thousands of years in Vietnam, and the combination of caramelized sugar and fish sauce reflects the southern Vietnamese preference for sweeter, richer flavors compared to the more austere north. The Mekong Delta town of Chau Doc in An Giang province, a major catfish farming center, is particularly associated with this dish. Ca kho to represents the essence of southern Vietnamese home cooking: simple ingredients, slow cooking, and deep, concentrated flavors meant to complement large quantities of steamed rice."
+  },
+  "ingredients": {
+    "main": [
+      "Catfish steaks (cá basa or cá tra), cut into thick portions",
+      "Caramel sauce (nước màu) — sugar cooked until dark amber",
+      "Coconut water (nước dừa) or coconut juice",
+      "Fish sauce (nước mắm)",
+      "Black pepper (tiêu đen), freshly ground — generous amount"
+    ],
+    "spices": [
+      "Shallots (hành tím), sliced",
+      "Garlic (tỏi), minced",
+      "Fresh chili (ớt), sliced",
+      "Green onions (hành lá)"
+    ],
+    "herbs": [
+      "Green onions (hành lá) for garnish",
+      "Steamed white rice (cơm trắng) — essential accompaniment",
+      "Simple stir-fried or boiled vegetables on the side"
+    ],
+    "condiments": [
+      "Extra fish sauce (nước mắm)",
+      "Fresh chili slices",
+      "Pickled mustard greens (dưa cải chua) on the side"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Cá Kho Tộ Truyền Thống (Traditional Clay Pot Fish)",
+      "description": "The classic version using catfish braised in clay pot with caramel sauce, coconut water, fish sauce, and generous black pepper. Served bubbling in the pot."
+    },
+    {
+      "name": "Cá Kho Tiêu (Peppered Braised Fish)",
+      "description": "An extra-peppery version where cracked black pepper is the dominant flavor. Common in the south where Vietnamese pepper is prized."
+    },
+    {
+      "name": "Cá Kho Riềng (Fish Braised with Galangal)",
+      "description": "A northern variation that adds galangal root to the braising liquid, creating a more aromatic and slightly spicy version of the dish."
+    },
+    {
+      "name": "Cá Kho Làng Vũ Đại (Vu Dai Village Fish)",
+      "description": "A famous version from Vu Dai village in Ha Nam province using black carp. Traditionally prepared for Tet, the fish is braised for 16-20 hours in clay pots until the bones are soft enough to eat."
+    }
+  ],
+  "howToOrder": "Order 'cá kho tộ' at any Vietnamese home-style restaurant (quán cơm). It is typically a shared dish ordered as part of a multi-dish meal with rice. Ask for 'thêm cơm' (extra rice) because you will want it — the sauce is irresistible over white rice. The dish arrives in the clay pot, still bubbling.",
+  "whereToEat": [
+    {
+      "name": "Cơm Tấm Cali",
+      "location": "Ho Chi Minh City",
+      "note": "Multiple locations. While primarily a com tam chain, they serve excellent ca kho to as a side dish, well-caramelized and deeply flavored."
+    },
+    {
+      "name": "Quán Cơm Nhà (Home-Style Rice Restaurants)",
+      "location": "Nationwide",
+      "note": "Ca kho to is a staple at 'quán cơm' (rice shops) throughout Vietnam. Look for small family-run restaurants with clay pots visible in the kitchen. These humble spots often have the best versions."
+    },
+    {
+      "name": "Mekong Delta Homestays",
+      "location": "Can Tho / Chau Doc, Mekong Delta",
+      "note": "For the most authentic ca kho to, stay at a Mekong Delta homestay where the fish is freshly caught and the dish is prepared in the traditional way over a wood fire."
+    },
+    {
+      "name": "Cục Gạch Quán",
+      "location": "Ho Chi Minh City",
+      "note": "At 10 Dang Tat, District 1. An atmospheric restaurant in a restored old house, serving refined Vietnamese home cooking including an excellent ca kho to."
+    }
+  ],
+  "priceRange": {
+    "street": "40,000 - 65,000 VND ($1.70 - $2.70) per clay pot",
+    "restaurant": "70,000 - 130,000 VND ($2.90 - $5.40) per clay pot",
+    "upscale": "150,000 - 280,000 VND ($6.20 - $11.60) per clay pot"
+  },
+  "tips": [
+    "Always order extra rice — the rich, salty-sweet sauce is meant to flavor the rice and you will want plenty",
+    "The dish should arrive bubbling in the clay pot; if it comes on a regular plate, it has lost something essential",
+    "Do not be afraid of the dark, almost black color of the sauce — this deep caramelization is what gives the dish its flavor",
+    "The best ca kho to has sauce that coats the fish in a thick, glossy glaze rather than a thin liquid",
+    "Pair with a simple vegetable dish (canh rau or rau luộc) for a balanced home-style meal",
+    "This is the ultimate Vietnamese comfort food — order it when you want something deeply satisfying"
+  ],
+  "culturalNotes": "Ca kho to is a dish that takes Vietnamese home cooks back to their childhood kitchens. It is one of the most emotionally significant dishes in Vietnamese cuisine — the smell of fish braising in caramel sauce in a clay pot is, for many Vietnamese, the smell of home and family. The dish represents the 'kho' cooking technique, which is one of the four fundamental Vietnamese cooking methods alongside stir-frying (xào), boiling (luộc), and steaming (hấp). Ca kho to is also a Tet food in some regions: the elaborate Vu Dai village version, braised for up to 20 hours, is a prestigious gift during the Lunar New Year. The clay pot itself is important — in Vietnamese culture, clay pots represent simplicity, warmth, and connection to the earth, values that are central to Vietnamese home cooking.",
+  "sources": [
+    "Vietnam National Administration of Tourism",
+    "Andrea Nguyen, 'Vietnamese Food Any Day' (Ten Speed Press, 2019)",
+    "Lonely Planet Mekong Delta Guide",
+    "VnExpress International — 'Vietnamese Clay Pot Dishes'"
+  ]
+}

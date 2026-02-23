@@ -1,0 +1,90 @@
+{
+  "slug": "goi-cuon",
+  "name": { "en": "Goi Cuon" },
+  "vietnameseName": "Gỏi Cuốn",
+  "image": "/images/food/goi-cuon.webp",
+  "category": "Appetizer",
+  "spiceLevel": "mild",
+  "description": { "en": "Translucent rice paper rolls filled with shrimp, pork, rice vermicelli, and fresh herbs, served with a rich peanut hoisin dipping sauce — a refreshing and healthy Vietnamese classic." },
+  "overview": "Goi cuon, often called fresh spring rolls or summer rolls in Western countries, are one of Vietnam's most elegant and refreshing dishes. Translucent sheets of softened rice paper are wrapped around a filling of poached shrimp, sliced pork, rice vermicelli noodles, and an abundance of fresh herbs and lettuce, creating a beautiful roll where the pink shrimp and green herbs are visible through the wrapper. The rolls are served at room temperature with a thick, savory-sweet peanut and hoisin dipping sauce (or occasionally a fish sauce-based dip). Goi cuon embodies the Vietnamese culinary philosophy of fresh, uncooked ingredients balanced with protein, starch, and aromatic herbs. They are served everywhere in Vietnam, from street stalls to high-end restaurants, and are particularly popular as an appetizer or light meal during the hot summer months.",
+  "origin": {
+    "region": "Southern Vietnam (Mekong Delta region)",
+    "history": "Fresh spring rolls have ancient roots in Vietnamese cuisine, evolving from the tradition of wrapping food in rice paper (bánh tráng), which has been produced in Vietnam for centuries, particularly in the Mekong Delta provinces of Tay Ninh and Cu Chi. While the concept of wrapping ingredients in rice paper is shared across Southeast Asian cultures, the Vietnamese version with its specific combination of poached shrimp, pork, herbs, and peanut sauce became distinctly codified as a dish in southern Vietnam. The name 'gỏi cuốn' translates literally to 'salad rolls,' reflecting their fresh, uncooked nature. In the north, similar rolls are sometimes called 'nem cuốn.' The dish gained international popularity through Vietnamese diaspora communities, particularly in the United States, France, and Australia."
+  },
+  "ingredients": {
+    "main": [
+      "Rice paper wrappers (bánh tráng)",
+      "Poached shrimp (tôm luộc), halved lengthwise",
+      "Sliced boiled pork belly or pork loin (thịt luộc)",
+      "Rice vermicelli noodles (bún)",
+      "Lettuce leaves (xà lách)"
+    ],
+    "herbs": [
+      "Thai basil (húng quế)",
+      "Mint (húng lủi)",
+      "Perilla leaves (tía tô)",
+      "Garlic chives (hẹ)"
+    ],
+    "condiments": [
+      "Peanut hoisin dipping sauce (tương chấm) — hoisin sauce, peanut butter, garlic, chili",
+      "Fish sauce dip (nước mắm pha) — as an alternative",
+      "Crushed roasted peanuts as garnish"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Gỏi Cuốn Tôm Thịt (Shrimp and Pork Rolls)",
+      "description": "The classic and most common version with poached shrimp and sliced boiled pork. This is the standard you will find at most restaurants and stalls."
+    },
+    {
+      "name": "Gỏi Cuốn Bò (Beef Spring Rolls)",
+      "description": "Filled with grilled or seared beef instead of pork. The slightly charred beef adds a smoky dimension to the fresh roll."
+    },
+    {
+      "name": "Gỏi Cuốn Chay (Vegetarian Spring Rolls)",
+      "description": "Made with tofu, mushrooms, extra herbs, and vegetables. Widely available due to Vietnam's strong Buddhist vegetarian tradition."
+    },
+    {
+      "name": "Bò Bía (Chinese-Vietnamese Spring Rolls)",
+      "description": "A Saigon street food variant with Chinese sausage (lạp xưởng), jicama, egg, and dried shrimp in thin rice paper. Sold by roaming street vendors."
+    }
+  ],
+  "howToOrder": "Order 'gỏi cuốn' and they typically come in pairs (2 rolls per order). Specify the filling if options are available: 'gỏi cuốn tôm thịt' (shrimp and pork) is the default. Some restaurants offer a make-your-own roll experience (cuốn tự cuốn) where ingredients are brought to your table and you roll them yourself.",
+  "whereToEat": [
+    {
+      "name": "Quán Ngon 138",
+      "location": "Ho Chi Minh City",
+      "note": "At 138 Nam Ky Khoi Nghia, District 1. A popular restaurant showcasing Vietnamese dishes from across the country. Their goi cuon are consistently well-made and a good introduction for first-timers."
+    },
+    {
+      "name": "Wrap & Roll",
+      "location": "Ho Chi Minh City / Hanoi",
+      "note": "A popular Vietnamese restaurant chain specializing in fresh and fried spring rolls with many creative variations. Locations throughout major cities."
+    },
+    {
+      "name": "Quan An Ngon",
+      "location": "Hanoi",
+      "note": "At 18 Phan Boi Chau Street. A well-known restaurant in a French colonial villa with food stalls around the courtyard. Excellent goi cuon among many other Vietnamese dishes."
+    }
+  ],
+  "priceRange": {
+    "street": "20,000 - 35,000 VND ($0.85 - $1.50) per pair",
+    "restaurant": "45,000 - 80,000 VND ($1.90 - $3.30) per pair",
+    "upscale": "85,000 - 150,000 VND ($3.50 - $6.20) per pair"
+  },
+  "tips": [
+    "Goi cuon should be eaten soon after being made — the rice paper dries out and hardens over time",
+    "The peanut hoisin dipping sauce is essential to the experience, so always use it",
+    "When rolling your own, wet the rice paper just until pliable — over-soaking makes it tear",
+    "Look for rolls where the shrimp is placed on the outside visible through the wrapper — this indicates careful preparation",
+    "In southern Vietnam, the rolls tend to be larger and more generously stuffed than in the north",
+    "Goi cuon make an excellent light lunch or appetizer before a heavier main course"
+  ],
+  "culturalNotes": "Goi cuon reflect the Vietnamese emphasis on fresh, raw herbs and vegetables in their cuisine, a characteristic that distinguishes Vietnamese food from many of its neighbors. The dish is a common feature at family gatherings and festive meals, often made together as a communal activity. In Vietnamese homes, the ingredients are laid out on the table and everyone rolls their own. This communal, do-it-yourself aspect makes goi cuon a social food that brings people together. Internationally, goi cuon have become one of the most popular Vietnamese dishes, appreciated for their lightness and freshness as a contrast to heavier fried foods.",
+  "sources": [
+    "Vietnam National Administration of Tourism",
+    "Lonely Planet Vietnam Food Guide",
+    "Luke Nguyen, 'The Songs of Sapa' (Hardie Grant, 2009)",
+    "Saveur Magazine — 'Vietnamese Spring Rolls'"
+  ]
+}

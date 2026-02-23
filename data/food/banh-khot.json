@@ -1,0 +1,90 @@
+{
+  "slug": "banh-khot",
+  "name": { "en": "Banh Khot" },
+  "vietnameseName": "Bánh Khọt",
+  "image": "/images/food/banh-khot.webp",
+  "category": "Appetizer",
+  "spiceLevel": "mild",
+  "description": { "en": "Bite-sized crispy rice flour pancakes with a tender center, each topped with a whole shrimp and green onion, originating from Vung Tau and served with fresh lettuce, herbs, and tangy fish sauce." },
+  "overview": "Banh khot are irresistible bite-sized Vietnamese pancakes — small, round, and golden, each one crispy on the outside with a soft, custardy center, topped with a single whole shrimp and a sprinkle of green onion. They are cooked in a special cast-iron mold with small round indentations (similar to a Danish aebleskiver pan), which gives them their uniform shape and characteristic crispy edges. The batter, made from rice flour, coconut milk, and turmeric, is poured into the oiled molds and cooked until the edges are lacy and crisp while the center remains tender. Like many Vietnamese dishes, banh khot are eaten wrapped in lettuce with fresh herbs and dipped in nuoc cham. The combination of the warm, crispy cake, the sweet shrimp, the cool lettuce and herbs, and the tangy dipping sauce creates a perfect bite that is dangerously easy to keep eating. Banh khot are most closely associated with the coastal city of Vung Tau, about two hours southeast of Ho Chi Minh City.",
+  "origin": {
+    "region": "Vung Tau / Ba Ria-Vung Tau Province, Southern Vietnam",
+    "history": "Banh khot is a specialty of Vung Tau, a seaside city in southern Vietnam that has been a popular beach destination since the French colonial era. The dish likely evolved from the region's abundant seafood and the Vietnamese tradition of rice flour-based snacks. The name 'khọt' is believed to reference the sound the batter makes when poured into the hot, oiled molds. Vung Tau's proximity to fishing grounds meant that fresh shrimp was always available, making it the natural topping. While banh khot can now be found in Ho Chi Minh City and other cities, the dish remains most closely identified with Vung Tau, where it is served at countless restaurants and stalls along the beachfront. The special cast-iron mold used to cook banh khot is a defining piece of equipment — without it, the characteristic shape and texture cannot be achieved."
+  },
+  "ingredients": {
+    "main": [
+      "Rice flour batter (bột gạo) with coconut milk and turmeric",
+      "Whole shrimp (tôm), one per cake",
+      "Green onions (hành lá), chopped",
+      "Cooking oil or coconut oil for the molds"
+    ],
+    "herbs": [
+      "Lettuce leaves (xà lách) for wrapping",
+      "Thai basil (húng quế)",
+      "Perilla leaves (tía tô)",
+      "Mint (húng lủi)",
+      "Fish mint (diếp cá)"
+    ],
+    "condiments": [
+      "Nuoc cham dipping sauce (nước chấm) — fish sauce, lime, sugar, garlic, chili",
+      "Sweet chili sauce (alternative dipping sauce)",
+      "Pickled daikon and carrot (đồ chua)"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Bánh Khọt Vũng Tàu (Vung Tau Style)",
+      "description": "The original and most famous version: crispy, round pancakes each topped with a fresh whole shrimp. Vung Tau's coastal location means the shrimp is always fresh and sweet."
+    },
+    {
+      "name": "Bánh Khọt Mực (Squid Banh Khot)",
+      "description": "A variation using small pieces of squid instead of shrimp. Found at some coastal restaurants and offers a slightly chewier topping."
+    },
+    {
+      "name": "Bánh Khọt Đặc Biệt (Special Banh Khot)",
+      "description": "Premium versions with larger shrimp, sometimes with added crab or scallop. Offered at upscale restaurants as a starter course."
+    },
+    {
+      "name": "Bánh Khọt Nhân Thịt (Pork Banh Khot)",
+      "description": "A less common variation using minced pork in the center instead of shrimp. More common inland where fresh shrimp is less available."
+    }
+  ],
+  "howToOrder": "Order 'một đĩa bánh khọt' (one plate of banh khot). They typically come in servings of 6-12 pieces. The lettuce, herbs, and dipping sauce are included. To eat: place a banh khot on a lettuce leaf, add herbs, wrap, and dip in nuoc cham. Some people break the crispy edge first and eat it separately.",
+  "whereToEat": [
+    {
+      "name": "Bánh Khọt Gốc Vú Sữa",
+      "location": "Vung Tau",
+      "note": "At 14 Nguyen Truong To. One of the most famous banh khot restaurants in Vung Tau, named after the milk fruit tree (vú sữa) at its entrance. Known for perfectly crispy pancakes with fresh, sweet shrimp."
+    },
+    {
+      "name": "Bánh Khọt Cô Ba Vũng Tàu",
+      "location": "Vung Tau",
+      "note": "A beloved Vung Tau institution serving excellent banh khot. Simple, no-frills setting with outstanding food. The shrimp is always fresh and the batter perfectly seasoned."
+    },
+    {
+      "name": "Bánh Khọt Vũng Tàu (Saigon Branch)",
+      "location": "Ho Chi Minh City",
+      "note": "Several restaurants in Saigon specialize in Vung Tau-style banh khot, bringing the coastal specialty to the city. Look for shops on Nguyen Van Troi or Vo Van Tan streets."
+    }
+  ],
+  "priceRange": {
+    "street": "30,000 - 50,000 VND ($1.25 - $2.10) per plate of 6-8",
+    "restaurant": "55,000 - 90,000 VND ($2.30 - $3.70) per plate",
+    "upscale": "100,000 - 170,000 VND ($4.10 - $7.00) per plate"
+  },
+  "tips": [
+    "Banh khot must be eaten hot and fresh — the crispy texture is the entire point and it fades quickly",
+    "Vung Tau is the spiritual home of this dish, so try to eat it there for the most authentic experience",
+    "Use the lettuce-herb wrap method; it transforms the rich, crispy cake into a perfectly balanced bite",
+    "Watch the vendor cook them — the sizzling molds and the practiced pouring technique is a food show in itself",
+    "A plate of banh khot makes a perfect appetizer or light meal, especially with a cold drink on a hot day",
+    "The best banh khot have a distinct contrast between the crispy, lacy edges and the soft, moist center"
+  ],
+  "culturalNotes": "Banh khot represents the culinary character of southern Vietnam's coastal regions, where seafood meets rice flour in countless delicious combinations. The dish is a point of pride for Vung Tau, which has built a reputation as one of Vietnam's great food cities despite being better known as a beach destination. For Saigon residents, a weekend trip to Vung Tau almost always involves eating banh khot — it is an essential part of the Vung Tau experience. The special cast-iron mold (khuôn bánh khọt) is a distinctive piece of Vietnamese kitchen equipment, and in recent years, the molds have become popular souvenirs for Vietnamese food enthusiasts and international visitors who want to recreate the dish at home.",
+  "sources": [
+    "Vietnam National Administration of Tourism",
+    "Lonely Planet Southern Vietnam Guide",
+    "Ba Ria-Vung Tau Tourism Department",
+    "VnExpress International — 'Vung Tau's Best Street Food'"
+  ]
+}

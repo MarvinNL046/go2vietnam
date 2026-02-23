@@ -1,0 +1,90 @@
+{
+  "slug": "banh-cuon",
+  "name": { "en": "Banh Cuon" },
+  "vietnameseName": "Bánh Cuốn",
+  "image": "/images/food/banh-cuon.webp",
+  "category": "Appetizer",
+  "spiceLevel": "mild",
+  "description": { "en": "Delicate steamed rice flour sheets rolled around a savory filling of seasoned ground pork and wood ear mushrooms, served with crispy fried shallots, fresh herbs, and a light dipping fish sauce." },
+  "overview": "Banh cuon is one of Vietnam's most delicate and refined dishes — paper-thin sheets of steamed rice flour batter rolled around a filling of seasoned ground pork and minced wood ear mushrooms. The process of making banh cuon is mesmerizing: a thin layer of rice flour batter is spread over a taut cloth stretched over a pot of boiling water, steamed for just seconds until set, then carefully peeled off and filled. The resulting rolls are impossibly thin, silky, and slightly translucent. They are arranged on a plate, topped with crispy fried shallots (hành phi) and served with a side of fresh herbs, Vietnamese coriander (rau răm), and a bowl of nuoc cham dipping sauce. Often, a plate of cha que (cinnamon pork sausage) is served alongside. Banh cuon is primarily a breakfast dish in Vietnam, with dedicated stalls opening before dawn to meet the morning demand.",
+  "origin": {
+    "region": "Northern Vietnam (Hanoi / Thanh Tri)",
+    "history": "Banh cuon is closely associated with the Thanh Tri district on the outskirts of Hanoi, which has been producing these steamed rice rolls for centuries. The dish is considered one of Hanoi's most traditional foods, with a lineage that predates French colonialism. Thanh Tri village's version, known as 'bánh cuốn Thanh Trì,' is the most famous and is characterized by its ultra-thin, almost transparent sheets served flat rather than rolled, without filling. The filled and rolled version that is more common today likely evolved as the dish spread to different areas and vendors added pork and mushroom fillings to create a more substantial meal. Banh cuon-making is a skilled craft passed down through families, and experienced makers can produce dozens of perfect sheets in rapid succession."
+  },
+  "ingredients": {
+    "main": [
+      "Rice flour batter (bột gạo tẻ), very thin",
+      "Seasoned ground pork (thịt heo xay)",
+      "Wood ear mushrooms (mộc nhĩ), minced",
+      "Crispy fried shallots (hành phi)"
+    ],
+    "herbs": [
+      "Vietnamese coriander (rau răm)",
+      "Lettuce leaves (xà lách)",
+      "Bean sprouts (giá đỗ)",
+      "Cilantro (ngò rí)"
+    ],
+    "condiments": [
+      "Fish sauce dip (nước chấm) — fish sauce, lime, sugar, garlic, chili",
+      "Cinnamon pork sausage (chả quế) — served on the side",
+      "Vietnamese pork ham (chả lụa) — optional side",
+      "Chili sauce (tương ớt)"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Bánh Cuốn Thanh Trì (Thanh Tri Style)",
+      "description": "The most traditional version from Thanh Tri district, Hanoi. Ultra-thin sheets served flat without filling, just topped with fried shallots. Relies entirely on the delicate texture and flavor of the rice sheet itself."
+    },
+    {
+      "name": "Bánh Cuốn Nhân Thịt (Filled Banh Cuon)",
+      "description": "The more common version with ground pork and wood ear mushroom filling, rolled into cylinders. This is what most visitors will encounter at stalls and restaurants."
+    },
+    {
+      "name": "Bánh Cuốn Trứng (Egg Banh Cuon)",
+      "description": "A variation where an egg is cracked onto the steaming batter before it sets, creating a richer, more substantial roll with a slightly different texture."
+    },
+    {
+      "name": "Bánh Ướt (Wet Rice Sheets)",
+      "description": "A central and southern Vietnamese variation that is similar to banh cuon but typically served flat in sheets rather than rolled, often with grilled meats on top."
+    }
+  ],
+  "howToOrder": "Order 'một đĩa bánh cuốn' (one plate of banh cuon). If you want the version with pork filling, say 'bánh cuốn nhân thịt.' Ask for 'thêm chả' for extra pork sausage on the side. The dipping sauce and herbs come automatically. Dip each piece of banh cuon into the nuoc cham before eating.",
+  "whereToEat": [
+    {
+      "name": "Bánh Cuốn Bà Hoành",
+      "location": "Hanoi",
+      "note": "At 66 To Hien Thanh. One of the most famous banh cuon shops in Hanoi, known for perfectly thin, silky sheets and excellent nuoc cham. A morning-only affair."
+    },
+    {
+      "name": "Bánh Cuốn Gia Truyền (Thanh Tri Style)",
+      "location": "Hanoi",
+      "note": "At 14 Hang Ga Street, Old Quarter. Serves the traditional Thanh Tri-style flat, unfilled rice sheets. Simple, elegant, and authentic."
+    },
+    {
+      "name": "Bánh Cuốn Hải Nam",
+      "location": "Ho Chi Minh City",
+      "note": "At 11A Cao Thang, District 3. A well-known Saigon shop serving excellent banh cuon with a slightly thicker, chewier style typical of the south."
+    }
+  ],
+  "priceRange": {
+    "street": "25,000 - 40,000 VND ($1.00 - $1.70)",
+    "restaurant": "45,000 - 75,000 VND ($1.90 - $3.10)",
+    "upscale": "80,000 - 150,000 VND ($3.30 - $6.20)"
+  },
+  "tips": [
+    "Banh cuon is a breakfast dish — go early in the morning for the freshest rolls",
+    "Watch the maker prepare the rolls; the speed and skill of experienced vendors is impressive",
+    "The rolls should be served warm and eaten immediately — they lose their silky texture as they cool",
+    "Always order the cha que (cinnamon pork sausage) alongside; it is the traditional pairing",
+    "The Thanh Tri-style flat, unfilled version is worth trying for its pure, delicate rice flavor",
+    "Look for shops where the steaming apparatus is visible and rolls are made continuously to order"
+  ],
+  "culturalNotes": "Banh cuon represents the refinement and subtlety of northern Vietnamese cuisine at its finest. The dish demands patience and skill — a good banh cuon maker is a respected craftsperson, and the trade is typically passed from parent to child. In Hanoi, banh cuon is firmly a breakfast food, and the best stalls open at 5:30 or 6:00 AM, serving until mid-morning when they sell out. The dish also has deep roots in Hanoi's cultural identity: the Thanh Tri village has been producing banh cuon for so long that 'bánh cuốn Thanh Trì' is mentioned in classical Vietnamese literature and poetry as a symbol of Hanoi's culinary heritage. For visitors, watching a skilled vendor rapidly steam and fill these impossibly thin rice sheets is one of Hanoi's great food spectacles.",
+  "sources": [
+    "Vietnam National Administration of Tourism",
+    "Lonely Planet Hanoi Food Guide",
+    "Vu Bang, 'Miếng Ngon Hà Nội' ('Delicious Foods of Hanoi', 1960)",
+    "Hanoi Tourism Department"
+  ]
+}

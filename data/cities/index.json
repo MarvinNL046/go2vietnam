@@ -1,1 +1,106 @@
-[]
+[
+  {
+    "slug": "hanoi",
+    "name": { "en": "Hanoi (Ha Noi)" },
+    "image": "/images/cities/hanoi.webp",
+    "region": "Northern Vietnam",
+    "highlights": ["Old Quarter", "Street Food Capital", "Hoan Kiem Lake", "Temple of Literature"],
+    "description": { "en": "Vietnam's thousand-year-old capital is a captivating blend of ancient temples, tree-lined boulevards, and the chaotic energy of the Old Quarter. Hanoi rewards those who slow down to savor its legendary street food, misty lakes, and French colonial architecture layered over centuries of Vietnamese history." }
+  },
+  {
+    "slug": "ho-chi-minh-city",
+    "name": { "en": "Ho Chi Minh City (Saigon)" },
+    "image": "/images/cities/ho-chi-minh-city.webp",
+    "region": "Southern Vietnam",
+    "highlights": ["War Remnants Museum", "Cu Chi Tunnels", "Ben Thanh Market", "Rooftop Bars"],
+    "description": { "en": "Vietnam's largest and most dynamic city pulses with energy from dawn to well past midnight. Known locally as Saigon, this southern metropolis offers world-class street food, sobering war history museums, French colonial landmarks, and a booming modern skyline that rivals any Southeast Asian capital." }
+  },
+  {
+    "slug": "da-nang",
+    "name": { "en": "Da Nang" },
+    "image": "/images/cities/da-nang.webp",
+    "region": "Central Vietnam",
+    "highlights": ["My Khe Beach", "Ba Na Hills", "Dragon Bridge", "Marble Mountains"],
+    "description": { "en": "Central Vietnam's largest city combines stunning beaches, dramatic mountain scenery, and modern infrastructure in one surprisingly livable package. Da Nang serves as the perfect base for exploring the UNESCO heritage sites of Hoi An and Hue while offering its own impressive attractions like the Golden Bridge at Ba Na Hills." }
+  },
+  {
+    "slug": "hoi-an",
+    "name": { "en": "Hoi An" },
+    "image": "/images/cities/hoi-an.webp",
+    "region": "Central Vietnam",
+    "highlights": ["Ancient Town Lanterns", "Custom Tailoring", "Japanese Covered Bridge", "An Bang Beach"],
+    "description": { "en": "This exquisitely preserved ancient trading port glows with hundreds of silk lanterns each evening, creating one of Vietnam's most photographed scenes. Hoi An's UNESCO-listed Old Town, world-renowned tailor shops, exceptional cuisine, and nearby beaches make it a destination that travelers consistently rank among their favorites in all of Southeast Asia." }
+  },
+  {
+    "slug": "hue",
+    "name": { "en": "Hue" },
+    "image": "/images/cities/hue.webp",
+    "region": "Central Vietnam",
+    "highlights": ["Imperial Citadel", "Royal Tombs", "Perfume River", "Hue Royal Cuisine"],
+    "description": { "en": "Vietnam's former imperial capital sits gracefully along the Perfume River, its massive citadel and ornate royal tombs bearing witness to the Nguyen Dynasty's 143-year reign. Hue is also celebrated as Vietnam's culinary capital, famous for its refined royal cuisine and fiery local dishes that reflect centuries of courtly sophistication." }
+  },
+  {
+    "slug": "nha-trang",
+    "name": { "en": "Nha Trang" },
+    "image": "/images/cities/nha-trang.webp",
+    "region": "South-Central Coast",
+    "highlights": ["Beach Promenade", "Island Hopping", "Scuba Diving", "Po Nagar Cham Towers"],
+    "description": { "en": "Vietnam's most popular beach resort city stretches along a stunning 6-kilometer crescent of golden sand backed by a lively promenade. Nha Trang offers excellent diving and snorkeling around nearby islands, ancient Cham temple ruins, rejuvenating mud baths, and a vibrant nightlife scene that attracts both international visitors and vacationing Vietnamese." }
+  },
+  {
+    "slug": "da-lat",
+    "name": { "en": "Da Lat" },
+    "image": "/images/cities/da-lat.webp",
+    "region": "Central Highlands",
+    "highlights": ["Cool Mountain Climate", "Coffee Plantations", "Flower Gardens", "French Villas"],
+    "description": { "en": "Perched at 1,500 meters in the Central Highlands, Da Lat offers a refreshing escape from Vietnam's tropical heat with year-round spring-like temperatures. This romantic hill station, originally built as a French colonial retreat, is now celebrated for its artisan coffee culture, flower farms, pine forests, and a growing adventure sports scene." }
+  },
+  {
+    "slug": "sapa",
+    "name": { "en": "Sapa (Sa Pa)" },
+    "image": "/images/cities/sapa.webp",
+    "region": "Northwest Vietnam",
+    "highlights": ["Rice Terraces", "Fansipan Summit", "Ethnic Minority Villages", "Mountain Trekking"],
+    "description": { "en": "Set high in the Hoang Lien Son mountains near the Chinese border, Sapa is surrounded by some of Asia's most spectacular rice terraces carved into steep valleys. This mountain town serves as the gateway to Vietnam's highest peak, Fansipan, and to the vibrant cultures of the Hmong, Dao, and Tay ethnic minority communities." }
+  },
+  {
+    "slug": "ha-long",
+    "name": { "en": "Ha Long" },
+    "image": "/images/cities/ha-long.webp",
+    "region": "Northern Vietnam",
+    "highlights": ["UNESCO Ha Long Bay", "Limestone Karsts", "Overnight Cruises", "Sung Sot Cave"],
+    "description": { "en": "Ha Long Bay's nearly 2,000 limestone karsts and islands rising from emerald waters create one of the world's most iconic seascapes, recognized as a UNESCO World Heritage Site. Overnight junk boat cruises through this geological wonderland offer kayaking through hidden grottoes, visits to floating fishing villages, and sunrises that have inspired Vietnamese poets for centuries." }
+  },
+  {
+    "slug": "phu-quoc",
+    "name": { "en": "Phu Quoc" },
+    "image": "/images/cities/phu-quoc.webp",
+    "region": "Southern Vietnam",
+    "highlights": ["Pristine Beaches", "Snorkeling & Diving", "Night Market", "Fish Sauce Heritage"],
+    "description": { "en": "Vietnam's largest island sits in the Gulf of Thailand, offering powdery white-sand beaches, coral reefs teeming with marine life, and spectacular sunsets over the ocean. Phu Quoc has rapidly developed from a sleepy fishing island into a resort destination while preserving its famous fish sauce production, pepper farms, and the wild jungle interior of its national park." }
+  },
+  {
+    "slug": "can-tho",
+    "name": { "en": "Can Tho" },
+    "image": "/images/cities/can-tho.webp",
+    "region": "Mekong Delta",
+    "highlights": ["Cai Rang Floating Market", "Mekong River Life", "Rice Paddies", "Tropical Orchards"],
+    "description": { "en": "As the largest city in the Mekong Delta, Can Tho is the gateway to experiencing the extraordinary waterway culture that defines southern Vietnam's river life. Early morning boat trips to the Cai Rang floating market, cycling through endless rice paddies, and sampling tropical fruits straight from riverside orchards offer an authentic side of Vietnam that few travelers forget." }
+  },
+  {
+    "slug": "ninh-binh",
+    "name": { "en": "Ninh Binh" },
+    "image": "/images/cities/ninh-binh.webp",
+    "region": "Northern Vietnam",
+    "highlights": ["Trang An Landscape Complex", "Tam Coc", "Bai Dinh Pagoda", "Limestone Karsts"],
+    "description": { "en": "Often called 'Ha Long Bay on land,' Ninh Binh province features dramatic limestone karsts rising from emerald rice paddies and winding waterways. The UNESCO-listed Trang An Landscape Complex, the boat-trip caves of Tam Coc, and the vast Bai Dinh Pagoda make this one of northern Vietnam's most visually stunning and culturally rich destinations." }
+  },
+  {
+    "slug": "mui-ne",
+    "name": { "en": "Mui Ne" },
+    "image": "/images/cities/mui-ne.webp",
+    "region": "South-Central Coast",
+    "highlights": ["Red & White Sand Dunes", "Kitesurfing", "Fishing Village", "Fairy Stream"],
+    "description": { "en": "This laid-back coastal strip east of Phan Thiet is famous for its surreal sand dunes, steady ocean winds that attract kitesurfers from around the world, and a colorful fishing village where hundreds of round basket boats dot the shore. Mui Ne offers a more relaxed beach alternative to Nha Trang, with desert-like landscapes just minutes from the ocean." }
+  }
+]
