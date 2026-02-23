@@ -70,12 +70,49 @@ export default function FoodPage({ dish }: FoodPageProps) {
   const description = typeof dish.description === 'object' ? dish.description.en : dish.description;
   const spice = dish.spiceLevel ? spiceLevelConfig[dish.spiceLevel] : null;
 
+  const foodJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: `${name} - Vietnamese Food Guide`,
+    description: description || `Learn about ${name}, a popular Vietnamese dish. Complete guide with history, ingredients, where to eat, and ordering tips.`,
+    image: dish.image || undefined,
+    author: {
+      '@type': 'Organization',
+      name: siteConfig.name,
+      url: siteConfig.seo.siteUrl,
+    },
+    publisher: {
+      '@type': 'Organization',
+      name: siteConfig.name,
+      logo: {
+        '@type': 'ImageObject',
+        url: `${siteConfig.seo.siteUrl}/images/logo.png`,
+      },
+    },
+    mainEntityOfPage: {
+      '@type': 'WebPage',
+      '@id': `${siteConfig.seo.siteUrl}/food/${dish.slug}/`,
+    },
+  };
+
+  const breadcrumbJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: siteConfig.seo.siteUrl },
+      { '@type': 'ListItem', position: 2, name: 'Food', item: `${siteConfig.seo.siteUrl}/food/` },
+      { '@type': 'ListItem', position: 3, name: name, item: `${siteConfig.seo.siteUrl}/food/${dish.slug}/` },
+    ],
+  };
+
   return (
     <>
       <SEOHead
         title={`${name} - Vietnamese Food Guide | ${siteConfig.name}`}
         description={description || `Learn about ${name}, a popular Vietnamese dish. Complete guide with history, ingredients, where to eat, and ordering tips.`}
         ogImage={dish.image}
+        path={`/food/${dish.slug}/`}
+        jsonLd={[foodJsonLd, breadcrumbJsonLd]}
       />
       <div className="container-custom py-8 lg:py-12">
         <Breadcrumbs items={[

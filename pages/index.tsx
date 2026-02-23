@@ -85,11 +85,26 @@ const travelEssentials = [
 export default function Home({ cities, dishes, drinks, islands }: HomeProps) {
   const { t } = useTranslation('common');
 
+  const homeJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'WebSite',
+    name: siteConfig.name,
+    url: siteConfig.seo.siteUrl,
+    description: `Your complete ${siteConfig.destination} travel guide with city guides, local food, practical tips, and more.`,
+    publisher: {
+      '@type': 'Organization',
+      name: siteConfig.name,
+      url: siteConfig.seo.siteUrl,
+    },
+  };
+
   return (
     <>
       <SEOHead
         title={`${siteConfig.name} - ${siteConfig.tagline}`}
         description={`Your complete ${siteConfig.destination} travel guide with city guides, local food, practical tips, and more.`}
+        path="/"
+        jsonLd={homeJsonLd}
       />
 
       {/* Hero Section */}

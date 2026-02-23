@@ -1,0 +1,60 @@
+{
+  "slug": "mekong-delta",
+  "name": "Mekong Delta",
+  "image": "/images/regions/mekong-delta.webp",
+  "description": "Known as Vietnam's rice bowl, the Mekong Delta is a vast labyrinth of rivers, swamps, and islands where life unfolds on the water -- from floating markets piled high with tropical fruit to sampan rides through coconut palm-lined canals.",
+  "overview": "The Mekong Delta (Dong Bang Song Cuu Long, meaning 'Nine Dragon River Delta') is where the mighty Mekong River fans out into nine tributaries before emptying into the South China Sea, creating one of the most productive agricultural regions on earth. This flat, water-soaked landscape of rice paddies, fruit orchards, fish farms, and mangrove forests feeds much of Vietnam and exports rice worldwide. Life here revolves around the water: families live in houses on stilts, children paddle to school in sampans, and commerce happens at colorful floating markets where boats are piled high with pineapples, dragon fruit, pomelo, and rambutan. Can Tho, the region's largest city and unofficial capital, serves as the gateway to the famous Cai Rang floating market, the largest and most vibrant in the delta. Smaller towns like My Tho and Ben Tre offer intimate canal tours through coconut palm-lined waterways, while the remote Ca Mau peninsula at the southern tip of Vietnam features vast mangrove forests and bird sanctuaries. The delta's cuisine is distinctly southern -- sweeter, spicier, and featuring an abundance of fresh river fish, tropical fruits, and coconut in every form imaginable.",
+  "highlights": ["Cai Rang Floating Market", "Coconut Palm Canals", "Tropical Fruit Orchards", "Authentic River Life", "Ben Tre Coconut Island", "Bird Sanctuaries"],
+  "cities": ["can-tho"],
+  "bestTimeToVisit": "December to May — The dry season offers sunny skies and calm river conditions, perfect for floating market visits and canal boat tours. The landscape is lush from the preceding wet season. Avoid September to November when flooding can be severe.",
+  "topExperiences": [
+    {
+      "title": "Dawn at Cai Rang Floating Market",
+      "description": "Rise before dawn to join the largest floating market in the delta near Can Tho, where hundreds of boats converge at first light to trade produce. Vendors hang samples from tall poles (cay beo) so buyers can spot their goods from afar. The market peaks between 5-7am and is best visited by motorized sampan."
+    },
+    {
+      "title": "Sampan Through Coconut Canals",
+      "description": "Glide through narrow, palm-shaded waterways in a traditional hand-rowed sampan in Ben Tre, the 'coconut kingdom.' Stop at coconut candy workshops to watch the production process, visit bee farms for fresh honey tea, and sample tropical fruits directly from riverside orchards."
+    },
+    {
+      "title": "Cycle Through Rice Paddies",
+      "description": "Rent a bicycle and ride along the elevated paths between endless rice paddies, stopping at village markets, roadside noodle stalls, and ancient pagodas. The flat terrain makes cycling easy and the pace allows genuine interaction with friendly locals."
+    },
+    {
+      "title": "Taste Tropical Fruits at the Source",
+      "description": "Visit riverside orchards to sample exotic fruits straight from the tree -- mangosteen, rambutan, longan, dragon fruit, jackfruit, sapodilla, and durian -- in the region that grows over 60 percent of Vietnam's fruit supply."
+    }
+  ],
+  "gettingThere": {
+    "byAir": "Can Tho International Airport (VCA) has daily flights from Hanoi (2 hours) on Vietnam Airlines and VietJet. There are no direct flights from Ho Chi Minh City due to the short distance. The airport is 10km from the city center.",
+    "byBus": "Express buses from Ho Chi Minh City to Can Tho take approximately 3.5-4 hours via the modern expressway. Phuong Trang (FUTA) is the most popular operator with comfortable limousine services. My Tho (the nearest delta town to HCMC) is just 1.5 hours away. Ben Tre is 2 hours from HCMC.",
+    "byBoat": "Speedboats connect some delta towns, and local ferries are an atmospheric way to cross the major river channels. Organized boat tours from HCMC or Can Tho are the most common way to explore the waterways."
+  },
+  "gettingAround": "The Mekong Delta is best explored by a combination of boat and bicycle. Organized boat tours from Can Tho or My Tho are the most practical option for floating markets and canal trips. Renting a bicycle ($2-3 per day) or motorbike ($5-8 per day) allows independent exploration of the countryside. Grab operates in Can Tho for city transport. Local ferries provide atmospheric river crossings. For multi-day explorations, hiring a private car with driver ($40-60 per day) offers the most flexibility.",
+  "accommodation": {
+    "budget": "Can Tho and My Tho have budget hotels and guesthouses from $8-15 per night. Homestays on river islands offer authentic experiences for $10-20 including meals.",
+    "midRange": "Can Tho's riverside hotels range from $25-60 per night. Eco-lodges and floating bungalows in Ben Tre and Vinh Long cost $30-80 and provide unique waterway stays.",
+    "luxury": "The Victoria Can Tho Resort on Hau River is the region's premium option. Azerai Can Tho (by the Aman resorts founder) offers world-class luxury. Expect $100-300+ per night."
+  },
+  "food": {
+    "description": "Mekong Delta cuisine is the sweetest in Vietnam, reflecting the abundance of tropical fruits, coconut, and cane sugar. River fish and seafood dominate, prepared in ways unique to the waterway culture.",
+    "specialties": [
+      "Ca Tai Tuong Chien Gion (Crispy Fried Elephant Ear Fish) - a whole river fish fried until the skin is crackling, then wrapped in rice paper with herbs and dipped in sweet-sour sauce",
+      "Lau Mam (Fermented Fish Hotpot) - a pungent, deeply flavorful hotpot made with fermented fish paste, served with an abundance of fresh vegetables, herbs, and noodles",
+      "Banh Xeo (Delta-style) - oversized crispy crepes stuffed with shrimp, pork, and bean sprouts, unique in the delta for their enormous size and coconut milk-rich batter",
+      "Hu Tieu My Tho - My Tho's famous clear noodle soup with pork, shrimp, and a subtly sweet broth, considered the original and best version of this southern classic",
+      "Coconut Rice (Com Dua) - fragrant rice cooked in fresh coconut milk, a Ben Tre specialty served alongside grilled fish or chicken",
+      "Banh Pia (Durian Cake) - flaky pastries filled with durian paste and mung bean, a famous edible souvenir from Soc Trang"
+    ]
+  },
+  "tips": [
+    "Cai Rang floating market peaks from 5-7am. Your hotel in Can Tho can arrange a boat at 5am (approximately 200,000-300,000 VND / $8-12 for a private sampan).",
+    "Bring a hat, sunscreen, and insect repellent -- the delta sun is intense and mosquitoes are abundant near the waterways, especially at dawn and dusk.",
+    "My Tho and Ben Tre make easy day trips from Ho Chi Minh City. Can Tho deserves at least one overnight stay to catch the floating market at dawn.",
+    "Try the local coconut candy being made fresh at small workshops in Ben Tre -- you can watch the entire process and taste varieties you will not find anywhere else.",
+    "The delta floods seasonally (September-November). While this creates a unique landscape with floating forests, travel can be disrupted. Check conditions before visiting.",
+    "Learn a few Vietnamese phrases -- English is less widely spoken in the delta than in major cities, and locals greatly appreciate the effort.",
+    "Negotiate boat prices before departing and clarify the itinerary. Sharing boats with other travelers reduces costs significantly."
+  ],
+  "safetyNotes": "The Mekong Delta is one of Vietnam's safest regions for travelers, with very low crime rates. The main risks are sun exposure and heat (always carry water and sun protection), mosquito-borne diseases (use repellent and consider antimalarials for extended stays in rural areas), and seasonal flooding (September-November). Boat safety varies -- ensure life jackets are available on any vessel. Water quality is poor; never drink tap or river water. Roads between towns are flat but often narrow with heavy truck traffic, so exercise caution when cycling or riding motorbikes."
+}

@@ -6,11 +6,55 @@ import { siteConfig } from '../../site.config';
 export default function VisaGuide() {
   const { t } = useTranslation('common');
 
+  const faqItems = [
+    {
+      question: 'Can I extend my e-visa without leaving Vietnam?',
+      answer: 'Yes, you can extend an e-visa once for an additional 30 days through a travel agency or the Immigration Department in major cities (Hanoi, Ho Chi Minh City, Da Nang). Start the process at least one week before your visa expires.',
+    },
+    {
+      question: 'Do I need a return ticket to enter Vietnam?',
+      answer: 'Technically yes -- immigration may ask for proof of onward travel. Airlines are more likely to check this at boarding. Having a return or onward flight ticket (even a cheap one to a neighboring country) is recommended.',
+    },
+    {
+      question: 'What if my e-visa application is rejected?',
+      answer: 'E-visa rejections are rare but usually caused by poor-quality photos, mismatched passport information, or applicants from restricted countries. If rejected, the $25 fee is not refunded. Double-check all details and reapply, or consider visa on arrival as an alternative.',
+    },
+    {
+      question: 'Can Americans get a visa exemption?',
+      answer: 'No. US citizens currently need either an e-visa or visa on arrival. The e-visa ($25, 90 days) is the simplest option for American travelers.',
+    },
+  ];
+
+  const faqJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: faqItems.map((item) => ({
+      '@type': 'Question',
+      name: item.question,
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: item.answer,
+      },
+    })),
+  };
+
+  const breadcrumbJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: siteConfig.seo.siteUrl },
+      { '@type': 'ListItem', position: 2, name: 'Visa Guide', item: `${siteConfig.seo.siteUrl}/visa/` },
+    ],
+  };
+
   return (
     <>
       <SEOHead
         title={`Vietnam Visa Guide 2025 - E-Visa, Exemptions & Requirements | ${siteConfig.name}`}
-        description="Complete Vietnam visa guide: e-visa application, visa exemption countries, visa on arrival, required documents, processing times, and expert tips to avoid common mistakes."/>
+        description="Complete Vietnam visa guide: e-visa application, visa exemption countries, visa on arrival, required documents, processing times, and expert tips to avoid common mistakes."
+        path="/visa/"
+        jsonLd={[faqJsonLd, breadcrumbJsonLd]}
+      />
 
       <div className="container-custom py-8 lg:py-12">
         <Breadcrumbs items={[

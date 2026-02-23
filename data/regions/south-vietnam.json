@@ -1,0 +1,59 @@
+{
+  "slug": "south-vietnam",
+  "name": "South Vietnam",
+  "image": "/images/regions/south-vietnam.webp",
+  "description": "The economic powerhouse of Vietnam, the south pulses with the relentless energy of Ho Chi Minh City, offers sobering war history at Cu Chi Tunnels, and transitions into the lush waterways of the Mekong Delta where life revolves around the river.",
+  "overview": "South Vietnam centers on Ho Chi Minh City (still called Saigon by locals), a sprawling metropolis of over 10 million people that serves as the country's commercial and cultural engine. The city's French colonial landmarks, sobering war museums, and legendary street food scene sit alongside gleaming skyscrapers, rooftop bars, and a nightlife that rivals Bangkok. Just outside the city, the Cu Chi Tunnels offer a visceral connection to the Vietnam War, an extraordinary network of underground passages stretching over 250 kilometers that served as a military headquarters, living quarters, and supply route. The surrounding countryside transitions into the vast rice paddies and fruit orchards that feed much of the nation. The south enjoys a tropical climate with two distinct seasons -- dry (December-April) and wet (May-November) -- and a cuisine characterized by sweeter, bolder flavors than the north, reflecting influences from Chinese, Khmer, and French culinary traditions. Phu Quoc island, in the Gulf of Thailand, offers beach resort escapes with pristine sand, coral reefs, and spectacular sunsets.",
+  "highlights": ["Ho Chi Minh City Nightlife", "Cu Chi Tunnels", "War Remnants Museum", "Gateway to Mekong Delta", "Rooftop Bar Scene", "Ben Thanh Market"],
+  "cities": ["ho-chi-minh-city", "phu-quoc"],
+  "bestTimeToVisit": "December to April — The dry season offers sunny skies, lower humidity, and comfortable temperatures around 28-33 degrees Celsius. The city is at its best during Tet (Lunar New Year) celebrations, though many businesses close for the holiday.",
+  "topExperiences": [
+    {
+      "title": "Explore Ho Chi Minh City's War History",
+      "description": "Visit the War Remnants Museum for a powerful and often confronting account of the Vietnam War, walk through the Reunification Palace where the war ended on April 30, 1975, and explore the Cu Chi Tunnels to understand the ingenuity of guerrilla warfare."
+    },
+    {
+      "title": "Street Food Tour in Saigon",
+      "description": "Navigate District 1's buzzing alleys and market stalls for com tam (broken rice), banh mi, hu tieu, bo la lot (beef wrapped in betel leaves), and an endless array of dishes served from dawn to well past midnight on tiny sidewalk tables."
+    },
+    {
+      "title": "Rooftop Cocktails at Sunset",
+      "description": "Sip craft cocktails above the glittering Saigon skyline from world-class rooftop bars like the historic Saigon Saigon Bar at the Caravelle Hotel or the ultra-modern Chill Skybar on the 26th floor of the AB Tower."
+    },
+    {
+      "title": "Explore Ben Thanh and Binh Tay Markets",
+      "description": "Immerse yourself in the sensory overload of Saigon's most iconic markets, from the tourist-friendly Ben Thanh to the authentic wholesale chaos of Binh Tay in Cholon (Chinatown)."
+    }
+  ],
+  "gettingThere": {
+    "byAir": "Tan Son Nhat International Airport (SGN) is Vietnam's busiest airport, with direct flights from all major Asian hubs and long-haul connections to Europe, Australia, and North America. The airport is just 8km from the city center (20-45 minutes depending on traffic). Grab rides to District 1 cost around 100,000-150,000 VND ($4-6).",
+    "byTrain": "Saigon Railway Station (Ga Sai Gon) in District 3 is the southern terminus of the Reunification Express. The full journey from Hanoi takes 30-34 hours, but shorter segments to Da Nang (17 hours), Nha Trang (7-8 hours), and Phan Thiet (4 hours) are popular.",
+    "byBus": "Long-distance buses arrive at multiple terminals. The Pham Ngu Lao backpacker area is the main hub for tourist-oriented open-tour buses. Modern limousine buses connect to Can Tho (3.5 hours), Vung Tau (2 hours), and other southern destinations."
+  },
+  "gettingAround": "Ho Chi Minh City is best navigated by Grab (both motorbike and car). District 1 is walkable but the city sprawls widely. The new Metro Line 1 (Ben Thanh - Suoi Tien) is the first of a planned network. Traditional xe om (motorbike taxis) are available but Grab offers better pricing transparency. Taxis from Mai Linh and Vinasun are metered and reliable. Renting a motorbike is common for experienced riders but HCMC traffic is intense.",
+  "accommodation": {
+    "budget": "The Pham Ngu Lao / Bui Vien backpacker area has hostels from $5-8 per dorm bed and budget hotels from $15-25 per room. District 1 offers slightly pricier but more central options.",
+    "midRange": "Boutique hotels in District 1 and District 3 range from $40-80. Serviced apartments are excellent value for longer stays at $50-100 per night.",
+    "luxury": "World-class hotels include the Park Hyatt, Reverie Saigon, and the historic Hotel Continental. Expect $150-400+ per night for five-star accommodations."
+  },
+  "food": {
+    "description": "Southern Vietnamese cuisine is sweeter and bolder than northern fare, making generous use of coconut milk, fresh herbs, and sugar. The Chinese and Khmer influences are evident in the variety of noodle soups, stir-fries, and desserts.",
+    "specialties": [
+      "Com Tam (Broken Rice) - Saigon's everyday staple: broken rice with grilled pork chop, egg meatloaf, and pickled vegetables",
+      "Banh Mi Saigon - the city's legendary baguette sandwiches packed with pate, cold cuts, pickled carrots, cilantro, and chili",
+      "Hu Tieu - a lighter, sweeter noodle soup with pork, shrimp, and a clear broth, often served dry with broth on the side",
+      "Bo La Lot - ground beef wrapped in wild betel leaves and grilled over charcoal, a beloved bar snack",
+      "Banh Xeo (Southern-style) - large, crispy crepes filled with shrimp, pork, bean sprouts, and wrapped in lettuce with fresh herbs",
+      "Goi Cuon (Fresh Spring Rolls) - translucent rice paper rolls filled with shrimp, pork, herbs, and vermicelli, served with peanut hoisin dipping sauce"
+    ]
+  },
+  "tips": [
+    "Ho Chi Minh City's traffic is heaviest during rush hours (7-9am, 5-7pm). Avoid scheduling airport transfers during these times.",
+    "The Cu Chi Tunnels have two sites: Ben Duoc (less crowded, more authentic) and Ben Dinh (more tourist-oriented). Ben Duoc is worth the extra distance.",
+    "Visit the War Remnants Museum early in the morning to avoid crowds and give yourself time to process the heavy content.",
+    "The Bui Vien walking street comes alive after 8pm and is the center of backpacker nightlife, but is very loud and not for everyone.",
+    "For the best banh mi, skip the tourist-famous spots and look for busy local stalls where a sandwich costs 20,000-30,000 VND ($0.80-1.20).",
+    "Saigon's craft beer scene has exploded -- check out Pasteur Street Brewing, Heart of Darkness, and East West Brewing for excellent local brews."
+  ],
+  "safetyNotes": "Ho Chi Minh City is generally safe but bag snatching from motorbikes is a real concern, especially in District 1. Carry bags on the side away from the road and use cross-body bags. Be cautious with phone use while walking near roads. Petty scams targeting tourists include overcharging at massage parlors, fake tour operators in the Pham Ngu Lao area, and rigged taxi meters -- always use Grab or reputable taxi companies. The rainy season (May-November) brings afternoon downpours that can cause street flooding; carry a lightweight rain jacket."
+}

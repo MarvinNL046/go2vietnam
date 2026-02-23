@@ -1,0 +1,59 @@
+{
+  "slug": "central-vietnam",
+  "name": "Central Vietnam",
+  "image": "/images/regions/central-vietnam.webp",
+  "description": "A narrow coastal strip where imperial history meets pristine beaches, Central Vietnam is home to three UNESCO World Heritage Sites, the ancient trading port of Hoi An, the imperial citadel of Hue, and the modern coastal city of Da Nang.",
+  "overview": "Central Vietnam is the cultural backbone of the nation, stretching along a narrow coastal strip between the Truong Son mountain range and the South China Sea. This region bore witness to centuries of dynastic rule from the Nguyen Dynasty capital of Hue, saw the rise and fall of the ancient Champa Kingdom, and served as a critical theater during the Vietnam War. Today, it offers travelers an extraordinary concentration of heritage sites: the Imperial Citadel of Hue with its royal tombs along the Perfume River, the perfectly preserved Japanese-Chinese-Vietnamese trading port of Hoi An glowing with silk lanterns at dusk, and the ancient Cham sanctuary of My Son hidden in a jungle valley. Between these cultural treasures, Da Nang has emerged as a modern beach city with world-class resorts, the Instagram-famous Golden Bridge at Ba Na Hills, and some of Vietnam's finest coastal scenery. The three cities form a compact triangle easily connected by car or train, making this one of the most rewarding regions in Southeast Asia to explore.",
+  "highlights": ["Three UNESCO World Heritage Sites", "Hoi An Ancient Town", "Hue Imperial Citadel", "Golden Bridge at Ba Na Hills", "My Son Cham Sanctuary", "My Khe Beach"],
+  "cities": ["hue", "da-nang", "hoi-an"],
+  "bestTimeToVisit": "February to May — The dry season brings warm temperatures (25-30 degrees Celsius), minimal rainfall, and calm seas ideal for beach days. Avoid October to December when the region experiences its heaviest rains and occasional typhoons.",
+  "topExperiences": [
+    {
+      "title": "Walk Hoi An's Ancient Town at Night",
+      "description": "Watch hundreds of silk lanterns illuminate the Thu Bon River at dusk, then release your own floating lantern and explore the car-free streets of this UNESCO-listed trading port. The Full Moon Lantern Festival on the 14th of each lunar month is especially magical."
+    },
+    {
+      "title": "Tour the Imperial Citadel of Hue",
+      "description": "Explore the massive walled fortress that served as the seat of the Nguyen Dynasty for 143 years, including the Forbidden Purple City and ornate royal tombs -- Minh Mang, Khai Dinh, and Tu Duc -- set along the banks of the Perfume River."
+    },
+    {
+      "title": "Cross the Golden Bridge at Ba Na Hills",
+      "description": "Walk across the iconic bridge held aloft by giant weathered stone hands 1,400 meters above sea level near Da Nang, with panoramic views stretching from the forested hills to the distant coastline."
+    },
+    {
+      "title": "Get Custom Tailoring in Hoi An",
+      "description": "Have a custom suit, dress, or pair of shoes made to your exact measurements by Hoi An's legendary tailors, many of whom can complete orders in 24-48 hours at a fraction of Western prices."
+    }
+  ],
+  "gettingThere": {
+    "byAir": "Da Nang International Airport (DAD) is the main gateway, with direct flights from Hanoi (1.5 hours), Ho Chi Minh City (1.5 hours), and numerous regional destinations including Bangkok, Singapore, Seoul, and Tokyo. Phu Bai Airport (HUI) near Hue handles domestic flights.",
+    "byTrain": "The Reunification Express runs along the entire coast, with stops at Hue (13 hours from Hanoi, 20 hours from HCMC) and Da Nang (16 hours from Hanoi, 17 hours from HCMC). The Hue-Da Nang segment is considered one of the most scenic train journeys in the world, crossing the Hai Van Pass.",
+    "byBus": "Comfortable tourist buses and limousine vans connect all three cities. Hue to Da Nang takes about 3 hours, Da Nang to Hoi An is just 45 minutes. Open-tour buses from Hanoi or HCMC also serve the region."
+  },
+  "gettingAround": "Hoi An's Ancient Town is best explored on foot or by bicycle (rentals from 30,000 VND / $1.20 per day). Between the three cities, Grab cars, tourist shuttles, and private drivers are readily available. The scenic route over the Hai Van Pass between Hue and Da Nang is legendary for motorbike riders. Da Nang has a modern public bus system, and taxis are metered and reliable.",
+  "accommodation": {
+    "budget": "Hoi An and Da Nang offer excellent budget options from $8-15 per night for clean guesthouses. Hue has atmospheric budget hotels near the Citadel from $10-20.",
+    "midRange": "Boutique hotels and riverside properties in Hoi An range from $40-80. Da Nang has modern beachfront hotels from $50-100. Hue offers heritage properties from $30-70.",
+    "luxury": "World-class resorts line the coast between Da Nang and Hoi An, including the Four Seasons The Nam Hai and InterContinental. Da Nang's beachfront has 5-star options from $150-400+."
+  },
+  "food": {
+    "description": "Central Vietnamese cuisine is distinguished by its spicy, complex flavors and the refined traditions of Hue's royal court cuisine, which elevated everyday ingredients into elaborate multi-course feasts.",
+    "specialties": [
+      "Cao Lau - Hoi An's signature thick noodles with pork, herbs, and croutons, made with water drawn from a specific ancient well",
+      "Banh Xeo (Central-style) - crispy rice flour crepes filled with shrimp, pork, and bean sprouts, smaller and crispier than their southern cousins",
+      "Bun Bo Hue - a rich, spicy beef and pork noodle soup considered by many chefs to be the finest noodle dish in Vietnam",
+      "Mi Quang - Da Nang's beloved turmeric-tinted noodle dish with pork, shrimp, peanuts, and rice crackers",
+      "White Rose Dumplings (Banh Bao Vac) - translucent shrimp dumplings unique to Hoi An, made by a single family for generations",
+      "Com Hen - Hue's humble but delicious rice dish topped with baby clams, herbs, peanuts, and chili oil"
+    ]
+  },
+  "tips": [
+    "Central Vietnam has its own weather pattern -- the rainy season (October-December) is opposite to the rest of the country. Check weather forecasts before planning.",
+    "Buy a Hoi An Old Town ticket (120,000 VND / $5) which grants entry to five heritage sites -- the Japanese Bridge, assembly halls, old houses, and museums.",
+    "Get tailoring done early in your Hoi An stay so you have time for fittings and adjustments before departure.",
+    "Rent a motorbike for the Hai Van Pass between Hue and Da Nang (or hire an Easy Rider) -- it is one of the most spectacular coastal drives in Asia.",
+    "Visit Hue's royal tombs in the afternoon when tour bus crowds thin out. Rent a bicycle to reach the tombs along the Perfume River.",
+    "Da Nang's Dragon Bridge breathes fire and water every Saturday and Sunday night at 9pm -- time your visit accordingly."
+  ],
+  "safetyNotes": "Central Vietnam is very safe for tourists. The main weather-related risk is heavy rains and occasional typhoons from October to December, which can cause flooding in low-lying areas of Hoi An. During typhoon season, check local weather advisories and avoid boat trips. Ocean currents along the coast can be strong, so swim only at guarded beaches. In Hoi An, beware of persistent tailor shop touts. As elsewhere in Vietnam, use Grab for fair taxi pricing and drink only bottled water."
+}

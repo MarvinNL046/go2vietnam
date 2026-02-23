@@ -173,12 +173,37 @@ export default function CityPage({ city }: CityPageProps) {
   const cityName = typeof city.name === 'object' ? city.name.en : city.name || city.slug;
   const description = typeof city.description === 'object' ? city.description.en : city.description;
 
+  const placeJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'Place',
+    name: cityName,
+    description: description || `Complete travel guide for ${cityName} in ${siteConfig.destination}.`,
+    image: city.image || undefined,
+    address: {
+      '@type': 'PostalAddress',
+      addressCountry: siteConfig.destination,
+      ...(city.region ? { addressRegion: city.region } : {}),
+    },
+  };
+
+  const breadcrumbJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: siteConfig.seo.siteUrl },
+      { '@type': 'ListItem', position: 2, name: 'Cities', item: `${siteConfig.seo.siteUrl}/city/` },
+      { '@type': 'ListItem', position: 3, name: cityName, item: `${siteConfig.seo.siteUrl}/city/${city.slug}/` },
+    ],
+  };
+
   return (
     <>
       <SEOHead
         title={`${cityName} Travel Guide - ${siteConfig.name}`}
         description={description || `Complete travel guide for ${cityName} in ${siteConfig.destination}.`}
         ogImage={city.image}
+        path={`/city/${city.slug}/`}
+        jsonLd={[placeJsonLd, breadcrumbJsonLd]}
       />
       <div className="container-custom py-8 lg:py-12">
         <Breadcrumbs items={[

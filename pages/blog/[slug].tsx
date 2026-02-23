@@ -14,12 +14,51 @@ interface BlogPostProps {
 export default function BlogPost({ post }: BlogPostProps) {
   const { t } = useTranslation('common');
 
+  const articleJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: post.title,
+    description: post.excerpt || `Read ${post.title} on ${siteConfig.name}.`,
+    image: post.image || undefined,
+    datePublished: post.date || undefined,
+    dateModified: post.updatedAt || post.date || undefined,
+    author: {
+      '@type': 'Organization',
+      name: siteConfig.name,
+      url: siteConfig.seo.siteUrl,
+    },
+    publisher: {
+      '@type': 'Organization',
+      name: siteConfig.name,
+      logo: {
+        '@type': 'ImageObject',
+        url: `${siteConfig.seo.siteUrl}/images/logo.png`,
+      },
+    },
+    mainEntityOfPage: {
+      '@type': 'WebPage',
+      '@id': `${siteConfig.seo.siteUrl}/blog/${post.slug}/`,
+    },
+  };
+
+  const breadcrumbJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: siteConfig.seo.siteUrl },
+      { '@type': 'ListItem', position: 2, name: 'Blog', item: `${siteConfig.seo.siteUrl}/blog/` },
+      { '@type': 'ListItem', position: 3, name: post.title, item: `${siteConfig.seo.siteUrl}/blog/${post.slug}/` },
+    ],
+  };
+
   return (
     <>
       <SEOHead
         title={`${post.title} - ${siteConfig.name}`}
         description={post.excerpt || `Read ${post.title} on ${siteConfig.name}.`}
         ogImage={post.image}
+        path={`/blog/${post.slug}/`}
+        jsonLd={[articleJsonLd, breadcrumbJsonLd]}
       />
       <div className="container-custom py-8 lg:py-12">
         <Breadcrumbs items={[

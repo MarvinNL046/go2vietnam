@@ -1,0 +1,58 @@
+{
+  "slug": "north-vietnam",
+  "name": "North Vietnam",
+  "image": "/images/regions/north-vietnam.webp",
+  "description": "Home to Vietnam's ancient capital Hanoi, the spectacular limestone seascapes of Ha Long Bay, and the emerald rice terraces of the northern highlands, North Vietnam is where the country's thousand-year history and breathtaking natural landscapes converge.",
+  "overview": "North Vietnam encompasses the Red River Delta, the dramatic karst landscapes of the northeast, and the cultural heartland that has shaped Vietnamese identity for over a millennium. From Hanoi's centuries-old Old Quarter and French colonial boulevards to the UNESCO-listed limestone pillars of Ha Long Bay rising from emerald waters, and the otherworldly river valleys of Ninh Binh, the north offers an unrivaled combination of history, culture, and natural grandeur. The region experiences four distinct seasons, with cool winters that set it apart from the tropical south, and an autumn that bathes everything in golden light. The Red River Delta, one of the most densely populated areas in Asia, has been the cradle of Vietnamese civilization since the Bronze Age Dong Son culture, and its villages still preserve ancient traditions of water puppetry, communal house architecture, and festival celebrations that date back centuries.",
+  "highlights": ["Ha Long Bay UNESCO Site", "Hanoi Old Quarter", "Ninh Binh Karst Landscapes", "Red River Delta Culture", "Temple of Literature", "Water Puppet Theatre"],
+  "cities": ["hanoi", "ha-long", "ninh-binh"],
+  "bestTimeToVisit": "October to December — Autumn brings cool temperatures (18-25 degrees Celsius), low humidity, clear skies, and Hanoi's famous golden light filtering through yellowing trees. This is also the driest period with minimal rainfall, ideal for Ha Long Bay cruises and Ninh Binh boat trips.",
+  "topExperiences": [
+    {
+      "title": "Cruise Ha Long Bay",
+      "description": "Sail among nearly 2,000 limestone karsts and islands on an overnight junk boat, kayaking through hidden grottoes and watching the sunrise over one of the world's most iconic seascapes. Most cruises include visits to fishing villages, cave explorations, and tai chi on the sundeck at dawn."
+    },
+    {
+      "title": "Explore Hanoi's Old Quarter",
+      "description": "Wander the 36 ancient trading streets, each historically dedicated to a single craft guild, and savor legendary street food from tiny plastic stools while dodging motorbikes. Sip egg coffee at Giang Cafe, where it was invented in the 1940s."
+    },
+    {
+      "title": "Boat through Trang An",
+      "description": "Glide by rowboat through river caves and past towering limestone cliffs in the UNESCO-listed Trang An Landscape Complex near Ninh Binh, often called Ha Long Bay on land."
+    },
+    {
+      "title": "Visit the Temple of Literature",
+      "description": "Walk through Vietnam's first national university, founded in 1070, with its tranquil courtyards, ancient stone stele on turtle backs, and centuries of scholarly heritage."
+    }
+  ],
+  "gettingThere": {
+    "byAir": "Noi Bai International Airport (HAN) in Hanoi is the main gateway, with direct flights from most major Asian cities and connecting flights worldwide. Van Don International Airport near Ha Long Bay serves some domestic and regional routes. Budget carriers like VietJet Air and Bamboo Airways offer frequent domestic connections.",
+    "byTrain": "Hanoi Railway Station is the northern terminus of the Reunification Express. Overnight trains connect to Lao Cai (for Sapa, 8 hours), and the north is also connected to major cities along the coast. The train journey from Ho Chi Minh City takes 30-34 hours.",
+    "byBus": "Modern highway coaches and limousine buses connect Hanoi to Ha Long Bay (3-4 hours via expressway), Ninh Binh (2 hours), and other northern destinations. Major bus stations include My Dinh (western/northern routes) and Gia Lam (eastern routes)."
+  },
+  "gettingAround": "Within Hanoi, Grab (ride-hailing app) is the most convenient option for both motorbike taxis and cars. The Old Quarter and French Quarter are highly walkable. Between cities, a combination of hired cars, tourist buses, and trains works best. Ha Long Bay and Ninh Binh are most commonly visited as day trips or overnight excursions from Hanoi. Renting a motorbike is possible but Hanoi traffic is challenging for inexperienced riders.",
+  "accommodation": {
+    "budget": "Hanoi's Old Quarter has abundant hostels (150,000-250,000 VND / $6-10 per dorm bed) and budget hotels (400,000-700,000 VND / $16-28 per room). Ha Long town has budget options near the pier.",
+    "midRange": "Boutique hotels in Hanoi's Old Quarter and French Quarter range from 1,200,000-2,500,000 VND ($48-100). Mid-range Ha Long Bay cruises start around $80-150 per person including meals.",
+    "luxury": "Hanoi has excellent luxury hotels including the historic Sofitel Legend Metropole. Premium Ha Long Bay cruises ($200-500+ per person) offer suites, fine dining, and exclusive itineraries."
+  },
+  "food": {
+    "description": "Northern Vietnamese cuisine is characterized by subtle, balanced flavors and a refined simplicity that reflects centuries of culinary tradition. Hanoi is Vietnam's street food capital.",
+    "specialties": [
+      "Pho Bo (Hanoi-style beef noodle soup) - lighter and more delicate than southern versions, with clear broth and fewer accompaniments",
+      "Bun Cha - charcoal-grilled pork patties and sliced belly with rice vermicelli and herb-laden dipping broth, Hanoi's signature lunch dish",
+      "Banh Cuon - delicate steamed rice rolls filled with minced pork and wood ear mushroom, served with crispy fried shallots",
+      "Cha Ca La Vong - turmeric-marinated fish sizzled tableside with dill and spring onion, a Hanoi original since 1871",
+      "Ca Phe Trung (Egg Coffee) - whipped egg yolk and condensed milk over strong Vietnamese coffee, invented at Giang Cafe in the 1940s"
+    ]
+  },
+  "tips": [
+    "Pack layers for visits between October and February -- Hanoi winters can feel surprisingly cold (10-18 degrees Celsius) due to high humidity.",
+    "Book Ha Long Bay cruises at least a week in advance during peak season (October-December). Opt for Lan Ha Bay for fewer crowds.",
+    "The weekend night market in Hanoi's Old Quarter (Friday-Sunday evenings) is worth visiting for atmosphere and street food.",
+    "Download the Grab app before arriving -- it eliminates language barriers and ensures fair pricing for taxis.",
+    "Carry small denominations of Vietnamese dong (10,000-50,000 notes) for street food vendors who may not have change for large notes.",
+    "Ninh Binh is best visited as a full day trip or overnight stay from Hanoi, not a rushed half-day excursion."
+  ],
+  "safetyNotes": "North Vietnam is very safe for travelers. Petty theft (bag snatching from motorbikes) is the main concern in Hanoi's crowded areas. Use Grab or reputable taxi companies (Mai Linh, Vinasun) rather than hailing taxis on the street. When crossing Hanoi's busy streets, walk slowly and steadily -- do not stop or run, and traffic will flow around you. Tap water is not safe to drink anywhere; bottled water is widely available."
+}

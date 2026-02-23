@@ -60,6 +60,7 @@ const Header = () => {
             <NavLink href="/">{t('nav.home')}</NavLink>
             <NavLink href="/city/">{t('nav.cities')}</NavLink>
             <NavLink href="/islands/">{t('nav.islands')}</NavLink>
+            <NavLink href="/region/">{t('nav.regions')}</NavLink>
 
             {/* Food & Drinks Dropdown */}
             <Dropdown label={t('nav.foodDrinks')}>
@@ -144,6 +145,7 @@ const Header = () => {
               <MobileLink href="/" onClick={closeMobile}>{t('nav.home')}</MobileLink>
               <MobileLink href="/city/" onClick={closeMobile}>{t('nav.cities')}</MobileLink>
               <MobileLink href="/islands/" onClick={closeMobile}>{t('nav.islands')}</MobileLink>
+              <MobileLink href="/region/" onClick={closeMobile}>{t('nav.regions')}</MobileLink>
 
               <div className="pt-3 pb-1">
                 <span className="text-xs font-display font-semibold uppercase tracking-wider text-warm-400 px-3">

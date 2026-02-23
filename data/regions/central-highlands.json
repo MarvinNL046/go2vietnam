@@ -1,0 +1,59 @@
+{
+  "slug": "central-highlands",
+  "name": "Central Highlands",
+  "image": "/images/regions/central-highlands.webp",
+  "description": "Vietnam's cool mountain interior offers a refreshing escape from the tropical coast, with misty pine forests, cascading waterfalls, world-class coffee plantations, and the charming French colonial hill station of Da Lat perched at 1,500 meters.",
+  "overview": "The Central Highlands (Tay Nguyen) is Vietnam's elevated interior plateau, a world apart from the coastal lowlands both in climate and culture. Rising from 500 to over 2,000 meters, this region of rolling hills, volcanic red soil, pine forests, and cascading waterfalls was once the domain of dozens of ethnic minority groups -- the Ede, Jarai, Bahnar, and Koho -- whose stilt houses and gong culture are recognized by UNESCO as an Intangible Cultural Heritage of Humanity. The French established Da Lat as a highland retreat in the early 1900s, and the city retains its colonial charm with Art Deco villas, flower gardens, and year-round spring-like temperatures that earned it the nickname 'City of Eternal Spring.' The region is also the heartland of Vietnam's coffee industry -- the country is the world's second-largest coffee producer after Brazil -- and the fertile volcanic soil supports vast plantations of robusta and arabica beans, along with tea, silk, vegetables, and flowers that supply much of the nation. A thriving adventure tourism scene has emerged around Da Lat, with canyoning, mountain biking, trail running, and off-road tours through remote ethnic minority villages.",
+  "highlights": ["Da Lat Hill Station", "Coffee Plantations", "Waterfalls & Pine Forests", "Ethnic Minority Culture", "Canyoning Adventures", "Flower Gardens"],
+  "cities": ["da-lat"],
+  "bestTimeToVisit": "November to March — The dry season offers clear skies, cool temperatures (15-24 degrees Celsius), and the best conditions for trekking and outdoor activities. December to February can be quite cool at night (10-15 degrees Celsius), so pack warm layers.",
+  "topExperiences": [
+    {
+      "title": "Tour Da Lat's Coffee Scene",
+      "description": "Visit artisan roasters like La Viet Coffee and K'Ho Coffee (run by an indigenous Koho cooperative), tour hillside plantations to understand the bean-to-cup process, and taste single-origin Vietnamese coffee from traditional robusta to premium arabica grown at altitude."
+    },
+    {
+      "title": "Chase Waterfalls",
+      "description": "Discover the highlands' spectacular waterfalls including Elephant Falls (a powerful cascade you can climb behind), Datanla Falls (with an alpine coaster ride down), the majestic Pongour Falls, and the remote 57-meter Dambri Falls."
+    },
+    {
+      "title": "Explore the Crazy House",
+      "description": "Wander through Hang Nga Guesthouse, an avant-garde architectural fantasy of organic tree-like shapes, whimsical animal sculptures, treehouse rooms, and surreal tunnels designed by Moscow-trained architect Dang Viet Nga."
+    },
+    {
+      "title": "Canyoning Adventures",
+      "description": "Rappel down waterfalls up to 25 meters high, cliff jump into natural pools, and zip-line through the jungle canopy on an adrenaline-fueled canyoning tour. Operators like Highland Sport Travel run professional, safety-focused trips."
+    }
+  ],
+  "gettingThere": {
+    "byAir": "Lien Khuong Airport (DLI) is located 30km south of Da Lat, with daily flights from Hanoi (2 hours) and Ho Chi Minh City (55 minutes) on Vietnam Airlines, VietJet, and Bamboo Airways. Airport taxis cost approximately 200,000-250,000 VND ($8-10) to the city center.",
+    "byTrain": "There is no direct train service to Da Lat, though a heritage railway runs a scenic 7km route between Da Lat and Trai Mat village. The nearest mainline station is Phan Rang-Thap Cham on the coast, from where buses continue to Da Lat (3-4 hours).",
+    "byBus": "Comfortable sleeper and limousine buses connect Da Lat to Ho Chi Minh City (7-8 hours), Nha Trang (3.5 hours), and Mui Ne (5 hours). The Phuong Trang (FUTA) bus company is the most popular operator with modern vehicles."
+  },
+  "gettingAround": "Da Lat's compact center is walkable, but the hilly terrain and spread-out attractions make motorbike rental the most popular option ($5-8 per day). Grab operates in Da Lat for both motorbike and car rides. For waterfall and countryside tours, hiring a local guide with a jeep or joining organized tours is recommended. The winding mountain roads offer spectacular scenery but can be challenging for inexperienced riders, especially in wet conditions.",
+  "accommodation": {
+    "budget": "Da Lat has excellent budget hostels and guesthouses from $5-15 per night, many with mountain views. The area around the central market has the densest concentration of affordable options.",
+    "midRange": "Charming boutique hotels, converted French villas, and eco-lodges range from $30-70 per night. Properties like Terracotta Hotel and Ana Mandara Villas offer highland atmosphere at mid-range prices.",
+    "luxury": "Luxury options include the Ana Mandara Villas resort, Swiss-Belresort, and several new five-star properties. Expect $100-250+ per night for premium stays with valley views."
+  },
+  "food": {
+    "description": "The Central Highlands' cool climate enables produce that cannot grow in the tropical lowlands, giving its cuisine a distinctive character. Da Lat is famous for its fresh vegetables, strawberries, artichokes, and avocados, alongside a growing artisan food scene.",
+    "specialties": [
+      "Banh Trang Nuong - Da Lat's famous 'Vietnamese pizza': rice paper topped with egg, dried shrimp, spring onions, and chili, grilled over charcoal by street vendors",
+      "Lau (Hotpot) - Da Lat's cool evenings make it the hotpot capital of Vietnam, with varieties featuring local mushrooms, vegetables, and meats",
+      "Nem Nuong (Grilled Pork Sausage) - a Da Lat specialty of seasoned pork shaped into cylinders and grilled, wrapped in rice paper with herbs and vegetables",
+      "Artichoke Tea - the highlands grow most of Vietnam's artichokes, and the tisane made from dried artichoke flowers and stems is a local signature",
+      "Avocado Ice Cream (Kem Bo) - rich avocado blended with condensed milk and ice, a Da Lat street food staple",
+      "Weasel Coffee (Ca Phe Chon) - the region's controversial but famous specialty coffee, made from beans processed by civets"
+    ]
+  },
+  "tips": [
+    "Da Lat is significantly cooler than the coast. Pack a warm jacket and layers, especially for evenings when temperatures can drop to 10-15 degrees Celsius.",
+    "The Da Lat night market near Xuan Huong Lake is a must-visit for street food, especially banh trang nuong and grilled corn.",
+    "Book canyoning tours directly with reputable operators like Highland Sport Travel -- avoid touts and middlemen for safety reasons.",
+    "Visit Xuan Huong Lake in the early morning when mist rises from the water and the surrounding pine forests are at their most atmospheric.",
+    "The road from Nha Trang to Da Lat is one of Vietnam's most scenic mountain drives -- consider taking a motorbike if you are an experienced rider.",
+    "Try the local strawberry wine and artichoke tea, both unique highland products you will not find elsewhere in Vietnam."
+  ],
+  "safetyNotes": "The Central Highlands is one of the safest areas in Vietnam for travelers. The main risks are related to outdoor activities: ensure canyoning and adventure tours are booked with licensed, insured operators. Mountain roads can be slippery in rain, so exercise caution when riding motorbikes. Da Lat has minimal crime against tourists. Some remote ethnic minority areas may require permits -- check with local authorities before venturing far off the beaten track. The altitude and cooler temperatures can catch travelers off guard, so dress appropriately."
+}

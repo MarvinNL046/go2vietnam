@@ -6,11 +6,58 @@ import { siteConfig } from '../../site.config';
 export default function PracticalInfo() {
   const { t } = useTranslation('common');
 
+  const faqItems = [
+    {
+      question: 'What currency does Vietnam use?',
+      answer: 'Vietnam uses the Vietnamese Dong (VND). The exchange rate is roughly 25,000 VND = $1 USD. Banknotes range from 1,000 to 500,000 VND.',
+    },
+    {
+      question: 'Do I need a power adapter for Vietnam?',
+      answer: 'Vietnam uses 220V, 50Hz electricity with Type A (two flat pins) and Type C (two round pins) outlets. US two-pin plugs usually fit without an adapter. UK/Australian travelers will need a plug adapter.',
+    },
+    {
+      question: 'Is tap water safe to drink in Vietnam?',
+      answer: 'No, never drink tap water in Vietnam. Bottled water is cheap (5,000-10,000 VND) and available everywhere. Ice in restaurants and cafes is generally safe as it is commercially produced.',
+    },
+    {
+      question: 'How do I get a SIM card in Vietnam?',
+      answer: 'You can buy a tourist SIM card at the airport upon arrival from Viettel, Mobifone, or Vinaphone counters. Prices range from 100,000-200,000 VND ($4-8) for 30 days with 3-6 GB/day. You will need your passport for registration.',
+    },
+    {
+      question: 'Is tipping expected in Vietnam?',
+      answer: 'Tipping is not traditionally expected in Vietnam but is appreciated for good service. Round up the bill at restaurants, tip 20,000-50,000 VND for hotel porters, and 100,000-200,000 VND per day for tour guides.',
+    },
+  ];
+
+  const faqJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: faqItems.map((item) => ({
+      '@type': 'Question',
+      name: item.question,
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: item.answer,
+      },
+    })),
+  };
+
+  const breadcrumbJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: siteConfig.seo.siteUrl },
+      { '@type': 'ListItem', position: 2, name: 'Practical Info', item: `${siteConfig.seo.siteUrl}/practical-info/` },
+    ],
+  };
+
   return (
     <>
       <SEOHead
         title={`Practical Travel Info for Vietnam - Money, SIM, Safety & Tips | ${siteConfig.name}`}
         description="Essential practical info for Vietnam travelers: currency & ATMs, SIM cards, health & safety, language tips, electricity, culture & etiquette, and emergency contacts."
+        path="/practical-info/"
+        jsonLd={[faqJsonLd, breadcrumbJsonLd]}
       />
 
       <div className="container-custom py-8 lg:py-12">
