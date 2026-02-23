@@ -59,6 +59,7 @@ const Header = () => {
           <div className="hidden lg:flex items-center gap-1">
             <NavLink href="/">{t('nav.home')}</NavLink>
             <NavLink href="/city/">{t('nav.cities')}</NavLink>
+            <NavLink href="/islands/">{t('nav.islands')}</NavLink>
 
             {/* Food & Drinks Dropdown */}
             <Dropdown label={t('nav.foodDrinks')}>
@@ -142,6 +143,7 @@ const Header = () => {
             <div className="flex-1 px-6 pt-8 pb-6 space-y-1">
               <MobileLink href="/" onClick={closeMobile}>{t('nav.home')}</MobileLink>
               <MobileLink href="/city/" onClick={closeMobile}>{t('nav.cities')}</MobileLink>
+              <MobileLink href="/islands/" onClick={closeMobile}>{t('nav.islands')}</MobileLink>
 
               <div className="pt-3 pb-1">
                 <span className="text-xs font-display font-semibold uppercase tracking-wider text-warm-400 px-3">

@@ -36,7 +36,9 @@ const Footer = () => {
             </h3>
             <ul className="space-y-3">
               <FooterLink href="/city/">{t('nav.cities')}</FooterLink>
+              <FooterLink href="/islands/">{t('nav.islands')}</FooterLink>
               <FooterLink href="/food/">{t('nav.food')}</FooterLink>
+              <FooterLink href="/drinks/">{t('nav.drinks')}</FooterLink>
               <FooterLink href="/visa/">{t('nav.visaGuide')}</FooterLink>
               <FooterLink href="/weather/">{t('nav.weather')}</FooterLink>
               <FooterLink href="/transport/">{t('nav.transport')}</FooterLink>
