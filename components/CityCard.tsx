@@ -17,42 +17,46 @@ const CityCard: React.FC<CityCardProps> = ({ name, slug, image, region, highligh
   const moreCount = highlights.length - 2;
 
   return (
-    <div className="bg-white rounded-xl shadow-lg overflow-hidden group hover:shadow-xl transition-all duration-300">
+    <div className="card group">
       <Link href={`/city/${slug}/`}>
-        <div className="relative h-48 overflow-hidden">
+        <div className="relative h-52 overflow-hidden rounded-t-2xl">
           <Image
             src={image}
             alt={name}
             fill
-            className="object-cover group-hover:scale-110 transition-transform duration-500"
+            className="object-cover group-hover:scale-105 transition-transform duration-500"
           />
+          <div className="absolute inset-x-0 bottom-0 h-20 bg-gradient-to-t from-black/30 to-transparent" />
           {region && (
-            <span className="absolute top-3 left-3 bg-brand-primary text-white text-xs font-semibold px-3 py-1 rounded-full">
+            <span className="badge-primary absolute top-3 right-3">
               {region}
             </span>
           )}
         </div>
       </Link>
-      <div className="p-4">
-        <h3 className="text-lg font-bold text-brand-secondary mb-1">{name}</h3>
+      <div className="p-5">
+        <h3 className="font-display font-bold text-lg text-warm-900 mb-1">{name}</h3>
         {description && (
-          <p className="text-gray-600 text-sm mb-3 line-clamp-2">{description}</p>
+          <p className="text-warm-500 text-sm line-clamp-2 mb-3">{description}</p>
         )}
         {visibleHighlights.length > 0 && (
-          <div className="flex flex-wrap gap-1 mb-3">
+          <div className="flex flex-wrap gap-1.5 mb-4">
             {visibleHighlights.map((h, i) => (
-              <span key={i} className="text-xs bg-gray-100 text-gray-600 px-2 py-1 rounded-full">{h}</span>
+              <span key={i} className="text-xs bg-warm-100 text-warm-600 px-2.5 py-1 rounded-full">{h}</span>
             ))}
             {moreCount > 0 && (
-              <span className="text-xs bg-brand-primary-50 text-brand-primary px-2 py-1 rounded-full">+{moreCount} {t('common.more')}</span>
+              <span className="badge-primary text-xs">+{moreCount} {t('common.more')}</span>
             )}
           </div>
         )}
         <Link
           href={`/city/${slug}/`}
-          className="block text-center bg-gradient-to-r from-brand-primary to-brand-primary-600 text-white py-2 rounded-lg text-sm font-semibold hover:from-brand-primary-600 hover:to-brand-primary-700 transition-all duration-300"
+          className="inline-flex items-center gap-1 text-brand-primary font-semibold text-sm hover:gap-2 transition-all duration-200"
         >
           {t('sections.exploreCity')}
+          <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 5l7 7-7 7" />
+          </svg>
         </Link>
       </div>
     </div>

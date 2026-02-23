@@ -8,9 +8,9 @@ export default function Terms() {
         title={`Terms of Service - ${siteConfig.name}`}
         description={`Terms of service for ${siteConfig.domain}`}
       />
-      <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-        <h1 className="text-3xl font-bold text-brand-secondary mb-8">Terms of Service</h1>
-        <div className="prose prose-lg max-w-none text-gray-700">
+      <div className="container-custom py-12 lg:py-16">
+        <h1 className="font-display text-display-sm text-warm-900 mb-8">Terms of Service</h1>
+        <div className="prose-custom">
           <p>Last updated: {new Date().toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}</p>
           <h2>Acceptance of Terms</h2>
           <p>By accessing {siteConfig.domain}, you agree to these terms of service. If you do not agree, please do not use our website.</p>

@@ -21,45 +21,59 @@ export default function CityPage({ city }: CityPageProps) {
         title={`${cityName} Travel Guide - ${siteConfig.name}`}
         description={city.description?.en || city.description || `Complete travel guide for ${cityName} in ${siteConfig.destination}.`}
       />
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+      <div className="container-custom py-8 lg:py-12">
         <Breadcrumbs items={[
           { name: t('nav.home'), href: '/' },
           { name: t('nav.cities'), href: '/city/' },
           { name: cityName, href: `/city/${city.slug}/` },
         ]} />
 
-        {/* Hero */}
+        {/* Hero Image */}
         {city.image && (
-          <div className="relative h-64 md:h-96 rounded-xl overflow-hidden mb-8">
+          <div className="relative h-72 md:h-[28rem] rounded-2xl overflow-hidden mb-10 shadow-soft-xl">
             <Image src={city.image} alt={cityName} fill className="object-cover" />
-            <div className="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent" />
-            <div className="absolute bottom-6 left-6">
-              <h1 className="text-3xl md:text-5xl font-bold text-white">{cityName}</h1>
+            <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-black/20 to-transparent" />
+            <div className="absolute bottom-8 left-8 right-8">
+              <h1 className="font-display text-display-sm md:text-display-md text-white mb-3">{cityName}</h1>
               {city.region && (
-                <span className="inline-block mt-2 bg-brand-primary text-white text-sm px-3 py-1 rounded-full">{city.region}</span>
+                <span className="badge-primary bg-white text-brand-secondary-700 shadow-soft">
+                  {city.region}
+                </span>
               )}
             </div>
           </div>
         )}
 
         {!city.image && (
-          <h1 className="text-3xl md:text-4xl font-bold text-brand-secondary mb-8">{cityName}</h1>
+          <div className="mb-10">
+            <h1 className="font-display text-display-sm md:text-display-md text-warm-900 mb-3">{cityName}</h1>
+            {city.region && (
+              <span className="badge-primary bg-brand-secondary-50 text-brand-secondary-700">
+                {city.region}
+              </span>
+            )}
+          </div>
         )}
 
         {/* Content */}
-        <div className="prose prose-lg max-w-none">
-          <p className="text-gray-700 text-lg leading-relaxed">
+        <div className="prose-custom mb-12">
+          <p className="text-warm-700 text-lg leading-relaxed">
             {city.description?.en || city.description || `Welcome to ${cityName}. More content coming soon.`}
           </p>
         </div>
 
         {/* Highlights */}
         {city.highlights && city.highlights.length > 0 && (
-          <div className="mt-8">
-            <h2 className="text-2xl font-bold text-brand-secondary mb-4">{t('common.highlights')}</h2>
-            <div className="flex flex-wrap gap-2">
+          <div className="mt-10">
+            <h2 className="font-display text-2xl text-warm-900 mb-5">{t('common.highlights')}</h2>
+            <div className="flex flex-wrap gap-3">
               {city.highlights.map((h: string, i: number) => (
-                <span key={i} className="bg-brand-primary-50 text-brand-primary px-4 py-2 rounded-full text-sm font-medium">{h}</span>
+                <span
+                  key={i}
+                  className="bg-brand-secondary-50 text-brand-secondary-700 px-4 py-2 rounded-xl text-sm font-medium transition-colors hover:bg-brand-secondary-100"
+                >
+                  {h}
+                </span>
               ))}
             </div>
           </div>

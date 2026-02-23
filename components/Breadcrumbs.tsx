@@ -28,19 +28,19 @@ const Breadcrumbs: React.FC<BreadcrumbsProps> = ({ items }) => {
           })
         }}
       />
-      <nav className="flex mb-6" aria-label="Breadcrumb">
-        <ol className="inline-flex items-center space-x-1 md:space-x-3">
+      <nav className="mb-8" aria-label="Breadcrumb">
+        <ol className="flex items-center gap-1.5 text-sm">
           {items.map((item, index) => (
             <li key={index} className="inline-flex items-center">
               {index > 0 && (
-                <svg className="w-6 h-6 text-gray-400 mx-1" fill="currentColor" viewBox="0 0 20 20">
-                  <path fillRule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clipRule="evenodd" />
+                <svg className="w-3.5 h-3.5 text-warm-300 mr-1.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 5l7 7-7 7" />
                 </svg>
               )}
               {index === items.length - 1 ? (
-                <span className="text-gray-500 text-sm font-medium">{item.name}</span>
+                <span className="text-warm-900 font-medium">{item.name}</span>
               ) : (
-                <Link href={item.href} className="text-brand-secondary hover:text-brand-primary text-sm font-medium transition-colors">
+                <Link href={item.href} className="text-warm-500 hover:text-brand-primary transition-colors">
                   {item.name}
                 </Link>
               )}

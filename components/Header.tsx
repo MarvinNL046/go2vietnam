@@ -1,173 +1,277 @@
 'use client';
 import Link from 'next/link';
 import Image from 'next/image';
-import { useState } from 'react';
+import { useState, useEffect, useCallback } from 'react';
 import LanguageSwitcher from './LanguageSwitcher';
 import { useTranslation } from '../hooks/useTranslation';
 import { siteConfig } from '../site.config';
 
 const Header = () => {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
+  const [scrolled, setScrolled] = useState(false);
   const { t } = useTranslation('common');
 
+  useEffect(() => {
+    const onScroll = () => setScrolled(window.scrollY > 10);
+    window.addEventListener('scroll', onScroll, { passive: true });
+    onScroll();
+    return () => window.removeEventListener('scroll', onScroll);
+  }, []);
+
+  // Lock body scroll when mobile menu is open
+  useEffect(() => {
+    if (isMobileMenuOpen) {
+      document.body.style.overflow = 'hidden';
+    } else {
+      document.body.style.overflow = '';
+    }
+    return () => { document.body.style.overflow = ''; };
+  }, [isMobileMenuOpen]);
+
+  const closeMobile = useCallback(() => setIsMobileMenuOpen(false), []);
+
   return (
-    <header className="sticky top-0 z-50 bg-white/95 backdrop-blur-md border-b-2 border-brand-primary shadow-lg">
+    <header
+      className={`sticky top-0 z-50 glass transition-all duration-300 ${
+        scrolled ? 'shadow-soft' : 'shadow-none'
+      }`}
+    >
       <nav className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="flex justify-between items-center h-20">
-          {/* Logo */}
-          <Link href="/" className="flex items-center group">
-            <div className="h-16 w-16 relative transform transition-transform group-hover:scale-110">
+        <div className="flex items-center justify-between h-16">
+          {/* Logo -- left */}
+          <Link href="/" className="flex items-center gap-2 shrink-0 group">
+            <div className="h-10 w-10 relative transition-transform duration-200 group-hover:scale-105">
               <Image
                 src="/images/logo.webp"
                 alt={siteConfig.tagline}
-                height={64}
-                width={64}
+                height={40}
+                width={40}
                 className="object-contain"
                 priority
               />
             </div>
-            <span className="ml-2 text-xl font-bold text-brand-secondary hidden sm:block">
+            <span className="text-lg font-display font-bold text-brand-secondary hidden sm:block">
               {siteConfig.name}
             </span>
           </Link>
 
-          {/* Desktop Navigation */}
-          <div className="hidden md:flex items-center space-x-1">
-            <Link href="/" className="text-brand-secondary-700 hover:text-brand-primary px-4 py-2 rounded-lg text-sm font-medium transition-all duration-300 hover:bg-brand-primary-50">
-              {t('nav.home')}
-            </Link>
-            <Link href="/city/" className="text-brand-secondary-700 hover:text-brand-primary px-4 py-2 rounded-lg text-sm font-medium transition-all duration-300 hover:bg-brand-primary-50">
-              {t('nav.cities')}
-            </Link>
+          {/* Desktop nav -- center */}
+          <div className="hidden lg:flex items-center gap-1">
+            <NavLink href="/">{t('nav.home')}</NavLink>
+            <NavLink href="/city/">{t('nav.cities')}</NavLink>
 
             {/* Food & Drinks Dropdown */}
-            <div className="relative group">
-              <button className="text-brand-secondary-700 hover:text-brand-primary px-4 py-2 rounded-lg text-sm font-medium transition-all duration-300 hover:bg-brand-primary-50 flex items-center space-x-1">
-                <span>{t('nav.foodDrinks')}</span>
-                <svg className="w-4 h-4 transform transition-transform group-hover:rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 9l-7 7-7-7" />
-                </svg>
-              </button>
-              <div className="absolute left-0 mt-2 w-56 bg-white/95 backdrop-blur-md rounded-xl shadow-xl border border-gray-100 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 transform group-hover:translate-y-0 translate-y-2 z-50">
-                <div className="py-2">
-                  <Link href="/food/" className="flex items-center px-4 py-3 text-sm text-gray-700 hover:bg-brand-primary-50 hover:text-brand-primary transition-all duration-200">
-                    {t('nav.food')}
-                  </Link>
-                  <Link href="/drinks/" className="flex items-center px-4 py-3 text-sm text-gray-700 hover:bg-brand-primary-50 hover:text-brand-primary transition-all duration-200">
-                    {t('nav.drinks')}
-                  </Link>
-                </div>
-              </div>
-            </div>
+            <Dropdown label={t('nav.foodDrinks')}>
+              <DropdownItem href="/food/">{t('nav.food')}</DropdownItem>
+              <DropdownItem href="/drinks/">{t('nav.drinks')}</DropdownItem>
+            </Dropdown>
 
             {/* Travel Info Dropdown */}
-            <div className="relative group">
-              <button className="text-brand-secondary-700 hover:text-brand-primary px-4 py-2 rounded-lg text-sm font-medium transition-all duration-300 hover:bg-brand-primary-50 flex items-center space-x-1">
-                <span>{t('nav.travelNeeds')}</span>
-                <svg className="w-4 h-4 transform transition-transform group-hover:rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 9l-7 7-7-7" />
-                </svg>
-              </button>
-              <div className="absolute left-0 mt-2 w-56 bg-white/95 backdrop-blur-md rounded-xl shadow-xl border border-gray-100 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 transform group-hover:translate-y-0 translate-y-2 z-50">
-                <div className="py-2">
-                  <Link href="/visa/" className="flex items-center px-4 py-3 text-sm text-gray-700 hover:bg-brand-primary-50 hover:text-brand-primary transition-all duration-200">
-                    {t('nav.visaGuide')}
-                  </Link>
-                  <Link href="/practical-info/" className="flex items-center px-4 py-3 text-sm text-gray-700 hover:bg-brand-primary-50 hover:text-brand-primary transition-all duration-200">
-                    {t('nav.practicalInfo')}
-                  </Link>
-                  <Link href="/weather/" className="flex items-center px-4 py-3 text-sm text-gray-700 hover:bg-brand-primary-50 hover:text-brand-primary transition-all duration-200">
-                    {t('nav.weather')}
-                  </Link>
-                  <Link href="/transport/" className="flex items-center px-4 py-3 text-sm text-gray-700 hover:bg-brand-primary-50 hover:text-brand-primary transition-all duration-200">
-                    {t('nav.transport')}
-                  </Link>
-                  <div className="border-t border-gray-100 my-1" />
-                  <Link href="/esim/" className="flex items-center px-4 py-3 text-sm text-gray-700 hover:bg-brand-primary-50 hover:text-brand-primary transition-all duration-200">
-                    {t('nav.esim')}
-                  </Link>
-                  <Link href="/travel-insurance/" className="flex items-center px-4 py-3 text-sm text-gray-700 hover:bg-brand-primary-50 hover:text-brand-primary transition-all duration-200">
-                    {t('nav.insurance')}
-                  </Link>
-                </div>
-              </div>
-            </div>
+            <Dropdown label={t('nav.travelNeeds')}>
+              <DropdownItem href="/visa/">{t('nav.visaGuide')}</DropdownItem>
+              <DropdownItem href="/practical-info/">{t('nav.practicalInfo')}</DropdownItem>
+              <DropdownItem href="/weather/">{t('nav.weather')}</DropdownItem>
+              <DropdownItem href="/transport/">{t('nav.transport')}</DropdownItem>
+              <div className="my-1 border-t border-warm-100" />
+              <DropdownItem href="/esim/">{t('nav.esim')}</DropdownItem>
+              <DropdownItem href="/travel-insurance/">{t('nav.insurance')}</DropdownItem>
+            </Dropdown>
 
-            <Link href="/blog/" className="text-brand-secondary-700 hover:text-brand-primary px-4 py-2 rounded-lg text-sm font-medium transition-all duration-300 hover:bg-brand-primary-50">
-              {t('nav.blog')}
-            </Link>
-
-            {/* CTA + Language */}
-            <div className="ml-2 pl-4 border-l border-gray-200 flex items-center gap-3">
-              <Link href="/city/" className="bg-gradient-to-r from-brand-primary to-brand-primary-600 text-white px-6 py-2 rounded-lg text-sm font-semibold hover:from-brand-primary-600 hover:to-brand-primary-700 transition-all duration-300 shadow-lg hover:shadow-xl transform hover:scale-105">
-                {t('nav.exploreNow')}
-              </Link>
-              <LanguageSwitcher />
-            </div>
+            <NavLink href="/blog/">{t('nav.blog')}</NavLink>
           </div>
 
-          {/* Mobile menu button */}
-          <div className="md:hidden">
-            <button
-              type="button"
-              className="bg-gray-50 inline-flex items-center justify-center p-3 rounded-lg text-brand-secondary hover:text-brand-primary hover:bg-brand-primary-50 transition-all duration-300"
-              onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
-            >
-              <span className="sr-only">{t('nav.openMainMenu')}</span>
-              {!isMobileMenuOpen ? (
-                <svg className="block h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M4 6h16M4 12h16M4 18h16" />
-                </svg>
-              ) : (
-                <svg className="block h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M6 18L18 6M6 6l12 12" />
-                </svg>
-              )}
-            </button>
+          {/* CTA + Language -- right */}
+          <div className="hidden lg:flex items-center gap-3">
+            <Link href="/city/" className="btn-primary !py-2 !px-5 !text-xs">
+              {t('nav.exploreNow')}
+            </Link>
+            <LanguageSwitcher />
           </div>
-        </div>
 
-        {/* Mobile Menu */}
-        <div className={`md:hidden transition-all duration-300 ease-in-out ${isMobileMenuOpen ? 'max-h-[500px] opacity-100' : 'max-h-0 opacity-0 overflow-hidden'}`}>
-          <div className="px-2 pt-2 pb-6 space-y-1 bg-gray-50 rounded-b-xl border-t border-gray-100 mt-4">
-            <Link href="/" className="text-gray-700 hover:text-brand-primary block px-4 py-3 rounded-lg text-base font-medium" onClick={() => setIsMobileMenuOpen(false)}>
-              {t('nav.home')}
-            </Link>
-            <Link href="/city/" className="text-gray-700 hover:text-brand-primary block px-4 py-3 rounded-lg text-base font-medium" onClick={() => setIsMobileMenuOpen(false)}>
-              {t('nav.cities')}
-            </Link>
-            <Link href="/food/" className="text-gray-700 hover:text-brand-primary block px-4 py-3 rounded-lg text-base font-medium" onClick={() => setIsMobileMenuOpen(false)}>
-              {t('nav.food')}
-            </Link>
-            <Link href="/drinks/" className="text-gray-700 hover:text-brand-primary block px-4 py-3 rounded-lg text-base font-medium" onClick={() => setIsMobileMenuOpen(false)}>
-              {t('nav.drinks')}
-            </Link>
-            <div className="border-t border-gray-200 my-2 mx-4" />
-            <Link href="/visa/" className="text-gray-700 hover:text-brand-primary block px-4 py-3 rounded-lg text-base font-medium" onClick={() => setIsMobileMenuOpen(false)}>
-              {t('nav.visaGuide')}
-            </Link>
-            <Link href="/practical-info/" className="text-gray-700 hover:text-brand-primary block px-4 py-3 rounded-lg text-base font-medium" onClick={() => setIsMobileMenuOpen(false)}>
-              {t('nav.practicalInfo')}
-            </Link>
-            <Link href="/weather/" className="text-gray-700 hover:text-brand-primary block px-4 py-3 rounded-lg text-base font-medium" onClick={() => setIsMobileMenuOpen(false)}>
-              {t('nav.weather')}
-            </Link>
-            <Link href="/transport/" className="text-gray-700 hover:text-brand-primary block px-4 py-3 rounded-lg text-base font-medium" onClick={() => setIsMobileMenuOpen(false)}>
-              {t('nav.transport')}
-            </Link>
-            <Link href="/blog/" className="text-gray-700 hover:text-brand-primary block px-4 py-3 rounded-lg text-base font-medium" onClick={() => setIsMobileMenuOpen(false)}>
-              {t('nav.blog')}
-            </Link>
-            <div className="pt-4 mt-4 border-t border-gray-200">
-              <Link href="/city/" className="bg-gradient-to-r from-brand-primary to-brand-primary-600 text-white block px-4 py-3 rounded-lg text-center font-semibold" onClick={() => setIsMobileMenuOpen(false)}>
-                {t('nav.exploreNow')}
-              </Link>
-            </div>
-          </div>
+          {/* Mobile hamburger */}
+          <button
+            type="button"
+            className="lg:hidden relative w-10 h-10 flex items-center justify-center rounded-xl text-brand-secondary hover:bg-warm-100 transition-colors duration-200"
+            onClick={() => setIsMobileMenuOpen((v) => !v)}
+            aria-label={t('nav.openMainMenu')}
+          >
+            <span className="sr-only">{t('nav.openMainMenu')}</span>
+            {/* Animated hamburger / X */}
+            <span className="absolute block w-5 h-[2px] bg-current transition-all duration-300"
+              style={{
+                transform: isMobileMenuOpen ? 'rotate(45deg)' : 'translateY(-6px)',
+              }}
+            />
+            <span className="absolute block w-5 h-[2px] bg-current transition-all duration-300"
+              style={{
+                opacity: isMobileMenuOpen ? 0 : 1,
+              }}
+            />
+            <span className="absolute block w-5 h-[2px] bg-current transition-all duration-300"
+              style={{
+                transform: isMobileMenuOpen ? 'rotate(-45deg)' : 'translateY(6px)',
+              }}
+            />
+          </button>
         </div>
       </nav>
+
+      {/* ------------------------------------------------------------------ */}
+      {/* Mobile full-screen overlay                                         */}
+      {/* ------------------------------------------------------------------ */}
+      <div
+        className={`fixed inset-0 top-16 z-40 lg:hidden transition-all duration-300 ${
+          isMobileMenuOpen
+            ? 'opacity-100 pointer-events-auto'
+            : 'opacity-0 pointer-events-none'
+        }`}
+      >
+        {/* Backdrop */}
+        <div
+          className="absolute inset-0 bg-black/20 backdrop-blur-sm"
+          onClick={closeMobile}
+        />
+
+        {/* Panel */}
+        <div
+          className={`absolute inset-y-0 right-0 w-full max-w-sm bg-white shadow-soft-xl transition-transform duration-300 ease-out ${
+            isMobileMenuOpen ? 'translate-x-0' : 'translate-x-full'
+          }`}
+        >
+          <div className="flex flex-col h-full overflow-y-auto">
+            <div className="flex-1 px-6 pt-8 pb-6 space-y-1">
+              <MobileLink href="/" onClick={closeMobile}>{t('nav.home')}</MobileLink>
+              <MobileLink href="/city/" onClick={closeMobile}>{t('nav.cities')}</MobileLink>
+
+              <div className="pt-3 pb-1">
+                <span className="text-xs font-display font-semibold uppercase tracking-wider text-warm-400 px-3">
+                  {t('nav.foodDrinks')}
+                </span>
+              </div>
+              <MobileLink href="/food/" onClick={closeMobile}>{t('nav.food')}</MobileLink>
+              <MobileLink href="/drinks/" onClick={closeMobile}>{t('nav.drinks')}</MobileLink>
+
+              <div className="pt-3 pb-1">
+                <span className="text-xs font-display font-semibold uppercase tracking-wider text-warm-400 px-3">
+                  {t('nav.travelNeeds')}
+                </span>
+              </div>
+              <MobileLink href="/visa/" onClick={closeMobile}>{t('nav.visaGuide')}</MobileLink>
+              <MobileLink href="/practical-info/" onClick={closeMobile}>{t('nav.practicalInfo')}</MobileLink>
+              <MobileLink href="/weather/" onClick={closeMobile}>{t('nav.weather')}</MobileLink>
+              <MobileLink href="/transport/" onClick={closeMobile}>{t('nav.transport')}</MobileLink>
+
+              <div className="my-3 border-t border-warm-100" />
+
+              <MobileLink href="/esim/" onClick={closeMobile}>{t('nav.esim')}</MobileLink>
+              <MobileLink href="/travel-insurance/" onClick={closeMobile}>{t('nav.insurance')}</MobileLink>
+              <MobileLink href="/blog/" onClick={closeMobile}>{t('nav.blog')}</MobileLink>
+            </div>
+
+            {/* Mobile CTA + Language at bottom */}
+            <div className="px-6 py-6 border-t border-warm-100 space-y-4">
+              <Link
+                href="/city/"
+                className="btn-primary w-full text-center"
+                onClick={closeMobile}
+              >
+                {t('nav.exploreNow')}
+              </Link>
+              <div className="flex justify-center">
+                <LanguageSwitcher />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
     </header>
   );
 };
+
+/* ====================================================================== */
+/* Sub-components                                                         */
+/* ====================================================================== */
+
+/** Desktop nav link with subtle underline hover */
+function NavLink({ href, children }: { href: string; children: React.ReactNode }) {
+  return (
+    <Link
+      href={href}
+      className="relative px-3 py-2 text-sm font-medium text-warm-700 hover:text-brand-secondary transition-colors duration-200
+        after:absolute after:left-3 after:right-3 after:bottom-1 after:h-[2px] after:bg-brand-primary after:rounded-full
+        after:origin-left after:scale-x-0 hover:after:scale-x-100 after:transition-transform after:duration-200"
+    >
+      {children}
+    </Link>
+  );
+}
+
+/** Desktop dropdown wrapper with floating card */
+function Dropdown({ label, children }: { label: string; children: React.ReactNode }) {
+  return (
+    <div className="relative group">
+      <button
+        className="relative flex items-center gap-1 px-3 py-2 text-sm font-medium text-warm-700 hover:text-brand-secondary transition-colors duration-200
+          after:absolute after:left-3 after:right-3 after:bottom-1 after:h-[2px] after:bg-brand-primary after:rounded-full
+          after:origin-left after:scale-x-0 group-hover:after:scale-x-100 after:transition-transform after:duration-200"
+      >
+        <span>{label}</span>
+        <svg
+          className="w-3.5 h-3.5 transition-transform duration-200 group-hover:rotate-180"
+          fill="none"
+          stroke="currentColor"
+          viewBox="0 0 24 24"
+        >
+          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 9l-7 7-7-7" />
+        </svg>
+      </button>
+
+      {/* Floating card */}
+      <div
+        className="absolute left-1/2 -translate-x-1/2 pt-2
+          opacity-0 invisible translate-y-2
+          group-hover:opacity-100 group-hover:visible group-hover:translate-y-0
+          transition-all duration-200 ease-out z-50"
+      >
+        <div className="w-56 bg-white rounded-2xl shadow-soft-xl border border-warm-100 overflow-hidden py-2">
+          {children}
+        </div>
+      </div>
+    </div>
+  );
+}
+
+/** Dropdown menu item */
+function DropdownItem({ href, children }: { href: string; children: React.ReactNode }) {
+  return (
+    <Link
+      href={href}
+      className="flex items-center px-4 py-2.5 text-sm text-warm-600 hover:text-brand-secondary hover:bg-warm-50 transition-colors duration-150"
+    >
+      {children}
+    </Link>
+  );
+}
+
+/** Mobile menu link */
+function MobileLink({
+  href,
+  onClick,
+  children,
+}: {
+  href: string;
+  onClick: () => void;
+  children: React.ReactNode;
+}) {
+  return (
+    <Link
+      href={href}
+      onClick={onClick}
+      className="block px-3 py-3 text-base font-medium text-warm-700 hover:text-brand-secondary rounded-xl hover:bg-warm-50 transition-colors duration-150"
+    >
+      {children}
+    </Link>
+  );
+}
 
 export default Header;
