@@ -1,27 +1,53 @@
 {
   "slug": "ninh-binh",
-  "name": { "en": "Ninh Binh" },
+  "name": {
+    "en": "Ninh Binh",
+    "nl": "Ninh Binh"
+  },
   "vietnameseName": "Ninh Bình",
   "image": "/images/cities/ninh-binh.webp",
   "region": "Northern Vietnam",
-  "highlights": ["Trang An Landscape Complex", "Tam Coc", "Bai Dinh Pagoda", "Limestone Karsts"],
-  "description": { "en": "Often called 'Ha Long Bay on land,' Ninh Binh province features dramatic limestone karsts rising from emerald rice paddies and winding waterways. The UNESCO-listed Trang An Landscape Complex, the boat-trip caves of Tam Coc, and the vast Bai Dinh Pagoda make this one of northern Vietnam's most visually stunning and culturally rich destinations." },
+  "highlights": [
+    "Trang An Landscape Complex",
+    "Tam Coc",
+    "Bai Dinh Pagoda",
+    "Limestone Karsts"
+  ],
+  "description": {
+    "en": "Often called 'Ha Long Bay on land,' Ninh Binh province features dramatic limestone karsts rising from emerald rice paddies and winding waterways. The UNESCO-listed Trang An Landscape Complex, the boat-trip caves of Tam Coc, and the vast Bai Dinh Pagoda make this one of northern Vietnam's most visually stunning and culturally rich destinations.",
+    "nl": "Vaak 'Ha Long Bay op het land' genoemd, biedt de provincie Ninh Binh dramatische kalkstenen karstformaties die oprijzen uit smaragdgroene rijstvelden en kronkelende waterwegen. Het UNESCO-beschermde Trang An Landschapscomplex, de grotten van Tam Coc die per boot te bereiken zijn, en de immense Bai Dinh-pagode maken dit een van de visueel meest indrukwekkende en cultureel rijkste bestemmingen van Noord-Vietnam."
+  },
   "overview": "Ninh Binh Province, located 95km south of Hanoi, is one of Vietnam's most visually spectacular destinations. The landscape is dominated by hundreds of limestone karst towers — geologically similar to Ha Long Bay's famous formations but rising from lush rice paddies instead of seawater, earning it the nickname 'Ha Long Bay on land' (Ha Long Bay tren can). The centerpiece is the Trang An Landscape Complex, a UNESCO World Heritage Site since 2014, recognized for both its outstanding natural beauty and archaeological significance (cave sites here show evidence of human habitation dating back 30,000 years). The region also encompasses the Tam Coc area (three cave grottoes along the Ngo Dong River), the ancient capital of Hoa Lu, the enormous Bai Dinh Pagoda complex, and the Van Long Nature Reserve. Despite its proximity to Hanoi and its extraordinary landscapes, Ninh Binh receives far fewer international tourists than Ha Long Bay, making it a more peaceful and immersive experience. The city of Ninh Binh itself is a small, unpretentious provincial capital — the attractions are in the surrounding countryside.",
   "neighborhoods": [
     {
       "name": "Tam Coc Village Area",
       "description": "The small village of Tam Coc, about 9km south of Ninh Binh city, is where most tourists base themselves. The village has a growing concentration of homestays, small hotels, and restaurants along the road to the Tam Coc boat dock. The setting is stunning — limestone karsts rise directly behind the village, rice paddies stretch in every direction, and the Ngo Dong River winds through it all. The area has a peaceful, rural atmosphere that contrasts sharply with Vietnam's cities.",
-      "highlights": ["Tam Coc boat dock (starting point for sampan rides)", "Limestone karst backdrop", "Homestays with rice paddy views", "Cycling through rice paddies"]
+      "highlights": [
+        "Tam Coc boat dock (starting point for sampan rides)",
+        "Limestone karst backdrop",
+        "Homestays with rice paddy views",
+        "Cycling through rice paddies"
+      ]
     },
     {
       "name": "Trang An Area",
       "description": "The Trang An Scenic Landscape Complex is located about 7km west of Ninh Binh city. The boat tour area has a well-organized ticketing system and landing stage from which sampans depart for 2-3 hour boat trips through a series of caves and along waterways surrounded by towering karsts. The area is less congested than Tam Coc and the boat route passes through longer and more dramatic caves.",
-      "highlights": ["Trang An boat tours (UNESCO site)", "Longer and more dramatic caves", "Well-organized visitor facilities", "King Kong: Skull Island filming location"]
+      "highlights": [
+        "Trang An boat tours (UNESCO site)",
+        "Longer and more dramatic caves",
+        "Well-organized visitor facilities",
+        "King Kong: Skull Island filming location"
+      ]
     },
     {
       "name": "Ninh Binh City",
       "description": "The small provincial capital serves primarily as a transport hub and accommodation base for those not staying in Tam Coc. The city has a range of hotels, restaurants, and the Ninh Binh train station on the main Hanoi-HCMC line. While the city itself has limited attractions, the central market is worth a visit for local produce and the city makes a practical base for early-morning departures to the surrounding sites.",
-      "highlights": ["Transport hub (train station, bus connections)", "Budget accommodation", "Central market", "Restaurants and local food stalls"]
+      "highlights": [
+        "Transport hub (train station, bus connections)",
+        "Budget accommodation",
+        "Central market",
+        "Restaurants and local food stalls"
+      ]
     }
   ],
   "gettingThere": {

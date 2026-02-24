@@ -1,10 +1,16 @@
 {
   "slug": "bia-hoi",
-  "name": { "en": "Fresh Draft Beer" },
+  "name": {
+    "en": "Fresh Draft Beer",
+    "nl": "Vers tapbier"
+  },
   "vietnameseName": "Bia Hơi",
   "image": "/images/drinks/bia-hoi.webp",
   "category": "Beer",
-  "description": { "en": "Ultra-fresh, unfiltered draft beer brewed daily and served at low-slung sidewalk stalls across Hanoi. At around 25 cents per glass, bia hoi is among the cheapest beers in the world and one of Vietnam's most beloved social traditions." },
+  "description": {
+    "en": "Ultra-fresh, unfiltered draft beer brewed daily and served at low-slung sidewalk stalls across Hanoi. At around 25 cents per glass, bia hoi is among the cheapest beers in the world and one of Vietnam's most beloved social traditions.",
+    "nl": "Ultravers, ongefilterd tapbier dat dagelijks gebrouwen wordt en geschonken wordt bij lage stoepkraampjes door heel Hanoi. Met zo'n 25 cent per glas is bia hoi een van de goedkoopste bieren ter wereld en een van de meest geliefde sociale tradities van Vietnam."
+  },
   "overview": "Bia hoi is not just a beer - it is a social institution. Every afternoon across Hanoi, clusters of tiny plastic tables and stools materialize on sidewalks, and kegs of fresh, unpasteurized beer arrive from local microbreweries. The beer itself is light, low in alcohol (typically 3-4% ABV), slightly sweet, and extraordinarily refreshing. Because it contains no preservatives, each batch must be consumed within 24 hours of brewing, meaning every glass is as fresh as beer gets anywhere on Earth. The bia hoi experience is as much about the atmosphere as the drink: sitting knee-to-knee with strangers on impossibly small plastic chairs, watching motorbikes stream past, sharing plates of grilled meats and peanuts, and clinking glasses with the ubiquitous toast of 'mot, hai, ba, do!' (one, two, three, cheers!). The legendary Bia Hoi Corner at the intersection of Ta Hien and Luong Ngoc Quyen streets in Hanoi's Old Quarter has become one of the city's most famous social gathering points.",
   "origin": {
     "region": "Hanoi and Northern Vietnam",
@@ -34,10 +40,22 @@
     }
   ],
   "variations": [
-    { "name": "Bia Hoi Ha Noi", "description": "The most widely available bia hoi brand in Hanoi, brewed by HABECO (Hanoi Beer Company)" },
-    { "name": "Bia Tuoi (Fresh Beer)", "description": "A slightly more upscale version of fresh draft beer served at beer gardens and modern restaurants" },
-    { "name": "Bia Hoi with ice", "description": "Locals often add ice to their bia hoi, which keeps it cold and dilutes the already light beer further" },
-    { "name": "Craft beer alternatives", "description": "Hanoi's growing craft beer scene (Pasteur Street, Heart of Darkness) offers higher-quality drafts at premium prices" }
+    {
+      "name": "Bia Hoi Ha Noi",
+      "description": "The most widely available bia hoi brand in Hanoi, brewed by HABECO (Hanoi Beer Company)"
+    },
+    {
+      "name": "Bia Tuoi (Fresh Beer)",
+      "description": "A slightly more upscale version of fresh draft beer served at beer gardens and modern restaurants"
+    },
+    {
+      "name": "Bia Hoi with ice",
+      "description": "Locals often add ice to their bia hoi, which keeps it cold and dilutes the already light beer further"
+    },
+    {
+      "name": "Craft beer alternatives",
+      "description": "Hanoi's growing craft beer scene (Pasteur Street, Heart of Darkness) offers higher-quality drafts at premium prices"
+    }
   ],
   "priceRange": "5,000 - 10,000 VND ($0.20 - $0.40)",
   "tips": [

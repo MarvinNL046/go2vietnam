@@ -154,14 +154,21 @@ function IconShield() {
 }
 
 /* ------------------------------------------------------------------ */
-/*  Season label / icon lookup                                        */
+/*  Season icon / color lookup                                        */
 /* ------------------------------------------------------------------ */
 
-const seasonMeta: Record<string, { label: string; icon: string; color: string }> = {
-  spring: { label: 'Spring', icon: '🌸', color: 'bg-pink-50 border-pink-200 text-pink-800' },
-  summer: { label: 'Summer', icon: '☀️', color: 'bg-amber-50 border-amber-200 text-amber-800' },
-  autumn: { label: 'Autumn', icon: '🍂', color: 'bg-orange-50 border-orange-200 text-orange-800' },
-  winter: { label: 'Winter', icon: '❄️', color: 'bg-sky-50 border-sky-200 text-sky-800' },
+const seasonIcons: Record<string, { icon: string; color: string }> = {
+  spring: { icon: '🌸', color: 'bg-pink-50 border-pink-200 text-pink-800' },
+  summer: { icon: '☀️', color: 'bg-amber-50 border-amber-200 text-amber-800' },
+  autumn: { icon: '🍂', color: 'bg-orange-50 border-orange-200 text-orange-800' },
+  winter: { icon: '❄️', color: 'bg-sky-50 border-sky-200 text-sky-800' },
+};
+
+const seasonTranslationKeys: Record<string, string> = {
+  spring: 'cityDetail.spring',
+  summer: 'cityDetail.summer',
+  autumn: 'cityDetail.autumn',
+  winter: 'cityDetail.winter',
 };
 
 /* ------------------------------------------------------------------ */
@@ -169,9 +176,9 @@ const seasonMeta: Record<string, { label: string; icon: string; color: string }>
 /* ------------------------------------------------------------------ */
 
 export default function CityPage({ city }: CityPageProps) {
-  const { t } = useTranslation('common');
-  const cityName = typeof city.name === 'object' ? city.name.en : city.name || city.slug;
-  const description = typeof city.description === 'object' ? city.description.en : city.description;
+  const { t, locale } = useTranslation('common');
+  const cityName = typeof city.name === 'object' ? ((city.name as any)[locale] || city.name.en) : city.name || city.slug;
+  const description = typeof city.description === 'object' ? ((city.description as any)[locale] || city.description.en) : city.description;
 
   const placeJsonLd = {
     '@context': 'https://schema.org',
@@ -263,7 +270,7 @@ export default function CityPage({ city }: CityPageProps) {
           {/* Overview */}
           {(city.overview || description) && (
             <section className="mb-14">
-              <h2 className="font-display text-2xl text-warm-900 mb-4">Overview</h2>
+              <h2 className="font-display text-2xl text-warm-900 mb-4">{t('cityDetail.overview')}</h2>
               <div className="prose-custom">
                 <p>{city.overview || description || `Welcome to ${cityName}. More content coming soon.`}</p>
               </div>
@@ -273,8 +280,8 @@ export default function CityPage({ city }: CityPageProps) {
           {/* Must-Do Experiences */}
           {city.mustDo && city.mustDo.length > 0 && (
             <section className="mb-14">
-              <h2 className="font-display text-2xl text-warm-900 mb-2">Must-Do Experiences</h2>
-              <p className="text-warm-500 mb-6">The top things to do in {cityName}</p>
+              <h2 className="font-display text-2xl text-warm-900 mb-2">{t('cityDetail.mustDo')}</h2>
+              <p className="text-warm-500 mb-6">{t('cityDetail.topThingsToDo')} {cityName}</p>
               <div className="space-y-4">
                 {city.mustDo.map((item, index) => {
                   const isObject = typeof item === 'object' && item !== null;
@@ -299,8 +306,8 @@ export default function CityPage({ city }: CityPageProps) {
           {/* Neighborhoods */}
           {city.neighborhoods && city.neighborhoods.length > 0 && (
             <section className="mb-14">
-              <h2 className="font-display text-2xl text-warm-900 mb-2">Neighborhoods</h2>
-              <p className="text-warm-500 mb-6">Where to explore in {cityName}</p>
+              <h2 className="font-display text-2xl text-warm-900 mb-2">{t('cityDetail.neighborhoods')}</h2>
+              <p className="text-warm-500 mb-6">{t('cityDetail.whereToExplore')} {cityName}</p>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
                 {city.neighborhoods.map((n, index) => (
                   <div key={index} className="card-flat p-6">
@@ -325,7 +332,7 @@ export default function CityPage({ city }: CityPageProps) {
           {/* Food & Specialties */}
           {city.food && (
             <section className="mb-14">
-              <h2 className="font-display text-2xl text-warm-900 mb-2">Food &amp; Specialties</h2>
+              <h2 className="font-display text-2xl text-warm-900 mb-2">{t('cityDetail.foodSpecialties')}</h2>
               {city.food.description && (
                 <div className="prose-custom mb-6">
                   <p>{city.food.description}</p>
@@ -370,7 +377,7 @@ export default function CityPage({ city }: CityPageProps) {
           {/* Best Time to Visit */}
           {city.bestTimeToVisit && (
             <section className="mb-14">
-              <h2 className="font-display text-2xl text-warm-900 mb-4">Best Time to Visit</h2>
+              <h2 className="font-display text-2xl text-warm-900 mb-4">{t('cityDetail.bestTimeToVisit')}</h2>
 
               {/* Best period callout */}
               {city.bestTimeToVisit.best && (
@@ -379,7 +386,7 @@ export default function CityPage({ city }: CityPageProps) {
                     <IconStar />
                   </div>
                   <div>
-                    <p className="text-warm-500 text-sm font-medium uppercase tracking-wide">Best Period</p>
+                    <p className="text-warm-500 text-sm font-medium uppercase tracking-wide">{t('cityDetail.bestPeriod')}</p>
                     <p className="font-display font-bold text-warm-900 text-xl">{city.bestTimeToVisit.best}</p>
                   </div>
                 </div>
@@ -395,12 +402,13 @@ export default function CityPage({ city }: CityPageProps) {
               {city.bestTimeToVisit.seasons && (
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
                   {Object.entries(city.bestTimeToVisit.seasons).map(([key, value]) => {
-                    const meta = seasonMeta[key] || { label: key, icon: '', color: 'bg-warm-50 border-warm-200 text-warm-800' };
+                    const icons = seasonIcons[key] || { icon: '', color: 'bg-warm-50 border-warm-200 text-warm-800' };
+                    const seasonLabel = seasonTranslationKeys[key] ? t(seasonTranslationKeys[key]) : key;
                     return (
-                      <div key={key} className={`rounded-2xl border p-5 ${meta.color}`}>
+                      <div key={key} className={`rounded-2xl border p-5 ${icons.color}`}>
                         <div className="flex items-center gap-2 mb-2">
-                          <span className="text-lg" role="img" aria-label={meta.label}>{meta.icon}</span>
-                          <h3 className="font-display font-bold">{meta.label}</h3>
+                          <span className="text-lg" role="img" aria-label={seasonLabel}>{icons.icon}</span>
+                          <h3 className="font-display font-bold">{seasonLabel}</h3>
                         </div>
                         <p className="text-sm leading-relaxed opacity-90">{value}</p>
                       </div>
@@ -414,8 +422,8 @@ export default function CityPage({ city }: CityPageProps) {
           {/* Budget */}
           {city.budget && (
             <section className="mb-14">
-              <h2 className="font-display text-2xl text-warm-900 mb-2">Budget Guide</h2>
-              <p className="text-warm-500 mb-6">Estimated daily costs in {cityName}</p>
+              <h2 className="font-display text-2xl text-warm-900 mb-2">{t('cityDetail.budgetGuide')}</h2>
+              <p className="text-warm-500 mb-6">{t('cityDetail.estimatedDailyCosts')} {cityName}</p>
 
               {/* Three tier cards */}
               <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 mb-6">
@@ -426,7 +434,7 @@ export default function CityPage({ city }: CityPageProps) {
                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z" />
                       </svg>
                     </div>
-                    <p className="text-warm-500 text-sm font-medium mb-1">Backpacker</p>
+                    <p className="text-warm-500 text-sm font-medium mb-1">{t('cityDetail.backpacker')}</p>
                     <p className="font-display font-bold text-warm-900 text-lg">{city.budget.backpacker}</p>
                   </div>
                 )}
@@ -437,7 +445,7 @@ export default function CityPage({ city }: CityPageProps) {
                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
                       </svg>
                     </div>
-                    <p className="text-warm-500 text-sm font-medium mb-1">Mid-Range</p>
+                    <p className="text-warm-500 text-sm font-medium mb-1">{t('cityDetail.midRange')}</p>
                     <p className="font-display font-bold text-warm-900 text-lg">{city.budget.midRange}</p>
                   </div>
                 )}
@@ -448,7 +456,7 @@ export default function CityPage({ city }: CityPageProps) {
                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 3v4M3 5h4M6 17v4m-2-2h4m5-16l2.286 6.857L21 12l-5.714 2.143L13 21l-2.286-6.857L5 12l5.714-2.143L13 3z" />
                       </svg>
                     </div>
-                    <p className="text-warm-500 text-sm font-medium mb-1">Luxury</p>
+                    <p className="text-warm-500 text-sm font-medium mb-1">{t('cityDetail.luxury')}</p>
                     <p className="font-display font-bold text-warm-900 text-lg">{city.budget.luxury}</p>
                   </div>
                 )}
@@ -457,32 +465,32 @@ export default function CityPage({ city }: CityPageProps) {
               {/* Budget details */}
               {city.budget.details && (
                 <div className="card-flat p-6">
-                  <h3 className="font-display font-bold text-warm-900 mb-3">Price Breakdown</h3>
+                  <h3 className="font-display font-bold text-warm-900 mb-3">{t('cityDetail.priceBreakdown')}</h3>
                   {typeof city.budget.details === 'string' ? (
                     <p className="text-warm-600 text-sm leading-relaxed">{city.budget.details}</p>
                   ) : (
                     <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
                       {city.budget.details.accommodation && (
                         <div>
-                          <p className="font-semibold text-warm-800 text-sm mb-1">Accommodation</p>
+                          <p className="font-semibold text-warm-800 text-sm mb-1">{t('cityDetail.accommodation')}</p>
                           <p className="text-warm-600 text-sm">{city.budget.details.accommodation}</p>
                         </div>
                       )}
                       {city.budget.details.food && (
                         <div>
-                          <p className="font-semibold text-warm-800 text-sm mb-1">Food</p>
+                          <p className="font-semibold text-warm-800 text-sm mb-1">{t('cityDetail.foodBudget')}</p>
                           <p className="text-warm-600 text-sm">{city.budget.details.food}</p>
                         </div>
                       )}
                       {city.budget.details.transport && (
                         <div>
-                          <p className="font-semibold text-warm-800 text-sm mb-1">Transport</p>
+                          <p className="font-semibold text-warm-800 text-sm mb-1">{t('cityDetail.transportBudget')}</p>
                           <p className="text-warm-600 text-sm">{city.budget.details.transport}</p>
                         </div>
                       )}
                       {city.budget.details.activities && (
                         <div>
-                          <p className="font-semibold text-warm-800 text-sm mb-1">Activities</p>
+                          <p className="font-semibold text-warm-800 text-sm mb-1">{t('cityDetail.activities')}</p>
                           <p className="text-warm-600 text-sm">{city.budget.details.activities}</p>
                         </div>
                       )}
@@ -496,8 +504,8 @@ export default function CityPage({ city }: CityPageProps) {
           {/* Getting There */}
           {city.gettingThere && (
             <section className="mb-14">
-              <h2 className="font-display text-2xl text-warm-900 mb-2">Getting There</h2>
-              <p className="text-warm-500 mb-6">How to reach {cityName}</p>
+              <h2 className="font-display text-2xl text-warm-900 mb-2">{t('cityDetail.gettingThere')}</h2>
+              <p className="text-warm-500 mb-6">{t('cityDetail.howToReach')} {cityName}</p>
               <div className="grid grid-cols-1 gap-4">
                 {city.gettingThere.byAir && (
                   <div className="card-flat p-6">
@@ -505,7 +513,7 @@ export default function CityPage({ city }: CityPageProps) {
                       <div className="w-10 h-10 rounded-full bg-sky-100 text-sky-700 flex items-center justify-center flex-shrink-0">
                         <IconPlane />
                       </div>
-                      <h3 className="font-display font-bold text-warm-900">By Air</h3>
+                      <h3 className="font-display font-bold text-warm-900">{t('cityDetail.byAir')}</h3>
                     </div>
                     <p className="text-warm-600 text-sm leading-relaxed">{city.gettingThere.byAir}</p>
                   </div>
@@ -516,7 +524,7 @@ export default function CityPage({ city }: CityPageProps) {
                       <div className="w-10 h-10 rounded-full bg-emerald-100 text-emerald-700 flex items-center justify-center flex-shrink-0">
                         <IconTrain />
                       </div>
-                      <h3 className="font-display font-bold text-warm-900">By Train</h3>
+                      <h3 className="font-display font-bold text-warm-900">{t('cityDetail.byTrain')}</h3>
                     </div>
                     <p className="text-warm-600 text-sm leading-relaxed">{city.gettingThere.byTrain}</p>
                   </div>
@@ -527,7 +535,7 @@ export default function CityPage({ city }: CityPageProps) {
                       <div className="w-10 h-10 rounded-full bg-amber-100 text-amber-700 flex items-center justify-center flex-shrink-0">
                         <IconBus />
                       </div>
-                      <h3 className="font-display font-bold text-warm-900">By Bus</h3>
+                      <h3 className="font-display font-bold text-warm-900">{t('cityDetail.byBus')}</h3>
                     </div>
                     <p className="text-warm-600 text-sm leading-relaxed">{city.gettingThere.byBus}</p>
                   </div>
@@ -539,7 +547,7 @@ export default function CityPage({ city }: CityPageProps) {
           {/* Getting Around */}
           {city.gettingAround && (
             <section className="mb-14">
-              <h2 className="font-display text-2xl text-warm-900 mb-4">Getting Around</h2>
+              <h2 className="font-display text-2xl text-warm-900 mb-4">{t('cityDetail.gettingAround')}</h2>
               <div className="prose-custom">
                 <p>{city.gettingAround}</p>
               </div>
@@ -549,8 +557,8 @@ export default function CityPage({ city }: CityPageProps) {
           {/* Day Trips */}
           {city.dayTrips && city.dayTrips.length > 0 && (
             <section className="mb-14">
-              <h2 className="font-display text-2xl text-warm-900 mb-2">Day Trips</h2>
-              <p className="text-warm-500 mb-6">Excursions from {cityName}</p>
+              <h2 className="font-display text-2xl text-warm-900 mb-2">{t('cityDetail.dayTrips')}</h2>
+              <p className="text-warm-500 mb-6">{t('cityDetail.excursionsFrom')} {cityName}</p>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
                 {city.dayTrips.map((trip, index) => (
                   <div key={index} className="card-flat p-6">
@@ -581,7 +589,7 @@ export default function CityPage({ city }: CityPageProps) {
           {/* Safety */}
           {city.safety && (
             <section className="mb-14">
-              <h2 className="font-display text-2xl text-warm-900 mb-4">Safety</h2>
+              <h2 className="font-display text-2xl text-warm-900 mb-4">{t('cityDetail.safety')}</h2>
               <div className="card-flat p-6 flex gap-4">
                 <IconShield />
                 <div className="prose-custom">
@@ -594,8 +602,8 @@ export default function CityPage({ city }: CityPageProps) {
           {/* Local Tips */}
           {city.localTips && city.localTips.length > 0 && (
             <section className="mb-14">
-              <h2 className="font-display text-2xl text-warm-900 mb-2">Local Tips</h2>
-              <p className="text-warm-500 mb-6">Insider advice for visiting {cityName}</p>
+              <h2 className="font-display text-2xl text-warm-900 mb-2">{t('cityDetail.localTips')}</h2>
+              <p className="text-warm-500 mb-6">{t('cityDetail.insiderAdvice')} {cityName}</p>
               <ul className="space-y-4">
                 {city.localTips.map((tip, index) => (
                   <li key={index} className="flex items-start gap-3">
@@ -612,7 +620,7 @@ export default function CityPage({ city }: CityPageProps) {
           {/* Sources */}
           {city.sources && city.sources.length > 0 && (
             <section className="mb-12">
-              <h2 className="font-display text-warm-500 text-lg mb-3">Sources</h2>
+              <h2 className="font-display text-warm-500 text-lg mb-3">{t('cityDetail.sources')}</h2>
               <ul className="text-warm-400 text-sm space-y-1">
                 {city.sources.map((source, index) => (
                   <li key={index}>{source}</li>
@@ -630,7 +638,7 @@ export default function CityPage({ city }: CityPageProps) {
               <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M15 19l-7-7 7-7" />
               </svg>
-              Back to all cities
+              {t('cityDetail.backToAll')}
             </Link>
           </div>
         </div>

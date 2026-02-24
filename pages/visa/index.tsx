@@ -4,24 +4,25 @@ import { useTranslation } from '../../hooks/useTranslation';
 import { siteConfig } from '../../site.config';
 
 export default function VisaGuide() {
-  const { t } = useTranslation('common');
+  const { t: tCommon } = useTranslation('common');
+  const { t, locale } = useTranslation('guides');
 
   const faqItems = [
     {
-      question: 'Can I extend my e-visa without leaving Vietnam?',
-      answer: 'Yes, you can extend an e-visa once for an additional 30 days through a travel agency or the Immigration Department in major cities (Hanoi, Ho Chi Minh City, Da Nang). Start the process at least one week before your visa expires.',
+      question: t('visa.faq1Q'),
+      answer: t('visa.faq1A'),
     },
     {
-      question: 'Do I need a return ticket to enter Vietnam?',
-      answer: 'Technically yes -- immigration may ask for proof of onward travel. Airlines are more likely to check this at boarding. Having a return or onward flight ticket (even a cheap one to a neighboring country) is recommended.',
+      question: t('visa.faq2Q'),
+      answer: t('visa.faq2A'),
     },
     {
-      question: 'What if my e-visa application is rejected?',
-      answer: 'E-visa rejections are rare but usually caused by poor-quality photos, mismatched passport information, or applicants from restricted countries. If rejected, the $25 fee is not refunded. Double-check all details and reapply, or consider visa on arrival as an alternative.',
+      question: t('visa.faq3Q'),
+      answer: t('visa.faq3A'),
     },
     {
-      question: 'Can Americans get a visa exemption?',
-      answer: 'No. US citizens currently need either an e-visa or visa on arrival. The e-visa ($25, 90 days) is the simplest option for American travelers.',
+      question: t('visa.faq4Q'),
+      answer: t('visa.faq4A'),
     },
   ];
 
@@ -42,99 +43,92 @@ export default function VisaGuide() {
     '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',
     itemListElement: [
-      { '@type': 'ListItem', position: 1, name: 'Home', item: siteConfig.seo.siteUrl },
-      { '@type': 'ListItem', position: 2, name: 'Visa Guide', item: `${siteConfig.seo.siteUrl}/visa/` },
+      { '@type': 'ListItem', position: 1, name: tCommon('nav.home'), item: siteConfig.seo.siteUrl },
+      { '@type': 'ListItem', position: 2, name: t('visa.breadcrumb'), item: `${siteConfig.seo.siteUrl}/visa/` },
     ],
   };
 
   return (
     <>
       <SEOHead
-        title={`Vietnam Visa Guide 2025 - E-Visa, Exemptions & Requirements | ${siteConfig.name}`}
-        description="Complete Vietnam visa guide: e-visa application, visa exemption countries, visa on arrival, required documents, processing times, and expert tips to avoid common mistakes."
+        title={`${t('visa.seoTitle')} | ${siteConfig.name}`}
+        description={t('visa.seoDescription')}
         path="/visa/"
         jsonLd={[faqJsonLd, breadcrumbJsonLd]}
       />
 
       <div className="container-custom py-8 lg:py-12">
         <Breadcrumbs items={[
-          { name: t('nav.home'), href: '/' },
-          { name: 'Visa Guide', href: '/visa/' },
+          { name: tCommon('nav.home'), href: '/' },
+          { name: t('visa.breadcrumb'), href: '/visa/' },
         ]} />
 
         {/* Page Header */}
         <div className="mb-12">
           <h1 className="font-display text-display-sm text-warm-900 mb-4">
-            Vietnam Visa Guide
+            {t('visa.title')}
           </h1>
           <p className="text-warm-500 text-lg max-w-3xl">
-            Everything you need to know about entering Vietnam -- from e-visa applications to visa exemptions.
-            Updated regularly with the latest immigration policy changes.
+            {t('visa.intro')}
           </p>
         </div>
 
         {/* Quick Overview Cards */}
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-16">
           <div className="card-flat p-6 text-center">
-            <div className="text-3xl mb-3">📋</div>
-            <h3 className="font-display text-lg text-warm-900 mb-1">E-Visa</h3>
-            <p className="text-warm-500 text-sm">90 days, single entry</p>
-            <span className="badge-primary mt-3">Most Common</span>
+            <div className="text-3xl mb-3">&#x1F4CB;</div>
+            <h3 className="font-display text-lg text-warm-900 mb-1">{t('visa.eVisaCard')}</h3>
+            <p className="text-warm-500 text-sm">{t('visa.eVisaCardDesc')}</p>
+            <span className="badge-primary mt-3">{t('visa.eVisaMostCommon')}</span>
           </div>
           <div className="card-flat p-6 text-center">
-            <div className="text-3xl mb-3">🛂</div>
-            <h3 className="font-display text-lg text-warm-900 mb-1">Visa Exemption</h3>
-            <p className="text-warm-500 text-sm">15-45 days, no visa needed</p>
-            <span className="badge-accent mt-3">Easiest</span>
+            <div className="text-3xl mb-3">&#x1F6C2;</div>
+            <h3 className="font-display text-lg text-warm-900 mb-1">{t('visa.exemptionCard')}</h3>
+            <p className="text-warm-500 text-sm">{t('visa.exemptionCardDesc')}</p>
+            <span className="badge-accent mt-3">{t('visa.exemptionEasiest')}</span>
           </div>
           <div className="card-flat p-6 text-center">
-            <div className="text-3xl mb-3">✈️</div>
-            <h3 className="font-display text-lg text-warm-900 mb-1">Visa on Arrival</h3>
-            <p className="text-warm-500 text-sm">Pre-approved letter required</p>
-            <span className="badge-secondary mt-3">Alternative</span>
+            <div className="text-3xl mb-3">&#x2708;&#xFE0F;</div>
+            <h3 className="font-display text-lg text-warm-900 mb-1">{t('visa.voaCard')}</h3>
+            <p className="text-warm-500 text-sm">{t('visa.voaCardDesc')}</p>
+            <span className="badge-secondary mt-3">{t('visa.voaAlternative')}</span>
           </div>
         </div>
 
         {/* E-Visa Section */}
         <section className="mb-16">
-          <h2 className="font-display text-2xl text-warm-900 mb-6">E-Visa (Electronic Visa)</h2>
+          <h2 className="font-display text-2xl text-warm-900 mb-6">{t('visa.eVisaTitle')}</h2>
           <div className="card-flat p-6 lg:p-8">
             <div className="prose-custom">
               <p>
-                The Vietnam e-visa is the most popular option for international travelers. Since August 2023,
-                Vietnam extended the e-visa validity to <strong>90 days with single entry</strong>, making it
-                significantly more convenient for longer stays.
+                {t('visa.eVisaIntro')}
               </p>
 
-              <h3>How to Apply</h3>
+              <h3>{t('visa.howToApply')}</h3>
               <ol>
                 <li>
-                  Visit the official Vietnam Immigration Portal at{' '}
-                  <a href="https://evisa.xuatnhapcanh.gov.vn" target="_blank" rel="noopener noreferrer">
-                    evisa.xuatnhapcanh.gov.vn
-                  </a>
+                  {t('visa.applyStep1')}
                 </li>
-                <li>Click &quot;Outside Vietnam &gt; E-visa Issuance&quot; and select &quot;For foreigners&quot;</li>
-                <li>Fill in personal information exactly as it appears on your passport</li>
-                <li>Upload a passport-style photo (4x6cm, white background) and your passport data page</li>
-                <li>Pay the <strong>$25 USD</strong> processing fee online (Visa/Mastercard accepted)</li>
-                <li>Receive your e-visa via email within 3 working days</li>
-                <li>Print the e-visa and present it at immigration upon arrival</li>
+                <li>{t('visa.applyStep2')}</li>
+                <li>{t('visa.applyStep3')}</li>
+                <li>{t('visa.applyStep4')}</li>
+                <li>{t('visa.applyStep5')}</li>
+                <li>{t('visa.applyStep6')}</li>
+                <li>{t('visa.applyStep7')}</li>
               </ol>
 
-              <h3>Key Details</h3>
+              <h3>{t('visa.keyDetails')}</h3>
               <ul>
-                <li><strong>Cost:</strong> $25 USD (non-refundable)</li>
-                <li><strong>Validity:</strong> Up to 90 days</li>
-                <li><strong>Entry type:</strong> Single entry</li>
-                <li><strong>Processing time:</strong> 3 working days (apply at least 1 week before travel)</li>
-                <li><strong>Eligible ports of entry:</strong> All international airports, 16 land border crossings, and 13 seaports</li>
+                <li><strong>{t('visa.detailCost')}</strong> {t('visa.detailCostValue')}</li>
+                <li><strong>{t('visa.detailValidity')}</strong> {t('visa.detailValidityValue')}</li>
+                <li><strong>{t('visa.detailEntry')}</strong> {t('visa.detailEntryValue')}</li>
+                <li><strong>{t('visa.detailProcessing')}</strong> {t('visa.detailProcessingValue')}</li>
+                <li><strong>{t('visa.detailPorts')}</strong> {t('visa.detailPortsValue')}</li>
               </ul>
 
               <div className="bg-brand-accent-50 border border-brand-accent-200 rounded-xl p-4 my-6 not-prose">
                 <p className="text-brand-accent-800 font-medium text-sm">
-                  <strong>Important:</strong> Only use the official government website (evisa.xuatnhapcanh.gov.vn).
-                  Many scam websites charge higher fees for the same service. The official fee is exactly $25.
+                  <strong>{t('visa.eVisaWarning')}</strong> {t('visa.eVisaWarningText')}
                 </p>
               </div>
             </div>
@@ -143,11 +137,10 @@ export default function VisaGuide() {
 
         {/* Visa Exemption Section */}
         <section className="mb-16">
-          <h2 className="font-display text-2xl text-warm-900 mb-6">Visa Exemption Countries</h2>
+          <h2 className="font-display text-2xl text-warm-900 mb-6">{t('visa.exemptionTitle')}</h2>
           <div className="prose-custom mb-6">
             <p>
-              Citizens of certain countries can enter Vietnam without a visa for a limited period.
-              As of 2024, Vietnam has expanded its visa exemption list significantly to boost tourism.
+              {t('visa.exemptionIntro')}
             </p>
           </div>
 
@@ -155,49 +148,49 @@ export default function VisaGuide() {
             {/* 45-day exemptions */}
             <div className="card-flat p-6">
               <div className="flex items-center gap-3 mb-4">
-                <span className="badge-primary">45 Days</span>
-                <h3 className="font-display text-lg text-warm-900">Extended Exemption</h3>
+                <span className="badge-primary">{t('visa.days45')}</span>
+                <h3 className="font-display text-lg text-warm-900">{t('visa.extendedExemption')}</h3>
               </div>
               <ul className="space-y-2 text-warm-600">
                 <li className="flex items-center gap-2">
                   <span className="w-1.5 h-1.5 rounded-full bg-brand-primary flex-shrink-0" />
-                  United Kingdom
+                  {t('visa.uk')}
                 </li>
                 <li className="flex items-center gap-2">
                   <span className="w-1.5 h-1.5 rounded-full bg-brand-primary flex-shrink-0" />
-                  France
+                  {t('visa.france')}
                 </li>
                 <li className="flex items-center gap-2">
                   <span className="w-1.5 h-1.5 rounded-full bg-brand-primary flex-shrink-0" />
-                  Germany
+                  {t('visa.germany')}
                 </li>
                 <li className="flex items-center gap-2">
                   <span className="w-1.5 h-1.5 rounded-full bg-brand-primary flex-shrink-0" />
-                  Italy
+                  {t('visa.italy')}
                 </li>
                 <li className="flex items-center gap-2">
                   <span className="w-1.5 h-1.5 rounded-full bg-brand-primary flex-shrink-0" />
-                  Spain
+                  {t('visa.spain')}
                 </li>
                 <li className="flex items-center gap-2">
                   <span className="w-1.5 h-1.5 rounded-full bg-brand-primary flex-shrink-0" />
-                  Japan
+                  {t('visa.japan')}
                 </li>
                 <li className="flex items-center gap-2">
                   <span className="w-1.5 h-1.5 rounded-full bg-brand-primary flex-shrink-0" />
-                  South Korea
+                  {t('visa.southKorea')}
                 </li>
                 <li className="flex items-center gap-2">
                   <span className="w-1.5 h-1.5 rounded-full bg-brand-primary flex-shrink-0" />
-                  Denmark, Norway, Sweden, Finland
+                  {t('visa.nordics')}
                 </li>
                 <li className="flex items-center gap-2">
                   <span className="w-1.5 h-1.5 rounded-full bg-brand-primary flex-shrink-0" />
-                  Russia
+                  {t('visa.russia')}
                 </li>
                 <li className="flex items-center gap-2">
                   <span className="w-1.5 h-1.5 rounded-full bg-brand-primary flex-shrink-0" />
-                  Belarus
+                  {t('visa.belarus')}
                 </li>
               </ul>
             </div>
@@ -205,49 +198,49 @@ export default function VisaGuide() {
             {/* ASEAN & Others */}
             <div className="card-flat p-6">
               <div className="flex items-center gap-3 mb-4">
-                <span className="badge-accent">14-30 Days</span>
-                <h3 className="font-display text-lg text-warm-900">ASEAN & Other Countries</h3>
+                <span className="badge-accent">{t('visa.days14to30')}</span>
+                <h3 className="font-display text-lg text-warm-900">{t('visa.aseanOther')}</h3>
               </div>
               <ul className="space-y-2 text-warm-600">
                 <li className="flex items-center gap-2">
                   <span className="w-1.5 h-1.5 rounded-full bg-brand-accent-600 flex-shrink-0" />
-                  Thailand -- 30 days
+                  {t('visa.thailand30')}
                 </li>
                 <li className="flex items-center gap-2">
                   <span className="w-1.5 h-1.5 rounded-full bg-brand-accent-600 flex-shrink-0" />
-                  Singapore -- 30 days
+                  {t('visa.singapore30')}
                 </li>
                 <li className="flex items-center gap-2">
                   <span className="w-1.5 h-1.5 rounded-full bg-brand-accent-600 flex-shrink-0" />
-                  Malaysia -- 30 days
+                  {t('visa.malaysia30')}
                 </li>
                 <li className="flex items-center gap-2">
                   <span className="w-1.5 h-1.5 rounded-full bg-brand-accent-600 flex-shrink-0" />
-                  Indonesia -- 30 days
+                  {t('visa.indonesia30')}
                 </li>
                 <li className="flex items-center gap-2">
                   <span className="w-1.5 h-1.5 rounded-full bg-brand-accent-600 flex-shrink-0" />
-                  Philippines -- 21 days
+                  {t('visa.philippines21')}
                 </li>
                 <li className="flex items-center gap-2">
                   <span className="w-1.5 h-1.5 rounded-full bg-brand-accent-600 flex-shrink-0" />
-                  Cambodia -- 30 days
+                  {t('visa.cambodia30')}
                 </li>
                 <li className="flex items-center gap-2">
                   <span className="w-1.5 h-1.5 rounded-full bg-brand-accent-600 flex-shrink-0" />
-                  Laos -- 30 days
+                  {t('visa.laos30')}
                 </li>
                 <li className="flex items-center gap-2">
                   <span className="w-1.5 h-1.5 rounded-full bg-brand-accent-600 flex-shrink-0" />
-                  Myanmar -- 14 days
+                  {t('visa.myanmar14')}
                 </li>
                 <li className="flex items-center gap-2">
                   <span className="w-1.5 h-1.5 rounded-full bg-brand-accent-600 flex-shrink-0" />
-                  Brunei -- 14 days
+                  {t('visa.brunei14')}
                 </li>
                 <li className="flex items-center gap-2">
                   <span className="w-1.5 h-1.5 rounded-full bg-brand-accent-600 flex-shrink-0" />
-                  Chile -- 90 days (bilateral agreement)
+                  {t('visa.chile90')}
                 </li>
               </ul>
             </div>
@@ -255,45 +248,41 @@ export default function VisaGuide() {
 
           <div className="bg-warm-100 rounded-xl p-4">
             <p className="text-warm-600 text-sm">
-              <strong className="text-warm-800">Note:</strong> Visa exemption periods are counted from entry date.
-              You must have at least 6 months validity remaining on your passport. Citizens of the USA, Canada,
-              Australia, and most other countries not listed above need an e-visa or visa on arrival.
+              <strong className="text-warm-800">{t('visa.exemptionNote')}</strong> {t('visa.exemptionNoteText')}
             </p>
           </div>
         </section>
 
         {/* Visa on Arrival */}
         <section className="mb-16">
-          <h2 className="font-display text-2xl text-warm-900 mb-6">Visa on Arrival (VOA)</h2>
+          <h2 className="font-display text-2xl text-warm-900 mb-6">{t('visa.voaTitle')}</h2>
           <div className="card-flat p-6 lg:p-8">
             <div className="prose-custom">
               <p>
-                Visa on Arrival is available at Vietnam&apos;s international airports (not land borders).
-                You need a <strong>pre-approved letter</strong> from a Vietnamese travel agency before you fly.
+                {t('visa.voaIntro')}
               </p>
 
-              <h3>VOA Process</h3>
+              <h3>{t('visa.voaProcess')}</h3>
               <ol>
-                <li>Apply for a pre-approval letter through a licensed Vietnamese travel agency (typically $20-45 for the letter)</li>
-                <li>Receive the approval letter by email (1-2 working days, or same-day for rush processing)</li>
-                <li>Print the approval letter and bring 2 passport-sized photos</li>
-                <li>Upon arrival at the airport, go to the &quot;Landing Visa&quot; counter before immigration</li>
-                <li>Submit your approval letter, photos, and passport</li>
-                <li>Pay the stamping fee in cash: <strong>$25 for single entry, $50 for multiple entry</strong></li>
-                <li>Wait 15-30 minutes for your visa to be stamped into your passport</li>
+                <li>{t('visa.voaStep1')}</li>
+                <li>{t('visa.voaStep2')}</li>
+                <li>{t('visa.voaStep3')}</li>
+                <li>{t('visa.voaStep4')}</li>
+                <li>{t('visa.voaStep5')}</li>
+                <li>{t('visa.voaStep6')}</li>
+                <li>{t('visa.voaStep7')}</li>
               </ol>
 
-              <h3>When to Use VOA Instead of E-Visa</h3>
+              <h3>{t('visa.voaWhenTitle')}</h3>
               <ul>
-                <li>If you need <strong>multiple entry</strong> (e-visa is single entry only)</li>
-                <li>If you need a stay longer than 90 days</li>
-                <li>If your e-visa application was rejected</li>
+                <li>{t('visa.voaWhenMultiple')}</li>
+                <li>{t('visa.voaWhenLonger')}</li>
+                <li>{t('visa.voaWhenRejected')}</li>
               </ul>
 
               <div className="bg-brand-primary-50 border border-brand-primary-200 rounded-xl p-4 my-6 not-prose">
                 <p className="text-brand-primary-800 font-medium text-sm">
-                  <strong>Tip:</strong> For most travelers, the e-visa is simpler and cheaper.
-                  Only choose VOA if you specifically need multiple entry or a longer stay.
+                  <strong>{t('visa.voaTip')}</strong> {t('visa.voaTipText')}
                 </p>
               </div>
             </div>
@@ -302,26 +291,23 @@ export default function VisaGuide() {
 
         {/* Visa Extension */}
         <section className="mb-16">
-          <h2 className="font-display text-2xl text-warm-900 mb-6">Visa Extension & Renewal</h2>
+          <h2 className="font-display text-2xl text-warm-900 mb-6">{t('visa.extensionTitle')}</h2>
           <div className="card-flat p-6 lg:p-8">
             <div className="prose-custom">
               <p>
-                If you want to stay longer than your visa allows, you can extend your visa while in Vietnam.
-                Extensions are handled through travel agencies or directly at the Immigration Department.
+                {t('visa.extensionIntro')}
               </p>
 
-              <h3>Extension Options</h3>
+              <h3>{t('visa.extensionOptions')}</h3>
               <ul>
-                <li><strong>Tourist visa extension:</strong> Up to 30 additional days, costs around $50-100 through an agency</li>
-                <li><strong>Visa run:</strong> Exit to a neighboring country (Cambodia or Laos are popular) and re-enter with a new e-visa</li>
-                <li><strong>Visa conversion:</strong> Convert a tourist visa to a business visa if you have a sponsor</li>
+                <li><strong>{t('visa.extensionTourist')}</strong> {t('visa.extensionTouristDesc')}</li>
+                <li><strong>{t('visa.extensionVisaRun')}</strong> {t('visa.extensionVisaRunDesc')}</li>
+                <li><strong>{t('visa.extensionConversion')}</strong> {t('visa.extensionConversionDesc')}</li>
               </ul>
 
-              <h3>Processing Time</h3>
+              <h3>{t('visa.extensionProcessing')}</h3>
               <p>
-                Extensions typically take <strong>5-7 working days</strong>. Apply at least 1 week before your
-                current visa expires. Overstaying your visa results in a fine of approximately $25 per day and
-                can cause problems at the airport when departing.
+                {t('visa.extensionProcessingText')}
               </p>
             </div>
           </div>
@@ -329,75 +315,75 @@ export default function VisaGuide() {
 
         {/* Required Documents */}
         <section className="mb-16">
-          <h2 className="font-display text-2xl text-warm-900 mb-6">Required Documents</h2>
+          <h2 className="font-display text-2xl text-warm-900 mb-6">{t('visa.documentsTitle')}</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="card-flat p-6">
-              <h3 className="font-display text-lg text-warm-900 mb-4">For E-Visa</h3>
+              <h3 className="font-display text-lg text-warm-900 mb-4">{t('visa.documentsEvisaTitle')}</h3>
               <ul className="space-y-3 text-warm-600">
                 <li className="flex items-start gap-3">
                   <svg className="w-5 h-5 text-brand-primary flex-shrink-0 mt-0.5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
                   </svg>
-                  Passport valid for at least 6 months beyond entry date
+                  {t('visa.docPassport')}
                 </li>
                 <li className="flex items-start gap-3">
                   <svg className="w-5 h-5 text-brand-primary flex-shrink-0 mt-0.5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
                   </svg>
-                  Digital passport photo (4x6cm, white background, no glasses)
+                  {t('visa.docPhoto')}
                 </li>
                 <li className="flex items-start gap-3">
                   <svg className="w-5 h-5 text-brand-primary flex-shrink-0 mt-0.5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
                   </svg>
-                  Scan of passport data page (clear, no glare)
+                  {t('visa.docPassportScan')}
                 </li>
                 <li className="flex items-start gap-3">
                   <svg className="w-5 h-5 text-brand-primary flex-shrink-0 mt-0.5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
                   </svg>
-                  Credit/debit card for $25 payment
+                  {t('visa.docPayment')}
                 </li>
                 <li className="flex items-start gap-3">
                   <svg className="w-5 h-5 text-brand-primary flex-shrink-0 mt-0.5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
                   </svg>
-                  Accommodation address in Vietnam (hotel name is sufficient)
+                  {t('visa.docAddress')}
                 </li>
               </ul>
             </div>
             <div className="card-flat p-6">
-              <h3 className="font-display text-lg text-warm-900 mb-4">For Visa on Arrival</h3>
+              <h3 className="font-display text-lg text-warm-900 mb-4">{t('visa.documentsVoaTitle')}</h3>
               <ul className="space-y-3 text-warm-600">
                 <li className="flex items-start gap-3">
                   <svg className="w-5 h-5 text-brand-primary flex-shrink-0 mt-0.5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
                   </svg>
-                  Everything listed for e-visa, plus:
+                  {t('visa.docVoaPlus')}
                 </li>
                 <li className="flex items-start gap-3">
                   <svg className="w-5 h-5 text-brand-primary flex-shrink-0 mt-0.5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
                   </svg>
-                  Printed pre-approval letter from a travel agency
+                  {t('visa.docApprovalLetter')}
                 </li>
                 <li className="flex items-start gap-3">
                   <svg className="w-5 h-5 text-brand-primary flex-shrink-0 mt-0.5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
                   </svg>
-                  2 passport-sized photos (4x6cm, white background)
+                  {t('visa.docPhotos')}
                 </li>
                 <li className="flex items-start gap-3">
                   <svg className="w-5 h-5 text-brand-primary flex-shrink-0 mt-0.5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
                   </svg>
-                  Completed NA1 form (available at the airport counter)
+                  {t('visa.docNa1')}
                 </li>
                 <li className="flex items-start gap-3">
                   <svg className="w-5 h-5 text-brand-primary flex-shrink-0 mt-0.5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
                   </svg>
-                  Cash for stamping fee ($25 single / $50 multiple entry)
+                  {t('visa.docCashFee')}
                 </li>
               </ul>
             </div>
@@ -406,28 +392,28 @@ export default function VisaGuide() {
 
         {/* Tips & Common Mistakes */}
         <section className="mb-16">
-          <h2 className="font-display text-2xl text-warm-900 mb-6">Tips & Common Mistakes to Avoid</h2>
+          <h2 className="font-display text-2xl text-warm-900 mb-6">{t('visa.tipsTitle')}</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="card-flat p-6 border-l-4 border-l-brand-primary">
-              <h3 className="font-display text-lg text-warm-900 mb-3">Do</h3>
+              <h3 className="font-display text-lg text-warm-900 mb-3">{t('visa.tipsDoTitle')}</h3>
               <ul className="space-y-2 text-warm-600 text-sm">
-                <li>Apply at least 7-10 days before your flight</li>
-                <li>Triple-check your passport number and personal details</li>
-                <li>Use the <strong>official</strong> e-visa website only</li>
-                <li>Keep a printed copy plus a digital backup of your visa</li>
-                <li>Check your visa entry/exit dates carefully</li>
-                <li>Ensure passport has 6+ months validity and 2+ blank pages</li>
+                <li>{t('visa.tipsDo1')}</li>
+                <li>{t('visa.tipsDo2')}</li>
+                <li>{t('visa.tipsDo3')}</li>
+                <li>{t('visa.tipsDo4')}</li>
+                <li>{t('visa.tipsDo5')}</li>
+                <li>{t('visa.tipsDo6')}</li>
               </ul>
             </div>
             <div className="card-flat p-6 border-l-4 border-l-brand-accent">
-              <h3 className="font-display text-lg text-warm-900 mb-3">Avoid</h3>
+              <h3 className="font-display text-lg text-warm-900 mb-3">{t('visa.tipsAvoidTitle')}</h3>
               <ul className="space-y-2 text-warm-600 text-sm">
-                <li>Do not use third-party websites charging $50+ for the same e-visa</li>
-                <li>Do not arrive without a printed visa (some airlines require it at check-in)</li>
-                <li>Do not overstay your visa -- fines are $25/day and it goes on your record</li>
-                <li>Do not submit blurry passport photos (number one cause of rejection)</li>
-                <li>Do not assume you are visa-exempt -- always verify current rules</li>
-                <li>Do not enter through a land border with a VOA letter (airports only)</li>
+                <li>{t('visa.tipsAvoid1')}</li>
+                <li>{t('visa.tipsAvoid2')}</li>
+                <li>{t('visa.tipsAvoid3')}</li>
+                <li>{t('visa.tipsAvoid4')}</li>
+                <li>{t('visa.tipsAvoid5')}</li>
+                <li>{t('visa.tipsAvoid6')}</li>
               </ul>
             </div>
           </div>
@@ -435,42 +421,42 @@ export default function VisaGuide() {
 
         {/* Processing Times Summary */}
         <section className="mb-16">
-          <h2 className="font-display text-2xl text-warm-900 mb-6">Processing Times at a Glance</h2>
+          <h2 className="font-display text-2xl text-warm-900 mb-6">{t('visa.processingTitle')}</h2>
           <div className="card-flat overflow-hidden">
             <div className="overflow-x-auto">
               <table className="w-full text-left">
                 <thead className="bg-warm-100">
                   <tr>
-                    <th className="px-6 py-4 font-display text-warm-900 text-sm">Visa Type</th>
-                    <th className="px-6 py-4 font-display text-warm-900 text-sm">Processing Time</th>
-                    <th className="px-6 py-4 font-display text-warm-900 text-sm">Cost</th>
-                    <th className="px-6 py-4 font-display text-warm-900 text-sm">Max Stay</th>
+                    <th className="px-6 py-4 font-display text-warm-900 text-sm">{t('visa.procVisaType')}</th>
+                    <th className="px-6 py-4 font-display text-warm-900 text-sm">{t('visa.procProcessingTime')}</th>
+                    <th className="px-6 py-4 font-display text-warm-900 text-sm">{t('visa.procCost')}</th>
+                    <th className="px-6 py-4 font-display text-warm-900 text-sm">{t('visa.procMaxStay')}</th>
                   </tr>
                 </thead>
                 <tbody className="divide-y divide-warm-100">
                   <tr>
-                    <td className="px-6 py-4 text-warm-700">E-Visa</td>
-                    <td className="px-6 py-4 text-warm-600">3 working days</td>
-                    <td className="px-6 py-4 text-warm-600">$25</td>
-                    <td className="px-6 py-4 text-warm-600">90 days (single entry)</td>
+                    <td className="px-6 py-4 text-warm-700">{t('visa.procEvisa')}</td>
+                    <td className="px-6 py-4 text-warm-600">{t('visa.procEvisaTime')}</td>
+                    <td className="px-6 py-4 text-warm-600">{t('visa.procEvisaCost')}</td>
+                    <td className="px-6 py-4 text-warm-600">{t('visa.procEvisaStay')}</td>
                   </tr>
                   <tr>
-                    <td className="px-6 py-4 text-warm-700">Visa on Arrival</td>
-                    <td className="px-6 py-4 text-warm-600">1-2 days (letter) + 30 min at airport</td>
-                    <td className="px-6 py-4 text-warm-600">$20-45 (letter) + $25-50 (stamp)</td>
-                    <td className="px-6 py-4 text-warm-600">30-90 days (single/multiple)</td>
+                    <td className="px-6 py-4 text-warm-700">{t('visa.procVoa')}</td>
+                    <td className="px-6 py-4 text-warm-600">{t('visa.procVoaTime')}</td>
+                    <td className="px-6 py-4 text-warm-600">{t('visa.procVoaCost')}</td>
+                    <td className="px-6 py-4 text-warm-600">{t('visa.procVoaStay')}</td>
                   </tr>
                   <tr>
-                    <td className="px-6 py-4 text-warm-700">Visa Exemption</td>
-                    <td className="px-6 py-4 text-warm-600">None (automatic at border)</td>
-                    <td className="px-6 py-4 text-warm-600">Free</td>
-                    <td className="px-6 py-4 text-warm-600">14-45 days (country-dependent)</td>
+                    <td className="px-6 py-4 text-warm-700">{t('visa.procExemption')}</td>
+                    <td className="px-6 py-4 text-warm-600">{t('visa.procExemptionTime')}</td>
+                    <td className="px-6 py-4 text-warm-600">{t('visa.procExemptionCost')}</td>
+                    <td className="px-6 py-4 text-warm-600">{t('visa.procExemptionStay')}</td>
                   </tr>
                   <tr>
-                    <td className="px-6 py-4 text-warm-700">Visa Extension</td>
-                    <td className="px-6 py-4 text-warm-600">5-7 working days</td>
-                    <td className="px-6 py-4 text-warm-600">$50-100 (via agency)</td>
-                    <td className="px-6 py-4 text-warm-600">+30 days</td>
+                    <td className="px-6 py-4 text-warm-700">{t('visa.procExtension')}</td>
+                    <td className="px-6 py-4 text-warm-600">{t('visa.procExtensionTime')}</td>
+                    <td className="px-6 py-4 text-warm-600">{t('visa.procExtensionCost')}</td>
+                    <td className="px-6 py-4 text-warm-600">{t('visa.procExtensionStay')}</td>
                   </tr>
                 </tbody>
               </table>
@@ -480,37 +466,30 @@ export default function VisaGuide() {
 
         {/* FAQ-style closing */}
         <section className="mb-8">
-          <h2 className="font-display text-2xl text-warm-900 mb-6">Frequently Asked Questions</h2>
+          <h2 className="font-display text-2xl text-warm-900 mb-6">{t('visa.faqTitle')}</h2>
           <div className="space-y-4">
             <div className="card-flat p-6">
-              <h3 className="font-display text-base text-warm-900 mb-2">Can I extend my e-visa without leaving Vietnam?</h3>
+              <h3 className="font-display text-base text-warm-900 mb-2">{t('visa.faq1Q')}</h3>
               <p className="text-warm-600 text-sm">
-                Yes, you can extend an e-visa once for an additional 30 days through a travel agency or the
-                Immigration Department in major cities (Hanoi, Ho Chi Minh City, Da Nang). Start the process
-                at least one week before your visa expires.
+                {t('visa.faq1A')}
               </p>
             </div>
             <div className="card-flat p-6">
-              <h3 className="font-display text-base text-warm-900 mb-2">Do I need a return ticket to enter Vietnam?</h3>
+              <h3 className="font-display text-base text-warm-900 mb-2">{t('visa.faq2Q')}</h3>
               <p className="text-warm-600 text-sm">
-                Technically yes -- immigration may ask for proof of onward travel. Airlines are more likely to
-                check this at boarding. Having a return or onward flight ticket (even a cheap one to a neighboring
-                country) is recommended.
+                {t('visa.faq2A')}
               </p>
             </div>
             <div className="card-flat p-6">
-              <h3 className="font-display text-base text-warm-900 mb-2">What if my e-visa application is rejected?</h3>
+              <h3 className="font-display text-base text-warm-900 mb-2">{t('visa.faq3Q')}</h3>
               <p className="text-warm-600 text-sm">
-                E-visa rejections are rare but usually caused by poor-quality photos, mismatched passport
-                information, or applicants from restricted countries. If rejected, the $25 fee is not refunded.
-                Double-check all details and reapply, or consider visa on arrival as an alternative.
+                {t('visa.faq3A')}
               </p>
             </div>
             <div className="card-flat p-6">
-              <h3 className="font-display text-base text-warm-900 mb-2">Can Americans get a visa exemption?</h3>
+              <h3 className="font-display text-base text-warm-900 mb-2">{t('visa.faq4Q')}</h3>
               <p className="text-warm-600 text-sm">
-                No. US citizens currently need either an e-visa or visa on arrival. The e-visa ($25, 90 days)
-                is the simplest option for American travelers.
+                {t('visa.faq4A')}
               </p>
             </div>
           </div>

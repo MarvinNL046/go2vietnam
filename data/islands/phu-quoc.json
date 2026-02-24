@@ -1,10 +1,22 @@
 {
   "slug": "phu-quoc",
-  "name": { "en": "Phu Quoc" },
+  "name": {
+    "en": "Phu Quoc",
+    "nl": "Phu Quoc"
+  },
   "vietnameseName": "Phú Quốc",
   "image": "/images/islands/phu-quoc.webp",
-  "bestFor": ["Beaches", "Snorkeling", "Sunset", "Fish Sauce", "Resorts"],
-  "description": { "en": "Vietnam's largest island sits in the Gulf of Thailand, offering powdery white-sand beaches, world-class sunsets, vibrant coral reefs, and a unique heritage of fish sauce and pepper production. Phu Quoc has grown into a full-fledged resort destination while retaining its tropical island soul." },
+  "bestFor": [
+    "Beaches",
+    "Snorkeling",
+    "Sunset",
+    "Fish Sauce",
+    "Resorts"
+  ],
+  "description": {
+    "en": "Vietnam's largest island sits in the Gulf of Thailand, offering powdery white-sand beaches, world-class sunsets, vibrant coral reefs, and a unique heritage of fish sauce and pepper production. Phu Quoc has grown into a full-fledged resort destination while retaining its tropical island soul.",
+    "nl": "Het grootste eiland van Vietnam ligt in de Golf van Thailand en biedt poederachtige witte zandstranden, zonsondergangen van wereldklasse, levendige koraalriffen en een uniek erfgoed van vissaus- en peperproductie. Phu Quoc is uitgegroeid tot een volwaardige resortbestemming terwijl het zijn tropische eilandziel heeft behouden."
+  },
   "overview": "Phu Quoc is Vietnam's premier island destination and the country's largest island, spanning 574 square kilometers in the Gulf of Thailand, closer to Cambodia than to the Vietnamese mainland. Once a sleepy fishing island known primarily for its artisanal fish sauce production and black pepper farms, Phu Quoc has undergone dramatic transformation since receiving international airport status in 2012. The island now features luxury resorts, a massive cable car system, a safari park, and a burgeoning entertainment complex in the south. Yet despite this development, much of Phu Quoc remains genuinely wild - the northern half is dominated by Phu Quoc National Park, a UNESCO-recognized biosphere reserve covering nearly 70% of the island's land area. The west coast delivers Vietnam's most spectacular sunsets over open water, the southern An Thoi archipelago offers excellent snorkeling and diving, and the island's famous night market in Duong Dong town remains a highlight for street food lovers. Phu Quoc benefits from a special economic zone status that grants visa-free access for up to 30 days to all international visitors arriving directly on the island.",
   "gettingThere": {
     "byAir": "Phu Quoc International Airport (PQC) receives direct flights from Ho Chi Minh City (1 hour, multiple daily on Vietnam Airlines, VietJet, Bamboo Airways), Hanoi (2 hours, several daily), and Da Nang. International flights connect from Bangkok, Seoul, Singapore, and Kuala Lumpur seasonally. The airport is located in Duong Dong, the island's main town.",

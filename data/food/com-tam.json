@@ -1,11 +1,17 @@
 {
   "slug": "com-tam",
-  "name": { "en": "Com Tam" },
+  "name": {
+    "en": "Com Tam",
+    "nl": "Com Tam"
+  },
   "vietnameseName": "Cơm Tấm",
   "image": "/images/food/com-tam.webp",
   "category": "Rice",
   "spiceLevel": "mild",
-  "description": { "en": "Saigon's signature broken rice dish topped with a grilled pork chop marinated in lemongrass and garlic, accompanied by a shredded pork skin cake, steamed egg meatloaf, and sweet fish sauce." },
+  "description": {
+    "en": "Saigon's signature broken rice dish topped with a grilled pork chop marinated in lemongrass and garlic, accompanied by a shredded pork skin cake, steamed egg meatloaf, and sweet fish sauce.",
+    "nl": "Het kenmerkende gebroken-rijstgerecht van Saigon met een gegrilde varkenskotelet gemarineerd in citroengras en knoflook, vergezeld van een geraspte varkenshuidkoek, gestoomde ei-gehaktbrood en zoete vissaus."
+  },
   "overview": "Com tam is the soul food of Ho Chi Minh City, a dish so deeply woven into the fabric of Saigon life that it is eaten for breakfast, lunch, and dinner. The dish centers on broken rice (cơm tấm) — fractured grains that were once considered inferior and sold cheaply to the poor, but whose slightly sticky, chewy texture has made them the preferred rice for this dish. The classic 'com tam suon bi cha' plate features three essential toppings: a grilled pork chop (sườn nướng) marinated in lemongrass, garlic, shallots, and fish sauce; shredded pork skin mixed with toasted rice powder (bì); and a slice of steamed egg and pork meatloaf (chả trứng). The plate is drizzled with sweet fish sauce (nước mắm pha ngọt) and served with pickled vegetables, sliced cucumber, and a small bowl of clear broth. Com tam stalls are found on virtually every street in Saigon, recognizable by their glass display cases showing rows of marinated pork chops ready for the grill.",
   "origin": {
     "region": "Ho Chi Minh City (Saigon), Southern Vietnam",

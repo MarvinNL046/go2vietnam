@@ -12,14 +12,14 @@ interface IslandPageProps {
 }
 
 export default function IslandPage({ island }: IslandPageProps) {
-  const { t } = useTranslation('common');
-  const islandName = island.name?.en || island.name || island.slug;
+  const { t, locale } = useTranslation('common');
+  const islandName = typeof island.name === 'object' ? ((island.name as any)[locale] || island.name?.en) : island.name || island.slug;
 
   return (
     <>
       <SEOHead
         title={`${islandName} Travel Guide - ${siteConfig.name}`}
-        description={island.description?.en || island.description || `Complete travel guide for ${islandName} in ${siteConfig.destination}.`}
+        description={(typeof island.description === 'object' ? ((island.description as any)[locale] || island.description?.en) : island.description) || `Complete travel guide for ${islandName} in ${siteConfig.destination}.`}
         ogImage={island.image}
       />
       <div className="container-custom py-8 lg:py-12">
@@ -82,7 +82,7 @@ export default function IslandPage({ island }: IslandPageProps) {
         {/* Getting There */}
         {island.gettingThere && (
           <section className="mb-12">
-            <h2 className="font-display text-2xl text-warm-900 mb-5">Getting There</h2>
+            <h2 className="font-display text-2xl text-warm-900 mb-5">{t('islandDetail.gettingThere')}</h2>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
               {island.gettingThere.byAir && (
                 <div className="card-flat p-6">
@@ -92,7 +92,7 @@ export default function IslandPage({ island }: IslandPageProps) {
                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 19l9 2-9-18-9 18 9-2zm0 0v-8" />
                       </svg>
                     </div>
-                    <h3 className="font-display font-bold text-lg text-warm-900">By Air</h3>
+                    <h3 className="font-display font-bold text-lg text-warm-900">{t('islandDetail.byAir')}</h3>
                   </div>
                   <p className="text-warm-600 text-sm leading-relaxed">{island.gettingThere.byAir}</p>
                 </div>
@@ -105,7 +105,7 @@ export default function IslandPage({ island }: IslandPageProps) {
                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M3 17h1l1-2h14l1 2h1m-18 0v2h18v-2M5 15V8a2 2 0 012-2h10a2 2 0 012 2v7" />
                       </svg>
                     </div>
-                    <h3 className="font-display font-bold text-lg text-warm-900">By Ferry</h3>
+                    <h3 className="font-display font-bold text-lg text-warm-900">{t('islandDetail.byFerry')}</h3>
                   </div>
                   <p className="text-warm-600 text-sm leading-relaxed">{island.gettingThere.byFerry}</p>
                 </div>
@@ -117,7 +117,7 @@ export default function IslandPage({ island }: IslandPageProps) {
         {/* Best Time to Visit */}
         {island.bestTimeToVisit && (
           <section className="mb-12">
-            <h2 className="font-display text-2xl text-warm-900 mb-5">Best Time to Visit</h2>
+            <h2 className="font-display text-2xl text-warm-900 mb-5">{t('islandDetail.bestTimeToVisit')}</h2>
             <div className="card-flat p-6">
               <div className="flex items-center gap-3 mb-4">
                 <div className="w-10 h-10 rounded-xl bg-brand-accent-50 flex items-center justify-center text-brand-accent-600">
@@ -131,7 +131,7 @@ export default function IslandPage({ island }: IslandPageProps) {
               {island.bestTimeToVisit.avoid && (
                 <div className="bg-warm-50 rounded-xl p-4 border border-warm-100">
                   <p className="text-warm-500 text-sm leading-relaxed">
-                    <span className="font-semibold text-warm-700">Avoid: </span>
+                    <span className="font-semibold text-warm-700">{t('islandDetail.avoid')} </span>
                     {island.bestTimeToVisit.avoid}
                   </p>
                 </div>
@@ -143,7 +143,7 @@ export default function IslandPage({ island }: IslandPageProps) {
         {/* Top Beaches */}
         {island.topBeaches && island.topBeaches.length > 0 && (
           <section className="mb-12">
-            <h2 className="font-display text-2xl text-warm-900 mb-5">Top Beaches</h2>
+            <h2 className="font-display text-2xl text-warm-900 mb-5">{t('islandDetail.topBeaches')}</h2>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
               {island.topBeaches.map((beach: any, i: number) => (
                 <div key={i} className="card-flat p-6">
@@ -158,7 +158,7 @@ export default function IslandPage({ island }: IslandPageProps) {
         {/* Activities */}
         {island.activities && island.activities.length > 0 && (
           <section className="mb-12">
-            <h2 className="font-display text-2xl text-warm-900 mb-5">Activities</h2>
+            <h2 className="font-display text-2xl text-warm-900 mb-5">{t('islandDetail.activities')}</h2>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
               {island.activities.map((activity: any, i: number) => (
                 <div key={i} className="card-flat p-6">
@@ -176,13 +176,13 @@ export default function IslandPage({ island }: IslandPageProps) {
         {/* Accommodation */}
         {island.accommodation && (
           <section className="mb-12">
-            <h2 className="font-display text-2xl text-warm-900 mb-5">Accommodation</h2>
+            <h2 className="font-display text-2xl text-warm-900 mb-5">{t('islandDetail.accommodation')}</h2>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
               {island.accommodation.budget && (
                 <div className="card-flat p-6">
                   <div className="flex items-center gap-3 mb-3">
                     <span className="w-8 h-8 rounded-lg bg-green-50 flex items-center justify-center text-green-600 text-sm font-bold">$</span>
-                    <h3 className="font-display font-bold text-lg text-warm-900">Budget</h3>
+                    <h3 className="font-display font-bold text-lg text-warm-900">{t('islandDetail.budget')}</h3>
                   </div>
                   <p className="text-warm-600 text-sm leading-relaxed">{island.accommodation.budget}</p>
                 </div>
@@ -191,7 +191,7 @@ export default function IslandPage({ island }: IslandPageProps) {
                 <div className="card-flat p-6">
                   <div className="flex items-center gap-3 mb-3">
                     <span className="w-8 h-8 rounded-lg bg-blue-50 flex items-center justify-center text-blue-600 text-sm font-bold">$$</span>
-                    <h3 className="font-display font-bold text-lg text-warm-900">Mid-Range</h3>
+                    <h3 className="font-display font-bold text-lg text-warm-900">{t('islandDetail.midRange')}</h3>
                   </div>
                   <p className="text-warm-600 text-sm leading-relaxed">{island.accommodation.midRange}</p>
                 </div>
@@ -200,7 +200,7 @@ export default function IslandPage({ island }: IslandPageProps) {
                 <div className="card-flat p-6">
                   <div className="flex items-center gap-3 mb-3">
                     <span className="w-8 h-8 rounded-lg bg-purple-50 flex items-center justify-center text-purple-600 text-sm font-bold">$$$</span>
-                    <h3 className="font-display font-bold text-lg text-warm-900">Luxury</h3>
+                    <h3 className="font-display font-bold text-lg text-warm-900">{t('islandDetail.luxury')}</h3>
                   </div>
                   <p className="text-warm-600 text-sm leading-relaxed">{island.accommodation.luxury}</p>
                 </div>
@@ -212,7 +212,7 @@ export default function IslandPage({ island }: IslandPageProps) {
         {/* Local Tips */}
         {island.localTips && island.localTips.length > 0 && (
           <section className="mb-12">
-            <h2 className="font-display text-2xl text-warm-900 mb-5">Local Tips</h2>
+            <h2 className="font-display text-2xl text-warm-900 mb-5">{t('islandDetail.localTips')}</h2>
             <div className="card-flat p-6">
               <ul className="space-y-4">
                 {island.localTips.map((tip: string, i: number) => (
@@ -231,7 +231,7 @@ export default function IslandPage({ island }: IslandPageProps) {
         {/* Sources */}
         {island.sources && island.sources.length > 0 && (
           <section className="mb-12">
-            <h2 className="font-display text-lg text-warm-400 mb-3">Sources</h2>
+            <h2 className="font-display text-lg text-warm-400 mb-3">{t('islandDetail.sources')}</h2>
             <ul className="flex flex-wrap gap-x-4 gap-y-1">
               {island.sources.map((source: string, i: number) => (
                 <li key={i} className="text-warm-400 text-xs">{source}</li>

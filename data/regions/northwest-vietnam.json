@@ -1,11 +1,26 @@
 {
   "slug": "northwest-vietnam",
-  "name": "Northwest Vietnam",
+  "name": {
+    "en": "Northwest Vietnam",
+    "nl": "Noordwest-Vietnam"
+  },
   "image": "/images/regions/northwest-vietnam.webp",
-  "description": "Vietnam's most rugged and remote frontier, the northwest is a land of towering mountain passes, cascading rice terraces sculpted over centuries by ethnic minority communities, and some of the most spectacular trekking in all of Southeast Asia.",
+  "description": {
+    "en": "Vietnam's most rugged and remote frontier, the northwest is a land of towering mountain passes, cascading rice terraces sculpted over centuries by ethnic minority communities, and some of the most spectacular trekking in all of Southeast Asia.",
+    "nl": "De meest ruige en afgelegen grensstreek van Vietnam: het noordwesten is een land van torenhoge bergpassen, eindeloze rijstterrassen die door etnische minderheidsgemeenschappen door de eeuwen heen zijn gebeeldhouwd, en enkele van de meest spectaculaire trekkingmogelijkheden in heel Zuidoost-Azie."
+  },
   "overview": "Northwest Vietnam is the country's mountainous frontier, where the Hoang Lien Son range -- home to Fansipan, Indochina's highest peak at 3,143 meters -- descends into deep river valleys carved by the Red and Black Rivers. This is Vietnam at its most dramatic and least developed, a region of serpentine mountain passes, terraced rice paddies that glow emerald green in summer and golden in harvest season, and remote villages where Hmong, Dao, Tay, and Thai ethnic minorities maintain centuries-old traditions of weaving, farming, and communal life. Sapa is the most accessible gateway, now connected to Hanoi by expressway (approximately 5 hours) and cable car to Fansipan's summit, but the true adventure lies further afield: the legendary Ha Giang Loop, considered one of the world's greatest motorcycle journeys, winds through the Dong Van Karst Plateau Geopark along the Chinese border, past vertiginous cliffs, hidden valleys, and ethnic markets that feel unchanged by time. Mai Chau, closer to Hanoi, offers a gentler introduction to highland culture with Thai stilt house homestays surrounded by rice paddies in a serene valley. This region rewards travelers who are willing to venture beyond the usual tourist trail.",
-  "highlights": ["Sapa Rice Terraces", "Ha Giang Motorbike Loop", "Fansipan Summit", "Ethnic Minority Villages", "Mai Chau Valley", "Dong Van Karst Geopark"],
-  "cities": ["sapa"],
+  "highlights": [
+    "Sapa Rice Terraces",
+    "Ha Giang Motorbike Loop",
+    "Fansipan Summit",
+    "Ethnic Minority Villages",
+    "Mai Chau Valley",
+    "Dong Van Karst Geopark"
+  ],
+  "cities": [
+    "sapa"
+  ],
   "bestTimeToVisit": "September to November — The rice terraces are at their most photogenic during harvest season (September-October), when the paddies turn golden. The weather is generally dry with clear mountain views. March to May is also good, when terraces are freshly planted and green.",
   "topExperiences": [
     {

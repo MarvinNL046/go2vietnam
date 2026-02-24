@@ -1,51 +1,128 @@
 [
   {
     "slug": "phu-quoc",
-    "name": { "en": "Phu Quoc" },
+    "name": {
+      "en": "Phu Quoc",
+      "nl": "Phu Quoc"
+    },
     "image": "/images/islands/phu-quoc.webp",
-    "bestFor": ["Beaches", "Snorkeling", "Sunset", "Seafood"],
-    "description": { "en": "Vietnam's largest island sits in the Gulf of Thailand, offering powdery white-sand beaches, world-class sunsets, vibrant coral reefs, and a unique heritage of fish sauce and pepper production. Phu Quoc has grown into a full-fledged resort destination while retaining its tropical island soul." }
+    "bestFor": [
+      "Beaches",
+      "Snorkeling",
+      "Sunset",
+      "Seafood"
+    ],
+    "description": {
+      "en": "Vietnam's largest island sits in the Gulf of Thailand, offering powdery white-sand beaches, world-class sunsets, vibrant coral reefs, and a unique heritage of fish sauce and pepper production. Phu Quoc has grown into a full-fledged resort destination while retaining its tropical island soul.",
+      "nl": "Het grootste eiland van Vietnam ligt in de Golf van Thailand en biedt poederachtige witte zandstranden, zonsondergangen van wereldklasse, levendige koraalriffen en een uniek erfgoed van vissaus- en peperproductie. Phu Quoc is uitgegroeid tot een volwaardige resortbestemming terwijl het zijn tropische eilandziel heeft behouden."
+    }
   },
   {
     "slug": "con-dao",
-    "name": { "en": "Con Dao" },
+    "name": {
+      "en": "Con Dao",
+      "nl": "Con Dao"
+    },
     "image": "/images/islands/con-dao.webp",
-    "bestFor": ["Eco-Tourism", "Sea Turtles", "History", "Diving"],
-    "description": { "en": "A remote archipelago of 16 islands off Vietnam's southeastern coast, Con Dao combines pristine marine ecosystems, nesting sea turtles, and a harrowing colonial-era prison history. This is Vietnam's most exclusive island destination, favored by those seeking solitude and natural beauty." }
+    "bestFor": [
+      "Eco-Tourism",
+      "Sea Turtles",
+      "History",
+      "Diving"
+    ],
+    "description": {
+      "en": "A remote archipelago of 16 islands off Vietnam's southeastern coast, Con Dao combines pristine marine ecosystems, nesting sea turtles, and a harrowing colonial-era prison history. This is Vietnam's most exclusive island destination, favored by those seeking solitude and natural beauty.",
+      "nl": "Een afgelegen archipel van zestien eilanden voor de zuidoostkust van Vietnam. Con Dao combineert ongerepte mariene ecosystemen, nestelende zeeschildpadden en een schrijnende koloniale gevangenisgeschiedenis. Dit is de meest exclusieve eilandbestemming van Vietnam, geliefd bij wie op zoek is naar rust en natuurlijke schoonheid."
+    }
   },
   {
     "slug": "cat-ba",
-    "name": { "en": "Cat Ba" },
+    "name": {
+      "en": "Cat Ba",
+      "nl": "Cat Ba"
+    },
     "image": "/images/islands/cat-ba.webp",
-    "bestFor": ["Ha Long Bay", "Rock Climbing", "National Park", "Kayaking"],
-    "description": { "en": "The largest island in Ha Long Bay, Cat Ba serves as a less-crowded gateway to Vietnam's most famous seascape while offering its own national park, endangered langur monkeys, rock climbing, and a laid-back fishing village atmosphere." }
+    "bestFor": [
+      "Ha Long Bay",
+      "Rock Climbing",
+      "National Park",
+      "Kayaking"
+    ],
+    "description": {
+      "en": "The largest island in Ha Long Bay, Cat Ba serves as a less-crowded gateway to Vietnam's most famous seascape while offering its own national park, endangered langur monkeys, rock climbing, and a laid-back fishing village atmosphere.",
+      "nl": "Het grootste eiland in Ha Long Bay fungeert als een minder drukke toegangspoort tot het beroemdste zeelandschap van Vietnam, met een eigen nationaal park, bedreigde langoeren, rotsklimmen en een ontspannen vissersdorpsfeer."
+    }
   },
   {
     "slug": "ly-son",
-    "name": { "en": "Ly Son" },
+    "name": {
+      "en": "Ly Son",
+      "nl": "Ly Son"
+    },
     "image": "/images/islands/ly-son.webp",
-    "bestFor": ["Off-the-Beaten-Path", "Volcanic Landscapes", "Garlic Fields", "Local Culture"],
-    "description": { "en": "A tiny volcanic island off the central coast of Quang Ngai province, Ly Son is famous for its garlic cultivation, dramatic geological formations, and deep-sea fishing traditions. This is Vietnam at its most authentic and untouched by mass tourism." }
+    "bestFor": [
+      "Off-the-Beaten-Path",
+      "Volcanic Landscapes",
+      "Garlic Fields",
+      "Local Culture"
+    ],
+    "description": {
+      "en": "A tiny volcanic island off the central coast of Quang Ngai province, Ly Son is famous for its garlic cultivation, dramatic geological formations, and deep-sea fishing traditions. This is Vietnam at its most authentic and untouched by mass tourism.",
+      "nl": "Een klein vulkanisch eiland voor de centrale kust van de provincie Quang Ngai. Ly Son is beroemd om zijn knoflookteelt, spectaculaire geologische formaties en diepzeevistraditie. Dit is Vietnam op zijn meest authentiek en onaangetast door massatoerisme."
+    }
   },
   {
     "slug": "cham-islands",
-    "name": { "en": "Cham Islands" },
+    "name": {
+      "en": "Cham Islands",
+      "nl": "Cham-eilanden"
+    },
     "image": "/images/islands/cham-islands.webp",
-    "bestFor": ["Snorkeling", "Day Trip from Hoi An", "UNESCO Biosphere", "Seafood"],
-    "description": { "en": "A cluster of eight small islands just 15 kilometers off the coast of Hoi An, the Cham Islands are a UNESCO World Biosphere Reserve offering excellent snorkeling, traditional fishing villages, and pristine coral reefs accessible as a day trip from one of Vietnam's most popular towns." }
+    "bestFor": [
+      "Snorkeling",
+      "Day Trip from Hoi An",
+      "UNESCO Biosphere",
+      "Seafood"
+    ],
+    "description": {
+      "en": "A cluster of eight small islands just 15 kilometers off the coast of Hoi An, the Cham Islands are a UNESCO World Biosphere Reserve offering excellent snorkeling, traditional fishing villages, and pristine coral reefs accessible as a day trip from one of Vietnam's most popular towns.",
+      "nl": "Een groep van acht kleine eilanden op slechts vijftien kilometer van de kust van Hoi An. De Cham-eilanden zijn een UNESCO Wereld-Biosfeerreservaat met uitstekend snorkelen, traditionele vissersdorpen en ongerepte koraalriffen, bereikbaar als dagtocht vanuit een van de populairste steden van Vietnam."
+    }
   },
   {
     "slug": "co-to",
-    "name": { "en": "Co To" },
+    "name": {
+      "en": "Co To",
+      "nl": "Co To"
+    },
     "image": "/images/islands/co-to.webp",
-    "bestFor": ["Remote Beaches", "Island Life", "Camping", "Adventure"],
-    "description": { "en": "A remote archipelago in the far northeast of Quang Ninh province, Co To offers untouched beaches, a functioning lighthouse, and genuine local island life far from the tourist trail. This is the island for travelers seeking quiet, authenticity, and rugged natural beauty." }
+    "bestFor": [
+      "Remote Beaches",
+      "Island Life",
+      "Camping",
+      "Adventure"
+    ],
+    "description": {
+      "en": "A remote archipelago in the far northeast of Quang Ninh province, Co To offers untouched beaches, a functioning lighthouse, and genuine local island life far from the tourist trail. This is the island for travelers seeking quiet, authenticity, and rugged natural beauty.",
+      "nl": "Een afgelegen archipel in het uiterste noordoosten van de provincie Quang Ninh. Co To biedt ongerepte stranden, een werkende vuurtoren en echt lokaal eilandleven ver van de toeristische routes. Dit is het eiland voor reizigers die op zoek zijn naar rust, authenticiteit en ruige natuurlijke schoonheid."
+    }
   },
   {
     "slug": "hon-mun",
-    "name": { "en": "Hon Mun" },
+    "name": {
+      "en": "Hon Mun",
+      "nl": "Hon Mun"
+    },
     "image": "/images/islands/hon-mun.webp",
-    "bestFor": ["Diving", "Snorkeling", "Marine Life", "Coral Reefs"],
-    "description": { "en": "Part of Nha Trang Bay's marine protected area, Hon Mun boasts Vietnam's best coral reefs and underwater visibility. This small island is the premier destination for scuba diving and snorkeling in south-central Vietnam, with over 350 species of hard coral recorded." }
+    "bestFor": [
+      "Diving",
+      "Snorkeling",
+      "Marine Life",
+      "Coral Reefs"
+    ],
+    "description": {
+      "en": "Part of Nha Trang Bay's marine protected area, Hon Mun boasts Vietnam's best coral reefs and underwater visibility. This small island is the premier destination for scuba diving and snorkeling in south-central Vietnam, with over 350 species of hard coral recorded.",
+      "nl": "Onderdeel van het beschermde mariene gebied van de baai van Nha Trang: Hon Mun heeft de beste koraalriffen en het helderste onderwaterzicht van Vietnam. Dit kleine eiland is de topbestemming voor duiken en snorkelen in Centraal-Zuid-Vietnam, met meer dan 350 soorten hardkoraal."
+    }
   }
 ]

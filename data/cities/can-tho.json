@@ -1,27 +1,53 @@
 {
   "slug": "can-tho",
-  "name": { "en": "Can Tho" },
+  "name": {
+    "en": "Can Tho",
+    "nl": "Can Tho"
+  },
   "vietnameseName": "Cần Thơ",
   "image": "/images/cities/can-tho.webp",
   "region": "Mekong Delta",
-  "highlights": ["Cai Rang Floating Market", "Mekong River Life", "Rice Paddies", "Tropical Orchards"],
-  "description": { "en": "As the largest city in the Mekong Delta, Can Tho is the gateway to experiencing the extraordinary waterway culture that defines southern Vietnam's river life. Early morning boat trips to the Cai Rang floating market, cycling through endless rice paddies, and sampling tropical fruits straight from riverside orchards offer an authentic side of Vietnam that few travelers forget." },
+  "highlights": [
+    "Cai Rang Floating Market",
+    "Mekong River Life",
+    "Rice Paddies",
+    "Tropical Orchards"
+  ],
+  "description": {
+    "en": "As the largest city in the Mekong Delta, Can Tho is the gateway to experiencing the extraordinary waterway culture that defines southern Vietnam's river life. Early morning boat trips to the Cai Rang floating market, cycling through endless rice paddies, and sampling tropical fruits straight from riverside orchards offer an authentic side of Vietnam that few travelers forget.",
+    "nl": "Als grootste stad in de Mekongdelta is Can Tho de toegangspoort tot de buitengewone waterweg-cultuur die het rivierenleven van Zuid-Vietnam kenmerkt. Vroege ochtenboottochten naar de drijvende markt van Cai Rang, fietsen door eindeloze rijstvelden en proeven van tropisch fruit rechtstreeks uit boomgaarden langs de rivier bieden een authentieke kant van Vietnam die weinig reizigers vergeten."
+  },
   "overview": "Can Tho is the largest and most important city in the Mekong Delta (Dong Bang Song Cuu Long), serving as the economic, cultural, and transportation hub for Vietnam's southwestern region. With a population of approximately 1.2 million, it sits at the junction of the Hau River (a major branch of the Mekong) and the Can Tho River, in the heart of one of the world's most productive agricultural regions. The Mekong Delta produces over half of Vietnam's rice, 60% of its fruit, and a significant portion of its fish and shrimp, and this extraordinary agricultural wealth is visible everywhere in Can Tho. The city's famous floating markets — where farmers sell produce directly from boats — have operated for over a century and represent one of Vietnam's most authentic cultural experiences. While Can Tho itself is a pleasant but unremarkable Vietnamese city, it serves as the ideal base for exploring the waterways, orchards, rice paddies, and traditional communities of the Mekong Delta. The delta's flat, water-laced landscape, colorful boats, fruit-laden orchards, and unhurried pace of life offer a profound contrast to Vietnam's dynamic cities.",
   "neighborhoods": [
     {
       "name": "Ninh Kieu Wharf / Riverfront",
       "description": "The scenic waterfront area along Hai Ba Trung Street is the heart of tourist Can Tho. The Ninh Kieu Wharf is where boat trips to the floating markets depart (typically 5-5:30am). The riverside promenade is pleasant for evening strolls, with views across the wide Hau River. The area also hosts the main concentration of hotels, restaurants, and the ornate Ong Temple (a Chinese-Vietnamese pagoda).",
-      "highlights": ["Ninh Kieu Wharf (floating market departure)", "Riverside promenade", "Ong Temple (Chua Ong)", "Hotel and restaurant district"]
+      "highlights": [
+        "Ninh Kieu Wharf (floating market departure)",
+        "Riverside promenade",
+        "Ong Temple (Chua Ong)",
+        "Hotel and restaurant district"
+      ]
     },
     {
       "name": "Cai Rang District",
       "description": "Located about 6km from the city center, the Cai Rang floating market takes place on the Cai Rang River every morning from approximately 5am to 9am. This is the Mekong Delta's largest floating market, where farmers and wholesalers trade fruits, vegetables, and other goods directly from their boats. Each boat displays a sample of its goods on a tall pole (called a cay beo) so buyers can see what's for sale from a distance.",
-      "highlights": ["Cai Rang Floating Market (5am-9am daily)", "Riverside fruit orchards", "Traditional boat-building", "Early morning river culture"]
+      "highlights": [
+        "Cai Rang Floating Market (5am-9am daily)",
+        "Riverside fruit orchards",
+        "Traditional boat-building",
+        "Early morning river culture"
+      ]
     },
     {
       "name": "Binh Thuy District",
       "description": "North of the center, Binh Thuy is known for the beautifully preserved Binh Thuy Ancient House (Nha Co Binh Thuy), a 19th-century merchant's residence blending Vietnamese, Chinese, and French architectural styles that was featured in the 1992 film 'The Lover' (L'Amant). The surrounding area has a more local, residential feel with excellent food stalls and access to quiet canal networks perfect for kayaking or small boat exploration.",
-      "highlights": ["Binh Thuy Ancient House", "Quiet canal networks", "Local food stalls", "Filming location of 'The Lover'"]
+      "highlights": [
+        "Binh Thuy Ancient House",
+        "Quiet canal networks",
+        "Local food stalls",
+        "Filming location of 'The Lover'"
+      ]
     }
   ],
   "gettingThere": {

@@ -62,7 +62,7 @@ const Footer = () => {
           {/* Sister Sites */}
           <div>
             <h3 className="text-brand-accent font-display font-semibold uppercase tracking-wider text-xs mb-5">
-              Go2 Travel Network
+              {t('footer.sisterSites')}
             </h3>
             <div className="grid grid-cols-2 gap-2">
               {sisterSites.map((site) => (

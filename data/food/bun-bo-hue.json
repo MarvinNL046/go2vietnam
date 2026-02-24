@@ -1,11 +1,17 @@
 {
   "slug": "bun-bo-hue",
-  "name": { "en": "Bun Bo Hue" },
+  "name": {
+    "en": "Bun Bo Hue",
+    "nl": "Bun Bo Hue"
+  },
   "vietnameseName": "Bún Bò Huế",
   "image": "/images/food/bun-bo-hue.webp",
   "category": "Soup",
   "spiceLevel": "hot",
-  "description": { "en": "A bold, spicy beef noodle soup from the former imperial capital of Hue, featuring thick round rice noodles in a lemongrass-infused broth colored vibrant red with annatto oil and fermented shrimp paste." },
+  "description": {
+    "en": "A bold, spicy beef noodle soup from the former imperial capital of Hue, featuring thick round rice noodles in a lemongrass-infused broth colored vibrant red with annatto oil and fermented shrimp paste.",
+    "nl": "Een stevige, pikante rundvleesnoedelsoep uit de voormalige keizerlijke hoofdstad Hue, met dikke ronde rijstnoedels in een met citroengras doordrenkte bouillon, gekleurd met annattozaadolie en gefermenteerde garnalenpasta."
+  },
   "overview": "Bun bo Hue is widely regarded by Vietnamese food lovers as the country's most complex and flavorful noodle soup, even surpassing pho in the eyes of many. Originating from the former imperial capital of Hue in central Vietnam, this soup features a deeply layered broth that balances spicy, sour, salty, and umami flavors. The broth is built from pork and beef bones, infused with lemongrass, colored a vivid red-orange with annatto seed oil, and given its distinctive funky depth by mắm ruốc (fermented shrimp paste). The soup is served with thick, round rice noodles (bún bò) that are chewier than the flat noodles in pho, along with sliced beef shank, pork knuckle, cubes of congealed pig blood, and Vietnamese ham. The generous garnish plate of banana blossom, shredded cabbage, herbs, lime, and chili allows diners to customize each bowl to their liking.",
   "origin": {
     "region": "Hue, Central Vietnam",

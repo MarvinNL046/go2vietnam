@@ -1,11 +1,17 @@
 {
   "slug": "banh-xeo",
-  "name": { "en": "Banh Xeo" },
+  "name": {
+    "en": "Banh Xeo",
+    "nl": "Banh Xeo"
+  },
   "vietnameseName": "Bánh Xèo",
   "image": "/images/food/banh-xeo.webp",
   "category": "Pancake",
   "spiceLevel": "mild",
-  "description": { "en": "A sizzling crispy crepe made from rice flour and turmeric, stuffed with shrimp, pork, bean sprouts, and mung beans, then wrapped in lettuce and herbs before dipping in nuoc cham sauce." },
+  "description": {
+    "en": "A sizzling crispy crepe made from rice flour and turmeric, stuffed with shrimp, pork, bean sprouts, and mung beans, then wrapped in lettuce and herbs before dipping in nuoc cham sauce.",
+    "nl": "Een sissend krokante pannenkoek van rijstmeel en kurkuma, gevuld met garnalen, varkensvlees, taugé en mungbonen, gewikkeld in sla en kruiden en dan gedoopt in nuoc cham-saus."
+  },
   "overview": "Banh xeo is one of Vietnam's most spectacular street foods, named for the loud sizzling sound ('xèo') the batter makes when it hits the hot, oiled pan. This crispy, golden crepe is made from a batter of rice flour, coconut milk, and turmeric, which gives it its vibrant yellow color. The batter is poured into a large, well-oiled skillet and swirled thin, then filled with a combination of shrimp, sliced pork, mung beans, and bean sprouts before being folded in half and cooked until the edges are lacy and crackling crisp. The crepe is never eaten on its own — it is always torn into pieces, wrapped in lettuce leaves and fresh herbs, and dipped in nuoc cham (fish sauce dipping sauce). This combination of crispy, savory crepe with cool, fresh greens and tangy sauce creates an addictive interplay of textures and flavors.",
   "origin": {
     "region": "Central and Southern Vietnam",

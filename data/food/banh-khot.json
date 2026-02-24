@@ -1,11 +1,17 @@
 {
   "slug": "banh-khot",
-  "name": { "en": "Banh Khot" },
+  "name": {
+    "en": "Banh Khot",
+    "nl": "Banh Khot"
+  },
   "vietnameseName": "Bánh Khọt",
   "image": "/images/food/banh-khot.webp",
   "category": "Appetizer",
   "spiceLevel": "mild",
-  "description": { "en": "Bite-sized crispy rice flour pancakes with a tender center, each topped with a whole shrimp and green onion, originating from Vung Tau and served with fresh lettuce, herbs, and tangy fish sauce." },
+  "description": {
+    "en": "Bite-sized crispy rice flour pancakes with a tender center, each topped with a whole shrimp and green onion, originating from Vung Tau and served with fresh lettuce, herbs, and tangy fish sauce.",
+    "nl": "Hapklare krokante rijstmeelpannenkoekjes met een zachte kern, elk belegd met een hele garnaal en bosui, afkomstig uit Vung Tau en geserveerd met verse sla, kruiden en pittige vissaus."
+  },
   "overview": "Banh khot are irresistible bite-sized Vietnamese pancakes — small, round, and golden, each one crispy on the outside with a soft, custardy center, topped with a single whole shrimp and a sprinkle of green onion. They are cooked in a special cast-iron mold with small round indentations (similar to a Danish aebleskiver pan), which gives them their uniform shape and characteristic crispy edges. The batter, made from rice flour, coconut milk, and turmeric, is poured into the oiled molds and cooked until the edges are lacy and crisp while the center remains tender. Like many Vietnamese dishes, banh khot are eaten wrapped in lettuce with fresh herbs and dipped in nuoc cham. The combination of the warm, crispy cake, the sweet shrimp, the cool lettuce and herbs, and the tangy dipping sauce creates a perfect bite that is dangerously easy to keep eating. Banh khot are most closely associated with the coastal city of Vung Tau, about two hours southeast of Ho Chi Minh City.",
   "origin": {
     "region": "Vung Tau / Ba Ria-Vung Tau Province, Southern Vietnam",

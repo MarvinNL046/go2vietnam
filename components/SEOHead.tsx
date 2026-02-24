@@ -1,5 +1,6 @@
 import Head from 'next/head';
 import { ReactNode } from 'react';
+import { useRouter } from 'next/router';
 import { siteConfig } from '../site.config';
 
 interface SEOHeadProps {
@@ -12,7 +13,11 @@ interface SEOHeadProps {
 }
 
 export default function SEOHead({ title, description, ogImage, path, jsonLd, children }: SEOHeadProps) {
-  const canonicalUrl = path ? `${siteConfig.seo.siteUrl}${path}` : undefined;
+  const router = useRouter();
+  const ogLocale = router.locale === 'nl' ? 'nl_NL' : 'en_US';
+  const locale = router.locale || 'nl';
+  const localePath = locale === 'nl' ? path : `/en${path}`;
+  const canonicalUrl = path ? `${siteConfig.seo.siteUrl}${localePath}` : undefined;
 
   return (
     <Head>
@@ -23,7 +28,7 @@ export default function SEOHead({ title, description, ogImage, path, jsonLd, chi
       <meta property="og:description" content={description} />
       <meta property="og:type" content="website" />
       <meta property="og:site_name" content={siteConfig.name} />
-      <meta property="og:locale" content="en_US" />
+      <meta property="og:locale" content={ogLocale} />
       {canonicalUrl && <meta property="og:url" content={canonicalUrl} />}
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:title" content={title} />
@@ -35,6 +40,13 @@ export default function SEOHead({ title, description, ogImage, path, jsonLd, chi
         <>
           <meta property="og:image" content={ogImage} />
           <meta name="twitter:image" content={ogImage} />
+        </>
+      )}
+      {path && (
+        <>
+          <link rel="alternate" hrefLang="nl" href={`${siteConfig.seo.siteUrl}${path}`} />
+          <link rel="alternate" hrefLang="en" href={`${siteConfig.seo.siteUrl}/en${path}`} />
+          <link rel="alternate" hrefLang="x-default" href={`${siteConfig.seo.siteUrl}${path}`} />
         </>
       )}
       {jsonLd && (

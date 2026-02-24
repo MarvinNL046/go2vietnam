@@ -1,10 +1,22 @@
 {
   "slug": "co-to",
-  "name": { "en": "Co To" },
+  "name": {
+    "en": "Co To",
+    "nl": "Co To"
+  },
   "vietnameseName": "Cô Tô",
   "image": "/images/islands/co-to.webp",
-  "bestFor": ["Remote Beaches", "Island Life", "Camping", "Adventure", "Sunrise"],
-  "description": { "en": "A remote archipelago in the far northeast of Quang Ninh province, Co To offers untouched beaches, a functioning lighthouse, and genuine local island life far from the tourist trail. This is the island for travelers seeking quiet, authenticity, and rugged natural beauty." },
+  "bestFor": [
+    "Remote Beaches",
+    "Island Life",
+    "Camping",
+    "Adventure",
+    "Sunrise"
+  ],
+  "description": {
+    "en": "A remote archipelago in the far northeast of Quang Ninh province, Co To offers untouched beaches, a functioning lighthouse, and genuine local island life far from the tourist trail. This is the island for travelers seeking quiet, authenticity, and rugged natural beauty.",
+    "nl": "Een afgelegen archipel in het uiterste noordoosten van de provincie Quang Ninh. Co To biedt ongerepte stranden, een werkende vuurtoren en echt lokaal eilandleven ver van de toeristische routes. Dit is het eiland voor reizigers die op zoek zijn naar rust, authenticiteit en ruige natuurlijke schoonheid."
+  },
   "overview": "Co To is one of the most remote inhabited islands in northern Vietnam, an archipelago of about 50 islands and islets in the far northeastern corner of Quang Ninh province, near the Chinese maritime border. The main island, Co To Lon, is home to approximately 6,000 residents who live primarily from fishing, aquaculture, and small-scale agriculture. Tourism is still in its early stages here, which is exactly the appeal - this is not an island with luxury resorts and infinity pools, but rather a place where you can walk along genuinely empty beaches, watch fishing boats return with the morning catch, and climb to the island's lighthouse for unobstructed views of the open sea. The island's landscape is defined by dense coastal forest, rocky coves, and a series of beaches that range from wide sandy stretches to intimate pebble coves. Co To Lighthouse, built during the French colonial period and still operational, sits at the island's highest point and offers the best sunrise viewpoint in northern Vietnam. The island has become popular with adventurous young Vietnamese travelers looking for an alternative to the crowds of Ha Long Bay and Cat Ba, but remains largely unknown to international visitors.",
   "gettingThere": {
     "byAir": "There is no airport on Co To. The nearest airport is Van Don International Airport (VDO) in Quang Ninh province, opened in 2018. From Van Don airport, travel to Cai Rong port takes approximately 1-1.5 hours by taxi.",

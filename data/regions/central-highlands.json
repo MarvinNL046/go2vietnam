@@ -1,11 +1,26 @@
 {
   "slug": "central-highlands",
-  "name": "Central Highlands",
+  "name": {
+    "en": "Central Highlands",
+    "nl": "Centrale Hooglanden"
+  },
   "image": "/images/regions/central-highlands.webp",
-  "description": "Vietnam's cool mountain interior offers a refreshing escape from the tropical coast, with misty pine forests, cascading waterfalls, world-class coffee plantations, and the charming French colonial hill station of Da Lat perched at 1,500 meters.",
+  "description": {
+    "en": "Vietnam's cool mountain interior offers a refreshing escape from the tropical coast, with misty pine forests, cascading waterfalls, world-class coffee plantations, and the charming French colonial hill station of Da Lat perched at 1,500 meters.",
+    "nl": "Het koele bergachtige binnenland van Vietnam biedt een verfrissende ontsnapping aan de tropische kust, met mistige dennenbossen, ruisende watervallen, koffieplantages van wereldklasse en het charmante Franse koloniale bergstadje Da Lat op 1.500 meter hoogte."
+  },
   "overview": "The Central Highlands (Tay Nguyen) is Vietnam's elevated interior plateau, a world apart from the coastal lowlands both in climate and culture. Rising from 500 to over 2,000 meters, this region of rolling hills, volcanic red soil, pine forests, and cascading waterfalls was once the domain of dozens of ethnic minority groups -- the Ede, Jarai, Bahnar, and Koho -- whose stilt houses and gong culture are recognized by UNESCO as an Intangible Cultural Heritage of Humanity. The French established Da Lat as a highland retreat in the early 1900s, and the city retains its colonial charm with Art Deco villas, flower gardens, and year-round spring-like temperatures that earned it the nickname 'City of Eternal Spring.' The region is also the heartland of Vietnam's coffee industry -- the country is the world's second-largest coffee producer after Brazil -- and the fertile volcanic soil supports vast plantations of robusta and arabica beans, along with tea, silk, vegetables, and flowers that supply much of the nation. A thriving adventure tourism scene has emerged around Da Lat, with canyoning, mountain biking, trail running, and off-road tours through remote ethnic minority villages.",
-  "highlights": ["Da Lat Hill Station", "Coffee Plantations", "Waterfalls & Pine Forests", "Ethnic Minority Culture", "Canyoning Adventures", "Flower Gardens"],
-  "cities": ["da-lat"],
+  "highlights": [
+    "Da Lat Hill Station",
+    "Coffee Plantations",
+    "Waterfalls & Pine Forests",
+    "Ethnic Minority Culture",
+    "Canyoning Adventures",
+    "Flower Gardens"
+  ],
+  "cities": [
+    "da-lat"
+  ],
   "bestTimeToVisit": "November to March — The dry season offers clear skies, cool temperatures (15-24 degrees Celsius), and the best conditions for trekking and outdoor activities. December to February can be quite cool at night (10-15 degrees Celsius), so pack warm layers.",
   "topExperiences": [
     {

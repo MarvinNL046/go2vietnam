@@ -1,32 +1,63 @@
 {
   "slug": "ho-chi-minh-city",
-  "name": { "en": "Ho Chi Minh City (Saigon)" },
+  "name": {
+    "en": "Ho Chi Minh City (Saigon)",
+    "nl": "Ho Chi Minhstad (Saigon)"
+  },
   "vietnameseName": "Thành phố Hồ Chí Minh",
   "image": "/images/cities/ho-chi-minh-city.webp",
   "region": "Southern Vietnam",
-  "highlights": ["War Remnants Museum", "Cu Chi Tunnels", "Ben Thanh Market", "Rooftop Bars"],
-  "description": { "en": "Vietnam's largest and most dynamic city pulses with energy from dawn to well past midnight. Known locally as Saigon, this southern metropolis offers world-class street food, sobering war history museums, French colonial landmarks, and a booming modern skyline that rivals any Southeast Asian capital." },
+  "highlights": [
+    "War Remnants Museum",
+    "Cu Chi Tunnels",
+    "Ben Thanh Market",
+    "Rooftop Bars"
+  ],
+  "description": {
+    "en": "Vietnam's largest and most dynamic city pulses with energy from dawn to well past midnight. Known locally as Saigon, this southern metropolis offers world-class street food, sobering war history museums, French colonial landmarks, and a booming modern skyline that rivals any Southeast Asian capital.",
+    "nl": "De grootste en meest dynamische stad van Vietnam bruist van energie van zonsopgang tot ver na middernacht. Plaatselijk bekend als Saigon biedt deze zuidelijke metropool streetfood van wereldklasse, aangrijpende oorlogsmusea, Franse koloniale monumenten en een groeiende moderne skyline die kan wedijveren met elke Zuidoost-Aziatische hoofdstad."
+  },
   "overview": "Ho Chi Minh City — still universally called Saigon by locals — is Vietnam's economic engine and largest city, home to over 9 million people (13 million in the greater metropolitan area). Originally a small Khmer fishing village, it became the capital of French Cochinchina in the 1860s and later the capital of South Vietnam. After reunification in 1975, it was renamed Ho Chi Minh City, though the name Saigon endures in everyday conversation and even on the city's airport code (SGN). Today the city is a study in contrasts: century-old pagodas stand in the shadow of glass skyscrapers, street vendors with bamboo shoulder poles navigate between luxury SUVs, and serene Buddhist temples sit just blocks from thumping rooftop bars. The energy is relentless, the food scene is extraordinary, and the war history sites are deeply moving. District 1 is the historic heart, but neighborhoods like District 3, Binh Thanh, and Thu Duc (formerly District 2/Thao Dien) each offer distinct personalities.",
   "neighborhoods": [
     {
       "name": "District 1 (Quận 1)",
       "description": "The historic and commercial center of Saigon, where most tourists spend their time. This compact district contains the city's major French colonial landmarks, the famous backpacker strip of Bui Vien, luxury hotels, and the central Ben Thanh Market. Dong Khoi Street is the upscale shopping and dining corridor, while Nguyen Hue Walking Street is a popular promenade lined with cafes and the iconic People's Committee Hall.",
-      "highlights": ["Notre-Dame Cathedral Basilica", "Central Post Office", "Nguyen Hue Walking Street", "Bui Vien backpacker area"]
+      "highlights": [
+        "Notre-Dame Cathedral Basilica",
+        "Central Post Office",
+        "Nguyen Hue Walking Street",
+        "Bui Vien backpacker area"
+      ]
     },
     {
       "name": "District 3 (Quận 3)",
       "description": "Widely considered the most livable and local-feeling district in central Saigon. District 3 has tree-lined residential streets, excellent local restaurants, trendy cafes, and a more relaxed atmosphere than District 1. Vo Van Tan and Tran Quoc Thao streets are dotted with beautiful French colonial villas, many now converted into restaurants and boutiques.",
-      "highlights": ["War Remnants Museum", "Authentic local restaurants", "Hip cafe culture", "Jade Emperor Pagoda"]
+      "highlights": [
+        "War Remnants Museum",
+        "Authentic local restaurants",
+        "Hip cafe culture",
+        "Jade Emperor Pagoda"
+      ]
     },
     {
       "name": "Thao Dien (Thu Duc City)",
       "description": "Across the Saigon River, this affluent neighborhood (formerly in District 2) is the expat hub of the city. Thao Dien has a distinctly international feel with organic grocery stores, international schools, Western restaurants, yoga studios, and craft beer bars. The area is connected to District 1 by the Thu Thiem Bridge and the new Metro Line 1.",
-      "highlights": ["International dining scene", "Craft breweries", "Riverside parks", "Weekend brunch culture"]
+      "highlights": [
+        "International dining scene",
+        "Craft breweries",
+        "Riverside parks",
+        "Weekend brunch culture"
+      ]
     },
     {
       "name": "Cholon — District 5 (Quận 5)",
       "description": "Saigon's Chinatown is one of the largest in the world, with a history stretching back over 300 years. The bustling Binh Tay Market is the commercial center, while ornate Chinese temples, herbal medicine shops, and some of the city's best Chinese-Vietnamese food line the atmospheric streets. Cholon feels like a different city entirely from the rest of Saigon.",
-      "highlights": ["Binh Tay Market", "Thien Hau Temple", "Chinese-Vietnamese street food", "Traditional medicine shops"]
+      "highlights": [
+        "Binh Tay Market",
+        "Thien Hau Temple",
+        "Chinese-Vietnamese street food",
+        "Traditional medicine shops"
+      ]
     }
   ],
   "gettingThere": {

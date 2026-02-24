@@ -1,10 +1,16 @@
 {
   "slug": "ca-phe-sua-da",
-  "name": { "en": "Vietnamese Iced Coffee" },
+  "name": {
+    "en": "Vietnamese Iced Coffee",
+    "nl": "Vietnamese ijskoffie"
+  },
   "vietnameseName": "Cà Phê Sữa Đá",
   "image": "/images/drinks/ca-phe-sua-da.webp",
   "category": "Coffee",
-  "description": { "en": "Strong dark roast coffee brewed through a traditional phin filter, mixed with sweetened condensed milk, and poured over ice. This is the drink that defines Vietnamese coffee culture and fuels the nation from sidewalk cafes to five-star hotels." },
+  "description": {
+    "en": "Strong dark roast coffee brewed through a traditional phin filter, mixed with sweetened condensed milk, and poured over ice. This is the drink that defines Vietnamese coffee culture and fuels the nation from sidewalk cafes to five-star hotels.",
+    "nl": "Sterke donker gebrande koffie gezet door een traditioneel phin-filter, gemengd met gecondenseerde melk en over ijs gegoten. Dit is het drankje dat de Vietnamese koffiecultuur definieert en het land van energie voorziet, van stoepkraampjes tot vijfsterrenhotels."
+  },
   "overview": "Ca phe sua da is Vietnam's national drink in all but name. Every day, millions of Vietnamese start their morning perched on tiny plastic stools at sidewalk cafes, watching dark coffee drip slowly through a small stainless-steel phin filter balanced atop their glass. The coffee used is typically a strong Robusta blend, often with a touch of butter or vanilla roasted in, giving it a bold, almost chocolatey intensity that stands up perfectly to the thick layer of sweetened condensed milk waiting at the bottom of the glass. Once the drip is complete, everything gets stirred together and poured over a tall glass of ice. The result is a drink that is simultaneously bitter, sweet, creamy, and bracingly cold. Vietnam is the world's second-largest coffee producer after Brazil, and the vast majority of that output is Robusta beans grown in the Central Highlands, making this drink inseparable from the country's agricultural identity.",
   "origin": {
     "region": "Nationwide (originated with French colonial influence)",
@@ -34,10 +40,22 @@
     }
   ],
   "variations": [
-    { "name": "Ca Phe Den Da", "description": "Black iced coffee without condensed milk, preferred by those who want the full intensity of Vietnamese coffee without sweetness" },
-    { "name": "Ca Phe Sua Nong", "description": "Hot version of milk coffee, served in winter months or for those who prefer a warm drink" },
-    { "name": "Bac Xiu", "description": "A milder, milkier version with more condensed milk and less coffee, popular in southern Vietnam, especially Saigon" },
-    { "name": "Ca Phe Dua (Coconut Coffee)", "description": "Blended with coconut cream or coconut milk, a modern variation popularized by Cong Caphe chain" }
+    {
+      "name": "Ca Phe Den Da",
+      "description": "Black iced coffee without condensed milk, preferred by those who want the full intensity of Vietnamese coffee without sweetness"
+    },
+    {
+      "name": "Ca Phe Sua Nong",
+      "description": "Hot version of milk coffee, served in winter months or for those who prefer a warm drink"
+    },
+    {
+      "name": "Bac Xiu",
+      "description": "A milder, milkier version with more condensed milk and less coffee, popular in southern Vietnam, especially Saigon"
+    },
+    {
+      "name": "Ca Phe Dua (Coconut Coffee)",
+      "description": "Blended with coconut cream or coconut milk, a modern variation popularized by Cong Caphe chain"
+    }
   ],
   "priceRange": "15,000 - 45,000 VND ($0.60 - $1.80)",
   "tips": [

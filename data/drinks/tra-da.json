@@ -1,10 +1,16 @@
 {
   "slug": "tra-da",
-  "name": { "en": "Vietnamese Iced Tea" },
+  "name": {
+    "en": "Vietnamese Iced Tea",
+    "nl": "Vietnamese ijsthee"
+  },
   "vietnameseName": "Trà Đá",
   "image": "/images/drinks/tra-da.webp",
   "category": "Tea",
-  "description": { "en": "Complimentary iced green tea served automatically at nearly every restaurant, cafe, and street food stall in Vietnam. This light, slightly bitter tea is as ubiquitous as water and serves as the default drink that accompanies every Vietnamese meal." },
+  "description": {
+    "en": "Complimentary iced green tea served automatically at nearly every restaurant, cafe, and street food stall in Vietnam. This light, slightly bitter tea is as ubiquitous as water and serves as the default drink that accompanies every Vietnamese meal.",
+    "nl": "Gratis geserveerde groene ijsthee die automatisch bij vrijwel elk restaurant, cafe en straateettentje in Vietnam op tafel komt. Deze lichte, licht bittere thee is net zo alomtegenwoordig als water en is het standaarddrankje bij elke Vietnamese maaltijd."
+  },
   "overview": "Tra da is the most consumed drink in Vietnam, though it rarely gets the attention it deserves because it is so utterly ordinary to Vietnamese life. Walk into virtually any restaurant, pho shop, com binh dan (rice plate stall), or even a coffee shop in Vietnam, and a glass of iced tea will appear at your table within seconds - often before you have even ordered. It is almost always free or included in the cost of your meal. The tea itself is simple: a light brew of green tea (usually artichoke tea or a basic green tea from Thai Nguyen province), served over ice in a tall glass. It is barely sweet, slightly bitter, and above all, refreshing. For the Vietnamese, tra da is not really a 'drink' in the way coffee or beer is - it is more like flavored water, the constant companion to every meal and conversation. Entire micro-businesses exist around tra da: tiny sidewalk stalls selling nothing but glasses of iced tea for 2,000-3,000 VND to passing motorbike drivers and workers.",
   "origin": {
     "region": "Nationwide",
@@ -34,11 +40,26 @@
     }
   ],
   "variations": [
-    { "name": "Tra Da (plain)", "description": "The standard free iced green tea served at meals - light, unsweetened, and endlessly refillable" },
-    { "name": "Tra Atiso (Artichoke Tea)", "description": "Made from dried artichoke flowers, common in Da Lat and central Vietnam, with a slightly sweet, herbal flavor" },
-    { "name": "Tra Chanh (Lemon Tea)", "description": "Iced tea with fresh lime and sugar, a popular sweetened variation at dedicated tra chanh stalls" },
-    { "name": "Tra Tac (Kumquat Tea)", "description": "Iced tea with kumquat, offering a citrusy twist, popular in northern Vietnam" },
-    { "name": "Tra Dao (Peach Tea)", "description": "A sweeter, modern variation with peach syrup, common at trendy cafes and tea shops" }
+    {
+      "name": "Tra Da (plain)",
+      "description": "The standard free iced green tea served at meals - light, unsweetened, and endlessly refillable"
+    },
+    {
+      "name": "Tra Atiso (Artichoke Tea)",
+      "description": "Made from dried artichoke flowers, common in Da Lat and central Vietnam, with a slightly sweet, herbal flavor"
+    },
+    {
+      "name": "Tra Chanh (Lemon Tea)",
+      "description": "Iced tea with fresh lime and sugar, a popular sweetened variation at dedicated tra chanh stalls"
+    },
+    {
+      "name": "Tra Tac (Kumquat Tea)",
+      "description": "Iced tea with kumquat, offering a citrusy twist, popular in northern Vietnam"
+    },
+    {
+      "name": "Tra Dao (Peach Tea)",
+      "description": "A sweeter, modern variation with peach syrup, common at trendy cafes and tea shops"
+    }
   ],
   "priceRange": "Free (at restaurants) or 2,000 - 5,000 VND ($0.08 - $0.20) at street stalls",
   "tips": [

@@ -1,11 +1,17 @@
 {
   "slug": "pho",
-  "name": { "en": "Pho" },
+  "name": {
+    "en": "Pho",
+    "nl": "Pho"
+  },
   "vietnameseName": "Phở",
   "image": "/images/food/pho.webp",
   "category": "Soup",
   "spiceLevel": "mild",
-  "description": { "en": "Vietnam's iconic rice noodle soup featuring a deeply aromatic broth simmered for hours with star anise, cinnamon, and charred ginger, served with silky flat noodles and your choice of beef or chicken." },
+  "description": {
+    "en": "Vietnam's iconic rice noodle soup featuring a deeply aromatic broth simmered for hours with star anise, cinnamon, and charred ginger, served with silky flat noodles and your choice of beef or chicken.",
+    "nl": "De iconische Vietnamese rijstnoedelsoep met een diep aromatische bouillon die urenlang getrokken wordt met steranijs, kaneel en geroosterde gember, geserveerd met zijdezachte platte noedels en rundvlees of kip naar keuze."
+  },
   "overview": "Pho is arguably the most recognized Vietnamese dish worldwide, a fragrant and comforting rice noodle soup that has become synonymous with Vietnamese cuisine. The soul of pho lies in its broth, which is painstakingly simmered for 12 to 24 hours using beef bones, charred onions, ginger, and a carefully balanced blend of whole spices including star anise, cinnamon bark, cardamom, cloves, and coriander seeds. The result is a clear yet deeply flavored liquid served over flat rice noodles (bánh phở) and topped with thinly sliced meat, fresh herbs, and a squeeze of lime. While pho is available throughout the day, most Vietnamese eat it as a breakfast dish, starting their morning at small sidewalk stalls where the broth has been simmering since before dawn.",
   "origin": {
     "region": "Northern Vietnam (Nam Dinh / Hanoi)",

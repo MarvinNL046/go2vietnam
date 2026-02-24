@@ -4,9 +4,9 @@ const nextConfig = {
   swcMinify: true,
   trailingSlash: true,
   i18n: {
-    locales: ['en'],
-    defaultLocale: 'en',
-    localeDetection: false,
+    locales: ['nl', 'en'],
+    defaultLocale: 'nl',
+    localeDetection: true,
   },
   images: {
     formats: ['image/webp', 'image/avif'],

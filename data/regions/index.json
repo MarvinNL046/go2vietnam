@@ -1,11 +1,26 @@
 [
   {
     "slug": "north-vietnam",
-    "name": "North Vietnam",
-    "description": "Home to Vietnam's ancient capital Hanoi, the spectacular limestone seascapes of Ha Long Bay, and the emerald rice terraces of the northern highlands, North Vietnam is where the country's thousand-year history and breathtaking natural landscapes converge.",
+    "name": {
+      "en": "North Vietnam",
+      "nl": "Noord-Vietnam"
+    },
+    "description": {
+      "en": "Home to Vietnam's ancient capital Hanoi, the spectacular limestone seascapes of Ha Long Bay, and the emerald rice terraces of the northern highlands, North Vietnam is where the country's thousand-year history and breathtaking natural landscapes converge.",
+      "nl": "Thuisbasis van Vietnams eeuwenoude hoofdstad Hanoi, de spectaculaire kalkstenen zeelandschappen van Ha Long Bay en de smaragdgroene rijstterrassen van het noordelijke hoogland. Noord-Vietnam is waar de duizendjarige geschiedenis van het land en adembenemende natuurlijke landschappen samenkomen."
+    },
     "image": "/images/regions/north-vietnam.webp",
-    "highlights": ["Ha Long Bay UNESCO Site", "Hanoi Old Quarter", "Ninh Binh Karst Landscapes", "Red River Delta Culture"],
-    "cities": ["hanoi", "ha-long", "ninh-binh"],
+    "highlights": [
+      "Ha Long Bay UNESCO Site",
+      "Hanoi Old Quarter",
+      "Ninh Binh Karst Landscapes",
+      "Red River Delta Culture"
+    ],
+    "cities": [
+      "hanoi",
+      "ha-long",
+      "ninh-binh"
+    ],
     "bestTimeToVisit": "October to December",
     "overview": "North Vietnam encompasses the Red River Delta, the dramatic karst landscapes of the northeast, and the cultural heartland that has shaped Vietnamese identity for over a millennium. From Hanoi's centuries-old Old Quarter and French colonial boulevards to the UNESCO-listed limestone pillars of Ha Long Bay rising from emerald waters, and the otherworldly river valleys of Ninh Binh, the north offers an unrivaled combination of history, culture, and natural grandeur. The region experiences four distinct seasons, with cool winters that set it apart from the tropical south, and an autumn that bathes everything in golden light.",
     "topExperiences": [
@@ -29,11 +44,26 @@
   },
   {
     "slug": "central-vietnam",
-    "name": "Central Vietnam",
-    "description": "A narrow coastal strip where imperial history meets pristine beaches, Central Vietnam is home to three UNESCO World Heritage Sites, the ancient trading port of Hoi An, the imperial citadel of Hue, and the modern coastal city of Da Nang.",
+    "name": {
+      "en": "Central Vietnam",
+      "nl": "Centraal-Vietnam"
+    },
+    "description": {
+      "en": "A narrow coastal strip where imperial history meets pristine beaches, Central Vietnam is home to three UNESCO World Heritage Sites, the ancient trading port of Hoi An, the imperial citadel of Hue, and the modern coastal city of Da Nang.",
+      "nl": "Een smalle kuststrook waar keizerlijke geschiedenis en ongerepte stranden elkaar ontmoeten. Centraal-Vietnam herbergt drie UNESCO-Werelderfgoedsites, de oude handelsstad Hoi An, de keizerlijke citadel van Hue en de moderne kuststad Da Nang."
+    },
     "image": "/images/regions/central-vietnam.webp",
-    "highlights": ["Three UNESCO World Heritage Sites", "Hoi An Ancient Town", "Hue Imperial Citadel", "Golden Bridge at Ba Na Hills"],
-    "cities": ["hue", "da-nang", "hoi-an"],
+    "highlights": [
+      "Three UNESCO World Heritage Sites",
+      "Hoi An Ancient Town",
+      "Hue Imperial Citadel",
+      "Golden Bridge at Ba Na Hills"
+    ],
+    "cities": [
+      "hue",
+      "da-nang",
+      "hoi-an"
+    ],
     "bestTimeToVisit": "February to May",
     "overview": "Central Vietnam is the cultural backbone of the nation, stretching along a narrow coastal strip between the Truong Son mountain range and the South China Sea. This region bore witness to centuries of dynastic rule from the Nguyen Dynasty capital of Hue, saw the rise and fall of the ancient Champa Kingdom, and served as a critical theater during the Vietnam War. Today, it offers travelers an extraordinary concentration of heritage sites: the Imperial Citadel of Hue with its royal tombs along the Perfume River, the perfectly preserved Japanese-Chinese-Vietnamese trading port of Hoi An glowing with silk lanterns at dusk, and the ancient Cham sanctuary of My Son hidden in a jungle valley. Between these cultural treasures, Da Nang has emerged as a modern beach city with world-class resorts and the Instagram-famous Golden Bridge at Ba Na Hills.",
     "topExperiences": [
@@ -57,11 +87,25 @@
   },
   {
     "slug": "south-vietnam",
-    "name": "South Vietnam",
-    "description": "The economic powerhouse of Vietnam, the south pulses with the relentless energy of Ho Chi Minh City, offers sobering war history at Cu Chi Tunnels, and transitions into the lush waterways of the Mekong Delta where life revolves around the river.",
+    "name": {
+      "en": "South Vietnam",
+      "nl": "Zuid-Vietnam"
+    },
+    "description": {
+      "en": "The economic powerhouse of Vietnam, the south pulses with the relentless energy of Ho Chi Minh City, offers sobering war history at Cu Chi Tunnels, and transitions into the lush waterways of the Mekong Delta where life revolves around the river.",
+      "nl": "De economische motor van Vietnam: het zuiden pulseert met de onvermoeibare energie van Ho Chi Minhstad, biedt aangrijpende oorlogsgeschiedenis bij de Cu Chi-tunnels en gaat over in de weelderige waterwegen van de Mekongdelta waar het leven om de rivier draait."
+    },
     "image": "/images/regions/south-vietnam.webp",
-    "highlights": ["Ho Chi Minh City Nightlife", "Cu Chi Tunnels", "War Remnants Museum", "Gateway to Mekong Delta"],
-    "cities": ["ho-chi-minh-city", "phu-quoc"],
+    "highlights": [
+      "Ho Chi Minh City Nightlife",
+      "Cu Chi Tunnels",
+      "War Remnants Museum",
+      "Gateway to Mekong Delta"
+    ],
+    "cities": [
+      "ho-chi-minh-city",
+      "phu-quoc"
+    ],
     "bestTimeToVisit": "December to April",
     "overview": "South Vietnam centers on Ho Chi Minh City (still called Saigon by locals), a sprawling metropolis of over 10 million people that serves as the country's commercial and cultural engine. The city's French colonial landmarks, sobering war museums, and legendary street food scene sit alongside gleaming skyscrapers, rooftop bars, and a nightlife that rivals Bangkok. Just outside the city, the Cu Chi Tunnels offer a visceral connection to the Vietnam War, while the surrounding countryside transitions into the vast rice paddies and fruit orchards of the Mekong Delta. The south enjoys a tropical climate with two distinct seasons -- dry and wet -- and a cuisine characterized by sweeter, bolder flavors than the north, reflecting influences from Chinese, Khmer, and French culinary traditions.",
     "topExperiences": [
@@ -85,11 +129,24 @@
   },
   {
     "slug": "central-highlands",
-    "name": "Central Highlands",
-    "description": "Vietnam's cool mountain interior offers a refreshing escape from the tropical coast, with misty pine forests, cascading waterfalls, world-class coffee plantations, and the charming French colonial hill station of Da Lat perched at 1,500 meters.",
+    "name": {
+      "en": "Central Highlands",
+      "nl": "Centrale Hooglanden"
+    },
+    "description": {
+      "en": "Vietnam's cool mountain interior offers a refreshing escape from the tropical coast, with misty pine forests, cascading waterfalls, world-class coffee plantations, and the charming French colonial hill station of Da Lat perched at 1,500 meters.",
+      "nl": "Het koele bergachtige binnenland van Vietnam biedt een verfrissende ontsnapping aan de tropische kust, met mistige dennenbossen, ruisende watervallen, koffieplantages van wereldklasse en het charmante Franse koloniale bergstadje Da Lat op 1.500 meter hoogte."
+    },
     "image": "/images/regions/central-highlands.webp",
-    "highlights": ["Da Lat Hill Station", "Coffee Plantations", "Waterfalls & Pine Forests", "Ethnic Minority Culture"],
-    "cities": ["da-lat"],
+    "highlights": [
+      "Da Lat Hill Station",
+      "Coffee Plantations",
+      "Waterfalls & Pine Forests",
+      "Ethnic Minority Culture"
+    ],
+    "cities": [
+      "da-lat"
+    ],
     "bestTimeToVisit": "November to March",
     "overview": "The Central Highlands (Tay Nguyen) is Vietnam's elevated interior plateau, a world apart from the coastal lowlands both in climate and culture. Rising from 500 to over 2,000 meters, this region of rolling hills, volcanic red soil, pine forests, and cascading waterfalls was once the domain of dozens of ethnic minority groups whose stilt houses and gong culture are recognized by UNESCO. The French established Da Lat as a highland retreat in the early 1900s, and the city retains its colonial charm with Art Deco villas, flower gardens, and year-round spring-like temperatures. The region is also the heartland of Vietnam's coffee industry -- the country is the world's second-largest coffee producer -- and the fertile volcanic soil supports vast plantations of robusta and arabica beans, along with tea, silk, vegetables, and flowers that supply much of the nation.",
     "topExperiences": [
@@ -113,11 +170,24 @@
   },
   {
     "slug": "northwest-vietnam",
-    "name": "Northwest Vietnam",
-    "description": "Vietnam's most rugged and remote frontier, the northwest is a land of towering mountain passes, cascading rice terraces sculpted over centuries by ethnic minority communities, and some of the most spectacular trekking in all of Southeast Asia.",
+    "name": {
+      "en": "Northwest Vietnam",
+      "nl": "Noordwest-Vietnam"
+    },
+    "description": {
+      "en": "Vietnam's most rugged and remote frontier, the northwest is a land of towering mountain passes, cascading rice terraces sculpted over centuries by ethnic minority communities, and some of the most spectacular trekking in all of Southeast Asia.",
+      "nl": "De meest ruige en afgelegen grensstreek van Vietnam: het noordwesten is een land van torenhoge bergpassen, eindeloze rijstterrassen die door etnische minderheidsgemeenschappen door de eeuwen heen zijn gebeeldhouwd, en enkele van de meest spectaculaire trekkingmogelijkheden in heel Zuidoost-Azie."
+    },
     "image": "/images/regions/northwest-vietnam.webp",
-    "highlights": ["Sapa Rice Terraces", "Ha Giang Motorbike Loop", "Fansipan Summit", "Ethnic Minority Villages"],
-    "cities": ["sapa"],
+    "highlights": [
+      "Sapa Rice Terraces",
+      "Ha Giang Motorbike Loop",
+      "Fansipan Summit",
+      "Ethnic Minority Villages"
+    ],
+    "cities": [
+      "sapa"
+    ],
     "bestTimeToVisit": "September to November",
     "overview": "Northwest Vietnam is the country's mountainous frontier, where the Hoang Lien Son range -- home to Fansipan, Indochina's highest peak at 3,143 meters -- descends into deep river valleys carved by the Red and Black Rivers. This is Vietnam at its most dramatic and least developed, a region of serpentine mountain passes, terraced rice paddies that glow emerald green in summer and golden in harvest season, and remote villages where Hmong, Dao, Tay, and Thai ethnic minorities maintain centuries-old traditions of weaving, farming, and communal life. Sapa is the most accessible gateway, now connected to Hanoi by expressway and cable car to Fansipan's summit, but the true adventure lies further afield: the legendary Ha Giang Loop, considered one of the world's greatest motorcycle journeys, winds through the Dong Van Karst Plateau Geopark along the Chinese border, past vertiginous cliffs, hidden valleys, and ethnic markets that feel unchanged by time.",
     "topExperiences": [
@@ -141,11 +211,24 @@
   },
   {
     "slug": "mekong-delta",
-    "name": "Mekong Delta",
-    "description": "Known as Vietnam's rice bowl, the Mekong Delta is a vast labyrinth of rivers, swamps, and islands where life unfolds on the water -- from floating markets piled high with tropical fruit to sampan rides through coconut palm-lined canals.",
+    "name": {
+      "en": "Mekong Delta",
+      "nl": "Mekongdelta"
+    },
+    "description": {
+      "en": "Known as Vietnam's rice bowl, the Mekong Delta is a vast labyrinth of rivers, swamps, and islands where life unfolds on the water -- from floating markets piled high with tropical fruit to sampan rides through coconut palm-lined canals.",
+      "nl": "Bekend als de rijstschuur van Vietnam is de Mekongdelta een uitgestrekt labyrint van rivieren, moerassen en eilanden waar het leven zich op het water afspeelt — van drijvende markten vol tropisch fruit tot sampantochten door met kokospalmen omzoomde kanalen."
+    },
     "image": "/images/regions/mekong-delta.webp",
-    "highlights": ["Cai Rang Floating Market", "Coconut Palm Canals", "Tropical Fruit Orchards", "Authentic River Life"],
-    "cities": ["can-tho"],
+    "highlights": [
+      "Cai Rang Floating Market",
+      "Coconut Palm Canals",
+      "Tropical Fruit Orchards",
+      "Authentic River Life"
+    ],
+    "cities": [
+      "can-tho"
+    ],
     "bestTimeToVisit": "December to May",
     "overview": "The Mekong Delta (Dong Bang Song Cuu Long, meaning 'Nine Dragon River Delta') is where the mighty Mekong River fans out into nine tributaries before emptying into the South China Sea, creating one of the most productive agricultural regions on earth. This flat, water-soaked landscape of rice paddies, fruit orchards, fish farms, and mangrove forests feeds much of Vietnam and exports rice worldwide. Life here revolves around the water: families live in houses on stilts, children paddle to school in sampans, and commerce happens at colorful floating markets where boats are piled high with pineapples, dragon fruit, pomelo, and rambutan. Can Tho, the region's largest city, serves as the gateway to the famous Cai Rang floating market, while smaller towns like My Tho and Ben Tre offer intimate canal tours through coconut palm-lined waterways. The delta's cuisine is distinctly southern -- sweeter, spicier, and featuring an abundance of fresh river fish, tropical fruits, and coconut in every form imaginable.",
     "topExperiences": [

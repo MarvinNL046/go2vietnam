@@ -1,11 +1,17 @@
 {
   "slug": "goi-cuon",
-  "name": { "en": "Goi Cuon" },
+  "name": {
+    "en": "Goi Cuon",
+    "nl": "Goi Cuon"
+  },
   "vietnameseName": "Gỏi Cuốn",
   "image": "/images/food/goi-cuon.webp",
   "category": "Appetizer",
   "spiceLevel": "mild",
-  "description": { "en": "Translucent rice paper rolls filled with shrimp, pork, rice vermicelli, and fresh herbs, served with a rich peanut hoisin dipping sauce — a refreshing and healthy Vietnamese classic." },
+  "description": {
+    "en": "Translucent rice paper rolls filled with shrimp, pork, rice vermicelli, and fresh herbs, served with a rich peanut hoisin dipping sauce — a refreshing and healthy Vietnamese classic.",
+    "nl": "Doorschijnende rijstpapierrolletjes gevuld met garnalen, varkensvlees, rijstvermicelli en verse kruiden, geserveerd met een rijke pinda-hoisindipsaus — een verfrissende en gezonde Vietnamese klassieker."
+  },
   "overview": "Goi cuon, often called fresh spring rolls or summer rolls in Western countries, are one of Vietnam's most elegant and refreshing dishes. Translucent sheets of softened rice paper are wrapped around a filling of poached shrimp, sliced pork, rice vermicelli noodles, and an abundance of fresh herbs and lettuce, creating a beautiful roll where the pink shrimp and green herbs are visible through the wrapper. The rolls are served at room temperature with a thick, savory-sweet peanut and hoisin dipping sauce (or occasionally a fish sauce-based dip). Goi cuon embodies the Vietnamese culinary philosophy of fresh, uncooked ingredients balanced with protein, starch, and aromatic herbs. They are served everywhere in Vietnam, from street stalls to high-end restaurants, and are particularly popular as an appetizer or light meal during the hot summer months.",
   "origin": {
     "region": "Southern Vietnam (Mekong Delta region)",

@@ -1,11 +1,26 @@
 {
   "slug": "mekong-delta",
-  "name": "Mekong Delta",
+  "name": {
+    "en": "Mekong Delta",
+    "nl": "Mekongdelta"
+  },
   "image": "/images/regions/mekong-delta.webp",
-  "description": "Known as Vietnam's rice bowl, the Mekong Delta is a vast labyrinth of rivers, swamps, and islands where life unfolds on the water -- from floating markets piled high with tropical fruit to sampan rides through coconut palm-lined canals.",
+  "description": {
+    "en": "Known as Vietnam's rice bowl, the Mekong Delta is a vast labyrinth of rivers, swamps, and islands where life unfolds on the water -- from floating markets piled high with tropical fruit to sampan rides through coconut palm-lined canals.",
+    "nl": "Bekend als de rijstschuur van Vietnam is de Mekongdelta een uitgestrekt labyrint van rivieren, moerassen en eilanden waar het leven zich op het water afspeelt — van drijvende markten vol tropisch fruit tot sampantochten door met kokospalmen omzoomde kanalen."
+  },
   "overview": "The Mekong Delta (Dong Bang Song Cuu Long, meaning 'Nine Dragon River Delta') is where the mighty Mekong River fans out into nine tributaries before emptying into the South China Sea, creating one of the most productive agricultural regions on earth. This flat, water-soaked landscape of rice paddies, fruit orchards, fish farms, and mangrove forests feeds much of Vietnam and exports rice worldwide. Life here revolves around the water: families live in houses on stilts, children paddle to school in sampans, and commerce happens at colorful floating markets where boats are piled high with pineapples, dragon fruit, pomelo, and rambutan. Can Tho, the region's largest city and unofficial capital, serves as the gateway to the famous Cai Rang floating market, the largest and most vibrant in the delta. Smaller towns like My Tho and Ben Tre offer intimate canal tours through coconut palm-lined waterways, while the remote Ca Mau peninsula at the southern tip of Vietnam features vast mangrove forests and bird sanctuaries. The delta's cuisine is distinctly southern -- sweeter, spicier, and featuring an abundance of fresh river fish, tropical fruits, and coconut in every form imaginable.",
-  "highlights": ["Cai Rang Floating Market", "Coconut Palm Canals", "Tropical Fruit Orchards", "Authentic River Life", "Ben Tre Coconut Island", "Bird Sanctuaries"],
-  "cities": ["can-tho"],
+  "highlights": [
+    "Cai Rang Floating Market",
+    "Coconut Palm Canals",
+    "Tropical Fruit Orchards",
+    "Authentic River Life",
+    "Ben Tre Coconut Island",
+    "Bird Sanctuaries"
+  ],
+  "cities": [
+    "can-tho"
+  ],
   "bestTimeToVisit": "December to May — The dry season offers sunny skies and calm river conditions, perfect for floating market visits and canal boat tours. The landscape is lush from the preceding wet season. Avoid September to November when flooding can be severe.",
   "topExperiences": [
     {

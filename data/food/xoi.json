@@ -1,11 +1,17 @@
 {
   "slug": "xoi",
-  "name": { "en": "Xoi" },
+  "name": {
+    "en": "Xoi",
+    "nl": "Xoi"
+  },
   "vietnameseName": "Xôi",
   "image": "/images/food/xoi.webp",
   "category": "Rice",
   "spiceLevel": "mild",
-  "description": { "en": "Vietnamese sticky rice cooked by steaming and served with a wide array of savory or sweet toppings, from shredded chicken and fried shallots to mung bean paste and coconut — a beloved breakfast staple across the country." },
+  "description": {
+    "en": "Vietnamese sticky rice cooked by steaming and served with a wide array of savory or sweet toppings, from shredded chicken and fried shallots to mung bean paste and coconut — a beloved breakfast staple across the country.",
+    "nl": "Vietnamese kleefrijst bereid door stomen en geserveerd met een breed scala aan hartige of zoete toppings, van geraspte kip en gebakken sjalotten tot mungbonenpasta en kokos — een geliefd ontbijtgerecht in het hele land."
+  },
   "overview": "Xoi (sticky rice or glutinous rice) is one of Vietnam's most ancient and fundamental foods, eaten daily by millions as a breakfast staple, snack, and ceremonial offering. Vietnamese sticky rice is prepared by soaking glutinous rice for several hours or overnight, then steaming it (never boiling) in a cloth-lined steamer or bamboo basket until each grain is tender, glossy, and pleasantly chewy. What makes xoi remarkable is its incredible versatility: it serves as a blank canvas for dozens of different toppings, from savory combinations like shredded chicken, Chinese sausage, fried shallots, and pate to sweet preparations with mung bean paste, coconut, sugar, and tropical fruits. In the mornings, xoi vendors are found on virtually every street corner in Vietnamese cities, ladling scoops of steaming sticky rice into banana leaf wraps or styrofoam containers for workers and students on their way to start the day. Xoi is also an essential ceremonial food, present at weddings, funerals, ancestral worship, and Tet celebrations.",
   "origin": {
     "region": "Nationwide (ancient Vietnamese tradition)",

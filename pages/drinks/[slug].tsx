@@ -45,15 +45,15 @@ interface DrinkPageProps {
 }
 
 export default function DrinkPage({ drink }: DrinkPageProps) {
-  const { t } = useTranslation('common');
+  const { t, locale } = useTranslation('common');
 
-  const name = typeof drink.name === 'object' ? drink.name.en : drink.name || drink.slug;
-  const description = typeof drink.description === 'object' ? drink.description.en : drink.description;
+  const name = typeof drink.name === 'object' ? ((drink.name as any)[locale] || drink.name.en) : drink.name || drink.slug;
+  const description = typeof drink.description === 'object' ? ((drink.description as any)[locale] || drink.description.en) : drink.description;
 
   return (
     <>
       <SEOHead
-        title={`${name} - Vietnamese Drinks Guide | ${siteConfig.name}`}
+        title={`${name} - ${t('drinkDetail.drinksGuide')} | ${siteConfig.name}`}
         description={description || `Learn about ${name}, a popular Vietnamese drink. Complete guide with history, how it's made, and where to try it.`}
         ogImage={drink.image}
       />
@@ -100,7 +100,7 @@ export default function DrinkPage({ drink }: DrinkPageProps) {
           {/* Overview */}
           {drink.overview && (
             <section className="mb-12">
-              <h2 className="section-title font-display text-2xl text-warm-900 mb-4">Overview</h2>
+              <h2 className="section-title font-display text-2xl text-warm-900 mb-4">{t('cityDetail.overview')}</h2>
               <div className="prose-custom">
                 <p>{drink.overview}</p>
               </div>
@@ -110,11 +110,11 @@ export default function DrinkPage({ drink }: DrinkPageProps) {
           {/* Origin & History */}
           {drink.origin && (
             <section className="mb-12">
-              <h2 className="section-title font-display text-2xl text-warm-900 mb-4">Origin & History</h2>
+              <h2 className="section-title font-display text-2xl text-warm-900 mb-4">{t('drinkDetail.originHistory')}</h2>
               <div className="prose-custom">
                 {drink.origin.region && (
                   <p className="text-warm-600 mb-2">
-                    <span className="font-semibold text-warm-800">Region:</span> {drink.origin.region}
+                    <span className="font-semibold text-warm-800">{t('drinkDetail.region')}</span> {drink.origin.region}
                   </p>
                 )}
                 {drink.origin.history && (
@@ -127,7 +127,7 @@ export default function DrinkPage({ drink }: DrinkPageProps) {
           {/* How It's Made */}
           {drink.howItsMade && (
             <section className="mb-12">
-              <h2 className="section-title font-display text-2xl text-warm-900 mb-4">How It&apos;s Made</h2>
+              <h2 className="section-title font-display text-2xl text-warm-900 mb-4">{t('drinkDetail.howItsMade')}</h2>
               <div className="prose-custom">
                 <p>{drink.howItsMade}</p>
               </div>
@@ -137,7 +137,7 @@ export default function DrinkPage({ drink }: DrinkPageProps) {
           {/* Variations */}
           {drink.variations && drink.variations.length > 0 && (
             <section className="mb-12">
-              <h2 className="section-title font-display text-2xl text-warm-900 mb-4">Variations</h2>
+              <h2 className="section-title font-display text-2xl text-warm-900 mb-4">{t('drinkDetail.variations')}</h2>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                 {drink.variations.map((variation, index) => (
                   <div key={index} className="card p-5">
@@ -152,7 +152,7 @@ export default function DrinkPage({ drink }: DrinkPageProps) {
           {/* Where to Try */}
           {drink.whereToTry && drink.whereToTry.length > 0 && (
             <section className="mb-12">
-              <h2 className="section-title font-display text-2xl text-warm-900 mb-4">Where to Try</h2>
+              <h2 className="section-title font-display text-2xl text-warm-900 mb-4">{t('drinkDetail.whereToTry')}</h2>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                 {drink.whereToTry.map((place, index) => (
                   <div key={index} className="card p-5">
@@ -176,7 +176,7 @@ export default function DrinkPage({ drink }: DrinkPageProps) {
           {/* Price Range */}
           {drink.priceRange && (
             <section className="mb-12">
-              <h2 className="section-title font-display text-2xl text-warm-900 mb-4">Price Range</h2>
+              <h2 className="section-title font-display text-2xl text-warm-900 mb-4">{t('drinkDetail.priceRange')}</h2>
               <div className="card p-5 inline-flex items-center gap-3">
                 <svg className="w-6 h-6 text-brand-accent" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
@@ -189,7 +189,7 @@ export default function DrinkPage({ drink }: DrinkPageProps) {
           {/* Tips */}
           {drink.tips && drink.tips.length > 0 && (
             <section className="mb-12">
-              <h2 className="section-title font-display text-2xl text-warm-900 mb-4">Tips</h2>
+              <h2 className="section-title font-display text-2xl text-warm-900 mb-4">{t('drinkDetail.tips')}</h2>
               <ul className="space-y-3">
                 {drink.tips.map((tip, index) => (
                   <li key={index} className="flex items-start gap-3">
@@ -206,7 +206,7 @@ export default function DrinkPage({ drink }: DrinkPageProps) {
           {/* Cultural Notes */}
           {drink.culturalNotes && (
             <section className="mb-12">
-              <h2 className="section-title font-display text-2xl text-warm-900 mb-4">Cultural Notes</h2>
+              <h2 className="section-title font-display text-2xl text-warm-900 mb-4">{t('drinkDetail.culturalNotes')}</h2>
               <div className="prose-custom">
                 <p>{drink.culturalNotes}</p>
               </div>
@@ -216,7 +216,7 @@ export default function DrinkPage({ drink }: DrinkPageProps) {
           {/* Sources */}
           {drink.sources && drink.sources.length > 0 && (
             <section className="mb-12">
-              <h2 className="section-title font-display text-warm-700 text-lg mb-3">Sources</h2>
+              <h2 className="section-title font-display text-warm-700 text-lg mb-3">{t('drinkDetail.sources')}</h2>
               <ul className="text-warm-400 text-sm space-y-1">
                 {drink.sources.map((source, index) => (
                   <li key={index}>{source}</li>
@@ -234,7 +234,7 @@ export default function DrinkPage({ drink }: DrinkPageProps) {
               <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M15 19l-7-7 7-7" />
               </svg>
-              Back to all drinks
+              {t('drinkDetail.backToAll')}
             </Link>
           </div>
         </div>

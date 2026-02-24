@@ -1,11 +1,17 @@
 {
   "slug": "mi-quang",
-  "name": { "en": "Mi Quang" },
+  "name": {
+    "en": "Mi Quang",
+    "nl": "Mi Quang"
+  },
   "vietnameseName": "Mì Quảng",
   "image": "/images/food/mi-quang.webp",
   "category": "Noodle",
   "spiceLevel": "medium",
-  "description": { "en": "A vibrant turmeric-tinted noodle dish from Quang Nam province served with just a small amount of rich broth, topped with shrimp, pork, quail eggs, peanuts, rice crackers, and an abundance of fresh herbs." },
+  "description": {
+    "en": "A vibrant turmeric-tinted noodle dish from Quang Nam province served with just a small amount of rich broth, topped with shrimp, pork, quail eggs, peanuts, rice crackers, and an abundance of fresh herbs.",
+    "nl": "Een kleurrijk noedelgerecht met kurkumatint uit de provincie Quang Nam, geserveerd met slechts een kleine hoeveelheid rijke bouillon, belegd met garnalen, varkensvlees, kwarteleitjes, pinda's, rijstcrackers en een overvloed aan verse kruiden."
+  },
   "overview": "Mi Quang is the pride of Quang Nam province and the city of Da Nang, a vibrantly colored noodle dish that stands apart from other Vietnamese noodle soups through its use of turmeric and its unique 'dry soup' presentation. Unlike pho or bun bo Hue, where noodles swim in a deep bowl of broth, mi quang uses only a small ladleful of intensely flavored, golden-yellow broth to moisten wide, flat rice noodles that have been tinted yellow with turmeric. The toppings are generous and varied — typically including shrimp, sliced pork or chicken, quail eggs, roasted peanuts, and sesame rice crackers (bánh tráng nướng) — and the dish is crowned with a mountain of fresh herbs, shredded banana blossom, and lettuce. The concentrated broth, the crunch of peanuts and crackers, the freshness of herbs, and the rich toppings create a dish that is satisfying, complex, and deeply representative of central Vietnamese cuisine.",
   "origin": {
     "region": "Quang Nam Province / Da Nang, Central Vietnam",

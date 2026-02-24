@@ -1,32 +1,63 @@
 {
   "slug": "phu-quoc",
-  "name": { "en": "Phu Quoc" },
+  "name": {
+    "en": "Phu Quoc",
+    "nl": "Phu Quoc"
+  },
   "vietnameseName": "Phú Quốc",
   "image": "/images/cities/phu-quoc.webp",
   "region": "Southern Vietnam",
-  "highlights": ["Pristine Beaches", "Snorkeling & Diving", "Night Market", "Fish Sauce Heritage"],
-  "description": { "en": "Vietnam's largest island sits in the Gulf of Thailand, offering powdery white-sand beaches, coral reefs teeming with marine life, and spectacular sunsets over the ocean. Phu Quoc has rapidly developed from a sleepy fishing island into a resort destination while preserving its famous fish sauce production, pepper farms, and the wild jungle interior of its national park." },
+  "highlights": [
+    "Pristine Beaches",
+    "Snorkeling & Diving",
+    "Night Market",
+    "Fish Sauce Heritage"
+  ],
+  "description": {
+    "en": "Vietnam's largest island sits in the Gulf of Thailand, offering powdery white-sand beaches, coral reefs teeming with marine life, and spectacular sunsets over the ocean. Phu Quoc has rapidly developed from a sleepy fishing island into a resort destination while preserving its famous fish sauce production, pepper farms, and the wild jungle interior of its national park.",
+    "nl": "Het grootste eiland van Vietnam ligt in de Golf van Thailand en biedt poederachtige witte zandstranden, koraalriffen vol zeeleven en spectaculaire zonsondergangen boven de oceaan. Phu Quoc heeft zich snel ontwikkeld van een slaperig visserseiland tot een resortbestemming, terwijl de beroemde vissausproductie, peperplantages en het wilde junglegebied van het nationale park bewaard zijn gebleven."
+  },
   "overview": "Phu Quoc is Vietnam's largest island, covering 574 square kilometers in the Gulf of Thailand, closer to Cambodia than to the Vietnamese mainland. Once a sleepy island known primarily for producing Vietnam's finest fish sauce (nuoc mam) and black pepper, Phu Quoc has undergone dramatic transformation since being designated a Special Economic Zone. International airport connections, large-scale resorts, a cable car to neighboring islands, and an entertainment complex have brought modern tourism infrastructure, while the island's stunning natural assets — white-sand beaches, coral reefs, and a UNESCO-recognized national park covering more than half the island — remain its primary draw. Phu Quoc's west coast catches spectacular sunsets over the Gulf of Thailand, its southern islands offer some of Vietnam's best snorkeling and diving, and the Duong Dong night market is one of the country's best seafood experiences. Despite rapid development in the south and northwest, much of the island retains its laid-back fishing village character, particularly along the northeast coast and in the national park interior.",
   "neighborhoods": [
     {
       "name": "Duong Dong Town",
       "description": "The island's main town and administrative center on the west coast. Duong Dong has the island's largest market, the famous night market, and the Dinh Cau fishing temple perched on rocks at the harbor entrance. The town retains a working fishing village feel, with colorful boats filling the harbor and the pungent aroma of fish sauce production wafting from nearby factories. Most mid-range hotels and independent restaurants are located here.",
-      "highlights": ["Phu Quoc Night Market", "Dinh Cau Rock Temple", "Fishing harbor", "Fish sauce factories"]
+      "highlights": [
+        "Phu Quoc Night Market",
+        "Dinh Cau Rock Temple",
+        "Fishing harbor",
+        "Fish sauce factories"
+      ]
     },
     {
       "name": "Long Beach (Bai Truong)",
       "description": "Stretching 20km along the west coast south of Duong Dong, Long Beach is the island's main tourism strip. The northern section near Duong Dong has budget and mid-range accommodation, while the southern section features large international resorts including InterContinental, JW Marriott, and Novotel. The entire beach faces west, making it the prime sunset-watching location on the island.",
-      "highlights": ["20km sandy beach", "Spectacular sunsets", "Resort strip", "Beach bars and restaurants"]
+      "highlights": [
+        "20km sandy beach",
+        "Spectacular sunsets",
+        "Resort strip",
+        "Beach bars and restaurants"
+      ]
     },
     {
       "name": "Ong Lang Beach",
       "description": "Located on the northwest coast about 8km north of Duong Dong, Ong Lang is a quieter, more secluded alternative to Long Beach. Several boutique resorts and eco-lodges are set among coconut palms along the beach. The area has a more relaxed, upscale feel with fewer crowds. Some of the island's best mid-range and boutique accommodations are found here.",
-      "highlights": ["Secluded beach atmosphere", "Boutique resorts", "Coconut palm settings", "Quieter than Long Beach"]
+      "highlights": [
+        "Secluded beach atmosphere",
+        "Boutique resorts",
+        "Coconut palm settings",
+        "Quieter than Long Beach"
+      ]
     },
     {
       "name": "An Thoi (South of the island)",
       "description": "The southern tip of Phu Quoc is the departure point for island-hopping and snorkeling trips to the An Thoi Archipelago (15 small islands with coral reefs). The area is also home to the Hon Thom Cable Car (the world's longest over-sea cable car at 7,899 meters), Sun World Aquatopia water park, and a developing tourism complex. The traditional fishing town of An Thoi retains some local character.",
-      "highlights": ["Hon Thom Cable Car", "An Thoi Islands snorkeling", "Sun World Aquatopia", "Island-hopping departure point"]
+      "highlights": [
+        "Hon Thom Cable Car",
+        "An Thoi Islands snorkeling",
+        "Sun World Aquatopia",
+        "Island-hopping departure point"
+      ]
     }
   ],
   "gettingThere": {

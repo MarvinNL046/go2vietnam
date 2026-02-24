@@ -1,37 +1,45 @@
 import { useRouter } from 'next/router';
 import { useEffect, useState } from 'react';
 
+import commonNl from '../translations/nl/common.json';
 import commonEn from '../translations/en/common.json';
+import guidesNl from '../translations/nl/guides.json';
+import guidesEn from '../translations/en/guides.json';
 
-const defaultTranslations: Record<string, any> = {
-  common: commonEn,
+const allTranslations: Record<string, Record<string, any>> = {
+  nl: { common: commonNl, guides: guidesNl },
+  en: { common: commonEn, guides: guidesEn },
 };
 
-type TranslationFile = 'common';
+type TranslationFile = 'common' | 'guides';
 
 export function useTranslation(file: TranslationFile = 'common') {
   const router = useRouter();
-  const { locale = 'en' } = router;
-  const [translations, setTranslations] = useState<any>(defaultTranslations[file] || {});
+  const locale = router.locale || 'nl';
+  const [translations, setTranslations] = useState<any>(
+    allTranslations[locale]?.[file] || allTranslations['nl'][file] || {}
+  );
 
   useEffect(() => {
-    if (locale === 'en' && defaultTranslations[file]) return;
+    const t = allTranslations[locale]?.[file];
+    if (t) {
+      setTranslations(t);
+      return;
+    }
 
+    // Dynamic import fallback
     async function loadTranslations() {
       try {
         const translationModule = await import(`../translations/${locale}/${file}.json`);
         setTranslations(translationModule.default || translationModule);
       } catch (error) {
-        if (defaultTranslations[file]) {
-          setTranslations(defaultTranslations[file]);
+        // Fallback to nl
+        const fallback = allTranslations['nl']?.[file];
+        if (fallback) {
+          setTranslations(fallback);
         } else {
-          try {
-            const fallbackModule = await import(`../translations/en/${file}.json`);
-            setTranslations(fallbackModule.default || fallbackModule);
-          } catch (fallbackError) {
-            console.error(`Translation file not found: ${file}`, fallbackError);
-            setTranslations({});
-          }
+          console.error(`Translation file not found: ${locale}/${file}`, error);
+          setTranslations({});
         }
       }
     }

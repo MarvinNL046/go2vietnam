@@ -1,11 +1,17 @@
 {
   "slug": "bun-cha",
-  "name": { "en": "Bun Cha" },
+  "name": {
+    "en": "Bun Cha",
+    "nl": "Bun Cha"
+  },
   "vietnameseName": "Bún Chả",
   "image": "/images/food/bun-cha.webp",
   "category": "Noodle",
   "spiceLevel": "mild",
-  "description": { "en": "Hanoi's beloved lunchtime dish of smoky charcoal-grilled pork patties and sliced pork belly served in a sweet and tangy dipping broth alongside rice vermicelli noodles and a basket of fresh herbs." },
+  "description": {
+    "en": "Hanoi's beloved lunchtime dish of smoky charcoal-grilled pork patties and sliced pork belly served in a sweet and tangy dipping broth alongside rice vermicelli noodles and a basket of fresh herbs.",
+    "nl": "Het geliefde lunchgerecht van Hanoi: rokerig over houtskool gegrilde varkensgehaktballetjes en gesneden varkensbuik, geserveerd in een zoetzure dipsaus-bouillon met rijstvermicelli en een mandje verse kruiden."
+  },
   "overview": "Bun cha is the quintessential Hanoi lunch dish, a meal so beloved in the capital that entire streets fill with the intoxicating aroma of charcoal-grilled pork every day around 11:00 AM. Unlike many Vietnamese noodle dishes where broth and noodles are served together, bun cha is a deconstructed affair: grilled pork patties (chả) and slices of caramelized pork belly arrive swimming in a bowl of warm, sweet-and-sour dipping broth (nước chấm), while the white rice vermicelli noodles (bún) and a generous plate of fresh herbs come separately. Diners dip clumps of noodles and lettuce-wrapped herbs into the meaty broth, creating each bite to their own preference. The dish gained worldwide fame in 2016 when President Barack Obama and chef Anthony Bourdain shared bun cha at Bun Cha Huong Lien in Hanoi, a meal that was broadcast globally and forever linked bun cha to Hanoi's culinary identity.",
   "origin": {
     "region": "Hanoi, Northern Vietnam",

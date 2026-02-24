@@ -1,5 +1,6 @@
 import Image from 'next/image';
 import Link from 'next/link';
+import { useTranslation } from '../hooks/useTranslation';
 
 interface FoodCardProps {
   name: string;
@@ -10,14 +11,16 @@ interface FoodCardProps {
   description?: string;
 }
 
-const spiceLevelConfig: Record<string, { label: string; color: string }> = {
-  mild: { label: 'Mild', color: 'text-warm-500' },
-  medium: { label: 'Medium', color: 'text-amber-600' },
-  hot: { label: 'Hot', color: 'text-orange-600' },
-  'very hot': { label: 'Very Hot', color: 'text-red-600' },
-};
-
 const FoodCard: React.FC<FoodCardProps> = ({ name, slug, image, category, spiceLevel, description }) => {
+  const { t } = useTranslation('common');
+
+  const spiceLevelConfig: Record<string, { label: string; color: string }> = {
+    mild: { label: t('spice.mild'), color: 'text-warm-500' },
+    medium: { label: t('spice.medium'), color: 'text-amber-600' },
+    hot: { label: t('spice.hot'), color: 'text-orange-600' },
+    'very hot': { label: t('spice.veryHot'), color: 'text-red-600' },
+  };
+
   const spice = spiceLevel ? spiceLevelConfig[spiceLevel.toLowerCase()] : null;
 
   return (

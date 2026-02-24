@@ -12,13 +12,13 @@ interface RegionsIndexProps {
 }
 
 export default function RegionsIndex({ regions }: RegionsIndexProps) {
-  const { t } = useTranslation('common');
+  const { t, locale } = useTranslation('common');
 
   return (
     <>
       <SEOHead
-        title={`Regions of ${siteConfig.destination} - ${siteConfig.name}`}
-        description={`Explore the diverse regions of ${siteConfig.destination}. From the mountains of the north to the Mekong Delta in the south, discover what makes each region unique.`}
+        title={`${t('regionIndex.title')} - ${siteConfig.name}`}
+        description={t('regionIndex.subtitle')}
       />
       <div className="container-custom py-8 lg:py-12">
         <Breadcrumbs items={[
@@ -28,10 +28,10 @@ export default function RegionsIndex({ regions }: RegionsIndexProps) {
 
         <div className="mb-10">
           <h1 className="font-display text-display-sm text-warm-900 mb-2">
-            Regions of {siteConfig.destination}
+            {t('regionIndex.title')}
           </h1>
           <p className="text-warm-500 text-lg">
-            Discover the diverse landscapes, cultures, and experiences across the country
+            {t('regionIndex.subtitle')}
           </p>
         </div>
 
@@ -42,19 +42,19 @@ export default function RegionsIndex({ regions }: RegionsIndexProps) {
                 <path strokeLinecap="round" strokeLinejoin="round" d="M9 6.75V15m6-6v8.25m.503 3.498l4.875-2.437c.381-.19.622-.58.622-1.006V4.82c0-.836-.88-1.38-1.628-1.006l-3.869 1.934c-.317.159-.69.159-1.006 0L9.503 3.252a1.125 1.125 0 00-1.006 0L3.622 5.689C3.24 5.88 3 6.27 3 6.695V19.18c0 .836.88 1.38 1.628 1.006l3.869-1.934c.317-.159.69-.159 1.006 0l4.994 2.497c.317.158.69.158 1.006 0z" />
               </svg>
             </div>
-            <p className="text-warm-500 text-lg font-medium mb-2">No regions yet</p>
-            <p className="text-warm-400 text-sm">Content coming soon! We are working on adding regions.</p>
+            <p className="text-warm-500 text-lg font-medium mb-2">{t('regionIndex.noContent')}</p>
+            <p className="text-warm-400 text-sm">{t('regionIndex.comingSoon')}</p>
           </div>
         ) : (
           <div className="animate-stagger grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 lg:gap-8">
             {regions.map((region: any) => (
               <RegionCard
                 key={region.slug}
-                name={region.name}
+                name={(typeof region.name === 'object' ? (region.name as any)[locale] || region.name.en : region.name) || region.slug}
                 slug={region.slug}
                 image={region.image || '/images/placeholder.webp'}
                 highlights={region.highlights || []}
-                description={region.description}
+                description={typeof region.description === 'object' ? (region.description as any)[locale] || region.description.en : region.description}
                 cities={region.cities || []}
               />
             ))}

@@ -21,9 +21,9 @@ interface FoodSpecialty {
 
 interface RegionDetail {
   slug: string;
-  name: string;
+  name: string | { en: string; nl?: string };
   image?: string;
-  description?: string;
+  description?: string | { en: string; nl?: string };
   overview?: string;
   highlights?: string[];
   cities?: string[];
@@ -108,36 +108,38 @@ function IconShield() {
 /* ------------------------------------------------------------------ */
 
 export default function RegionPage({ region, linkedCities }: RegionPageProps) {
-  const { t } = useTranslation('common');
+  const { t, locale } = useTranslation('common');
+  const regionName = typeof region.name === 'object' ? ((region.name as any)[locale] || region.name.en) : region.name;
+  const regionDescription = typeof region.description === 'object' ? ((region.description as any)[locale] || region.description.en) : region.description;
 
   return (
     <>
       <SEOHead
-        title={`${region.name} Travel Guide - ${siteConfig.name}`}
-        description={region.description || `Complete travel guide for ${region.name} in ${siteConfig.destination}.`}
+        title={`${regionName} Travel Guide - ${siteConfig.name}`}
+        description={regionDescription || `Complete travel guide for ${regionName} in ${siteConfig.destination}.`}
         ogImage={region.image}
       />
       <div className="container-custom py-8 lg:py-12">
         <Breadcrumbs items={[
           { name: t('nav.home'), href: '/' },
           { name: t('nav.regions'), href: '/region/' },
-          { name: region.name, href: `/region/${region.slug}/` },
+          { name: regionName, href: `/region/${region.slug}/` },
         ]} />
 
         {/* Hero Image */}
         {region.image && (
           <div className="relative h-72 md:h-[28rem] rounded-2xl overflow-hidden mb-10 shadow-soft-xl">
-            <Image src={region.image} alt={region.name} fill className="object-cover" priority />
+            <Image src={region.image} alt={regionName} fill className="object-cover" priority />
             <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-black/20 to-transparent" />
             <div className="absolute bottom-8 left-8 right-8">
-              <h1 className="font-display text-display-sm md:text-display-md text-white mb-3">{region.name}</h1>
+              <h1 className="font-display text-display-sm md:text-display-md text-white mb-3">{regionName}</h1>
             </div>
           </div>
         )}
 
         {!region.image && (
           <div className="mb-10">
-            <h1 className="font-display text-display-sm md:text-display-md text-warm-900 mb-3">{region.name}</h1>
+            <h1 className="font-display text-display-sm md:text-display-md text-warm-900 mb-3">{regionName}</h1>
           </div>
         )}
 
@@ -157,11 +159,11 @@ export default function RegionPage({ region, linkedCities }: RegionPageProps) {
 
         <div className="max-w-4xl">
           {/* Overview */}
-          {(region.overview || region.description) && (
+          {(region.overview || regionDescription) && (
             <section className="mb-14">
-              <h2 className="font-display text-2xl text-warm-900 mb-4">Overview</h2>
+              <h2 className="font-display text-2xl text-warm-900 mb-4">{t('regionDetail.overview')}</h2>
               <div className="prose-custom">
-                <p>{region.overview || region.description}</p>
+                <p>{region.overview || regionDescription}</p>
               </div>
             </section>
           )}
@@ -169,8 +171,8 @@ export default function RegionPage({ region, linkedCities }: RegionPageProps) {
           {/* Top Experiences */}
           {region.topExperiences && region.topExperiences.length > 0 && (
             <section className="mb-14">
-              <h2 className="font-display text-2xl text-warm-900 mb-2">Top Experiences</h2>
-              <p className="text-warm-500 mb-6">The best things to do in {region.name}</p>
+              <h2 className="font-display text-2xl text-warm-900 mb-2">{t('regionDetail.topExperiences')}</h2>
+              <p className="text-warm-500 mb-6">{t('regionDetail.bestThingsToDo')} {regionName}</p>
               <div className="space-y-4">
                 {region.topExperiences.map((item, index) => (
                   <div key={index} className="card-flat p-5 flex gap-4">
@@ -190,12 +192,12 @@ export default function RegionPage({ region, linkedCities }: RegionPageProps) {
           {/* Cities in this Region */}
           {linkedCities.length > 0 && (
             <section className="mb-14">
-              <h2 className="font-display text-2xl text-warm-900 mb-2">Cities in {region.name}</h2>
-              <p className="text-warm-500 mb-6">Explore the destinations in this region</p>
+              <h2 className="font-display text-2xl text-warm-900 mb-2">{t('regionDetail.citiesIn')} {regionName}</h2>
+              <p className="text-warm-500 mb-6">{t('regionDetail.exploreDestinations')}</p>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
                 {linkedCities.map((city: any, index: number) => {
-                  const cityName = typeof city.name === 'object' ? city.name.en : city.name || city.slug;
-                  const cityDesc = typeof city.description === 'object' ? city.description.en : city.description;
+                  const cityName = typeof city.name === 'object' ? ((city.name as any)[locale] || city.name.en) : city.name || city.slug;
+                  const cityDesc = typeof city.description === 'object' ? ((city.description as any)[locale] || city.description.en) : city.description;
                   return (
                     <Link
                       key={index}
@@ -226,13 +228,13 @@ export default function RegionPage({ region, linkedCities }: RegionPageProps) {
           {/* Best Time to Visit */}
           {region.bestTimeToVisit && (
             <section className="mb-14">
-              <h2 className="font-display text-2xl text-warm-900 mb-4">Best Time to Visit</h2>
+              <h2 className="font-display text-2xl text-warm-900 mb-4">{t('regionDetail.bestTimeToVisit')}</h2>
               <div className="card p-6 flex items-center gap-4 bg-brand-accent-50 border-brand-accent-200">
                 <div className="flex-shrink-0 w-12 h-12 rounded-full bg-brand-accent-100 flex items-center justify-center">
                   <IconStar />
                 </div>
                 <div>
-                  <p className="text-warm-500 text-sm font-medium uppercase tracking-wide">Recommended Period</p>
+                  <p className="text-warm-500 text-sm font-medium uppercase tracking-wide">{t('regionDetail.recommendedPeriod')}</p>
                   <p className="font-display font-bold text-warm-900 text-lg">{region.bestTimeToVisit}</p>
                 </div>
               </div>
@@ -242,7 +244,7 @@ export default function RegionPage({ region, linkedCities }: RegionPageProps) {
           {/* Food & Specialties */}
           {region.food && (
             <section className="mb-14">
-              <h2 className="font-display text-2xl text-warm-900 mb-2">Food &amp; Specialties</h2>
+              <h2 className="font-display text-2xl text-warm-900 mb-2">{t('regionDetail.foodSpecialties')}</h2>
               {region.food.description && (
                 <div className="prose-custom mb-6">
                   <p>{region.food.description}</p>
@@ -277,8 +279,8 @@ export default function RegionPage({ region, linkedCities }: RegionPageProps) {
           {/* Getting There */}
           {region.gettingThere && (
             <section className="mb-14">
-              <h2 className="font-display text-2xl text-warm-900 mb-2">Getting There</h2>
-              <p className="text-warm-500 mb-6">How to reach {region.name}</p>
+              <h2 className="font-display text-2xl text-warm-900 mb-2">{t('regionDetail.gettingThere')}</h2>
+              <p className="text-warm-500 mb-6">{t('regionDetail.howToReach')} {regionName}</p>
               <div className="grid grid-cols-1 gap-4">
                 {region.gettingThere.byAir && (
                   <div className="card-flat p-6">
@@ -286,7 +288,7 @@ export default function RegionPage({ region, linkedCities }: RegionPageProps) {
                       <div className="w-10 h-10 rounded-full bg-sky-100 text-sky-700 flex items-center justify-center flex-shrink-0">
                         <IconPlane />
                       </div>
-                      <h3 className="font-display font-bold text-warm-900">By Air</h3>
+                      <h3 className="font-display font-bold text-warm-900">{t('regionDetail.byAir')}</h3>
                     </div>
                     <p className="text-warm-600 text-sm leading-relaxed">{region.gettingThere.byAir}</p>
                   </div>
@@ -297,7 +299,7 @@ export default function RegionPage({ region, linkedCities }: RegionPageProps) {
                       <div className="w-10 h-10 rounded-full bg-emerald-100 text-emerald-700 flex items-center justify-center flex-shrink-0">
                         <IconTrain />
                       </div>
-                      <h3 className="font-display font-bold text-warm-900">By Train</h3>
+                      <h3 className="font-display font-bold text-warm-900">{t('regionDetail.byTrain')}</h3>
                     </div>
                     <p className="text-warm-600 text-sm leading-relaxed">{region.gettingThere.byTrain}</p>
                   </div>
@@ -308,7 +310,7 @@ export default function RegionPage({ region, linkedCities }: RegionPageProps) {
                       <div className="w-10 h-10 rounded-full bg-amber-100 text-amber-700 flex items-center justify-center flex-shrink-0">
                         <IconBus />
                       </div>
-                      <h3 className="font-display font-bold text-warm-900">By Bus</h3>
+                      <h3 className="font-display font-bold text-warm-900">{t('regionDetail.byBus')}</h3>
                     </div>
                     <p className="text-warm-600 text-sm leading-relaxed">{region.gettingThere.byBus}</p>
                   </div>
@@ -319,7 +321,7 @@ export default function RegionPage({ region, linkedCities }: RegionPageProps) {
                       <div className="w-10 h-10 rounded-full bg-cyan-100 text-cyan-700 flex items-center justify-center flex-shrink-0">
                         <IconBoat />
                       </div>
-                      <h3 className="font-display font-bold text-warm-900">By Boat</h3>
+                      <h3 className="font-display font-bold text-warm-900">{t('regionDetail.byBoat')}</h3>
                     </div>
                     <p className="text-warm-600 text-sm leading-relaxed">{region.gettingThere.byBoat}</p>
                   </div>
@@ -331,7 +333,7 @@ export default function RegionPage({ region, linkedCities }: RegionPageProps) {
           {/* Getting Around */}
           {region.gettingAround && (
             <section className="mb-14">
-              <h2 className="font-display text-2xl text-warm-900 mb-4">Getting Around</h2>
+              <h2 className="font-display text-2xl text-warm-900 mb-4">{t('regionDetail.gettingAround')}</h2>
               <div className="prose-custom">
                 <p>{region.gettingAround}</p>
               </div>
@@ -341,14 +343,14 @@ export default function RegionPage({ region, linkedCities }: RegionPageProps) {
           {/* Accommodation */}
           {region.accommodation && (
             <section className="mb-14">
-              <h2 className="font-display text-2xl text-warm-900 mb-2">Accommodation</h2>
-              <p className="text-warm-500 mb-6">Where to stay in {region.name}</p>
+              <h2 className="font-display text-2xl text-warm-900 mb-2">{t('regionDetail.accommodation')}</h2>
+              <p className="text-warm-500 mb-6">{t('regionDetail.whereToStay')} {regionName}</p>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
                 {region.accommodation.budget && (
                   <div className="card-flat p-6">
                     <div className="flex items-center gap-3 mb-3">
                       <span className="w-8 h-8 rounded-lg bg-green-50 flex items-center justify-center text-green-600 text-sm font-bold">$</span>
-                      <h3 className="font-display font-bold text-lg text-warm-900">Budget</h3>
+                      <h3 className="font-display font-bold text-lg text-warm-900">{t('regionDetail.budget')}</h3>
                     </div>
                     <p className="text-warm-600 text-sm leading-relaxed">{region.accommodation.budget}</p>
                   </div>
@@ -357,7 +359,7 @@ export default function RegionPage({ region, linkedCities }: RegionPageProps) {
                   <div className="card-flat p-6">
                     <div className="flex items-center gap-3 mb-3">
                       <span className="w-8 h-8 rounded-lg bg-blue-50 flex items-center justify-center text-blue-600 text-sm font-bold">$$</span>
-                      <h3 className="font-display font-bold text-lg text-warm-900">Mid-Range</h3>
+                      <h3 className="font-display font-bold text-lg text-warm-900">{t('regionDetail.midRange')}</h3>
                     </div>
                     <p className="text-warm-600 text-sm leading-relaxed">{region.accommodation.midRange}</p>
                   </div>
@@ -366,7 +368,7 @@ export default function RegionPage({ region, linkedCities }: RegionPageProps) {
                   <div className="card-flat p-6">
                     <div className="flex items-center gap-3 mb-3">
                       <span className="w-8 h-8 rounded-lg bg-purple-50 flex items-center justify-center text-purple-600 text-sm font-bold">$$$</span>
-                      <h3 className="font-display font-bold text-lg text-warm-900">Luxury</h3>
+                      <h3 className="font-display font-bold text-lg text-warm-900">{t('regionDetail.luxury')}</h3>
                     </div>
                     <p className="text-warm-600 text-sm leading-relaxed">{region.accommodation.luxury}</p>
                   </div>
@@ -378,7 +380,7 @@ export default function RegionPage({ region, linkedCities }: RegionPageProps) {
           {/* Safety */}
           {region.safetyNotes && (
             <section className="mb-14">
-              <h2 className="font-display text-2xl text-warm-900 mb-4">Safety</h2>
+              <h2 className="font-display text-2xl text-warm-900 mb-4">{t('regionDetail.safety')}</h2>
               <div className="card-flat p-6 flex gap-4">
                 <IconShield />
                 <div className="prose-custom">
@@ -391,8 +393,8 @@ export default function RegionPage({ region, linkedCities }: RegionPageProps) {
           {/* Tips */}
           {region.tips && region.tips.length > 0 && (
             <section className="mb-14">
-              <h2 className="font-display text-2xl text-warm-900 mb-2">Travel Tips</h2>
-              <p className="text-warm-500 mb-6">Insider advice for visiting {region.name}</p>
+              <h2 className="font-display text-2xl text-warm-900 mb-2">{t('regionDetail.travelTips')}</h2>
+              <p className="text-warm-500 mb-6">{t('regionDetail.insiderAdvice')} {regionName}</p>
               <ul className="space-y-4">
                 {region.tips.map((tip, index) => (
                   <li key={index} className="flex items-start gap-3">
@@ -415,7 +417,7 @@ export default function RegionPage({ region, linkedCities }: RegionPageProps) {
               <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M15 19l-7-7 7-7" />
               </svg>
-              Back to all regions
+              {t('regionDetail.backToAll')}
             </Link>
           </div>
         </div>

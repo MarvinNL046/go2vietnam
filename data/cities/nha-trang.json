@@ -1,27 +1,53 @@
 {
   "slug": "nha-trang",
-  "name": { "en": "Nha Trang" },
+  "name": {
+    "en": "Nha Trang",
+    "nl": "Nha Trang"
+  },
   "vietnameseName": "Nha Trang",
   "image": "/images/cities/nha-trang.webp",
   "region": "South-Central Coast",
-  "highlights": ["Beach Promenade", "Island Hopping", "Scuba Diving", "Po Nagar Cham Towers"],
-  "description": { "en": "Vietnam's most popular beach resort city stretches along a stunning 6-kilometer crescent of golden sand backed by a lively promenade. Nha Trang offers excellent diving and snorkeling around nearby islands, ancient Cham temple ruins, rejuvenating mud baths, and a vibrant nightlife scene that attracts both international visitors and vacationing Vietnamese." },
+  "highlights": [
+    "Beach Promenade",
+    "Island Hopping",
+    "Scuba Diving",
+    "Po Nagar Cham Towers"
+  ],
+  "description": {
+    "en": "Vietnam's most popular beach resort city stretches along a stunning 6-kilometer crescent of golden sand backed by a lively promenade. Nha Trang offers excellent diving and snorkeling around nearby islands, ancient Cham temple ruins, rejuvenating mud baths, and a vibrant nightlife scene that attracts both international visitors and vacationing Vietnamese.",
+    "nl": "De populairste badplaats van Vietnam strekt zich uit langs een schitterende halvemaanvormige strook van zes kilometer goudkleurig zand met een levendige boulevard. Nha Trang biedt uitstekend duiken en snorkelen rond nabijgelegen eilanden, oude Cham-tempelruines, verkwikkende modderbaden en een bruisend nachtleven dat zowel internationale bezoekers als vakantievierende Vietnamezen aantrekt."
+  },
   "overview": "Nha Trang is Vietnam's premier beach resort city, centered on a sweeping 6km crescent of golden sand framed by green mountains and dotted with offshore islands. Located in Khanh Hoa Province on the south-central coast, the city has a population of roughly 500,000 and has been a popular beach destination since the French colonial era. The clear, warm waters of Nha Trang Bay are home to some of Vietnam's best coral reefs, making it the country's diving capital. Beyond the beach, the city has genuine historical depth: the Po Nagar Cham Towers, built between the 7th and 12th centuries, are among the best-preserved Cham religious sites in Vietnam. The Long Son Pagoda with its massive white Buddha sits atop a hill overlooking the city. In recent years, Nha Trang has seen rapid development with large-scale resort projects, amusement parks, and a growing Russian and Chinese tourist presence that has reshaped parts of the city center. Despite this, the beachfront remains beautiful, the seafood is excellent and affordable, and the surrounding islands offer pristine escapes from the resort strip.",
   "neighborhoods": [
     {
       "name": "Beachfront / Tran Phu Boulevard",
       "description": "The main tourist spine of Nha Trang runs along Tran Phu Boulevard, a palm-lined coastal road stretching the length of the beach. Most major hotels, resorts, restaurants, and bars are located here or on the blocks immediately behind. The central section near the Sailing Club and Louisiane Brewhouse is the liveliest area for nightlife. The southern end near the Vinpearl Cable Car terminal is more resort-oriented.",
-      "highlights": ["6km sandy beach", "Nha Trang Sailing Club", "Louisiane Brewhouse beach club", "Evening promenade"]
+      "highlights": [
+        "6km sandy beach",
+        "Nha Trang Sailing Club",
+        "Louisiane Brewhouse beach club",
+        "Evening promenade"
+      ]
     },
     {
       "name": "City Center / Dam Market Area",
       "description": "A few blocks inland from the beach, the area around Dam Market (Cho Dam) has a more authentic Vietnamese feel with local restaurants, shops, and the bustling circular market building. Nguyen Thien Thuat Street has a concentration of budget accommodation, travel agencies, and backpacker-oriented restaurants. The imposing Nha Trang Cathedral sits on a hill nearby.",
-      "highlights": ["Dam Market (Cho Dam)", "Nha Trang Cathedral", "Budget-friendly dining", "Local shopping"]
+      "highlights": [
+        "Dam Market (Cho Dam)",
+        "Nha Trang Cathedral",
+        "Budget-friendly dining",
+        "Local shopping"
+      ]
     },
     {
       "name": "Po Nagar Area (north of the river)",
       "description": "Across the Xom Bong Bridge on the north side of the Cai River, this area is home to the ancient Po Nagar Cham Towers complex. The surrounding neighborhood is more residential and Vietnamese, with excellent local seafood restaurants along the river and in the nearby fishing village areas. The views from Po Nagar looking back toward the city and bay are spectacular.",
-      "highlights": ["Po Nagar Cham Towers", "Authentic local seafood", "Riverside dining", "Less touristy atmosphere"]
+      "highlights": [
+        "Po Nagar Cham Towers",
+        "Authentic local seafood",
+        "Riverside dining",
+        "Less touristy atmosphere"
+      ]
     }
   ],
   "gettingThere": {

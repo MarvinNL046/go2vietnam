@@ -28,7 +28,7 @@ const RegionCard: React.FC<RegionCardProps> = ({ name, slug, image, highlights =
           <div className="absolute inset-x-0 bottom-0 h-20 bg-gradient-to-t from-black/30 to-transparent" />
           {cities.length > 0 && (
             <span className="badge-primary absolute top-3 right-3">
-              {cities.length} {cities.length === 1 ? 'city' : 'cities'}
+              {cities.length} {cities.length === 1 ? t('common.city') : t('common.cities')}
             </span>
           )}
         </div>

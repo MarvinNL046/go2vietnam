@@ -1,27 +1,53 @@
 {
   "slug": "hue",
-  "name": { "en": "Hue" },
+  "name": {
+    "en": "Hue",
+    "nl": "Hue"
+  },
   "vietnameseName": "Huế",
   "image": "/images/cities/hue.webp",
   "region": "Central Vietnam",
-  "highlights": ["Imperial Citadel", "Royal Tombs", "Perfume River", "Hue Royal Cuisine"],
-  "description": { "en": "Vietnam's former imperial capital sits gracefully along the Perfume River, its massive citadel and ornate royal tombs bearing witness to the Nguyen Dynasty's 143-year reign. Hue is also celebrated as Vietnam's culinary capital, famous for its refined royal cuisine and fiery local dishes that reflect centuries of courtly sophistication." },
+  "highlights": [
+    "Imperial Citadel",
+    "Royal Tombs",
+    "Perfume River",
+    "Hue Royal Cuisine"
+  ],
+  "description": {
+    "en": "Vietnam's former imperial capital sits gracefully along the Perfume River, its massive citadel and ornate royal tombs bearing witness to the Nguyen Dynasty's 143-year reign. Hue is also celebrated as Vietnam's culinary capital, famous for its refined royal cuisine and fiery local dishes that reflect centuries of courtly sophistication.",
+    "nl": "De voormalige keizerlijke hoofdstad van Vietnam ligt sierlijk langs de Parfumrivier, met een enorme citadel en sierlijke koninklijke grafmonumenten die getuigen van de 143-jarige heerschappij van de Nguyen-dynastie. Hue staat ook bekend als de culinaire hoofdstad van Vietnam, beroemd om zijn verfijnde keizerlijke keuken en pittige lokale gerechten die eeuwen van hoofse verfijning weerspiegelen."
+  },
   "overview": "Hue served as the capital of Vietnam's Nguyen Dynasty from 1802 to 1945, and the city's identity remains deeply intertwined with its imperial legacy. The massive Citadel — modeled partly on Beijing's Forbidden City — dominates the north bank of the Perfume River, while elaborate royal tombs are scattered through the hills and forests to the south. Despite suffering devastating damage during the 1968 Tet Offensive, when fierce fighting between American/South Vietnamese and North Vietnamese forces destroyed much of the Citadel, Hue has been painstakingly restored and the Complex of Hue Monuments was designated a UNESCO World Heritage Site in 1993. Beyond its historical significance, Hue is celebrated as Vietnam's culinary capital, with a food culture that ranges from refined royal cuisine (once served exclusively to emperors) to fiery street food. The city of approximately 450,000 people retains a more gentle, scholarly pace than Vietnam's bigger cities, with a poetic atmosphere enhanced by the misty Perfume River, ancient pagodas, and the surrounding pine-forested hills.",
   "neighborhoods": [
     {
       "name": "The Citadel (Kinh Thành Huế)",
       "description": "The walled citadel on the north bank of the Perfume River covers nearly 520 hectares and was the political center of Vietnam for 143 years. Within its thick walls lies the Imperial City (Dai Noi), and within that, the Purple Forbidden City where the emperor lived. Though much was destroyed in 1968, restoration is ongoing and the remaining halls, gates, and gardens are magnificent. The Flag Tower (Cot Co) is the city's most recognizable landmark.",
-      "highlights": ["Thai Hoa Palace (Hall of Supreme Harmony)", "Ngo Mon Gate", "The Purple Forbidden City", "Imperial Gardens and lotus ponds"]
+      "highlights": [
+        "Thai Hoa Palace (Hall of Supreme Harmony)",
+        "Ngo Mon Gate",
+        "The Purple Forbidden City",
+        "Imperial Gardens and lotus ponds"
+      ]
     },
     {
       "name": "South Bank (Phường Phú Hội / Phú Nhuận)",
       "description": "The area south of the Perfume River is the more modern commercial center of Hue, with the main tourist hotels, restaurants, and bars concentrated along Le Loi and Nguyen Hue streets. Dong Ba Market on the north bank near the Citadel is the city's largest traditional market. The south bank has a more relaxed, walkable feel with excellent restaurants serving both royal and street-food cuisine.",
-      "highlights": ["Tourist hotel and restaurant district", "Trang Tien Bridge (illuminated at night)", "Riverside cafes", "Backpacker area along Pham Ngu Lao"]
+      "highlights": [
+        "Tourist hotel and restaurant district",
+        "Trang Tien Bridge (illuminated at night)",
+        "Riverside cafes",
+        "Backpacker area along Pham Ngu Lao"
+      ]
     },
     {
       "name": "Kim Long area (west of the Citadel)",
       "description": "This leafy residential area west of the Citadel walls is home to Thien Mu Pagoda, Hue's most iconic religious site, perched on a hilltop overlooking the Perfume River. The quiet streets are lined with garden houses (nha vuon), a distinctive Hue architectural style combining traditional Vietnamese houses with French-influenced gardens. Several garden houses are open to visitors and serve traditional Hue cuisine.",
-      "highlights": ["Thien Mu Pagoda", "Traditional garden houses (nha vuon)", "Quiet riverside walks", "Local vegetarian restaurants"]
+      "highlights": [
+        "Thien Mu Pagoda",
+        "Traditional garden houses (nha vuon)",
+        "Quiet riverside walks",
+        "Local vegetarian restaurants"
+      ]
     }
   ],
   "gettingThere": {

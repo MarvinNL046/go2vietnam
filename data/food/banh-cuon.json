@@ -1,11 +1,17 @@
 {
   "slug": "banh-cuon",
-  "name": { "en": "Banh Cuon" },
+  "name": {
+    "en": "Banh Cuon",
+    "nl": "Banh Cuon"
+  },
   "vietnameseName": "Bánh Cuốn",
   "image": "/images/food/banh-cuon.webp",
   "category": "Appetizer",
   "spiceLevel": "mild",
-  "description": { "en": "Delicate steamed rice flour sheets rolled around a savory filling of seasoned ground pork and wood ear mushrooms, served with crispy fried shallots, fresh herbs, and a light dipping fish sauce." },
+  "description": {
+    "en": "Delicate steamed rice flour sheets rolled around a savory filling of seasoned ground pork and wood ear mushrooms, served with crispy fried shallots, fresh herbs, and a light dipping fish sauce.",
+    "nl": "Fijne gestoomde rijstmeelvellen opgerold rond een hartige vulling van gekruid varkensgehakt en zwarte paddenstoelen, geserveerd met krokant gebakken sjalotten, verse kruiden en een lichte vissaus."
+  },
   "overview": "Banh cuon is one of Vietnam's most delicate and refined dishes — paper-thin sheets of steamed rice flour batter rolled around a filling of seasoned ground pork and minced wood ear mushrooms. The process of making banh cuon is mesmerizing: a thin layer of rice flour batter is spread over a taut cloth stretched over a pot of boiling water, steamed for just seconds until set, then carefully peeled off and filled. The resulting rolls are impossibly thin, silky, and slightly translucent. They are arranged on a plate, topped with crispy fried shallots (hành phi) and served with a side of fresh herbs, Vietnamese coriander (rau răm), and a bowl of nuoc cham dipping sauce. Often, a plate of cha que (cinnamon pork sausage) is served alongside. Banh cuon is primarily a breakfast dish in Vietnam, with dedicated stalls opening before dawn to meet the morning demand.",
   "origin": {
     "region": "Northern Vietnam (Hanoi / Thanh Tri)",

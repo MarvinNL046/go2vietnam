@@ -1,39 +1,52 @@
 import type { AppProps } from 'next/app';
 import Head from 'next/head';
+import { useRouter } from 'next/router';
 import '../styles/globals.css';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
 import CookieConsent from '../components/CookieConsent';
 import { siteConfig } from '../site.config';
 
-const globalJsonLd = {
-  '@context': 'https://schema.org',
-  '@graph': [
-    {
-      '@type': 'Organization',
-      '@id': `${siteConfig.seo.siteUrl}/#organization`,
-      name: siteConfig.name,
-      url: siteConfig.seo.siteUrl,
-      logo: {
-        '@type': 'ImageObject',
-        url: `${siteConfig.seo.siteUrl}/images/logo.png`,
-      },
-    },
-    {
-      '@type': 'WebSite',
-      '@id': `${siteConfig.seo.siteUrl}/#website`,
-      url: siteConfig.seo.siteUrl,
-      name: siteConfig.name,
-      description: `Your Ultimate ${siteConfig.destination} Travel Guide`,
-      publisher: {
-        '@id': `${siteConfig.seo.siteUrl}/#organization`,
-      },
-      inLanguage: 'en-US',
-    },
-  ],
+const localeToLanguage: Record<string, string> = {
+  nl: 'nl-NL',
+  en: 'en-US',
 };
 
+function getGlobalJsonLd(locale: string) {
+  const inLanguage = localeToLanguage[locale] || 'nl-NL';
+  return {
+    '@context': 'https://schema.org',
+    '@graph': [
+      {
+        '@type': 'Organization',
+        '@id': `${siteConfig.seo.siteUrl}/#organization`,
+        name: siteConfig.name,
+        url: siteConfig.seo.siteUrl,
+        logo: {
+          '@type': 'ImageObject',
+          url: `${siteConfig.seo.siteUrl}/images/logo.png`,
+        },
+      },
+      {
+        '@type': 'WebSite',
+        '@id': `${siteConfig.seo.siteUrl}/#website`,
+        url: siteConfig.seo.siteUrl,
+        name: siteConfig.name,
+        description: `Your Ultimate ${siteConfig.destination} Travel Guide`,
+        publisher: {
+          '@id': `${siteConfig.seo.siteUrl}/#organization`,
+        },
+        inLanguage,
+      },
+    ],
+  };
+}
+
 export default function App({ Component, pageProps }: AppProps) {
+  const router = useRouter();
+  const locale = router.locale || 'nl';
+  const globalJsonLd = getGlobalJsonLd(locale);
+
   return (
     <div className="flex flex-col min-h-screen">
       <Head>

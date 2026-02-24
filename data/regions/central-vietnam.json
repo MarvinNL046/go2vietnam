@@ -1,11 +1,28 @@
 {
   "slug": "central-vietnam",
-  "name": "Central Vietnam",
+  "name": {
+    "en": "Central Vietnam",
+    "nl": "Centraal-Vietnam"
+  },
   "image": "/images/regions/central-vietnam.webp",
-  "description": "A narrow coastal strip where imperial history meets pristine beaches, Central Vietnam is home to three UNESCO World Heritage Sites, the ancient trading port of Hoi An, the imperial citadel of Hue, and the modern coastal city of Da Nang.",
+  "description": {
+    "en": "A narrow coastal strip where imperial history meets pristine beaches, Central Vietnam is home to three UNESCO World Heritage Sites, the ancient trading port of Hoi An, the imperial citadel of Hue, and the modern coastal city of Da Nang.",
+    "nl": "Een smalle kuststrook waar keizerlijke geschiedenis en ongerepte stranden elkaar ontmoeten. Centraal-Vietnam herbergt drie UNESCO-Werelderfgoedsites, de oude handelsstad Hoi An, de keizerlijke citadel van Hue en de moderne kuststad Da Nang."
+  },
   "overview": "Central Vietnam is the cultural backbone of the nation, stretching along a narrow coastal strip between the Truong Son mountain range and the South China Sea. This region bore witness to centuries of dynastic rule from the Nguyen Dynasty capital of Hue, saw the rise and fall of the ancient Champa Kingdom, and served as a critical theater during the Vietnam War. Today, it offers travelers an extraordinary concentration of heritage sites: the Imperial Citadel of Hue with its royal tombs along the Perfume River, the perfectly preserved Japanese-Chinese-Vietnamese trading port of Hoi An glowing with silk lanterns at dusk, and the ancient Cham sanctuary of My Son hidden in a jungle valley. Between these cultural treasures, Da Nang has emerged as a modern beach city with world-class resorts, the Instagram-famous Golden Bridge at Ba Na Hills, and some of Vietnam's finest coastal scenery. The three cities form a compact triangle easily connected by car or train, making this one of the most rewarding regions in Southeast Asia to explore.",
-  "highlights": ["Three UNESCO World Heritage Sites", "Hoi An Ancient Town", "Hue Imperial Citadel", "Golden Bridge at Ba Na Hills", "My Son Cham Sanctuary", "My Khe Beach"],
-  "cities": ["hue", "da-nang", "hoi-an"],
+  "highlights": [
+    "Three UNESCO World Heritage Sites",
+    "Hoi An Ancient Town",
+    "Hue Imperial Citadel",
+    "Golden Bridge at Ba Na Hills",
+    "My Son Cham Sanctuary",
+    "My Khe Beach"
+  ],
+  "cities": [
+    "hue",
+    "da-nang",
+    "hoi-an"
+  ],
   "bestTimeToVisit": "February to May — The dry season brings warm temperatures (25-30 degrees Celsius), minimal rainfall, and calm seas ideal for beach days. Avoid October to December when the region experiences its heaviest rains and occasional typhoons.",
   "topExperiences": [
     {

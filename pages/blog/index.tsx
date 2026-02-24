@@ -13,13 +13,13 @@ interface BlogIndexProps {
 }
 
 export default function BlogIndex({ posts }: BlogIndexProps) {
-  const { t } = useTranslation('common');
+  const { t, locale } = useTranslation('common');
 
   return (
     <>
       <SEOHead
-        title={`Travel Blog - ${siteConfig.name}`}
-        description={`Latest ${siteConfig.destination} travel tips, guides, and stories.`}
+        title={`${t('blogIndex.title')} - ${siteConfig.name}`}
+        description={t('blogIndex.subtitle')}
       />
       <div className="container-custom py-8 lg:py-12">
         <Breadcrumbs items={[
@@ -29,10 +29,10 @@ export default function BlogIndex({ posts }: BlogIndexProps) {
 
         <div className="mb-10">
           <h1 className="font-display text-display-sm text-warm-900 mb-2">
-            {siteConfig.destination} Travel Blog
+            {t('blogIndex.title')}
           </h1>
           <p className="text-warm-500 text-lg">
-            Stories, tips, and insights for your next adventure
+            {t('blogIndex.subtitle')}
           </p>
         </div>
 
@@ -43,8 +43,8 @@ export default function BlogIndex({ posts }: BlogIndexProps) {
                 <path strokeLinecap="round" strokeLinejoin="round" d="M12 7.5h1.5m-1.5 3h1.5m-7.5 3h7.5m-7.5 3h7.5m3-9h3.375c.621 0 1.125.504 1.125 1.125V18a2.25 2.25 0 01-2.25 2.25M16.5 7.5V18a2.25 2.25 0 002.25 2.25M16.5 7.5V4.875c0-.621-.504-1.125-1.125-1.125H4.125C3.504 3.75 3 4.254 3 4.875V18a2.25 2.25 0 002.25 2.25h13.5M6 7.5h3v3H6v-3z" />
               </svg>
             </div>
-            <p className="text-warm-500 text-lg font-medium mb-2">No posts yet</p>
-            <p className="text-warm-400 text-sm">Blog coming soon! Stay tuned for travel stories and tips.</p>
+            <p className="text-warm-500 text-lg font-medium mb-2">{t('blogIndex.noContent')}</p>
+            <p className="text-warm-400 text-sm">{t('blogIndex.comingSoon')}</p>
           </div>
         ) : (
           <div className="animate-stagger grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 lg:gap-8">
@@ -69,7 +69,7 @@ export default function BlogIndex({ posts }: BlogIndexProps) {
                 </div>
                 <div className="p-5">
                   <p className="text-xs text-warm-400 mb-2">
-                    {new Date(post.date).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
+                    {new Date(post.date).toLocaleDateString(locale === 'nl' ? 'nl-NL' : 'en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
                   </p>
                   <h2 className="font-display font-bold text-lg text-warm-900 group-hover:text-brand-primary transition-colors mb-2">
                     {post.title}

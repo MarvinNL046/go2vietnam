@@ -1,11 +1,17 @@
 {
   "slug": "nem-ran",
-  "name": { "en": "Nem Ran" },
+  "name": {
+    "en": "Nem Ran",
+    "nl": "Nem Ran"
+  },
   "vietnameseName": "Nem Rán / Chả Giò",
   "image": "/images/food/nem-ran.webp",
   "category": "Appetizer",
   "spiceLevel": "mild",
-  "description": { "en": "Golden, crispy fried spring rolls filled with a savory mixture of ground pork, crab meat, glass noodles, wood ear mushrooms, and shredded vegetables, served with fresh lettuce, herbs, and nuoc cham dipping sauce." },
+  "description": {
+    "en": "Golden, crispy fried spring rolls filled with a savory mixture of ground pork, crab meat, glass noodles, wood ear mushrooms, and shredded vegetables, served with fresh lettuce, herbs, and nuoc cham dipping sauce.",
+    "nl": "Goudkleurige, krokante gefrituurde loempia's gevuld met een hartig mengsel van varkensgehakt, krabvlees, glasnoedels, zwarte paddenstoelen en geraspte groenten, geserveerd met verse sla, kruiden en nuoc cham-dipsaus."
+  },
   "overview": "Nem ran (as they are called in the north) or cha gio (in the south) are Vietnam's beloved fried spring rolls, one of the country's most iconic dishes and a fixture at every festive meal, family gathering, and restaurant menu. These golden, crackling cylinders are filled with a savory mixture of ground pork, crab meat (or shrimp), glass noodles, wood ear mushrooms, shredded taro or carrot, and seasonings, then wrapped tightly in rice paper and deep-fried until shatteringly crisp. The traditional way to eat them is wrapped in a lettuce leaf with fresh herbs — mint, perilla, and Vietnamese balm — then dipped in nuoc cham sauce. This wrapping method adds freshness and crunch that balances the richness of the fried roll. Nem ran are perhaps the most universally loved Vietnamese dish: they appear as appetizers, side dishes (especially alongside bun cha in Hanoi), and as the star of festive holiday meals, particularly during Tet (Lunar New Year).",
   "origin": {
     "region": "Northern Vietnam (later spread nationwide)",

@@ -1,10 +1,16 @@
 {
   "slug": "tra-sen",
-  "name": { "en": "Lotus Tea" },
+  "name": {
+    "en": "Lotus Tea",
+    "nl": "Lotusthee"
+  },
   "vietnameseName": "Trà Sen",
   "image": "/images/drinks/tra-sen.webp",
   "category": "Tea",
-  "description": { "en": "Premium Vietnamese tea scented with the delicate fragrance of lotus blossoms, traditionally prepared by placing tea leaves inside lotus flowers overnight. This refined drink has been a symbol of Vietnamese elegance and hospitality for centuries." },
+  "description": {
+    "en": "Premium Vietnamese tea scented with the delicate fragrance of lotus blossoms, traditionally prepared by placing tea leaves inside lotus flowers overnight. This refined drink has been a symbol of Vietnamese elegance and hospitality for centuries.",
+    "nl": "Premium Vietnamese thee geparfumeerd met het delicate aroma van lotusbloesems, traditioneel bereid door theebladeren 's nachts in lotusbloemen te leggen. Dit verfijnde drankje is al eeuwenlang een symbool van Vietnamese elegantie en gastvrijheid."
+  },
   "overview": "Lotus tea is Vietnam's most prestigious tea, a drink that embodies patience, refinement, and deep cultural heritage. The production process is extraordinarily labor-intensive: green tea leaves are carefully placed inside freshly picked lotus blossoms, which are then tied shut and left overnight so the tea absorbs the flower's delicate fragrance. This scenting process is repeated multiple times over several days or weeks to build layers of aroma. The resulting tea carries a subtle, haunting floral perfume that is unmistakably lotus - sweet but not cloying, delicate but persistent. True lotus tea from Hanoi's West Lake (Ho Tay) is considered the finest, as the lotus flowers grown in this specific lake are believed to produce the most fragrant blossoms. A single kilogram of premium West Lake lotus tea can require the stamens of over 1,000 lotus flowers and several weeks of preparation, making it one of the most expensive teas in Vietnam.",
   "origin": {
     "region": "Hanoi (West Lake / Ho Tay), with production also in Dong Thap, Hue, and other regions",
@@ -34,10 +40,22 @@
     }
   ],
   "variations": [
-    { "name": "Tra Sen Ho Tay (West Lake Lotus Tea)", "description": "The most prestigious variety, scented with lotus from Hanoi's West Lake, considered the finest in Vietnam" },
-    { "name": "Tra Sen Dong Thap", "description": "Lotus tea from the Mekong Delta province of Dong Thap, known as Vietnam's 'lotus kingdom' with vast lotus fields" },
-    { "name": "Tra Sen Hue", "description": "Lotus tea from the former imperial capital, produced using techniques preserved from the Nguyen Dynasty court" },
-    { "name": "Tra Shan Tuyet Sen", "description": "Ancient Shan Tuyet tea (from old-growth trees in northern highlands) scented with lotus, a premium combination" }
+    {
+      "name": "Tra Sen Ho Tay (West Lake Lotus Tea)",
+      "description": "The most prestigious variety, scented with lotus from Hanoi's West Lake, considered the finest in Vietnam"
+    },
+    {
+      "name": "Tra Sen Dong Thap",
+      "description": "Lotus tea from the Mekong Delta province of Dong Thap, known as Vietnam's 'lotus kingdom' with vast lotus fields"
+    },
+    {
+      "name": "Tra Sen Hue",
+      "description": "Lotus tea from the former imperial capital, produced using techniques preserved from the Nguyen Dynasty court"
+    },
+    {
+      "name": "Tra Shan Tuyet Sen",
+      "description": "Ancient Shan Tuyet tea (from old-growth trees in northern highlands) scented with lotus, a premium combination"
+    }
   ],
   "priceRange": "50,000 - 200,000 VND per serving ($2 - $8) at tea houses; 300,000 - 3,000,000 VND per 100g ($12 - $120) for premium leaves",
   "tips": [

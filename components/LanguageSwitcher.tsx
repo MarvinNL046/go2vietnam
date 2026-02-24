@@ -2,6 +2,7 @@ import { useRouter } from 'next/router';
 import { useState, useRef, useEffect } from 'react';
 
 const languages = [
+  { code: 'nl', name: 'Nederlands', flag: '🇳🇱' },
   { code: 'en', name: 'English', flag: '🇬🇧' },
 ];
 

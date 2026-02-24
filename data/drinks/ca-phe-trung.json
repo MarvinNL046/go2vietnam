@@ -1,10 +1,16 @@
 {
   "slug": "ca-phe-trung",
-  "name": { "en": "Egg Coffee" },
+  "name": {
+    "en": "Egg Coffee",
+    "nl": "Eierkoffie"
+  },
   "vietnameseName": "Cà Phê Trứng",
   "image": "/images/drinks/ca-phe-trung.webp",
   "category": "Coffee",
-  "description": { "en": "A rich, creamy coffee topped with a whipped egg yolk and condensed milk foam, invented in 1940s Hanoi as a substitute when fresh milk was scarce. This decadent drink tastes like liquid tiramisu and has become one of the capital's most iconic specialties." },
+  "description": {
+    "en": "A rich, creamy coffee topped with a whipped egg yolk and condensed milk foam, invented in 1940s Hanoi as a substitute when fresh milk was scarce. This decadent drink tastes like liquid tiramisu and has become one of the capital's most iconic specialties.",
+    "nl": "Een rijke, romige koffie met een topping van opgeklopt eigeel en gecondenseerde melkschuim, uitgevonden in het Hanoi van de jaren veertig als vervanging toen verse melk schaars was. Dit weelderige drankje smaakt als vloeibare tiramisu en is uitgegroeid tot een van de meest iconische specialiteiten van de hoofdstad."
+  },
   "overview": "Egg coffee is Hanoi's gift to the coffee world - a velvety, custard-like concoction that sits somewhere between a drink and a dessert. Created out of wartime necessity, it has become one of the most celebrated specialty coffees in Southeast Asia. The top layer is a thick, airy foam made from whipped egg yolk, condensed milk, and sugar, beaten until it resembles a light meringue. Underneath sits strong, dark Vietnamese coffee. When sipped together, the effect is remarkably similar to a drinkable tiramisu - rich, creamy, slightly sweet, with the robust bitterness of Robusta coffee cutting through the egg cream. The drink is traditionally served in a small cup nestled in a bowl of hot water to keep it warm, as it is best enjoyed hot in Hanoi's cool autumn and winter months. Today, iced versions and variations with cocoa or matcha have also become popular.",
   "origin": {
     "region": "Hanoi",
@@ -34,10 +40,22 @@
     }
   ],
   "variations": [
-    { "name": "Ca Phe Trung Nong", "description": "The classic hot version, served in a cup nestled in a bowl of warm water to maintain temperature" },
-    { "name": "Ca Phe Trung Da", "description": "Iced version where the egg cream tops cold coffee and ice, popular in warmer months" },
-    { "name": "Ca Cao Trung", "description": "Hot cocoa with egg cream instead of coffee, a caffeine-free alternative popular with younger Vietnamese" },
-    { "name": "Bia Trung", "description": "An adventurous variation where egg cream tops cold beer, occasionally found at experimental Hanoi cafes" }
+    {
+      "name": "Ca Phe Trung Nong",
+      "description": "The classic hot version, served in a cup nestled in a bowl of warm water to maintain temperature"
+    },
+    {
+      "name": "Ca Phe Trung Da",
+      "description": "Iced version where the egg cream tops cold coffee and ice, popular in warmer months"
+    },
+    {
+      "name": "Ca Cao Trung",
+      "description": "Hot cocoa with egg cream instead of coffee, a caffeine-free alternative popular with younger Vietnamese"
+    },
+    {
+      "name": "Bia Trung",
+      "description": "An adventurous variation where egg cream tops cold beer, occasionally found at experimental Hanoi cafes"
+    }
   ],
   "priceRange": "25,000 - 55,000 VND ($1.00 - $2.20)",
   "tips": [

@@ -1,11 +1,17 @@
 {
   "slug": "banh-mi",
-  "name": { "en": "Banh Mi" },
+  "name": {
+    "en": "Banh Mi",
+    "nl": "Banh Mi"
+  },
   "vietnameseName": "Bánh Mì",
   "image": "/images/food/banh-mi.webp",
   "category": "Sandwich",
   "spiceLevel": "mild",
-  "description": { "en": "A crispy, airy baguette filled with a harmonious combination of savory meats, pickled daikon and carrot, fresh cilantro, sliced chili, and rich pate — a perfect fusion of French and Vietnamese culinary traditions." },
+  "description": {
+    "en": "A crispy, airy baguette filled with a harmonious combination of savory meats, pickled daikon and carrot, fresh cilantro, sliced chili, and rich pate — a perfect fusion of French and Vietnamese culinary traditions.",
+    "nl": "Een knapperig, luchtig stokbrood gevuld met een harmonieuze combinatie van hartig vlees, ingemaakte daikon en wortel, verse koriander, gesneden chilipeper en rijke pate — een perfecte fusie van de Franse en Vietnamese keukentraditie."
+  },
   "overview": "Banh mi is the ultimate expression of Franco-Vietnamese fusion cuisine, born from the collision of French colonialism and Vietnamese culinary ingenuity. The baguette itself was adapted from the French original but made lighter and crispier by substituting some wheat flour with rice flour, creating an impossibly thin, shattering crust with a cotton-soft interior. What makes banh mi extraordinary is its balance of flavors and textures in every bite: the crunch of the bread and pickled vegetables, the richness of pate and mayonnaise, the freshness of cilantro and cucumber, the heat of chili slices, and the umami depth of various meat fillings. Banh mi is Vietnam's ultimate street food — fast, cheap, delicious, and available on virtually every street corner from dawn to late at night.",
   "origin": {
     "region": "Saigon (Ho Chi Minh City), Southern Vietnam",

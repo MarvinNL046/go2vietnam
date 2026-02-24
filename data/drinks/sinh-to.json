@@ -1,10 +1,16 @@
 {
   "slug": "sinh-to",
-  "name": { "en": "Tropical Fruit Smoothie" },
+  "name": {
+    "en": "Tropical Fruit Smoothie",
+    "nl": "Tropische fruitsmoothie"
+  },
   "vietnameseName": "Sinh Tố",
   "image": "/images/drinks/sinh-to.webp",
   "category": "Smoothie",
-  "description": { "en": "Fresh tropical fruit smoothies blended with ice and condensed milk, available at street stalls nationwide. From avocado and mango to soursop and sapodilla, sinh to showcases Vietnam's extraordinary bounty of tropical fruits." },
+  "description": {
+    "en": "Fresh tropical fruit smoothies blended with ice and condensed milk, available at street stalls nationwide. From avocado and mango to soursop and sapodilla, sinh to showcases Vietnam's extraordinary bounty of tropical fruits.",
+    "nl": "Verse tropische fruitsmoothies gemixt met ijs en gecondenseerde melk, verkrijgbaar bij straatkraampjes door het hele land. Van avocado en mango tot zuurzak en sapodilla, sinh to toont de buitengewone overvloed aan tropisch fruit in Vietnam."
+  },
   "overview": "Sinh to is Vietnam's answer to the smoothie, and it benefits from one of the most diverse selections of tropical fruit in the world. Vietnam's geography, stretching across multiple climate zones from the subtropical north to the tropical south, supports an astonishing range of fruits, many of which are virtually unknown outside Southeast Asia. At any sinh to stall, you will typically find a dazzling display of fresh fruit including mango, avocado, dragon fruit, soursop (mang cau), sapodilla (xa po che), jackfruit, passion fruit, papaya, watermelon, and banana. The fruit is blended with crushed ice and sweetened with condensed milk (or sugar syrup for a lighter version), producing a thick, frosty, intensely flavorful drink. Sinh to stalls are everywhere - from dedicated juice shops to street carts to restaurant menus - making fresh tropical smoothies one of the most accessible and affordable pleasures in Vietnam.",
   "origin": {
     "region": "Nationwide",
@@ -34,11 +40,26 @@
     }
   ],
   "variations": [
-    { "name": "Sinh To Bo (Avocado)", "description": "Vietnam's most beloved smoothie flavor, blended thick with condensed milk - tastes like a milkshake" },
-    { "name": "Sinh To Mang Cau (Soursop)", "description": "Creamy, tangy, and slightly sweet, this uniquely tropical flavor is a must-try" },
-    { "name": "Sinh To Xoai (Mango)", "description": "Made with Vietnam's fragrant cat chu or hoa loc mangoes, available March to June" },
-    { "name": "Sinh To Dau (Strawberry)", "description": "Made with Da Lat-grown strawberries, a Central Highlands specialty" },
-    { "name": "Sinh To Thap Cam (Mixed Fruit)", "description": "A blend of multiple fruits, sometimes called a 'fruit cocktail' smoothie" }
+    {
+      "name": "Sinh To Bo (Avocado)",
+      "description": "Vietnam's most beloved smoothie flavor, blended thick with condensed milk - tastes like a milkshake"
+    },
+    {
+      "name": "Sinh To Mang Cau (Soursop)",
+      "description": "Creamy, tangy, and slightly sweet, this uniquely tropical flavor is a must-try"
+    },
+    {
+      "name": "Sinh To Xoai (Mango)",
+      "description": "Made with Vietnam's fragrant cat chu or hoa loc mangoes, available March to June"
+    },
+    {
+      "name": "Sinh To Dau (Strawberry)",
+      "description": "Made with Da Lat-grown strawberries, a Central Highlands specialty"
+    },
+    {
+      "name": "Sinh To Thap Cam (Mixed Fruit)",
+      "description": "A blend of multiple fruits, sometimes called a 'fruit cocktail' smoothie"
+    }
   ],
   "priceRange": "15,000 - 40,000 VND ($0.60 - $1.60)",
   "tips": [

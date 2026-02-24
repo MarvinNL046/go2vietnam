@@ -1,65 +1,119 @@
 [
   {
     "slug": "ca-phe-sua-da",
-    "name": { "en": "Vietnamese Iced Coffee" },
+    "name": {
+      "en": "Vietnamese Iced Coffee",
+      "nl": "Vietnamese ijskoffie"
+    },
     "image": "/images/drinks/ca-phe-sua-da.webp",
     "category": "Coffee",
-    "description": { "en": "Strong dark roast coffee brewed through a traditional phin filter, mixed with sweetened condensed milk, and poured over ice. This is the drink that defines Vietnamese coffee culture and fuels the nation from sidewalk cafes to five-star hotels." }
+    "description": {
+      "en": "Strong dark roast coffee brewed through a traditional phin filter, mixed with sweetened condensed milk, and poured over ice. This is the drink that defines Vietnamese coffee culture and fuels the nation from sidewalk cafes to five-star hotels.",
+      "nl": "Sterke donker gebrande koffie gezet door een traditioneel phin-filter, gemengd met gecondenseerde melk en over ijs gegoten. Dit is het drankje dat de Vietnamese koffiecultuur definieert en het land van energie voorziet, van stoepkraampjes tot vijfsterrenhotels."
+    }
   },
   {
     "slug": "ca-phe-trung",
-    "name": { "en": "Egg Coffee" },
+    "name": {
+      "en": "Egg Coffee",
+      "nl": "Eierkoffie"
+    },
     "image": "/images/drinks/ca-phe-trung.webp",
     "category": "Coffee",
-    "description": { "en": "A rich, creamy coffee topped with a whipped egg yolk and condensed milk foam, invented in 1940s Hanoi as a substitute when fresh milk was scarce. This decadent drink tastes like liquid tiramisu and has become one of the capital's most iconic specialties." }
+    "description": {
+      "en": "A rich, creamy coffee topped with a whipped egg yolk and condensed milk foam, invented in 1940s Hanoi as a substitute when fresh milk was scarce. This decadent drink tastes like liquid tiramisu and has become one of the capital's most iconic specialties.",
+      "nl": "Een rijke, romige koffie met een topping van opgeklopt eigeel en gecondenseerde melkschuim, uitgevonden in het Hanoi van de jaren veertig als vervanging toen verse melk schaars was. Dit weelderige drankje smaakt als vloeibare tiramisu en is uitgegroeid tot een van de meest iconische specialiteiten van de hoofdstad."
+    }
   },
   {
     "slug": "ca-phe-muoi",
-    "name": { "en": "Salted Coffee" },
+    "name": {
+      "en": "Salted Coffee",
+      "nl": "Gezouten koffie"
+    },
     "image": "/images/drinks/ca-phe-muoi.webp",
     "category": "Coffee",
-    "description": { "en": "A trending Vietnamese coffee variation originating from Hue that tops robust phin-dripped coffee with a salted cream foam. The interplay of bitter coffee, sweet condensed milk, and a pinch of salt creates an unexpectedly addictive flavor profile." }
+    "description": {
+      "en": "A trending Vietnamese coffee variation originating from Hue that tops robust phin-dripped coffee with a salted cream foam. The interplay of bitter coffee, sweet condensed milk, and a pinch of salt creates an unexpectedly addictive flavor profile.",
+      "nl": "Een trendy Vietnamese koffievariatie uit Hue waarbij stevige phin-koffie wordt afgetopt met een gezouten roomschuim. Het samenspel van bittere koffie, zoete gecondenseerde melk en een vleugje zout creëert een onverwacht verslavend smaakprofiel."
+    }
   },
   {
     "slug": "bia-hoi",
-    "name": { "en": "Fresh Draft Beer" },
+    "name": {
+      "en": "Fresh Draft Beer",
+      "nl": "Vers tapbier"
+    },
     "image": "/images/drinks/bia-hoi.webp",
     "category": "Beer",
-    "description": { "en": "Ultra-fresh, unfiltered draft beer brewed daily and served at low-slung sidewalk stalls across Hanoi. At around 25 cents per glass, bia hoi is among the cheapest beers in the world and one of Vietnam's most beloved social traditions." }
+    "description": {
+      "en": "Ultra-fresh, unfiltered draft beer brewed daily and served at low-slung sidewalk stalls across Hanoi. At around 25 cents per glass, bia hoi is among the cheapest beers in the world and one of Vietnam's most beloved social traditions.",
+      "nl": "Ultravers, ongefilterd tapbier dat dagelijks gebrouwen wordt en geschonken wordt bij lage stoepkraampjes door heel Hanoi. Met zo'n 25 cent per glas is bia hoi een van de goedkoopste bieren ter wereld en een van de meest geliefde sociale tradities van Vietnam."
+    }
   },
   {
     "slug": "sinh-to",
-    "name": { "en": "Tropical Fruit Smoothie" },
+    "name": {
+      "en": "Tropical Fruit Smoothie",
+      "nl": "Tropische fruitsmoothie"
+    },
     "image": "/images/drinks/sinh-to.webp",
     "category": "Smoothie",
-    "description": { "en": "Fresh tropical fruit smoothies blended with ice and condensed milk, available at street stalls nationwide. From avocado and mango to soursop and sapodilla, sinh to showcases Vietnam's extraordinary bounty of tropical fruits." }
+    "description": {
+      "en": "Fresh tropical fruit smoothies blended with ice and condensed milk, available at street stalls nationwide. From avocado and mango to soursop and sapodilla, sinh to showcases Vietnam's extraordinary bounty of tropical fruits.",
+      "nl": "Verse tropische fruitsmoothies gemixt met ijs en gecondenseerde melk, verkrijgbaar bij straatkraampjes door het hele land. Van avocado en mango tot zuurzak en sapodilla, sinh to toont de buitengewone overvloed aan tropisch fruit in Vietnam."
+    }
   },
   {
     "slug": "nuoc-mia",
-    "name": { "en": "Fresh Sugarcane Juice" },
+    "name": {
+      "en": "Fresh Sugarcane Juice",
+      "nl": "Vers suikerrietsap"
+    },
     "image": "/images/drinks/nuoc-mia.webp",
     "category": "Juice",
-    "description": { "en": "Freshly pressed sugarcane juice extracted through hand-cranked or motorized rollers at street-side carts, often mixed with a squeeze of kumquat or calamansi. This refreshing, naturally sweet drink is a beloved thirst quencher in Vietnam's tropical heat." }
+    "description": {
+      "en": "Freshly pressed sugarcane juice extracted through hand-cranked or motorized rollers at street-side carts, often mixed with a squeeze of kumquat or calamansi. This refreshing, naturally sweet drink is a beloved thirst quencher in Vietnam's tropical heat.",
+      "nl": "Vers geperst suikerrietsap gewonnen met handmatige of gemotoriseerde rollen bij karren langs de weg, vaak gemengd met een scheutje kumquat of calamansi. Dit verfrissende, van nature zoete drankje is een geliefd dorstlesser in de tropische hitte van Vietnam."
+    }
   },
   {
     "slug": "tra-da",
-    "name": { "en": "Vietnamese Iced Tea" },
+    "name": {
+      "en": "Vietnamese Iced Tea",
+      "nl": "Vietnamese ijsthee"
+    },
     "image": "/images/drinks/tra-da.webp",
     "category": "Tea",
-    "description": { "en": "Complimentary iced green tea served automatically at nearly every restaurant, cafe, and street food stall in Vietnam. This light, slightly bitter tea is as ubiquitous as water and serves as the default drink that accompanies every Vietnamese meal." }
+    "description": {
+      "en": "Complimentary iced green tea served automatically at nearly every restaurant, cafe, and street food stall in Vietnam. This light, slightly bitter tea is as ubiquitous as water and serves as the default drink that accompanies every Vietnamese meal.",
+      "nl": "Gratis geserveerde groene ijsthee die automatisch bij vrijwel elk restaurant, cafe en straateettentje in Vietnam op tafel komt. Deze lichte, licht bittere thee is net zo alomtegenwoordig als water en is het standaarddrankje bij elke Vietnamese maaltijd."
+    }
   },
   {
     "slug": "tra-sen",
-    "name": { "en": "Lotus Tea" },
+    "name": {
+      "en": "Lotus Tea",
+      "nl": "Lotusthee"
+    },
     "image": "/images/drinks/tra-sen.webp",
     "category": "Tea",
-    "description": { "en": "Premium Vietnamese tea scented with the delicate fragrance of lotus blossoms, traditionally prepared by placing tea leaves inside lotus flowers overnight. This refined drink has been a symbol of Vietnamese elegance and hospitality for centuries." }
+    "description": {
+      "en": "Premium Vietnamese tea scented with the delicate fragrance of lotus blossoms, traditionally prepared by placing tea leaves inside lotus flowers overnight. This refined drink has been a symbol of Vietnamese elegance and hospitality for centuries.",
+      "nl": "Premium Vietnamese thee geparfumeerd met het delicate aroma van lotusbloesems, traditioneel bereid door theebladeren 's nachts in lotusbloemen te leggen. Dit verfijnde drankje is al eeuwenlang een symbool van Vietnamese elegantie en gastvrijheid."
+    }
   },
   {
     "slug": "ruou-can",
-    "name": { "en": "Reed Straw Rice Wine" },
+    "name": {
+      "en": "Reed Straw Rice Wine",
+      "nl": "Rietstrootje-rijstwijn"
+    },
     "image": "/images/drinks/ruou-can.webp",
     "category": "Alcohol",
-    "description": { "en": "Traditional fermented rice wine stored in large ceramic jars and communally sipped through long bamboo straws. This ceremonial drink of Vietnam's Central Highland ethnic minorities is central to community celebrations, harvests, and welcoming guests." }
+    "description": {
+      "en": "Traditional fermented rice wine stored in large ceramic jars and communally sipped through long bamboo straws. This ceremonial drink of Vietnam's Central Highland ethnic minorities is central to community celebrations, harvests, and welcoming guests.",
+      "nl": "Traditionele gefermenteerde rijstwijn bewaard in grote keramische potten en gezamenlijk gedronken door lange bamboe rietjes. Dit ceremoniële drankje van de etnische minderheden van de Centrale Hooglanden staat centraal bij gemeenschapsvieringen, oogstfeesten en het verwelkomen van gasten."
+    }
   }
 ]

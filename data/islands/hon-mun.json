@@ -1,10 +1,21 @@
 {
   "slug": "hon-mun",
-  "name": { "en": "Hon Mun" },
+  "name": {
+    "en": "Hon Mun",
+    "nl": "Hon Mun"
+  },
   "vietnameseName": "Hòn Mun",
   "image": "/images/islands/hon-mun.webp",
-  "bestFor": ["Diving", "Snorkeling", "Marine Life", "Coral Reefs"],
-  "description": { "en": "Part of Nha Trang Bay's marine protected area, Hon Mun boasts Vietnam's best coral reefs and underwater visibility. This small island is the premier destination for scuba diving and snorkeling in south-central Vietnam, with over 350 species of hard coral recorded." },
+  "bestFor": [
+    "Diving",
+    "Snorkeling",
+    "Marine Life",
+    "Coral Reefs"
+  ],
+  "description": {
+    "en": "Part of Nha Trang Bay's marine protected area, Hon Mun boasts Vietnam's best coral reefs and underwater visibility. This small island is the premier destination for scuba diving and snorkeling in south-central Vietnam, with over 350 species of hard coral recorded.",
+    "nl": "Onderdeel van het beschermde mariene gebied van de baai van Nha Trang: Hon Mun heeft de beste koraalriffen en het helderste onderwaterzicht van Vietnam. Dit kleine eiland is de topbestemming voor duiken en snorkelen in Centraal-Zuid-Vietnam, met meer dan 350 soorten hardkoraal."
+  },
   "overview": "Hon Mun (literally 'Ebony Island,' named for the dark-colored rock visible at its base) is a small island approximately 10 kilometers southeast of Nha Trang city, and it sits at the core of the Nha Trang Bay Marine Protected Area established in 2001. Despite its modest size, Hon Mun is widely considered the best diving and snorkeling destination in all of mainland Vietnam. Marine surveys have recorded over 350 species of hard coral (one of the highest concentrations in the Western Pacific), more than 200 species of reef fish, and diverse populations of mollusks, crustaceans, and other invertebrates. The surrounding waters benefit from a unique convergence of ocean currents that brings nutrient-rich water close to shore, supporting this extraordinary biodiversity. Underwater visibility regularly reaches 15-20 meters and can exceed 25 meters on the best days. The island itself is uninhabited, with steep rocky shores and dense vegetation above the waterline. Visitors come here for one reason: what lies beneath the surface. Whether you are a certified diver or a first-time snorkeler, Hon Mun delivers Vietnam's most reliable and rewarding underwater experience.",
   "gettingThere": {
     "byAir": "The nearest airport is Cam Ranh International Airport (CXR), approximately 35 kilometers south of Nha Trang. Direct flights from Ho Chi Minh City (1 hour), Hanoi (2 hours), and Da Nang (1.5 hours) on Vietnam Airlines, VietJet, and Bamboo Airways. International flights from Seoul, Bangkok, and several Chinese cities. Airport buses and taxis reach Nha Trang city in 30-45 minutes.",

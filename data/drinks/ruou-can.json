@@ -1,10 +1,16 @@
 {
   "slug": "ruou-can",
-  "name": { "en": "Reed Straw Rice Wine" },
+  "name": {
+    "en": "Reed Straw Rice Wine",
+    "nl": "Rietstrootje-rijstwijn"
+  },
   "vietnameseName": "Rượu Cần",
   "image": "/images/drinks/ruou-can.webp",
   "category": "Alcohol",
-  "description": { "en": "Traditional fermented rice wine stored in large ceramic jars and communally sipped through long bamboo straws. This ceremonial drink of Vietnam's Central Highland ethnic minorities is central to community celebrations, harvests, and welcoming guests." },
+  "description": {
+    "en": "Traditional fermented rice wine stored in large ceramic jars and communally sipped through long bamboo straws. This ceremonial drink of Vietnam's Central Highland ethnic minorities is central to community celebrations, harvests, and welcoming guests.",
+    "nl": "Traditionele gefermenteerde rijstwijn bewaard in grote keramische potten en gezamenlijk gedronken door lange bamboe rietjes. Dit ceremoniële drankje van de etnische minderheden van de Centrale Hooglanden staat centraal bij gemeenschapsvieringen, oogstfeesten en het verwelkomen van gasten."
+  },
   "overview": "Ruou can is one of Vietnam's oldest and most culturally significant alcoholic beverages, a communal rice wine that predates all other Vietnamese drinks by centuries. The drink is produced by fermenting glutinous rice (or sometimes cassava or corn) with a traditional yeast starter in large ceramic jars, which are then sealed and aged for weeks or months. What makes ruou can distinctive is how it is consumed: the sealed jar is opened at gatherings, water is poured on top of the fermented rice, and participants drink directly from the jar through long bamboo or reed straws, often simultaneously. The communal drinking is not just practical - it is deeply ritualistic, symbolizing unity, equality, and shared celebration. Ruou can is the centerpiece of festivals, weddings, harvest celebrations, and guest-welcoming ceremonies among the Gia Rai, Ede, Ba Na, M'Nong, and other ethnic minority groups of the Central Highlands and northern mountains.",
   "origin": {
     "region": "Central Highlands (Tay Nguyen) and Northern Highlands",
@@ -34,10 +40,22 @@
     }
   ],
   "variations": [
-    { "name": "Ruou Can from glutinous rice", "description": "The most common and traditional version, producing a mildly sweet, slightly sour wine with moderate alcohol content" },
-    { "name": "Ruou Can from cassava", "description": "A stronger, earthier variation common in areas where cassava is more available than rice" },
-    { "name": "Ruou Can aged several months", "description": "Long-aged jars reserved for important celebrations, with deeper, more complex flavors and higher alcohol content" },
-    { "name": "Ruou Can with wild herbs", "description": "Some communities add medicinal herbs to the fermentation for flavor and believed health benefits" }
+    {
+      "name": "Ruou Can from glutinous rice",
+      "description": "The most common and traditional version, producing a mildly sweet, slightly sour wine with moderate alcohol content"
+    },
+    {
+      "name": "Ruou Can from cassava",
+      "description": "A stronger, earthier variation common in areas where cassava is more available than rice"
+    },
+    {
+      "name": "Ruou Can aged several months",
+      "description": "Long-aged jars reserved for important celebrations, with deeper, more complex flavors and higher alcohol content"
+    },
+    {
+      "name": "Ruou Can with wild herbs",
+      "description": "Some communities add medicinal herbs to the fermentation for flavor and believed health benefits"
+    }
   ],
   "priceRange": "Free (when offered by host communities) or 50,000 - 150,000 VND ($2 - $6) per serving at cultural tourism venues",
   "tips": [

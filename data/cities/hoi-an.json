@@ -1,32 +1,63 @@
 {
   "slug": "hoi-an",
-  "name": { "en": "Hoi An" },
+  "name": {
+    "en": "Hoi An",
+    "nl": "Hoi An"
+  },
   "vietnameseName": "Hội An",
   "image": "/images/cities/hoi-an.webp",
   "region": "Central Vietnam",
-  "highlights": ["Ancient Town Lanterns", "Custom Tailoring", "Japanese Covered Bridge", "An Bang Beach"],
-  "description": { "en": "This exquisitely preserved ancient trading port glows with hundreds of silk lanterns each evening, creating one of Vietnam's most photographed scenes. Hoi An's UNESCO-listed Old Town, world-renowned tailor shops, exceptional cuisine, and nearby beaches make it a destination that travelers consistently rank among their favorites in all of Southeast Asia." },
+  "highlights": [
+    "Ancient Town Lanterns",
+    "Custom Tailoring",
+    "Japanese Covered Bridge",
+    "An Bang Beach"
+  ],
+  "description": {
+    "en": "This exquisitely preserved ancient trading port glows with hundreds of silk lanterns each evening, creating one of Vietnam's most photographed scenes. Hoi An's UNESCO-listed Old Town, world-renowned tailor shops, exceptional cuisine, and nearby beaches make it a destination that travelers consistently rank among their favorites in all of Southeast Asia.",
+    "nl": "Deze prachtig bewaard gebleven oude handelsstad baadt elke avond in het licht van honderden zijden lantaarns, wat een van de meest gefotografeerde taferelen van Vietnam oplevert. De UNESCO-beschermde oude binnenstad van Hoi An, de wereldberoemde kledingateliers, de uitzonderlijke keuken en de nabijgelegen stranden maken het een bestemming die reizigers consequent tot hun favorieten in heel Zuidoost-Azie rekenen."
+  },
   "overview": "Hoi An was one of Southeast Asia's most important trading ports from the 15th to 19th centuries, where Japanese, Chinese, Indian, Dutch, and Portuguese merchants exchanged silk, spices, ceramics, and precious metals. When the Thu Bon River silted up and trade shifted to nearby Da Nang, Hoi An was effectively frozen in time, preserving an architectural tapestry found nowhere else in Vietnam. The UNESCO World Heritage-listed Ancient Town contains over 1,000 historic buildings: Chinese assembly halls, Japanese merchant houses, French colonial shopfronts, and Vietnamese tube houses, all remarkably intact. Today this small city of around 150,000 residents has become one of Vietnam's most beloved destinations, famous not just for its history but for its world-class tailoring shops (you can have custom clothing made in 24 hours), its exceptional food scene, its iconic lantern-lit evenings, and beautiful beaches just a short bicycle ride away.",
   "neighborhoods": [
     {
       "name": "Ancient Town (Phố Cổ Hội An)",
       "description": "The UNESCO-protected core of Hoi An is a pedestrian-friendly area of narrow streets lined with centuries-old buildings. The Japanese Covered Bridge (Cau Nhat Ban, built in the 1590s), Chinese assembly halls, and merchant houses are all accessible with a single Old Town ticket. After dark, the entire area transforms as hundreds of silk lanterns illuminate the streets and the Thu Bon River, creating an enchanting atmosphere that peaks during the monthly Full Moon Lantern Festival.",
-      "highlights": ["Japanese Covered Bridge", "Fujian Assembly Hall (Phuc Kien)", "Tan Ky Ancient House", "Full Moon Lantern Festival (14th of lunar month)"]
+      "highlights": [
+        "Japanese Covered Bridge",
+        "Fujian Assembly Hall (Phuc Kien)",
+        "Tan Ky Ancient House",
+        "Full Moon Lantern Festival (14th of lunar month)"
+      ]
     },
     {
       "name": "An Bang Beach",
       "description": "Located about 4km east of the Ancient Town, An Bang is Hoi An's most popular beach and consistently rated among Vietnam's finest. The beach has a relaxed bohemian vibe with beach bars, seafood restaurants, and comfortable sun loungers. The water is calm and swimmable from April to September. Several excellent beachfront restaurants like Soul Kitchen and The DeckHouse serve meals with ocean views.",
-      "highlights": ["Relaxed beach bar atmosphere", "Excellent seafood restaurants", "Swimming from April-September", "Sunset cocktails"]
+      "highlights": [
+        "Relaxed beach bar atmosphere",
+        "Excellent seafood restaurants",
+        "Swimming from April-September",
+        "Sunset cocktails"
+      ]
     },
     {
       "name": "Cam Nam Island",
       "description": "A short walk across the Cam Nam Bridge from the Ancient Town, this quiet island offers a more local experience. Narrow lanes wind past small houses, gardens, and humble food stalls serving Hoi An's famous local specialties at lower prices than in the Old Town. The riverfront promenade offers lovely views back toward the Ancient Town, especially at sunset.",
-      "highlights": ["Authentic local food stalls", "Peaceful riverside walks", "Traditional boat building", "River views of the Ancient Town"]
+      "highlights": [
+        "Authentic local food stalls",
+        "Peaceful riverside walks",
+        "Traditional boat building",
+        "River views of the Ancient Town"
+      ]
     },
     {
       "name": "Tra Que Vegetable Village",
       "description": "This 300-year-old farming village just north of the Ancient Town grows herbs and vegetables using traditional methods and seaweed fertilizer from the nearby De Vong River. Several farms offer hands-on experiences where visitors can learn to tend crops, harvest vegetables, and cook traditional Vietnamese dishes. It's a genuinely immersive agricultural experience rather than a contrived tourist attraction.",
-      "highlights": ["Hands-on farming experience", "Cooking classes with fresh ingredients", "Cycling through herb gardens", "Water buffalo encounters"]
+      "highlights": [
+        "Hands-on farming experience",
+        "Cooking classes with fresh ingredients",
+        "Cycling through herb gardens",
+        "Water buffalo encounters"
+      ]
     }
   ],
   "gettingThere": {

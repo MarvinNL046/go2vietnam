@@ -1,27 +1,53 @@
 {
   "slug": "sapa",
-  "name": { "en": "Sapa (Sa Pa)" },
+  "name": {
+    "en": "Sapa (Sa Pa)",
+    "nl": "Sapa (Sa Pa)"
+  },
   "vietnameseName": "Sa Pa",
   "image": "/images/cities/sapa.webp",
   "region": "Northwest Vietnam",
-  "highlights": ["Rice Terraces", "Fansipan Summit", "Ethnic Minority Villages", "Mountain Trekking"],
-  "description": { "en": "Set high in the Hoang Lien Son mountains near the Chinese border, Sapa is surrounded by some of Asia's most spectacular rice terraces carved into steep valleys. This mountain town serves as the gateway to Vietnam's highest peak, Fansipan, and to the vibrant cultures of the Hmong, Dao, and Tay ethnic minority communities." },
+  "highlights": [
+    "Rice Terraces",
+    "Fansipan Summit",
+    "Ethnic Minority Villages",
+    "Mountain Trekking"
+  ],
+  "description": {
+    "en": "Set high in the Hoang Lien Son mountains near the Chinese border, Sapa is surrounded by some of Asia's most spectacular rice terraces carved into steep valleys. This mountain town serves as the gateway to Vietnam's highest peak, Fansipan, and to the vibrant cultures of the Hmong, Dao, and Tay ethnic minority communities.",
+    "nl": "Hoog in het Hoang Lien Son-gebergte nabij de Chinese grens ligt Sapa, omringd door enkele van Azie's meest spectaculaire rijstterrassen die in steile valleien zijn uitgehouwen. Dit bergstadje is de toegangspoort tot de hoogste berg van Vietnam, de Fansipan, en tot de levendige culturen van de Hmong-, Dao- en Tay-minderheidsgemeenschappen."
+  },
   "overview": "Sapa (Sa Pa) sits at 1,600 meters elevation in the Hoang Lien Son mountain range of northwest Vietnam, near the Chinese border. Originally established as a French hill station in the 1920s, the town has become one of Vietnam's most popular tourist destinations, drawing visitors with its jaw-dropping rice terrace landscapes and the opportunity to engage with the cultures of several ethnic minority groups who have farmed these mountains for generations. The surrounding valleys — particularly Muong Hoa Valley, Cat Cat, and Ta Van — are home to H'mong (Black Hmong), Red Dao, Tay, Giay, and Xa Pho communities, each with distinct languages, traditional dress, and customs. While Sapa town itself has been heavily developed with hotels and tourist infrastructure, the surrounding countryside remains breathtakingly beautiful, especially during rice planting season (May-June) when the terraces glow bright green, and harvest time (September-October) when they turn golden. Fansipan, at 3,143 meters the highest peak in Vietnam and all of Indochina, looms over the town and can be summited either by a challenging 2-day trek or a modern cable car.",
   "neighborhoods": [
     {
       "name": "Sapa Town Center",
       "description": "The compact hilltop town has been heavily developed for tourism, with hotels, restaurants, and tour agencies lining the main streets. The central market area and the stone church (built by the French in 1926) are the main landmarks. The town square comes alive in the evenings when ethnic minority women sell handicrafts and textiles. Despite the commercialization, the views from town across the terraced valleys remain spectacular, especially when clouds fill the valleys below.",
-      "highlights": ["Stone church (Nha Tho Da)", "Central market and handicraft vendors", "Valley viewpoints from the town edge", "Saturday evening Love Market area"]
+      "highlights": [
+        "Stone church (Nha Tho Da)",
+        "Central market and handicraft vendors",
+        "Valley viewpoints from the town edge",
+        "Saturday evening Love Market area"
+      ]
     },
     {
       "name": "Muong Hoa Valley",
       "description": "The most spectacular of Sapa's terraced valleys stretches below the town to the southeast. This is where the most popular trekking routes lead, passing through Lao Chai and Ta Van villages (Black Hmong and Giay communities). The valley floor follows the Muong Hoa stream, which is lined with ancient carved rocks of unknown origin. Homestays in the valley offer the most immersive cultural experience.",
-      "highlights": ["Spectacular rice terraces", "Lao Chai and Ta Van villages", "Ancient carved rocks", "Homestay experiences"]
+      "highlights": [
+        "Spectacular rice terraces",
+        "Lao Chai and Ta Van villages",
+        "Ancient carved rocks",
+        "Homestay experiences"
+      ]
     },
     {
       "name": "Cat Cat Village",
       "description": "The closest ethnic minority village to Sapa town (about 3km downhill walk), Cat Cat is a Black Hmong village accessible via a well-maintained path descending into a valley with a waterfall. While the most tourist-developed of the local villages, it offers an easy introduction to Hmong culture with demonstrations of traditional indigo dyeing, hemp weaving, and blacksmithing. Entry fee: 70,000 VND ($2.80).",
-      "highlights": ["Easy walking distance from town", "Traditional Hmong craft demonstrations", "Cat Cat waterfall", "Terraced landscape views"]
+      "highlights": [
+        "Easy walking distance from town",
+        "Traditional Hmong craft demonstrations",
+        "Cat Cat waterfall",
+        "Terraced landscape views"
+      ]
     }
   ],
   "gettingThere": {

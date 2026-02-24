@@ -21,13 +21,13 @@ interface DrinksIndexProps {
 }
 
 export default function DrinksIndex({ drinks }: DrinksIndexProps) {
-  const { t } = useTranslation('common');
+  const { t, locale } = useTranslation('common');
 
   return (
     <>
       <SEOHead
-        title={`Vietnamese Drinks Guide - ${siteConfig.name}`}
-        description={`Discover the best Vietnamese drinks from traditional coffee to fresh juices and local beer. Complete drinks guide for ${siteConfig.destination}.`}
+        title={`${t('drinksIndex.title')} - ${siteConfig.name}`}
+        description={t('drinksIndex.subtitle')}
       />
       <div className="container-custom py-8 lg:py-12">
         <Breadcrumbs items={[
@@ -37,10 +37,10 @@ export default function DrinksIndex({ drinks }: DrinksIndexProps) {
 
         <div className="mb-10">
           <h1 className="font-display text-display-sm text-warm-900 mb-2">
-            Vietnamese Drinks Guide
+            {t('drinksIndex.title')}
           </h1>
           <p className="text-warm-500 text-lg">
-            From iconic iced coffee to refreshing tropical smoothies and craft brews
+            {t('drinksIndex.subtitle')}
           </p>
         </div>
 
@@ -51,14 +51,14 @@ export default function DrinksIndex({ drinks }: DrinksIndexProps) {
                 <path strokeLinecap="round" strokeLinejoin="round" d="M9.75 3.104v5.714a2.25 2.25 0 01-.659 1.591L5 14.5M9.75 3.104c-.251.023-.501.05-.75.082m.75-.082a24.301 24.301 0 014.5 0m0 0v5.714a2.25 2.25 0 00.659 1.591L19 14.5M14.25 3.104c.251.023.501.05.75.082M19 14.5l-1.5 4.5H6.5L5 14.5m14 0H5m4.75-11.396V3m0 0a2.25 2.25 0 00-1.5.75M14.25 3V3m0 0a2.25 2.25 0 011.5.75" />
               </svg>
             </div>
-            <p className="text-warm-500 text-lg font-medium mb-2">No drinks yet</p>
-            <p className="text-warm-400 text-sm">Content coming soon! We are working on adding local drinks.</p>
+            <p className="text-warm-500 text-lg font-medium mb-2">{t('drinksIndex.noContent')}</p>
+            <p className="text-warm-400 text-sm">{t('drinksIndex.comingSoon')}</p>
           </div>
         ) : (
           <div className="animate-stagger grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 lg:gap-8">
             {drinks.map((drink: DrinkItem) => {
-              const name = typeof drink.name === 'object' ? drink.name.en : drink.name || drink.slug;
-              const description = typeof drink.description === 'object' ? drink.description.en : drink.description;
+              const name = (typeof drink.name === 'object' ? (drink.name as any)[locale] || drink.name.en : drink.name) || drink.slug;
+              const description = typeof drink.description === 'object' ? (drink.description as any)[locale] || drink.description.en : drink.description;
 
               return (
                 <div key={drink.slug} className="card group">

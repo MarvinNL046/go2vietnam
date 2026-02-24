@@ -1,27 +1,53 @@
 {
   "slug": "ha-long",
-  "name": { "en": "Ha Long" },
+  "name": {
+    "en": "Ha Long",
+    "nl": "Ha Long"
+  },
   "vietnameseName": "Hạ Long",
   "image": "/images/cities/ha-long.webp",
   "region": "Northern Vietnam",
-  "highlights": ["UNESCO Ha Long Bay", "Limestone Karsts", "Overnight Cruises", "Sung Sot Cave"],
-  "description": { "en": "Ha Long Bay's nearly 2,000 limestone karsts and islands rising from emerald waters create one of the world's most iconic seascapes, recognized as a UNESCO World Heritage Site. Overnight junk boat cruises through this geological wonderland offer kayaking through hidden grottoes, visits to floating fishing villages, and sunrises that have inspired Vietnamese poets for centuries." },
+  "highlights": [
+    "UNESCO Ha Long Bay",
+    "Limestone Karsts",
+    "Overnight Cruises",
+    "Sung Sot Cave"
+  ],
+  "description": {
+    "en": "Ha Long Bay's nearly 2,000 limestone karsts and islands rising from emerald waters create one of the world's most iconic seascapes, recognized as a UNESCO World Heritage Site. Overnight junk boat cruises through this geological wonderland offer kayaking through hidden grottoes, visits to floating fishing villages, and sunrises that have inspired Vietnamese poets for centuries.",
+    "nl": "De bijna 2.000 kalkstenen karstformaties en eilanden van Ha Long Bay die uit smaragdgroen water oprijzen, vormen een van de meest iconische zeelandschappen ter wereld, erkend als UNESCO-Werelderfgoed. Cruises met traditionele jonken door dit geologische wonderland bieden kajakken door verborgen grotten, bezoeken aan drijvende vissersdorpen en zonsopgangen die Vietnamese dichters al eeuwenlang inspireren."
+  },
   "overview": "Ha Long Bay (Vịnh Hạ Long, meaning 'Bay of the Descending Dragon') is Vietnam's most famous natural wonder and one of the world's most spectacular seascapes. Located in Quang Ninh Province in northeast Vietnam, the bay spans approximately 1,500 square kilometers and contains nearly 2,000 limestone karst islands and islets, many of them hollow with enormous caves. The geological formations were created over 500 million years through a combination of tectonic forces and the erosive power of tropical weathering. Designated a UNESCO World Heritage Site in 1994 (and expanded in 2000), Ha Long Bay draws over 4 million visitors annually. Ha Long City, the gateway to the bay, has modernized rapidly and offers the main tourist infrastructure, including the international cruise terminal at Tuan Chau Marina and the older Bai Chay tourist area. While the bay itself is the undeniable star attraction, the surrounding area includes the quieter Lan Ha Bay (reached from Cat Ba Island), the spectacular Bai Tu Long Bay to the northeast, and the coastal town of Quang Ninh with its excellent museum.",
   "neighborhoods": [
     {
       "name": "Bai Chay (Tourist District)",
       "description": "The main tourist hub of Ha Long City stretches along the waterfront with hotels ranging from budget to luxury, seafood restaurants, souvenir shops, and the Sun World Ha Long amusement park. The beach at Bai Chay is artificial but pleasant. Most visitors use Bai Chay as a base the night before or after a bay cruise. The area has improved significantly with new waterfront parks and the cable car to Sun World.",
-      "highlights": ["Waterfront promenade", "Sun World Ha Long Complex", "Beach area", "Seafood restaurants"]
+      "highlights": [
+        "Waterfront promenade",
+        "Sun World Ha Long Complex",
+        "Beach area",
+        "Seafood restaurants"
+      ]
     },
     {
       "name": "Tuan Chau Marina",
       "description": "Located on Tuan Chau Island (connected to the mainland by a bridge), this modern marina is the departure point for most Ha Long Bay cruises. The area has upscale resorts, an artificial beach, and evening entertainment shows. Arriving here the evening before an early-morning cruise departure is convenient. The international cruise terminal opened in 2018 and handles the majority of bay cruise departures.",
-      "highlights": ["Cruise departure terminal", "Resort hotels", "Evening shows", "Marina facilities"]
+      "highlights": [
+        "Cruise departure terminal",
+        "Resort hotels",
+        "Evening shows",
+        "Marina facilities"
+      ]
     },
     {
       "name": "Cat Ba Island",
       "description": "The largest island in Ha Long Bay (though administratively part of Hai Phong city), Cat Ba is the base for exploring the less-crowded Lan Ha Bay. Cat Ba Town has budget accommodation, seafood restaurants, and an adventurous traveler vibe. The island is home to Cat Ba National Park, which protects the critically endangered Cat Ba langur (one of the world's rarest primates with only around 70-80 individuals remaining).",
-      "highlights": ["Cat Ba National Park", "Lan Ha Bay access", "Budget traveler hub", "Cat Ba langur conservation"]
+      "highlights": [
+        "Cat Ba National Park",
+        "Lan Ha Bay access",
+        "Budget traveler hub",
+        "Cat Ba langur conservation"
+      ]
     }
   ],
   "gettingThere": {

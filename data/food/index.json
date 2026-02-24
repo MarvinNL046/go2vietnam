@@ -1,146 +1,254 @@
 [
   {
     "slug": "pho",
-    "name": { "en": "Pho" },
+    "name": {
+      "en": "Pho",
+      "nl": "Pho"
+    },
     "image": "/images/food/pho.webp",
     "category": "Soup",
     "spiceLevel": "mild",
-    "description": { "en": "Vietnam's iconic rice noodle soup featuring a deeply aromatic broth simmered for hours with star anise, cinnamon, and charred ginger, served with silky flat noodles and your choice of beef or chicken." }
+    "description": {
+      "en": "Vietnam's iconic rice noodle soup featuring a deeply aromatic broth simmered for hours with star anise, cinnamon, and charred ginger, served with silky flat noodles and your choice of beef or chicken.",
+      "nl": "De iconische Vietnamese rijstnoedelsoep met een diep aromatische bouillon die urenlang getrokken wordt met steranijs, kaneel en geroosterde gember, geserveerd met zijdezachte platte noedels en rundvlees of kip naar keuze."
+    }
   },
   {
     "slug": "banh-mi",
-    "name": { "en": "Banh Mi" },
+    "name": {
+      "en": "Banh Mi",
+      "nl": "Banh Mi"
+    },
     "image": "/images/food/banh-mi.webp",
     "category": "Sandwich",
     "spiceLevel": "mild",
-    "description": { "en": "A crispy, airy baguette filled with a harmonious combination of savory meats, pickled daikon and carrot, fresh cilantro, sliced chili, and rich pate — a perfect fusion of French and Vietnamese culinary traditions." }
+    "description": {
+      "en": "A crispy, airy baguette filled with a harmonious combination of savory meats, pickled daikon and carrot, fresh cilantro, sliced chili, and rich pate — a perfect fusion of French and Vietnamese culinary traditions.",
+      "nl": "Een knapperig, luchtig stokbrood gevuld met een harmonieuze combinatie van hartig vlees, ingemaakte daikon en wortel, verse koriander, gesneden chilipeper en rijke pate — een perfecte fusie van de Franse en Vietnamese keukentraditie."
+    }
   },
   {
     "slug": "bun-cha",
-    "name": { "en": "Bun Cha" },
+    "name": {
+      "en": "Bun Cha",
+      "nl": "Bun Cha"
+    },
     "image": "/images/food/bun-cha.webp",
     "category": "Noodle",
     "spiceLevel": "mild",
-    "description": { "en": "Hanoi's beloved lunchtime dish of smoky charcoal-grilled pork patties and sliced pork belly served in a sweet and tangy dipping broth alongside rice vermicelli noodles and a basket of fresh herbs." }
+    "description": {
+      "en": "Hanoi's beloved lunchtime dish of smoky charcoal-grilled pork patties and sliced pork belly served in a sweet and tangy dipping broth alongside rice vermicelli noodles and a basket of fresh herbs.",
+      "nl": "Het geliefde lunchgerecht van Hanoi: rokerig over houtskool gegrilde varkensgehaktballetjes en gesneden varkensbuik, geserveerd in een zoetzure dipsaus-bouillon met rijstvermicelli en een mandje verse kruiden."
+    }
   },
   {
     "slug": "goi-cuon",
-    "name": { "en": "Goi Cuon" },
+    "name": {
+      "en": "Goi Cuon",
+      "nl": "Goi Cuon"
+    },
     "image": "/images/food/goi-cuon.webp",
     "category": "Appetizer",
     "spiceLevel": "mild",
-    "description": { "en": "Translucent rice paper rolls filled with shrimp, pork, rice vermicelli, and fresh herbs, served with a rich peanut hoisin dipping sauce — a refreshing and healthy Vietnamese classic." }
+    "description": {
+      "en": "Translucent rice paper rolls filled with shrimp, pork, rice vermicelli, and fresh herbs, served with a rich peanut hoisin dipping sauce — a refreshing and healthy Vietnamese classic.",
+      "nl": "Doorschijnende rijstpapierrolletjes gevuld met garnalen, varkensvlees, rijstvermicelli en verse kruiden, geserveerd met een rijke pinda-hoisindipsaus — een verfrissende en gezonde Vietnamese klassieker."
+    }
   },
   {
     "slug": "banh-xeo",
-    "name": { "en": "Banh Xeo" },
+    "name": {
+      "en": "Banh Xeo",
+      "nl": "Banh Xeo"
+    },
     "image": "/images/food/banh-xeo.webp",
     "category": "Pancake",
     "spiceLevel": "mild",
-    "description": { "en": "A sizzling crispy crepe made from rice flour and turmeric, stuffed with shrimp, pork, bean sprouts, and mung beans, then wrapped in lettuce and herbs before dipping in nuoc cham sauce." }
+    "description": {
+      "en": "A sizzling crispy crepe made from rice flour and turmeric, stuffed with shrimp, pork, bean sprouts, and mung beans, then wrapped in lettuce and herbs before dipping in nuoc cham sauce.",
+      "nl": "Een sissend krokante pannenkoek van rijstmeel en kurkuma, gevuld met garnalen, varkensvlees, taugé en mungbonen, gewikkeld in sla en kruiden en dan gedoopt in nuoc cham-saus."
+    }
   },
   {
     "slug": "bun-bo-hue",
-    "name": { "en": "Bun Bo Hue" },
+    "name": {
+      "en": "Bun Bo Hue",
+      "nl": "Bun Bo Hue"
+    },
     "image": "/images/food/bun-bo-hue.webp",
     "category": "Soup",
     "spiceLevel": "hot",
-    "description": { "en": "A bold, spicy beef noodle soup from the former imperial capital of Hue, featuring thick round rice noodles in a lemongrass-infused broth colored vibrant red with annatto oil and fermented shrimp paste." }
+    "description": {
+      "en": "A bold, spicy beef noodle soup from the former imperial capital of Hue, featuring thick round rice noodles in a lemongrass-infused broth colored vibrant red with annatto oil and fermented shrimp paste.",
+      "nl": "Een stevige, pikante rundvleesnoedelsoep uit de voormalige keizerlijke hoofdstad Hue, met dikke ronde rijstnoedels in een met citroengras doordrenkte bouillon, gekleurd met annattozaadolie en gefermenteerde garnalenpasta."
+    }
   },
   {
     "slug": "com-tam",
-    "name": { "en": "Com Tam" },
+    "name": {
+      "en": "Com Tam",
+      "nl": "Com Tam"
+    },
     "image": "/images/food/com-tam.webp",
     "category": "Rice",
     "spiceLevel": "mild",
-    "description": { "en": "Saigon's signature broken rice dish topped with a grilled pork chop marinated in lemongrass and garlic, accompanied by a shredded pork skin cake, steamed egg meatloaf, and sweet fish sauce." }
+    "description": {
+      "en": "Saigon's signature broken rice dish topped with a grilled pork chop marinated in lemongrass and garlic, accompanied by a shredded pork skin cake, steamed egg meatloaf, and sweet fish sauce.",
+      "nl": "Het kenmerkende gebroken-rijstgerecht van Saigon met een gegrilde varkenskotelet gemarineerd in citroengras en knoflook, vergezeld van een geraspte varkenshuidkoek, gestoomde ei-gehaktbrood en zoete vissaus."
+    }
   },
   {
     "slug": "cao-lau",
-    "name": { "en": "Cao Lau" },
+    "name": {
+      "en": "Cao Lau",
+      "nl": "Cao Lau"
+    },
     "image": "/images/food/cao-lau.webp",
     "category": "Noodle",
     "spiceLevel": "mild",
-    "description": { "en": "A unique Hoi An specialty featuring thick, chewy noodles made with water from the ancient Ba Le well, topped with sliced pork, crispy croutons, fresh herbs, and a small amount of savory broth." }
+    "description": {
+      "en": "A unique Hoi An specialty featuring thick, chewy noodles made with water from the ancient Ba Le well, topped with sliced pork, crispy croutons, fresh herbs, and a small amount of savory broth.",
+      "nl": "Een unieke specialiteit van Hoi An met dikke, kauwbare noedels die traditioneel gemaakt worden met water uit de eeuwenoude Ba Le-bron, belegd met gesneden varkensvlees, krokante croutons, verse kruiden en een kleine hoeveelheid hartige bouillon."
+    }
   },
   {
     "slug": "mi-quang",
-    "name": { "en": "Mi Quang" },
+    "name": {
+      "en": "Mi Quang",
+      "nl": "Mi Quang"
+    },
     "image": "/images/food/mi-quang.webp",
     "category": "Noodle",
     "spiceLevel": "medium",
-    "description": { "en": "A vibrant turmeric-tinted noodle dish from Quang Nam province served with just a small amount of rich broth, topped with shrimp, pork, quail eggs, peanuts, rice crackers, and an abundance of fresh herbs." }
+    "description": {
+      "en": "A vibrant turmeric-tinted noodle dish from Quang Nam province served with just a small amount of rich broth, topped with shrimp, pork, quail eggs, peanuts, rice crackers, and an abundance of fresh herbs.",
+      "nl": "Een kleurrijk noedelgerecht met kurkumatint uit de provincie Quang Nam, geserveerd met slechts een kleine hoeveelheid rijke bouillon, belegd met garnalen, varkensvlees, kwarteleitjes, pinda's, rijstcrackers en een overvloed aan verse kruiden."
+    }
   },
   {
     "slug": "banh-cuon",
-    "name": { "en": "Banh Cuon" },
+    "name": {
+      "en": "Banh Cuon",
+      "nl": "Banh Cuon"
+    },
     "image": "/images/food/banh-cuon.webp",
     "category": "Appetizer",
     "spiceLevel": "mild",
-    "description": { "en": "Delicate steamed rice flour sheets rolled around a savory filling of seasoned ground pork and wood ear mushrooms, served with crispy fried shallots, fresh herbs, and a light dipping fish sauce." }
+    "description": {
+      "en": "Delicate steamed rice flour sheets rolled around a savory filling of seasoned ground pork and wood ear mushrooms, served with crispy fried shallots, fresh herbs, and a light dipping fish sauce.",
+      "nl": "Fijne gestoomde rijstmeelvellen opgerold rond een hartige vulling van gekruid varkensgehakt en zwarte paddenstoelen, geserveerd met krokant gebakken sjalotten, verse kruiden en een lichte vissaus."
+    }
   },
   {
     "slug": "bun-rieu",
-    "name": { "en": "Bun Rieu" },
+    "name": {
+      "en": "Bun Rieu",
+      "nl": "Bun Rieu"
+    },
     "image": "/images/food/bun-rieu.webp",
     "category": "Soup",
     "spiceLevel": "mild",
-    "description": { "en": "A tangy, tomato-based noodle soup enriched with freshwater crab paste formed into delicate egg-crab cakes, served with rice vermicelli, tofu puffs, and a medley of fresh herbs and vegetables." }
+    "description": {
+      "en": "A tangy, tomato-based noodle soup enriched with freshwater crab paste formed into delicate egg-crab cakes, served with rice vermicelli, tofu puffs, and a medley of fresh herbs and vegetables.",
+      "nl": "Een pittig-zure noedelsoep op tomatenbasis, verrijkt met zoetwaterkrabpasta gevormd tot fijne ei-krabkoekjes, geserveerd met rijstvermicelli, tofupuffs en een mengeling van verse kruiden en groenten."
+    }
   },
   {
     "slug": "hu-tieu",
-    "name": { "en": "Hu Tieu" },
+    "name": {
+      "en": "Hu Tieu",
+      "nl": "Hu Tieu"
+    },
     "image": "/images/food/hu-tieu.webp",
     "category": "Soup",
     "spiceLevel": "mild",
-    "description": { "en": "A clear, sweet pork bone broth noodle soup from southern Vietnam featuring thin, chewy rice noodles topped with pork, shrimp, quail eggs, and Chinese celery — also commonly served dry with broth on the side." }
+    "description": {
+      "en": "A clear, sweet pork bone broth noodle soup from southern Vietnam featuring thin, chewy rice noodles topped with pork, shrimp, quail eggs, and Chinese celery — also commonly served dry with broth on the side.",
+      "nl": "Een heldere, zoete noedelsoep op varkensbotbouillon uit Zuid-Vietnam met dunne, kauwbare rijstnoedels, belegd met varkensvlees, garnalen, kwarteleitjes en Chinese selderij — ook vaak droog geserveerd met de bouillon apart."
+    }
   },
   {
     "slug": "nem-ran",
-    "name": { "en": "Nem Ran" },
+    "name": {
+      "en": "Nem Ran",
+      "nl": "Nem Ran"
+    },
     "image": "/images/food/nem-ran.webp",
     "category": "Appetizer",
     "spiceLevel": "mild",
-    "description": { "en": "Golden, crispy fried spring rolls filled with a savory mixture of ground pork, crab meat, glass noodles, wood ear mushrooms, and shredded vegetables, served with fresh lettuce, herbs, and nuoc cham dipping sauce." }
+    "description": {
+      "en": "Golden, crispy fried spring rolls filled with a savory mixture of ground pork, crab meat, glass noodles, wood ear mushrooms, and shredded vegetables, served with fresh lettuce, herbs, and nuoc cham dipping sauce.",
+      "nl": "Goudkleurige, krokante gefrituurde loempia's gevuld met een hartig mengsel van varkensgehakt, krabvlees, glasnoedels, zwarte paddenstoelen en geraspte groenten, geserveerd met verse sla, kruiden en nuoc cham-dipsaus."
+    }
   },
   {
     "slug": "bo-la-lot",
-    "name": { "en": "Bo La Lot" },
+    "name": {
+      "en": "Bo La Lot",
+      "nl": "Bo La Lot"
+    },
     "image": "/images/food/bo-la-lot.webp",
     "category": "Grill",
     "spiceLevel": "mild",
-    "description": { "en": "Fragrant parcels of seasoned ground beef wrapped in aromatic wild betel leaves and grilled over charcoal until the leaves are slightly charred and the filling is juicy and caramelized." }
+    "description": {
+      "en": "Fragrant parcels of seasoned ground beef wrapped in aromatic wild betel leaves and grilled over charcoal until the leaves are slightly charred and the filling is juicy and caramelized.",
+      "nl": "Geurige pakketjes van gekruid rundvleesgehakt gewikkeld in aromatische wilde betelbladen en gegrild boven houtskool tot de bladeren licht verkoold zijn en de vulling sappig en gekarameliseerd is."
+    }
   },
   {
     "slug": "ca-kho-to",
-    "name": { "en": "Ca Kho To" },
+    "name": {
+      "en": "Ca Kho To",
+      "nl": "Ca Kho To"
+    },
     "image": "/images/food/ca-kho-to.webp",
     "category": "Main",
     "spiceLevel": "medium",
-    "description": { "en": "Catfish fillets braised in a clay pot with a rich caramel sauce made from coconut water, fish sauce, and black pepper, slowly simmered until the sauce thickens and the fish absorbs all the deep, savory-sweet flavors." }
+    "description": {
+      "en": "Catfish fillets braised in a clay pot with a rich caramel sauce made from coconut water, fish sauce, and black pepper, slowly simmered until the sauce thickens and the fish absorbs all the deep, savory-sweet flavors.",
+      "nl": "Meervalfilets gestoofd in een aarden pot met een rijke karamelsaus van kokoswater, vissaus en zwarte peper, langzaam gegaard tot de saus indikt en de vis alle diepe, hartig-zoete smaken heeft opgenomen."
+    }
   },
   {
     "slug": "banh-khot",
-    "name": { "en": "Banh Khot" },
+    "name": {
+      "en": "Banh Khot",
+      "nl": "Banh Khot"
+    },
     "image": "/images/food/banh-khot.webp",
     "category": "Appetizer",
     "spiceLevel": "mild",
-    "description": { "en": "Bite-sized crispy rice flour pancakes with a tender center, each topped with a whole shrimp and green onion, originating from Vung Tau and served with fresh lettuce, herbs, and tangy fish sauce." }
+    "description": {
+      "en": "Bite-sized crispy rice flour pancakes with a tender center, each topped with a whole shrimp and green onion, originating from Vung Tau and served with fresh lettuce, herbs, and tangy fish sauce.",
+      "nl": "Hapklare krokante rijstmeelpannenkoekjes met een zachte kern, elk belegd met een hele garnaal en bosui, afkomstig uit Vung Tau en geserveerd met verse sla, kruiden en pittige vissaus."
+    }
   },
   {
     "slug": "xoi",
-    "name": { "en": "Xoi" },
+    "name": {
+      "en": "Xoi",
+      "nl": "Xoi"
+    },
     "image": "/images/food/xoi.webp",
     "category": "Rice",
     "spiceLevel": "mild",
-    "description": { "en": "Vietnamese sticky rice cooked by steaming and served with a wide array of savory or sweet toppings, from shredded chicken and fried shallots to mung bean paste and coconut — a beloved breakfast staple across the country." }
+    "description": {
+      "en": "Vietnamese sticky rice cooked by steaming and served with a wide array of savory or sweet toppings, from shredded chicken and fried shallots to mung bean paste and coconut — a beloved breakfast staple across the country.",
+      "nl": "Vietnamese kleefrijst bereid door stomen en geserveerd met een breed scala aan hartige of zoete toppings, van geraspte kip en gebakken sjalotten tot mungbonenpasta en kokos — een geliefd ontbijtgerecht in het hele land."
+    }
   },
   {
     "slug": "che",
-    "name": { "en": "Che" },
+    "name": {
+      "en": "Che",
+      "nl": "Che"
+    },
     "image": "/images/food/che.webp",
     "category": "Dessert",
     "spiceLevel": "mild",
-    "description": { "en": "A colorful family of Vietnamese sweet soups and puddings made with combinations of beans, tapioca, jelly, tropical fruits, and coconut milk, served warm or over crushed ice as a beloved everyday dessert." }
+    "description": {
+      "en": "A colorful family of Vietnamese sweet soups and puddings made with combinations of beans, tapioca, jelly, tropical fruits, and coconut milk, served warm or over crushed ice as a beloved everyday dessert.",
+      "nl": "Een kleurrijke familie van Vietnamese zoete soepen en puddings gemaakt van combinaties van bonen, tapioca, gelei, tropisch fruit en kokosmelk, warm geserveerd of met crushed ijs als een geliefd dagelijks dessert."
+    }
   }
 ]

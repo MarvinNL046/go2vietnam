@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import { useTranslation } from '../hooks/useTranslation';
 import { siteConfig } from '../site.config';
 
 interface BreadcrumbItem {
@@ -11,6 +12,8 @@ interface BreadcrumbsProps {
 }
 
 const Breadcrumbs: React.FC<BreadcrumbsProps> = ({ items }) => {
+  const { t } = useTranslation('common');
+
   return (
     <>
       <script
@@ -28,7 +31,7 @@ const Breadcrumbs: React.FC<BreadcrumbsProps> = ({ items }) => {
           })
         }}
       />
-      <nav className="mb-8" aria-label="Breadcrumb">
+      <nav className="mb-8" aria-label={t('common.breadcrumb')}>
         <ol className="flex items-center gap-1.5 text-sm">
           {items.map((item, index) => (
             <li key={index} className="inline-flex items-center">

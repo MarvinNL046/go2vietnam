@@ -1,6 +1,8 @@
 import React, { useState, useEffect } from 'react';
+import { useTranslation } from '../hooks/useTranslation';
 
 const CookieConsent = () => {
+  const { t } = useTranslation('common');
   const [showBanner, setShowBanner] = useState(false);
   const [showDetails, setShowDetails] = useState(false);
 
@@ -49,21 +51,21 @@ const CookieConsent = () => {
             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 8v4m0 4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
           </svg>
           <div>
-            <h3 className="font-display font-semibold text-warm-900 text-sm mb-1">We use cookies</h3>
+            <h3 className="font-display font-semibold text-warm-900 text-sm mb-1">{t('cookie.title')}</h3>
             <p className="text-xs text-warm-500 leading-relaxed">
-              We use cookies to enhance your browsing experience and analyze site traffic.
+              {t('cookie.description')}
               {!showDetails && (
                 <button onClick={() => setShowDetails(true)} className="text-brand-primary hover:underline ml-1 font-medium">
-                  Learn more
+                  {t('cookie.learnMore')}
                 </button>
               )}
             </p>
             {showDetails && (
               <div className="mt-2.5 text-xs text-warm-500 space-y-1.5">
-                <p><strong className="text-warm-700">Necessary:</strong> Required for the website to function properly.</p>
-                <p><strong className="text-warm-700">Analytics:</strong> Help us understand how visitors use our website.</p>
-                <p><strong className="text-warm-700">Marketing:</strong> Used to show relevant ads and measure effectiveness.</p>
-                <button onClick={() => setShowDetails(false)} className="text-brand-primary hover:underline font-medium">Show less</button>
+                <p><strong className="text-warm-700">{t('cookie.necessary')}</strong> {t('cookie.necessaryDesc')}</p>
+                <p><strong className="text-warm-700">{t('cookie.analytics')}</strong> {t('cookie.analyticsDesc')}</p>
+                <p><strong className="text-warm-700">{t('cookie.marketing')}</strong> {t('cookie.marketingDesc')}</p>
+                <button onClick={() => setShowDetails(false)} className="text-brand-primary hover:underline font-medium">{t('cookie.showLess')}</button>
               </div>
             )}
           </div>
@@ -73,13 +75,13 @@ const CookieConsent = () => {
             onClick={acceptNecessary}
             className="flex-1 px-4 py-2 text-xs font-medium text-warm-600 hover:text-warm-900 bg-warm-100 hover:bg-warm-200 rounded-xl transition-colors"
           >
-            Necessary only
+            {t('cookie.necessaryOnly')}
           </button>
           <button
             onClick={acceptAll}
             className="btn-primary flex-1 px-4 py-2 text-xs"
           >
-            Accept all
+            {t('cookie.acceptAll')}
           </button>
         </div>
       </div>

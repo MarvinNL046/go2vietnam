@@ -5,63 +5,61 @@ import { siteConfig } from '../../site.config';
 
 export default function WeatherGuide() {
   const { t } = useTranslation('common');
+  const { t: tg } = useTranslation('guides');
 
   const months = [
-    { name: 'Jan', north: { temp: '14-20', rain: 'Low', icon: '🌥️' }, central: { temp: '20-25', rain: 'Low', icon: '☀️' }, south: { temp: '26-32', rain: 'Low', icon: '☀️' } },
-    { name: 'Feb', north: { temp: '15-21', rain: 'Low', icon: '🌥️' }, central: { temp: '21-27', rain: 'Low', icon: '☀️' }, south: { temp: '27-33', rain: 'Low', icon: '☀️' } },
-    { name: 'Mar', north: { temp: '18-24', rain: 'Low', icon: '🌤️' }, central: { temp: '23-30', rain: 'Low', icon: '☀️' }, south: { temp: '28-34', rain: 'Low', icon: '☀️' } },
-    { name: 'Apr', north: { temp: '22-28', rain: 'Med', icon: '🌤️' }, central: { temp: '25-33', rain: 'Low', icon: '☀️' }, south: { temp: '29-35', rain: 'Med', icon: '🌤️' } },
-    { name: 'May', north: { temp: '26-32', rain: 'High', icon: '🌧️' }, central: { temp: '27-35', rain: 'Med', icon: '🌤️' }, south: { temp: '28-34', rain: 'High', icon: '🌧️' } },
-    { name: 'Jun', north: { temp: '28-34', rain: 'High', icon: '🌧️' }, central: { temp: '28-36', rain: 'Med', icon: '☀️' }, south: { temp: '27-33', rain: 'High', icon: '🌧️' } },
-    { name: 'Jul', north: { temp: '28-34', rain: 'High', icon: '🌧️' }, central: { temp: '28-36', rain: 'Low', icon: '☀️' }, south: { temp: '27-32', rain: 'High', icon: '🌧️' } },
-    { name: 'Aug', north: { temp: '27-33', rain: 'High', icon: '🌧️' }, central: { temp: '27-35', rain: 'Med', icon: '🌤️' }, south: { temp: '27-32', rain: 'High', icon: '🌧️' } },
-    { name: 'Sep', north: { temp: '25-31', rain: 'High', icon: '🌧️' }, central: { temp: '25-32', rain: 'High', icon: '🌧️' }, south: { temp: '27-32', rain: 'High', icon: '🌧️' } },
-    { name: 'Oct', north: { temp: '22-28', rain: 'Med', icon: '🌤️' }, central: { temp: '23-29', rain: 'V.High', icon: '⛈️' }, south: { temp: '27-32', rain: 'High', icon: '🌧️' } },
-    { name: 'Nov', north: { temp: '18-24', rain: 'Low', icon: '🌥️' }, central: { temp: '22-27', rain: 'V.High', icon: '⛈️' }, south: { temp: '27-32', rain: 'Med', icon: '🌤️' } },
-    { name: 'Dec', north: { temp: '14-20', rain: 'Low', icon: '🌥️' }, central: { temp: '20-25', rain: 'High', icon: '🌧️' }, south: { temp: '26-31', rain: 'Low', icon: '☀️' } },
+    { name: 'Jan', north: { temp: '14-20', rain: 'Low', icon: '\u{1F325}\u{FE0F}' }, central: { temp: '20-25', rain: 'Low', icon: '\u{2600}\u{FE0F}' }, south: { temp: '26-32', rain: 'Low', icon: '\u{2600}\u{FE0F}' } },
+    { name: 'Feb', north: { temp: '15-21', rain: 'Low', icon: '\u{1F325}\u{FE0F}' }, central: { temp: '21-27', rain: 'Low', icon: '\u{2600}\u{FE0F}' }, south: { temp: '27-33', rain: 'Low', icon: '\u{2600}\u{FE0F}' } },
+    { name: 'Mar', north: { temp: '18-24', rain: 'Low', icon: '\u{1F324}\u{FE0F}' }, central: { temp: '23-30', rain: 'Low', icon: '\u{2600}\u{FE0F}' }, south: { temp: '28-34', rain: 'Low', icon: '\u{2600}\u{FE0F}' } },
+    { name: 'Apr', north: { temp: '22-28', rain: 'Med', icon: '\u{1F324}\u{FE0F}' }, central: { temp: '25-33', rain: 'Low', icon: '\u{2600}\u{FE0F}' }, south: { temp: '29-35', rain: 'Med', icon: '\u{1F324}\u{FE0F}' } },
+    { name: 'May', north: { temp: '26-32', rain: 'High', icon: '\u{1F327}\u{FE0F}' }, central: { temp: '27-35', rain: 'Med', icon: '\u{1F324}\u{FE0F}' }, south: { temp: '28-34', rain: 'High', icon: '\u{1F327}\u{FE0F}' } },
+    { name: 'Jun', north: { temp: '28-34', rain: 'High', icon: '\u{1F327}\u{FE0F}' }, central: { temp: '28-36', rain: 'Med', icon: '\u{2600}\u{FE0F}' }, south: { temp: '27-33', rain: 'High', icon: '\u{1F327}\u{FE0F}' } },
+    { name: 'Jul', north: { temp: '28-34', rain: 'High', icon: '\u{1F327}\u{FE0F}' }, central: { temp: '28-36', rain: 'Low', icon: '\u{2600}\u{FE0F}' }, south: { temp: '27-32', rain: 'High', icon: '\u{1F327}\u{FE0F}' } },
+    { name: 'Aug', north: { temp: '27-33', rain: 'High', icon: '\u{1F327}\u{FE0F}' }, central: { temp: '27-35', rain: 'Med', icon: '\u{1F324}\u{FE0F}' }, south: { temp: '27-32', rain: 'High', icon: '\u{1F327}\u{FE0F}' } },
+    { name: 'Sep', north: { temp: '25-31', rain: 'High', icon: '\u{1F327}\u{FE0F}' }, central: { temp: '25-32', rain: 'High', icon: '\u{1F327}\u{FE0F}' }, south: { temp: '27-32', rain: 'High', icon: '\u{1F327}\u{FE0F}' } },
+    { name: 'Oct', north: { temp: '22-28', rain: 'Med', icon: '\u{1F324}\u{FE0F}' }, central: { temp: '23-29', rain: 'V.High', icon: '\u{26C8}\u{FE0F}' }, south: { temp: '27-32', rain: 'High', icon: '\u{1F327}\u{FE0F}' } },
+    { name: 'Nov', north: { temp: '18-24', rain: 'Low', icon: '\u{1F325}\u{FE0F}' }, central: { temp: '22-27', rain: 'V.High', icon: '\u{26C8}\u{FE0F}' }, south: { temp: '27-32', rain: 'Med', icon: '\u{1F324}\u{FE0F}' } },
+    { name: 'Dec', north: { temp: '14-20', rain: 'Low', icon: '\u{1F325}\u{FE0F}' }, central: { temp: '20-25', rain: 'High', icon: '\u{1F327}\u{FE0F}' }, south: { temp: '26-31', rain: 'Low', icon: '\u{2600}\u{FE0F}' } },
   ];
 
   return (
     <>
       <SEOHead
-        title={`Vietnam Weather Guide - Best Time to Visit by Region | ${siteConfig.name}`}
-        description="Vietnam weather guide by region and month. When to visit northern, central, and southern Vietnam. Monsoon seasons, temperatures, packing tips, and typhoon info."
+        title={`${tg('weather.seoTitle')} | ${siteConfig.name}`}
+        description={tg('weather.seoDescription')}
       />
 
       <div className="container-custom py-8 lg:py-12">
         <Breadcrumbs items={[
           { name: t('nav.home'), href: '/' },
-          { name: 'Weather', href: '/weather/' },
+          { name: tg('weather.breadcrumb'), href: '/weather/' },
         ]} />
 
         {/* Page Header */}
         <div className="mb-12">
           <h1 className="font-display text-display-sm text-warm-900 mb-4">
-            Vietnam Weather Guide
+            {tg('weather.title')}
           </h1>
           <p className="text-warm-500 text-lg max-w-3xl">
-            Vietnam&apos;s climate varies dramatically from north to south and coast to highlands.
-            Understanding the weather patterns for each region is essential for planning the perfect trip.
+            {tg('weather.intro')}
           </p>
         </div>
 
         {/* Climate Overview */}
         <section className="mb-16">
-          <h2 className="font-display text-2xl text-warm-900 mb-6">Climate Overview</h2>
+          <h2 className="font-display text-2xl text-warm-900 mb-6">{tg('weather.climateOverview')}</h2>
           <div className="card-flat p-6 lg:p-8">
             <div className="prose-custom">
               <p>
-                Vietnam spans over 1,650 km from north to south, crossing multiple climate zones. The country
-                has a <strong>tropical monsoon climate</strong>, but conditions vary significantly:
+                {tg('weather.climateOverviewIntro')}
               </p>
               <ul>
-                <li>The <strong>north</strong> has four distinct seasons, with cold winters (yes, you may need a jacket in Hanoi)</li>
-                <li>The <strong>central coast</strong> has its own monsoon pattern, with the wettest weather from September to December</li>
-                <li>The <strong>south</strong> is tropical year-round, with a simple wet/dry season split</li>
+                <li>{tg('weather.climateNorth')}</li>
+                <li>{tg('weather.climateCentral')}</li>
+                <li>{tg('weather.climateSouth')}</li>
               </ul>
               <p>
-                There is no single &quot;best time&quot; to visit all of Vietnam. The key is matching your itinerary to
-                regional weather patterns, or accepting that some rain is part of the experience.
+                {tg('weather.climateNoBestTime')}
               </p>
             </div>
           </div>
@@ -69,63 +67,52 @@ export default function WeatherGuide() {
 
         {/* Best Time Cards */}
         <section className="mb-16">
-          <h2 className="font-display text-2xl text-warm-900 mb-6">Best Time to Visit by Region</h2>
+          <h2 className="font-display text-2xl text-warm-900 mb-6">{tg('weather.bestTimeTitle')}</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             <div className="card-flat p-6 border-t-4 border-t-brand-primary">
-              <h3 className="font-display text-lg text-warm-900 mb-1">Northern Vietnam</h3>
-              <p className="text-warm-400 text-sm mb-4">Hanoi, Sapa, Ha Long Bay, Ninh Binh</p>
+              <h3 className="font-display text-lg text-warm-900 mb-1">{tg('weather.northernVietnam')}</h3>
+              <p className="text-warm-400 text-sm mb-4">{tg('weather.northernCities')}</p>
               <div className="flex items-center gap-2 mb-4">
-                <span className="badge-primary">Best: Oct-Dec, Mar-Apr</span>
+                <span className="badge-primary">{tg('weather.northernBest')}</span>
               </div>
               <div className="prose-custom text-sm">
                 <p>
-                  The north experiences four seasons. Spring (March-April) brings pleasant warmth
-                  and blooming flowers. Autumn (October-November) offers clear skies and cool
-                  temperatures -- perfect weather for Ha Long Bay and trekking in Sapa.
+                  {tg('weather.northernDesc')}
                 </p>
                 <p>
-                  <strong>Avoid:</strong> Summers (June-August) are sweltering and rainy.
-                  Winters (December-February) can drop to 10 C in Hanoi and near freezing in Sapa.
+                  <strong>{tg('weather.northernAvoid')}</strong> {tg('weather.northernAvoidText')}
                 </p>
               </div>
             </div>
 
             <div className="card-flat p-6 border-t-4 border-t-brand-accent">
-              <h3 className="font-display text-lg text-warm-900 mb-1">Central Vietnam</h3>
-              <p className="text-warm-400 text-sm mb-4">Hue, Da Nang, Hoi An, Nha Trang</p>
+              <h3 className="font-display text-lg text-warm-900 mb-1">{tg('weather.centralVietnam')}</h3>
+              <p className="text-warm-400 text-sm mb-4">{tg('weather.centralCities')}</p>
               <div className="flex items-center gap-2 mb-4">
-                <span className="badge-accent">Best: Feb-May</span>
+                <span className="badge-accent">{tg('weather.centralBest')}</span>
               </div>
               <div className="prose-custom text-sm">
                 <p>
-                  Central Vietnam has its own weather pattern distinct from north and south.
-                  February to May is ideal: warm, sunny, and dry with beach-perfect conditions.
-                  June to August is hot but mostly dry.
+                  {tg('weather.centralDesc')}
                 </p>
                 <p>
-                  <strong>Avoid:</strong> September to December is monsoon season with heavy
-                  rainfall and occasional typhoons. October-November sees the worst flooding --
-                  Hoi An&apos;s old town regularly floods during this period.
+                  <strong>{tg('weather.centralAvoid')}</strong> {tg('weather.centralAvoidText')}
                 </p>
               </div>
             </div>
 
             <div className="card-flat p-6 border-t-4 border-t-brand-secondary">
-              <h3 className="font-display text-lg text-warm-900 mb-1">Southern Vietnam</h3>
-              <p className="text-warm-400 text-sm mb-4">Ho Chi Minh City, Mekong Delta, Phu Quoc, Mui Ne</p>
+              <h3 className="font-display text-lg text-warm-900 mb-1">{tg('weather.southernVietnam')}</h3>
+              <p className="text-warm-400 text-sm mb-4">{tg('weather.southernCities')}</p>
               <div className="flex items-center gap-2 mb-4">
-                <span className="badge-secondary">Best: Nov-Apr</span>
+                <span className="badge-secondary">{tg('weather.southernBest')}</span>
               </div>
               <div className="prose-custom text-sm">
                 <p>
-                  The south is hot and tropical all year, with temperatures rarely dropping
-                  below 25 C. The dry season (November-April) is the most comfortable time to visit,
-                  with sunny days and low humidity.
+                  {tg('weather.southernDesc')}
                 </p>
                 <p>
-                  <strong>Wet season:</strong> May to October brings daily afternoon downpours
-                  lasting 1-2 hours, but mornings are often sunny. The rain is heavy but
-                  predictable, and travel is still very doable. Phu Quoc island is best November-March.
+                  <strong>{tg('weather.southernWetSeason')}</strong> {tg('weather.southernWetText')}
                 </p>
               </div>
             </div>
@@ -134,25 +121,25 @@ export default function WeatherGuide() {
 
         {/* Monthly Weather Table */}
         <section className="mb-16">
-          <h2 className="font-display text-2xl text-warm-900 mb-6">Monthly Weather Summary</h2>
+          <h2 className="font-display text-2xl text-warm-900 mb-6">{tg('weather.monthlyTitle')}</h2>
           <div className="card-flat overflow-hidden">
             <div className="overflow-x-auto">
               <table className="w-full text-left text-sm">
                 <thead className="bg-warm-100">
                   <tr>
-                    <th className="px-4 py-3 font-display text-warm-900 sticky left-0 bg-warm-100">Month</th>
-                    <th className="px-4 py-3 font-display text-warm-900 text-center" colSpan={2}>North (Hanoi)</th>
-                    <th className="px-4 py-3 font-display text-warm-900 text-center" colSpan={2}>Central (Da Nang)</th>
-                    <th className="px-4 py-3 font-display text-warm-900 text-center" colSpan={2}>South (HCMC)</th>
+                    <th className="px-4 py-3 font-display text-warm-900 sticky left-0 bg-warm-100">{tg('weather.tableMonth')}</th>
+                    <th className="px-4 py-3 font-display text-warm-900 text-center" colSpan={2}>{tg('weather.tableNorth')}</th>
+                    <th className="px-4 py-3 font-display text-warm-900 text-center" colSpan={2}>{tg('weather.tableCentral')}</th>
+                    <th className="px-4 py-3 font-display text-warm-900 text-center" colSpan={2}>{tg('weather.tableSouth')}</th>
                   </tr>
                   <tr className="bg-warm-50">
                     <th className="px-4 py-2 text-warm-500 text-xs sticky left-0 bg-warm-50"></th>
-                    <th className="px-4 py-2 text-warm-500 text-xs text-center">Temp C</th>
-                    <th className="px-4 py-2 text-warm-500 text-xs text-center">Rain</th>
-                    <th className="px-4 py-2 text-warm-500 text-xs text-center">Temp C</th>
-                    <th className="px-4 py-2 text-warm-500 text-xs text-center">Rain</th>
-                    <th className="px-4 py-2 text-warm-500 text-xs text-center">Temp C</th>
-                    <th className="px-4 py-2 text-warm-500 text-xs text-center">Rain</th>
+                    <th className="px-4 py-2 text-warm-500 text-xs text-center">{tg('weather.tableTempC')}</th>
+                    <th className="px-4 py-2 text-warm-500 text-xs text-center">{tg('weather.tableRain')}</th>
+                    <th className="px-4 py-2 text-warm-500 text-xs text-center">{tg('weather.tableTempC')}</th>
+                    <th className="px-4 py-2 text-warm-500 text-xs text-center">{tg('weather.tableRain')}</th>
+                    <th className="px-4 py-2 text-warm-500 text-xs text-center">{tg('weather.tableTempC')}</th>
+                    <th className="px-4 py-2 text-warm-500 text-xs text-center">{tg('weather.tableRain')}</th>
                   </tr>
                 </thead>
                 <tbody className="divide-y divide-warm-100">
@@ -198,35 +185,33 @@ export default function WeatherGuide() {
               </table>
             </div>
             <div className="px-4 py-3 bg-warm-50 text-warm-500 text-xs">
-              Temperatures in Celsius (min-max). Rain levels: Low (&lt;50mm), Med (50-150mm), High (150-300mm), V.High (&gt;300mm).
+              {tg('weather.tableFootnote')}
             </div>
           </div>
         </section>
 
         {/* Typhoon Season */}
         <section className="mb-16">
-          <h2 className="font-display text-2xl text-warm-900 mb-6">Typhoon Season</h2>
+          <h2 className="font-display text-2xl text-warm-900 mb-6">{tg('weather.typhoonTitle')}</h2>
           <div className="card-flat p-6 lg:p-8 border-l-4 border-l-brand-primary">
             <div className="prose-custom">
               <p>
-                Vietnam&apos;s typhoon season runs from <strong>June to November</strong>, with the highest
-                risk in <strong>September and October</strong>. Typhoons primarily affect the central and
-                northern coasts. Southern Vietnam is rarely hit by typhoons.
+                {tg('weather.typhoonIntro')}
               </p>
-              <h3>What to Expect</h3>
+              <h3>{tg('weather.typhoonExpect')}</h3>
               <ul>
-                <li>Central Vietnam (Da Nang, Hoi An, Hue) is most vulnerable from September to November</li>
-                <li>Northern coast and Ha Long Bay can be affected from July to September</li>
-                <li>Typhoons bring heavy rain, flooding, and flight/boat cancellations</li>
-                <li>The Vietnamese government issues warnings 48-72 hours in advance</li>
+                <li>{tg('weather.typhoonCentral')}</li>
+                <li>{tg('weather.typhoonNorth')}</li>
+                <li>{tg('weather.typhoonEffects')}</li>
+                <li>{tg('weather.typhoonWarning')}</li>
               </ul>
-              <h3>If You Are Traveling During Typhoon Season</h3>
+              <h3>{tg('weather.typhoonTravelTitle')}</h3>
               <ul>
-                <li>Monitor weather forecasts daily (use Windy.com or the Vietnam Meteorological Center)</li>
-                <li>Have flexible travel insurance that covers weather disruptions</li>
-                <li>Avoid booking Ha Long Bay cruises or island trips during peak typhoon months</li>
-                <li>Keep some indoor activities (museums, cooking classes, spas) on your backup plan</li>
-                <li>Most typhoons pass within 1-2 days, so short delays are manageable</li>
+                <li>{tg('weather.typhoonMonitor')}</li>
+                <li>{tg('weather.typhoonInsurance')}</li>
+                <li>{tg('weather.typhoonAvoidCruises')}</li>
+                <li>{tg('weather.typhoonBackupPlan')}</li>
+                <li>{tg('weather.typhoonDuration')}</li>
               </ul>
             </div>
           </div>
@@ -234,63 +219,63 @@ export default function WeatherGuide() {
 
         {/* What to Pack */}
         <section className="mb-16">
-          <h2 className="font-display text-2xl text-warm-900 mb-6">What to Pack by Season</h2>
+          <h2 className="font-display text-2xl text-warm-900 mb-6">{tg('weather.packingTitle')}</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="card-flat p-6">
-              <h3 className="font-display text-lg text-warm-900 mb-4">Dry Season (Nov-Apr)</h3>
+              <h3 className="font-display text-lg text-warm-900 mb-4">{tg('weather.drySeasonTitle')}</h3>
               <ul className="space-y-2 text-warm-600 text-sm">
                 <li className="flex items-start gap-2">
                   <span className="text-brand-primary font-bold flex-shrink-0">+</span>
-                  Light, breathable clothing (cotton or moisture-wicking fabrics)
+                  {tg('weather.dryLight')}
                 </li>
                 <li className="flex items-start gap-2">
                   <span className="text-brand-primary font-bold flex-shrink-0">+</span>
-                  Light jacket or sweater for air-conditioned venues and northern evenings
+                  {tg('weather.dryJacket')}
                 </li>
                 <li className="flex items-start gap-2">
                   <span className="text-brand-primary font-bold flex-shrink-0">+</span>
-                  Warm layers if visiting Sapa or northern highlands (temperatures can reach 5 C)
+                  {tg('weather.dryWarmLayers')}
                 </li>
                 <li className="flex items-start gap-2">
                   <span className="text-brand-primary font-bold flex-shrink-0">+</span>
-                  Comfortable walking shoes
+                  {tg('weather.dryShoes')}
                 </li>
                 <li className="flex items-start gap-2">
                   <span className="text-brand-primary font-bold flex-shrink-0">+</span>
-                  Sunscreen, sunglasses, and a hat
+                  {tg('weather.drySunscreen')}
                 </li>
                 <li className="flex items-start gap-2">
                   <span className="text-brand-primary font-bold flex-shrink-0">+</span>
-                  Light scarf for temple visits (shoulders and knees should be covered)
+                  {tg('weather.dryScarf')}
                 </li>
               </ul>
             </div>
             <div className="card-flat p-6">
-              <h3 className="font-display text-lg text-warm-900 mb-4">Wet Season (May-Oct)</h3>
+              <h3 className="font-display text-lg text-warm-900 mb-4">{tg('weather.wetSeasonTitle')}</h3>
               <ul className="space-y-2 text-warm-600 text-sm">
                 <li className="flex items-start gap-2">
                   <span className="text-brand-accent-600 font-bold flex-shrink-0">+</span>
-                  Everything from dry season, plus:
+                  {tg('weather.wetEverything')}
                 </li>
                 <li className="flex items-start gap-2">
                   <span className="text-brand-accent-600 font-bold flex-shrink-0">+</span>
-                  A compact, packable rain jacket (not just an umbrella -- motorbike taxis!)
+                  {tg('weather.wetRainJacket')}
                 </li>
                 <li className="flex items-start gap-2">
                   <span className="text-brand-accent-600 font-bold flex-shrink-0">+</span>
-                  Waterproof bag or dry bag for electronics
+                  {tg('weather.wetDryBag')}
                 </li>
                 <li className="flex items-start gap-2">
                   <span className="text-brand-accent-600 font-bold flex-shrink-0">+</span>
-                  Quick-dry clothing and sandals that handle getting wet
+                  {tg('weather.wetQuickDry')}
                 </li>
                 <li className="flex items-start gap-2">
                   <span className="text-brand-accent-600 font-bold flex-shrink-0">+</span>
-                  Waterproof phone case (especially for boat trips)
+                  {tg('weather.wetPhoneCase')}
                 </li>
                 <li className="flex items-start gap-2">
                   <span className="text-brand-accent-600 font-bold flex-shrink-0">+</span>
-                  Insect repellent (mosquitoes increase during rainy season)
+                  {tg('weather.wetRepellent')}
                 </li>
               </ul>
             </div>
@@ -298,47 +283,37 @@ export default function WeatherGuide() {
 
           <div className="bg-warm-100 rounded-xl p-4 mt-6">
             <p className="text-warm-600 text-sm">
-              <strong className="text-warm-800">Local tip:</strong> You can buy cheap rain ponchos (ao mua) at any
-              convenience store in Vietnam for about 10,000-30,000 VND ($0.40-1.20). Locals use them while
-              riding motorbikes, and they work great. No need to pack a bulky rain jacket.
+              <strong className="text-warm-800">{tg('weather.localPackingTip')}</strong> {tg('weather.localPackingTipText')}
             </p>
           </div>
         </section>
 
         {/* Regional Highlights */}
         <section className="mb-8">
-          <h2 className="font-display text-2xl text-warm-900 mb-6">Destination-Specific Weather Tips</h2>
+          <h2 className="font-display text-2xl text-warm-900 mb-6">{tg('weather.destinationTipsTitle')}</h2>
           <div className="space-y-4">
             <div className="card-flat p-6">
-              <h3 className="font-display text-base text-warm-900 mb-2">Ha Long Bay</h3>
+              <h3 className="font-display text-base text-warm-900 mb-2">{tg('weather.haLongBay')}</h3>
               <p className="text-warm-600 text-sm">
-                Best visited October-December and March-April. Summer cruises are hot and hazy.
-                Winter (January-February) can be foggy with limited visibility, though fewer crowds.
-                Cruise cancellations are possible during typhoon season and rough seas.
+                {tg('weather.haLongBayTip')}
               </p>
             </div>
             <div className="card-flat p-6">
-              <h3 className="font-display text-base text-warm-900 mb-2">Sapa</h3>
+              <h3 className="font-display text-base text-warm-900 mb-2">{tg('weather.sapa')}</h3>
               <p className="text-warm-600 text-sm">
-                Rice terraces are greenest in September-October (just before harvest) and freshly planted
-                in May-June. Winter brings cold fog and occasional frost but atmospheric trekking.
-                March-May offers clear days and comfortable temperatures for hiking.
+                {tg('weather.sapaTip')}
               </p>
             </div>
             <div className="card-flat p-6">
-              <h3 className="font-display text-base text-warm-900 mb-2">Hoi An</h3>
+              <h3 className="font-display text-base text-warm-900 mb-2">{tg('weather.hoiAn')}</h3>
               <p className="text-warm-600 text-sm">
-                February-May is peak beach season. The old town floods regularly in October-November.
-                The Lantern Festival (full moon each month) is magical year-round. Summer is hot
-                (35 C+) but dry.
+                {tg('weather.hoiAnTip')}
               </p>
             </div>
             <div className="card-flat p-6">
-              <h3 className="font-display text-base text-warm-900 mb-2">Phu Quoc Island</h3>
+              <h3 className="font-display text-base text-warm-900 mb-2">{tg('weather.phuQuoc')}</h3>
               <p className="text-warm-600 text-sm">
-                Best from November to March with calm seas and blue skies. The wet season (June-September)
-                brings rough seas and some resorts close. April-May is the transition period with warm
-                weather and smaller crowds.
+                {tg('weather.phuQuocTip')}
               </p>
             </div>
           </div>

@@ -1,10 +1,16 @@
 {
   "slug": "nuoc-mia",
-  "name": { "en": "Fresh Sugarcane Juice" },
+  "name": {
+    "en": "Fresh Sugarcane Juice",
+    "nl": "Vers suikerrietsap"
+  },
   "vietnameseName": "Nước Mía",
   "image": "/images/drinks/nuoc-mia.webp",
   "category": "Juice",
-  "description": { "en": "Freshly pressed sugarcane juice extracted through hand-cranked or motorized rollers at street-side carts, often mixed with a squeeze of kumquat or calamansi. This refreshing, naturally sweet drink is a beloved thirst quencher in Vietnam's tropical heat." },
+  "description": {
+    "en": "Freshly pressed sugarcane juice extracted through hand-cranked or motorized rollers at street-side carts, often mixed with a squeeze of kumquat or calamansi. This refreshing, naturally sweet drink is a beloved thirst quencher in Vietnam's tropical heat.",
+    "nl": "Vers geperst suikerrietsap gewonnen met handmatige of gemotoriseerde rollen bij karren langs de weg, vaak gemengd met een scheutje kumquat of calamansi. Dit verfrissende, van nature zoete drankje is een geliefd dorstlesser in de tropische hitte van Vietnam."
+  },
   "overview": "Nuoc mia is one of Vietnam's most refreshing and satisfying street drinks - pure sugarcane stalks fed through a mechanical press, yielding fresh, naturally sweet green-gold juice that is immediately poured over ice. The drink is everywhere in Vietnam, especially in the south, where sugarcane grows abundantly in provinces like Tay Ninh and the Mekong Delta. Street vendors operate motorized or hand-cranked roller presses mounted on mobile carts, feeding long stalks of sugarcane through the heavy rollers multiple times to extract maximum juice. The juice is typically served with a squeeze of kumquat (tac) or calamansi lime to balance the sweetness with a touch of citrus tartness. On a sweltering day in Saigon or the Mekong Delta, there is arguably no more satisfying drink available than a tall glass of freshly pressed nuoc mia over ice.",
   "origin": {
     "region": "Nationwide, especially Southern Vietnam and the Mekong Delta",
@@ -34,10 +40,22 @@
     }
   ],
   "variations": [
-    { "name": "Nuoc Mia Tac (with kumquat)", "description": "The most common version, with fresh kumquat juice squeezed in to add a citrus tang to balance the sweetness" },
-    { "name": "Nuoc Mia La Dua (with pandan)", "description": "Pressed with pandan leaf for a subtle aromatic, slightly vanilla-like flavor" },
-    { "name": "Nuoc Mia Dua (with coconut)", "description": "Mixed with fresh coconut water for an extra tropical, electrolyte-rich combination" },
-    { "name": "Nuoc Mia Gung (with ginger)", "description": "A warming variation with fresh ginger added, sometimes found in northern Vietnam during cooler months" }
+    {
+      "name": "Nuoc Mia Tac (with kumquat)",
+      "description": "The most common version, with fresh kumquat juice squeezed in to add a citrus tang to balance the sweetness"
+    },
+    {
+      "name": "Nuoc Mia La Dua (with pandan)",
+      "description": "Pressed with pandan leaf for a subtle aromatic, slightly vanilla-like flavor"
+    },
+    {
+      "name": "Nuoc Mia Dua (with coconut)",
+      "description": "Mixed with fresh coconut water for an extra tropical, electrolyte-rich combination"
+    },
+    {
+      "name": "Nuoc Mia Gung (with ginger)",
+      "description": "A warming variation with fresh ginger added, sometimes found in northern Vietnam during cooler months"
+    }
   ],
   "priceRange": "10,000 - 20,000 VND ($0.40 - $0.80)",
   "tips": [

@@ -1,11 +1,17 @@
 {
   "slug": "hu-tieu",
-  "name": { "en": "Hu Tieu" },
+  "name": {
+    "en": "Hu Tieu",
+    "nl": "Hu Tieu"
+  },
   "vietnameseName": "Hủ Tiếu",
   "image": "/images/food/hu-tieu.webp",
   "category": "Soup",
   "spiceLevel": "mild",
-  "description": { "en": "A clear, sweet pork bone broth noodle soup from southern Vietnam featuring thin, chewy rice noodles topped with pork, shrimp, quail eggs, and Chinese celery — also commonly served dry with broth on the side." },
+  "description": {
+    "en": "A clear, sweet pork bone broth noodle soup from southern Vietnam featuring thin, chewy rice noodles topped with pork, shrimp, quail eggs, and Chinese celery — also commonly served dry with broth on the side.",
+    "nl": "Een heldere, zoete noedelsoep op varkensbotbouillon uit Zuid-Vietnam met dunne, kauwbare rijstnoedels, belegd met varkensvlees, garnalen, kwarteleitjes en Chinese selderij — ook vaak droog geserveerd met de bouillon apart."
+  },
   "overview": "Hu tieu is the noodle soup of southern Vietnam, a lighter and sweeter counterpart to the north's pho. The dish features a clear pork bone broth that is naturally sweet and clean-tasting, served over thin, slightly chewy rice noodles (or sometimes egg noodles) with a variety of toppings including sliced pork, shrimp, pork liver, quail eggs, and Chinese celery. What makes hu tieu particularly versatile is that it can be served either as a soup (hủ tiếu nước) or dry (hủ tiếu khô), where the noodles are tossed in a savory sauce and the broth comes in a separate bowl on the side. The dish reflects the Chinese-Vietnamese culinary heritage of the Mekong Delta and Saigon, brought by Teochew (Chaozhou) Chinese immigrants who settled in the region centuries ago. Hu tieu is a common breakfast food throughout southern Vietnam, with stalls opening before dawn to serve the morning rush.",
   "origin": {
     "region": "Southern Vietnam (Mekong Delta / Ho Chi Minh City)",

@@ -1,5 +1,6 @@
 import Image from 'next/image';
 import { useState } from 'react';
+import { useTranslation } from '../hooks/useTranslation';
 
 interface GallerySliderProps {
   images: string[];
@@ -8,6 +9,7 @@ interface GallerySliderProps {
 }
 
 const GallerySlider: React.FC<GallerySliderProps> = ({ images, alt, className = '' }) => {
+  const { t } = useTranslation('common');
   const [currentIndex, setCurrentIndex] = useState(0);
 
   if (images.length === 0) return null;
@@ -36,7 +38,7 @@ const GallerySlider: React.FC<GallerySliderProps> = ({ images, alt, className = 
       <button
         onClick={(e) => { e.preventDefault(); goTo(currentIndex - 1); }}
         className="absolute left-3 top-1/2 -translate-y-1/2 bg-white/20 backdrop-blur-sm hover:bg-white/40 rounded-full p-2 opacity-0 group-hover:opacity-100 transition-all duration-200"
-        aria-label="Previous image"
+        aria-label={t('common.previousImage')}
       >
         <svg className="w-4 h-4 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2.5" d="M15 19l-7-7 7-7" />
@@ -45,7 +47,7 @@ const GallerySlider: React.FC<GallerySliderProps> = ({ images, alt, className = 
       <button
         onClick={(e) => { e.preventDefault(); goTo(currentIndex + 1); }}
         className="absolute right-3 top-1/2 -translate-y-1/2 bg-white/20 backdrop-blur-sm hover:bg-white/40 rounded-full p-2 opacity-0 group-hover:opacity-100 transition-all duration-200"
-        aria-label="Next image"
+        aria-label={t('common.nextImage')}
       >
         <svg className="w-4 h-4 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2.5" d="M9 5l7 7-7 7" />
@@ -61,7 +63,7 @@ const GallerySlider: React.FC<GallerySliderProps> = ({ images, alt, className = 
             className={`h-2.5 rounded-full transition-all duration-200 ${
               i === currentIndex ? 'bg-white w-6' : 'bg-white/50 w-2.5'
             }`}
-            aria-label={`Go to image ${i + 1}`}
+            aria-label={`${t('common.goToImage')} ${i + 1}`}
           />
         ))}
       </div>

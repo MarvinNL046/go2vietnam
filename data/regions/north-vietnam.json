@@ -1,11 +1,28 @@
 {
   "slug": "north-vietnam",
-  "name": "North Vietnam",
+  "name": {
+    "en": "North Vietnam",
+    "nl": "Noord-Vietnam"
+  },
   "image": "/images/regions/north-vietnam.webp",
-  "description": "Home to Vietnam's ancient capital Hanoi, the spectacular limestone seascapes of Ha Long Bay, and the emerald rice terraces of the northern highlands, North Vietnam is where the country's thousand-year history and breathtaking natural landscapes converge.",
+  "description": {
+    "en": "Home to Vietnam's ancient capital Hanoi, the spectacular limestone seascapes of Ha Long Bay, and the emerald rice terraces of the northern highlands, North Vietnam is where the country's thousand-year history and breathtaking natural landscapes converge.",
+    "nl": "Thuisbasis van Vietnams eeuwenoude hoofdstad Hanoi, de spectaculaire kalkstenen zeelandschappen van Ha Long Bay en de smaragdgroene rijstterrassen van het noordelijke hoogland. Noord-Vietnam is waar de duizendjarige geschiedenis van het land en adembenemende natuurlijke landschappen samenkomen."
+  },
   "overview": "North Vietnam encompasses the Red River Delta, the dramatic karst landscapes of the northeast, and the cultural heartland that has shaped Vietnamese identity for over a millennium. From Hanoi's centuries-old Old Quarter and French colonial boulevards to the UNESCO-listed limestone pillars of Ha Long Bay rising from emerald waters, and the otherworldly river valleys of Ninh Binh, the north offers an unrivaled combination of history, culture, and natural grandeur. The region experiences four distinct seasons, with cool winters that set it apart from the tropical south, and an autumn that bathes everything in golden light. The Red River Delta, one of the most densely populated areas in Asia, has been the cradle of Vietnamese civilization since the Bronze Age Dong Son culture, and its villages still preserve ancient traditions of water puppetry, communal house architecture, and festival celebrations that date back centuries.",
-  "highlights": ["Ha Long Bay UNESCO Site", "Hanoi Old Quarter", "Ninh Binh Karst Landscapes", "Red River Delta Culture", "Temple of Literature", "Water Puppet Theatre"],
-  "cities": ["hanoi", "ha-long", "ninh-binh"],
+  "highlights": [
+    "Ha Long Bay UNESCO Site",
+    "Hanoi Old Quarter",
+    "Ninh Binh Karst Landscapes",
+    "Red River Delta Culture",
+    "Temple of Literature",
+    "Water Puppet Theatre"
+  ],
+  "cities": [
+    "hanoi",
+    "ha-long",
+    "ninh-binh"
+  ],
   "bestTimeToVisit": "October to December — Autumn brings cool temperatures (18-25 degrees Celsius), low humidity, clear skies, and Hanoi's famous golden light filtering through yellowing trees. This is also the driest period with minimal rainfall, ideal for Ha Long Bay cruises and Ninh Binh boat trips.",
   "topExperiences": [
     {

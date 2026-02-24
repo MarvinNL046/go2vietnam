@@ -1,11 +1,17 @@
 {
   "slug": "che",
-  "name": { "en": "Che" },
+  "name": {
+    "en": "Che",
+    "nl": "Che"
+  },
   "vietnameseName": "Chè",
   "image": "/images/food/che.webp",
   "category": "Dessert",
   "spiceLevel": "mild",
-  "description": { "en": "A colorful family of Vietnamese sweet soups and puddings made with combinations of beans, tapioca, jelly, tropical fruits, and coconut milk, served warm or over crushed ice as a beloved everyday dessert." },
+  "description": {
+    "en": "A colorful family of Vietnamese sweet soups and puddings made with combinations of beans, tapioca, jelly, tropical fruits, and coconut milk, served warm or over crushed ice as a beloved everyday dessert.",
+    "nl": "Een kleurrijke familie van Vietnamese zoete soepen en puddings gemaakt van combinaties van bonen, tapioca, gelei, tropisch fruit en kokosmelk, warm geserveerd of met crushed ijs als een geliefd dagelijks dessert."
+  },
   "overview": "Che is not a single dish but an entire family of Vietnamese sweet desserts, encompassing dozens of varieties of sweet soups, puddings, and drinks made from combinations of beans, seeds, tubers, fruits, jellies, tapioca, and coconut milk. The variety is staggering: from the warm, comforting che dau xanh (mung bean sweet soup) to the colorful, icy che ba mau (three-color dessert) served in a tall glass on hot days. What unites all che is their role as an affordable, everyday Vietnamese dessert that provides a sweet, refreshing end to a meal or a pick-me-up snack at any time of day. Che stalls and shops are found throughout Vietnam, typically displaying rows of clear containers filled with brightly colored ingredients that customers can mix and match. In the south, che is usually served cold over crushed ice, while in the north, warm preparations are more common, especially during the cooler months. Che represents Vietnamese dessert culture at its most vibrant and creative.",
   "origin": {
     "region": "Nationwide (varies by variety)",

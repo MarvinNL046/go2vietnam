@@ -1,10 +1,22 @@
 {
   "slug": "cham-islands",
-  "name": { "en": "Cham Islands" },
+  "name": {
+    "en": "Cham Islands",
+    "nl": "Cham-eilanden"
+  },
   "vietnameseName": "Cù Lao Chàm",
   "image": "/images/islands/cham-islands.webp",
-  "bestFor": ["Snorkeling", "Day Trip from Hoi An", "UNESCO Biosphere", "Seafood", "Marine Life"],
-  "description": { "en": "A cluster of eight small islands just 15 kilometers off the coast of Hoi An, the Cham Islands are a UNESCO World Biosphere Reserve offering excellent snorkeling, traditional fishing villages, and pristine coral reefs accessible as a day trip from one of Vietnam's most popular towns." },
+  "bestFor": [
+    "Snorkeling",
+    "Day Trip from Hoi An",
+    "UNESCO Biosphere",
+    "Seafood",
+    "Marine Life"
+  ],
+  "description": {
+    "en": "A cluster of eight small islands just 15 kilometers off the coast of Hoi An, the Cham Islands are a UNESCO World Biosphere Reserve offering excellent snorkeling, traditional fishing villages, and pristine coral reefs accessible as a day trip from one of Vietnam's most popular towns.",
+    "nl": "Een groep van acht kleine eilanden op slechts vijftien kilometer van de kust van Hoi An. De Cham-eilanden zijn een UNESCO Wereld-Biosfeerreservaat met uitstekend snorkelen, traditionele vissersdorpen en ongerepte koraalriffen, bereikbaar als dagtocht vanuit een van de populairste steden van Vietnam."
+  },
   "overview": "The Cham Islands (Cu Lao Cham) are a group of eight islands lying 15 kilometers east of Hoi An in Quang Nam province. Together they form a UNESCO World Biosphere Reserve, recognized for their exceptional marine biodiversity including over 200 species of coral and 500 species of marine life. The largest island, Hon Lao, is the only one that is permanently inhabited, home to a community of about 3,000 people who have lived from fishing for generations. The island has a small village, several seafood restaurants, a few guesthouses, and walking trails through forest that leads to pagodas and historic wells. Snorkeling and diving around the islands reveal healthy coral gardens, schools of tropical fish, and occasional sightings of sea turtles. For most visitors, the Cham Islands are a perfect day trip from Hoi An - speed boats make the crossing in just 20 minutes, and a full day allows time for snorkeling at two or three sites, a seafood lunch on Hon Lao, and exploration of the village. The islands have been plastic-free since 2009 when a local initiative banned single-use plastic bags, making them one of Vietnam's early environmental success stories.",
   "gettingThere": {
     "byAir": "The nearest airport is Da Nang International Airport (DAD), approximately 30 kilometers from Cua Dai port in Hoi An. From Da Nang airport, taxis to Hoi An take about 45 minutes (300,000-400,000 VND).",

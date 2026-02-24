@@ -1,11 +1,17 @@
 {
   "slug": "bo-la-lot",
-  "name": { "en": "Bo La Lot" },
+  "name": {
+    "en": "Bo La Lot",
+    "nl": "Bo La Lot"
+  },
   "vietnameseName": "Bò Lá Lốt",
   "image": "/images/food/bo-la-lot.webp",
   "category": "Grill",
   "spiceLevel": "mild",
-  "description": { "en": "Fragrant parcels of seasoned ground beef wrapped in aromatic wild betel leaves and grilled over charcoal until the leaves are slightly charred and the filling is juicy and caramelized." },
+  "description": {
+    "en": "Fragrant parcels of seasoned ground beef wrapped in aromatic wild betel leaves and grilled over charcoal until the leaves are slightly charred and the filling is juicy and caramelized.",
+    "nl": "Geurige pakketjes van gekruid rundvleesgehakt gewikkeld in aromatische wilde betelbladen en gegrild boven houtskool tot de bladeren licht verkoold zijn en de vulling sappig en gekarameliseerd is."
+  },
   "overview": "Bo la lot is one of Vietnam's most aromatic and addictive grilled dishes — small, tightly wrapped parcels of seasoned ground beef enclosed in wild betel leaves (lá lốt) and grilled over glowing charcoal until the leaves char slightly and the filling becomes juicy and caramelized. The wild betel leaf (Piper lolot, not to be confused with betel nut) has a uniquely peppery, slightly anise-like flavor that permeates the beef during grilling, creating an irresistible combination of smoky, peppery, and savory tastes. The rolls are typically served on a plate as part of a larger spread, accompanied by rice paper, rice vermicelli noodles, fresh herbs, pickled vegetables, and nuoc cham dipping sauce. Diners wrap the grilled beef rolls in rice paper with herbs and noodles, creating a fresh roll around the smoky filling. Bo la lot is a staple of Vietnamese 'quan nhau' (drinking food) culture and is found at grilled meat restaurants and beer gardens across the country.",
   "origin": {
     "region": "Southern Vietnam",

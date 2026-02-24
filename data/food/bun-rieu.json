@@ -1,11 +1,17 @@
 {
   "slug": "bun-rieu",
-  "name": { "en": "Bun Rieu" },
+  "name": {
+    "en": "Bun Rieu",
+    "nl": "Bun Rieu"
+  },
   "vietnameseName": "Bún Riêu",
   "image": "/images/food/bun-rieu.webp",
   "category": "Soup",
   "spiceLevel": "mild",
-  "description": { "en": "A tangy, tomato-based noodle soup enriched with freshwater crab paste formed into delicate egg-crab cakes, served with rice vermicelli, tofu puffs, and a medley of fresh herbs and vegetables." },
+  "description": {
+    "en": "A tangy, tomato-based noodle soup enriched with freshwater crab paste formed into delicate egg-crab cakes, served with rice vermicelli, tofu puffs, and a medley of fresh herbs and vegetables.",
+    "nl": "Een pittig-zure noedelsoep op tomatenbasis, verrijkt met zoetwaterkrabpasta gevormd tot fijne ei-krabkoekjes, geserveerd met rijstvermicelli, tofupuffs en een mengeling van verse kruiden en groenten."
+  },
   "overview": "Bun rieu is one of Vietnam's most distinctive noodle soups, immediately recognizable by its vibrant red-orange broth and floating pillows of crab-egg mixture. The broth is built on a base of freshwater paddy crab (cua đồng) pounded into a paste and strained, combined with ripe tomatoes to create a soup that is simultaneously tangy, sweet, and deeply savory with umami from the crab. The crab paste is mixed with egg and spooned into the simmering broth, where it sets into soft, custard-like cakes that float on the surface. Rice vermicelli noodles form the base, and the bowl is completed with fried tofu puffs, tomato wedges, and often a spoonful of mam tom (fermented shrimp paste) for those who want an extra layer of pungent depth. A generous plate of herbs, shredded banana blossom, and water spinach accompanies every bowl. Bun rieu is especially beloved in northern Vietnam and is a common choice for a light yet satisfying lunch.",
   "origin": {
     "region": "Northern Vietnam (Red River Delta)",

@@ -55,25 +55,34 @@ interface FoodPageProps {
   dish: DishDetail;
 }
 
-const spiceLevelConfig: Record<string, { label: string; color: string }> = {
-  mild: { label: 'Mild', color: 'bg-green-100 text-green-700' },
-  medium: { label: 'Medium', color: 'bg-yellow-100 text-yellow-700' },
-  spicy: { label: 'Spicy', color: 'bg-orange-100 text-orange-700' },
-  'very-spicy': { label: 'Very Spicy', color: 'bg-red-100 text-red-700' },
-  none: { label: 'No Spice', color: 'bg-warm-100 text-warm-600' },
+const spiceLevelColors: Record<string, string> = {
+  mild: 'bg-green-100 text-green-700',
+  medium: 'bg-yellow-100 text-yellow-700',
+  spicy: 'bg-orange-100 text-orange-700',
+  'very-spicy': 'bg-red-100 text-red-700',
+  none: 'bg-warm-100 text-warm-600',
+};
+
+const spiceTranslationKeys: Record<string, string> = {
+  mild: 'spice.mild',
+  medium: 'spice.medium',
+  spicy: 'spice.hot',
+  'very-spicy': 'spice.veryHot',
+  none: 'spice.noSpice',
 };
 
 export default function FoodPage({ dish }: FoodPageProps) {
-  const { t } = useTranslation('common');
+  const { t, locale } = useTranslation('common');
 
-  const name = typeof dish.name === 'object' ? dish.name.en : dish.name || dish.slug;
-  const description = typeof dish.description === 'object' ? dish.description.en : dish.description;
-  const spice = dish.spiceLevel ? spiceLevelConfig[dish.spiceLevel] : null;
+  const name = typeof dish.name === 'object' ? ((dish.name as any)[locale] || dish.name.en) : dish.name || dish.slug;
+  const description = typeof dish.description === 'object' ? ((dish.description as any)[locale] || dish.description.en) : dish.description;
+  const spiceColor = dish.spiceLevel ? spiceLevelColors[dish.spiceLevel] : null;
+  const spiceLabel = dish.spiceLevel && spiceTranslationKeys[dish.spiceLevel] ? t(spiceTranslationKeys[dish.spiceLevel]) : null;
 
   const foodJsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: `${name} - Vietnamese Food Guide`,
+    headline: `${name} - ${t('foodDetail.foodGuide')}`,
     description: description || `Learn about ${name}, a popular Vietnamese dish. Complete guide with history, ingredients, where to eat, and ordering tips.`,
     image: dish.image || undefined,
     author: {
@@ -108,7 +117,7 @@ export default function FoodPage({ dish }: FoodPageProps) {
   return (
     <>
       <SEOHead
-        title={`${name} - Vietnamese Food Guide | ${siteConfig.name}`}
+        title={`${name} - ${t('foodDetail.foodGuide')} | ${siteConfig.name}`}
         description={description || `Learn about ${name}, a popular Vietnamese dish. Complete guide with history, ingredients, where to eat, and ordering tips.`}
         ogImage={dish.image}
         path={`/food/${dish.slug}/`}
@@ -135,8 +144,8 @@ export default function FoodPage({ dish }: FoodPageProps) {
               {dish.category && (
                 <span className="badge-accent">{dish.category}</span>
               )}
-              {spice && (
-                <span className={`badge ${spice.color}`}>{spice.label}</span>
+              {spiceColor && spiceLabel && (
+                <span className={`badge ${spiceColor}`}>{spiceLabel}</span>
               )}
             </div>
           </div>
@@ -160,7 +169,7 @@ export default function FoodPage({ dish }: FoodPageProps) {
           {/* Overview */}
           {dish.overview && (
             <section className="mb-12">
-              <h2 className="font-display text-2xl text-warm-900 mb-4">Overview</h2>
+              <h2 className="font-display text-2xl text-warm-900 mb-4">{t('cityDetail.overview')}</h2>
               <div className="prose-custom">
                 <p>{dish.overview}</p>
               </div>
@@ -170,11 +179,11 @@ export default function FoodPage({ dish }: FoodPageProps) {
           {/* Origin & History */}
           {dish.origin && (
             <section className="mb-12">
-              <h2 className="font-display text-2xl text-warm-900 mb-4">Origin & History</h2>
+              <h2 className="font-display text-2xl text-warm-900 mb-4">{t('foodDetail.originHistory')}</h2>
               <div className="prose-custom">
                 {dish.origin.region && (
                   <p className="text-warm-600 mb-2">
-                    <span className="font-semibold text-warm-800">Region:</span> {dish.origin.region}
+                    <span className="font-semibold text-warm-800">{t('foodDetail.region')}</span> {dish.origin.region}
                   </p>
                 )}
                 {dish.origin.history && (
@@ -187,11 +196,11 @@ export default function FoodPage({ dish }: FoodPageProps) {
           {/* Ingredients */}
           {dish.ingredients && (
             <section className="mb-12">
-              <h2 className="font-display text-2xl text-warm-900 mb-4">Ingredients</h2>
+              <h2 className="font-display text-2xl text-warm-900 mb-4">{t('foodDetail.ingredients')}</h2>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
                 {dish.ingredients.main && dish.ingredients.main.length > 0 && (
                   <div className="card-flat p-5">
-                    <h3 className="font-display font-bold text-warm-900 mb-3">Main Ingredients</h3>
+                    <h3 className="font-display font-bold text-warm-900 mb-3">{t('foodDetail.mainIngredients')}</h3>
                     <ul className="space-y-2">
                       {dish.ingredients.main.map((item, i) => (
                         <li key={i} className="flex items-start gap-2 text-warm-600 text-sm">
@@ -204,7 +213,7 @@ export default function FoodPage({ dish }: FoodPageProps) {
                 )}
                 {dish.ingredients.herbs && dish.ingredients.herbs.length > 0 && (
                   <div className="card-flat p-5">
-                    <h3 className="font-display font-bold text-warm-900 mb-3">Herbs & Greens</h3>
+                    <h3 className="font-display font-bold text-warm-900 mb-3">{t('foodDetail.herbsGreens')}</h3>
                     <ul className="space-y-2">
                       {dish.ingredients.herbs.map((item, i) => (
                         <li key={i} className="flex items-start gap-2 text-warm-600 text-sm">
@@ -217,7 +226,7 @@ export default function FoodPage({ dish }: FoodPageProps) {
                 )}
                 {dish.ingredients.spices && dish.ingredients.spices.length > 0 && (
                   <div className="card-flat p-5">
-                    <h3 className="font-display font-bold text-warm-900 mb-3">Spices</h3>
+                    <h3 className="font-display font-bold text-warm-900 mb-3">{t('foodDetail.spices')}</h3>
                     <ul className="space-y-2">
                       {dish.ingredients.spices.map((item, i) => (
                         <li key={i} className="flex items-start gap-2 text-warm-600 text-sm">
@@ -230,7 +239,7 @@ export default function FoodPage({ dish }: FoodPageProps) {
                 )}
                 {dish.ingredients.condiments && dish.ingredients.condiments.length > 0 && (
                   <div className="card-flat p-5">
-                    <h3 className="font-display font-bold text-warm-900 mb-3">Condiments</h3>
+                    <h3 className="font-display font-bold text-warm-900 mb-3">{t('foodDetail.condiments')}</h3>
                     <ul className="space-y-2">
                       {dish.ingredients.condiments.map((item, i) => (
                         <li key={i} className="flex items-start gap-2 text-warm-600 text-sm">
@@ -248,7 +257,7 @@ export default function FoodPage({ dish }: FoodPageProps) {
           {/* How to Order */}
           {dish.howToOrder && (
             <section className="mb-12">
-              <h2 className="font-display text-2xl text-warm-900 mb-4">How to Order</h2>
+              <h2 className="font-display text-2xl text-warm-900 mb-4">{t('foodDetail.howToOrder')}</h2>
               <div className="card-flat p-6 border-l-4 border-l-brand-accent">
                 <p className="text-warm-600 leading-relaxed">{dish.howToOrder}</p>
               </div>
@@ -258,7 +267,7 @@ export default function FoodPage({ dish }: FoodPageProps) {
           {/* Variations */}
           {dish.variations && dish.variations.length > 0 && (
             <section className="mb-12">
-              <h2 className="font-display text-2xl text-warm-900 mb-4">Variations</h2>
+              <h2 className="font-display text-2xl text-warm-900 mb-4">{t('foodDetail.variations')}</h2>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                 {dish.variations.map((variation, index) => (
                   <div key={index} className="card p-5">
@@ -273,7 +282,7 @@ export default function FoodPage({ dish }: FoodPageProps) {
           {/* Where to Eat */}
           {dish.whereToEat && dish.whereToEat.length > 0 && (
             <section className="mb-12">
-              <h2 className="font-display text-2xl text-warm-900 mb-4">Where to Eat</h2>
+              <h2 className="font-display text-2xl text-warm-900 mb-4">{t('foodDetail.whereToEat')}</h2>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                 {dish.whereToEat.map((place, index) => (
                   <div key={index} className="card p-5">
@@ -297,23 +306,23 @@ export default function FoodPage({ dish }: FoodPageProps) {
           {/* Price Range */}
           {dish.priceRange && (
             <section className="mb-12">
-              <h2 className="font-display text-2xl text-warm-900 mb-4">Price Range</h2>
+              <h2 className="font-display text-2xl text-warm-900 mb-4">{t('foodDetail.priceRange')}</h2>
               <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
                 {dish.priceRange.street && (
                   <div className="card-flat p-4 text-center">
-                    <p className="text-warm-400 text-xs mb-1">Street Food</p>
+                    <p className="text-warm-400 text-xs mb-1">{t('foodDetail.streetFood')}</p>
                     <p className="font-display text-warm-900 font-bold">{dish.priceRange.street}</p>
                   </div>
                 )}
                 {dish.priceRange.restaurant && (
                   <div className="card-flat p-4 text-center">
-                    <p className="text-warm-400 text-xs mb-1">Restaurant</p>
+                    <p className="text-warm-400 text-xs mb-1">{t('foodDetail.restaurant')}</p>
                     <p className="font-display text-warm-900 font-bold">{dish.priceRange.restaurant}</p>
                   </div>
                 )}
                 {dish.priceRange.upscale && (
                   <div className="card-flat p-4 text-center">
-                    <p className="text-warm-400 text-xs mb-1">Upscale</p>
+                    <p className="text-warm-400 text-xs mb-1">{t('foodDetail.upscale')}</p>
                     <p className="font-display text-warm-900 font-bold">{dish.priceRange.upscale}</p>
                   </div>
                 )}
@@ -324,7 +333,7 @@ export default function FoodPage({ dish }: FoodPageProps) {
           {/* Tips */}
           {dish.tips && dish.tips.length > 0 && (
             <section className="mb-12">
-              <h2 className="font-display text-2xl text-warm-900 mb-4">Tips</h2>
+              <h2 className="font-display text-2xl text-warm-900 mb-4">{t('foodDetail.tips')}</h2>
               <ul className="space-y-3">
                 {dish.tips.map((tip, index) => (
                   <li key={index} className="flex items-start gap-3">
@@ -341,7 +350,7 @@ export default function FoodPage({ dish }: FoodPageProps) {
           {/* Cultural Notes */}
           {dish.culturalNotes && (
             <section className="mb-12">
-              <h2 className="font-display text-2xl text-warm-900 mb-4">Cultural Notes</h2>
+              <h2 className="font-display text-2xl text-warm-900 mb-4">{t('foodDetail.culturalNotes')}</h2>
               <div className="prose-custom">
                 <p>{dish.culturalNotes}</p>
               </div>
@@ -351,7 +360,7 @@ export default function FoodPage({ dish }: FoodPageProps) {
           {/* Sources */}
           {dish.sources && dish.sources.length > 0 && (
             <section className="mb-12">
-              <h2 className="font-display text-warm-700 text-lg mb-3">Sources</h2>
+              <h2 className="font-display text-warm-700 text-lg mb-3">{t('foodDetail.sources')}</h2>
               <ul className="text-warm-400 text-sm space-y-1">
                 {dish.sources.map((source, index) => (
                   <li key={index}>{source}</li>
@@ -369,7 +378,7 @@ export default function FoodPage({ dish }: FoodPageProps) {
               <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M15 19l-7-7 7-7" />
               </svg>
-              Back to all food
+              {t('foodDetail.backToAll')}
             </Link>
           </div>
         </div>

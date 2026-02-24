@@ -1,10 +1,21 @@
 {
   "slug": "ly-son",
-  "name": { "en": "Ly Son" },
+  "name": {
+    "en": "Ly Son",
+    "nl": "Ly Son"
+  },
   "vietnameseName": "Lý Sơn",
   "image": "/images/islands/ly-son.webp",
-  "bestFor": ["Off-the-Beaten-Path", "Volcanic Landscapes", "Garlic Fields", "Local Culture"],
-  "description": { "en": "A tiny volcanic island off the central coast of Quang Ngai province, Ly Son is famous for its garlic cultivation, dramatic geological formations, and deep-sea fishing traditions. This is Vietnam at its most authentic and untouched by mass tourism." },
+  "bestFor": [
+    "Off-the-Beaten-Path",
+    "Volcanic Landscapes",
+    "Garlic Fields",
+    "Local Culture"
+  ],
+  "description": {
+    "en": "A tiny volcanic island off the central coast of Quang Ngai province, Ly Son is famous for its garlic cultivation, dramatic geological formations, and deep-sea fishing traditions. This is Vietnam at its most authentic and untouched by mass tourism.",
+    "nl": "Een klein vulkanisch eiland voor de centrale kust van de provincie Quang Ngai. Ly Son is beroemd om zijn knoflookteelt, spectaculaire geologische formaties en diepzeevistraditie. Dit is Vietnam op zijn meest authentiek en onaangetast door massatoerisme."
+  },
   "overview": "Ly Son is one of Vietnam's most unique and undervisited islands - a volcanic outcrop just 25 kilometers off the coast of Quang Ngai province in central Vietnam. The island measures only about 10 square kilometers but packs an extraordinary amount of character into its small area. Ly Son was formed by volcanic activity millions of years ago, and the evidence is everywhere: dramatic basalt cliffs, a volcanic crater (Gieng Tien), columnar basalt formations resembling giant organ pipes, and incredibly fertile soil that supports the island's famous garlic crop. Ly Son garlic, grown in sandy volcanic soil mixed with seaweed, is considered the finest in Vietnam and commands premium prices on the mainland. The island has a population of about 22,000, almost entirely dependent on garlic farming and deep-sea fishing. Tourism infrastructure is basic but growing, and the island offers a window into traditional Vietnamese island life that has largely vanished elsewhere. For travelers willing to accept limited amenities, Ly Son rewards with genuinely unique geological scenery, warm hospitality, and an authenticity that polished resort islands cannot match.",
   "gettingThere": {
     "byAir": "There is no airport on Ly Son. The nearest airport is Chu Lai Airport (VCL) in Quang Nam province, approximately 100 kilometers south of Sa Ky port. From Chu Lai, take a taxi or arranged transfer to Sa Ky port (about 2 hours).",

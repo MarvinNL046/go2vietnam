@@ -1,10 +1,22 @@
 {
   "slug": "cat-ba",
-  "name": { "en": "Cat Ba" },
+  "name": {
+    "en": "Cat Ba",
+    "nl": "Cat Ba"
+  },
   "vietnameseName": "Cát Bà",
   "image": "/images/islands/cat-ba.webp",
-  "bestFor": ["Ha Long Bay", "Rock Climbing", "National Park", "Kayaking", "Budget Travel"],
-  "description": { "en": "The largest island in Ha Long Bay, Cat Ba serves as a less-crowded gateway to Vietnam's most famous seascape while offering its own national park, endangered langur monkeys, rock climbing, and a laid-back fishing village atmosphere." },
+  "bestFor": [
+    "Ha Long Bay",
+    "Rock Climbing",
+    "National Park",
+    "Kayaking",
+    "Budget Travel"
+  ],
+  "description": {
+    "en": "The largest island in Ha Long Bay, Cat Ba serves as a less-crowded gateway to Vietnam's most famous seascape while offering its own national park, endangered langur monkeys, rock climbing, and a laid-back fishing village atmosphere.",
+    "nl": "Het grootste eiland in Ha Long Bay fungeert als een minder drukke toegangspoort tot het beroemdste zeelandschap van Vietnam, met een eigen nationaal park, bedreigde langoeren, rotsklimmen en een ontspannen vissersdorpsfeer."
+  },
   "overview": "Cat Ba Island is the largest of the 367 islands in Cat Ba Archipelago, sitting at the southern edge of Ha Long Bay in northern Vietnam. At 285 square kilometers, it offers a grittier, more adventurous alternative to the standard Ha Long Bay cruise experience. Nearly half the island is covered by Cat Ba National Park, a rugged landscape of limestone karst peaks, tropical forest, freshwater lakes, and mangrove wetlands that shelters the critically endangered Cat Ba langur - one of the world's rarest primates with fewer than 80 individuals remaining. Cat Ba town, the island's main settlement, is a compact waterfront strip of hotels, restaurants, and tour agencies that serves as the launching point for boat trips into Lan Ha Bay, the stunning and less-visited body of water that surrounds the island's eastern coast. Rock climbing has become a major draw, with hundreds of bolted routes on the limestone cliffs overlooking the bay. For budget travelers, Cat Ba offers the most affordable way to experience Ha Long Bay's limestone karst landscape without the premium pricing of Quang Ninh-based cruises.",
   "gettingThere": {
     "byAir": "The nearest airport is Cat Bi International Airport (HPH) in Hai Phong, approximately 30 kilometers from the Binh ferry port. From Hanoi, Noi Bai Airport to Cat Bi takes about 1 hour by flight, though most travelers go by road.",

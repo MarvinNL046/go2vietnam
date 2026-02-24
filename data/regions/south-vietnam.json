@@ -1,11 +1,27 @@
 {
   "slug": "south-vietnam",
-  "name": "South Vietnam",
+  "name": {
+    "en": "South Vietnam",
+    "nl": "Zuid-Vietnam"
+  },
   "image": "/images/regions/south-vietnam.webp",
-  "description": "The economic powerhouse of Vietnam, the south pulses with the relentless energy of Ho Chi Minh City, offers sobering war history at Cu Chi Tunnels, and transitions into the lush waterways of the Mekong Delta where life revolves around the river.",
+  "description": {
+    "en": "The economic powerhouse of Vietnam, the south pulses with the relentless energy of Ho Chi Minh City, offers sobering war history at Cu Chi Tunnels, and transitions into the lush waterways of the Mekong Delta where life revolves around the river.",
+    "nl": "De economische motor van Vietnam: het zuiden pulseert met de onvermoeibare energie van Ho Chi Minhstad, biedt aangrijpende oorlogsgeschiedenis bij de Cu Chi-tunnels en gaat over in de weelderige waterwegen van de Mekongdelta waar het leven om de rivier draait."
+  },
   "overview": "South Vietnam centers on Ho Chi Minh City (still called Saigon by locals), a sprawling metropolis of over 10 million people that serves as the country's commercial and cultural engine. The city's French colonial landmarks, sobering war museums, and legendary street food scene sit alongside gleaming skyscrapers, rooftop bars, and a nightlife that rivals Bangkok. Just outside the city, the Cu Chi Tunnels offer a visceral connection to the Vietnam War, an extraordinary network of underground passages stretching over 250 kilometers that served as a military headquarters, living quarters, and supply route. The surrounding countryside transitions into the vast rice paddies and fruit orchards that feed much of the nation. The south enjoys a tropical climate with two distinct seasons -- dry (December-April) and wet (May-November) -- and a cuisine characterized by sweeter, bolder flavors than the north, reflecting influences from Chinese, Khmer, and French culinary traditions. Phu Quoc island, in the Gulf of Thailand, offers beach resort escapes with pristine sand, coral reefs, and spectacular sunsets.",
-  "highlights": ["Ho Chi Minh City Nightlife", "Cu Chi Tunnels", "War Remnants Museum", "Gateway to Mekong Delta", "Rooftop Bar Scene", "Ben Thanh Market"],
-  "cities": ["ho-chi-minh-city", "phu-quoc"],
+  "highlights": [
+    "Ho Chi Minh City Nightlife",
+    "Cu Chi Tunnels",
+    "War Remnants Museum",
+    "Gateway to Mekong Delta",
+    "Rooftop Bar Scene",
+    "Ben Thanh Market"
+  ],
+  "cities": [
+    "ho-chi-minh-city",
+    "phu-quoc"
+  ],
   "bestTimeToVisit": "December to April — The dry season offers sunny skies, lower humidity, and comfortable temperatures around 28-33 degrees Celsius. The city is at its best during Tet (Lunar New Year) celebrations, though many businesses close for the holiday.",
   "topExperiences": [
     {

@@ -1,106 +1,249 @@
 [
   {
     "slug": "hanoi",
-    "name": { "en": "Hanoi (Ha Noi)" },
+    "name": {
+      "en": "Hanoi (Ha Noi)",
+      "nl": "Hanoi (Ha Noi)"
+    },
     "image": "/images/cities/hanoi.webp",
     "region": "Northern Vietnam",
-    "highlights": ["Old Quarter", "Street Food Capital", "Hoan Kiem Lake", "Temple of Literature"],
-    "description": { "en": "Vietnam's thousand-year-old capital is a captivating blend of ancient temples, tree-lined boulevards, and the chaotic energy of the Old Quarter. Hanoi rewards those who slow down to savor its legendary street food, misty lakes, and French colonial architecture layered over centuries of Vietnamese history." }
+    "highlights": [
+      "Old Quarter",
+      "Street Food Capital",
+      "Hoan Kiem Lake",
+      "Temple of Literature"
+    ],
+    "description": {
+      "en": "Vietnam's thousand-year-old capital is a captivating blend of ancient temples, tree-lined boulevards, and the chaotic energy of the Old Quarter. Hanoi rewards those who slow down to savor its legendary street food, misty lakes, and French colonial architecture layered over centuries of Vietnamese history.",
+      "nl": "De duizend jaar oude hoofdstad van Vietnam is een betoverende mix van oude tempels, met bomen omzoomde boulevards en de chaotische energie van de Oude Wijk. Hanoi beloont degenen die de tijd nemen om te genieten van het legendarische straatvoedsel, de mistige meren en de Franse koloniale architectuur die over eeuwen Vietnamese geschiedenis is gelaagd."
+    }
   },
   {
     "slug": "ho-chi-minh-city",
-    "name": { "en": "Ho Chi Minh City (Saigon)" },
+    "name": {
+      "en": "Ho Chi Minh City (Saigon)",
+      "nl": "Ho Chi Minhstad (Saigon)"
+    },
     "image": "/images/cities/ho-chi-minh-city.webp",
     "region": "Southern Vietnam",
-    "highlights": ["War Remnants Museum", "Cu Chi Tunnels", "Ben Thanh Market", "Rooftop Bars"],
-    "description": { "en": "Vietnam's largest and most dynamic city pulses with energy from dawn to well past midnight. Known locally as Saigon, this southern metropolis offers world-class street food, sobering war history museums, French colonial landmarks, and a booming modern skyline that rivals any Southeast Asian capital." }
+    "highlights": [
+      "War Remnants Museum",
+      "Cu Chi Tunnels",
+      "Ben Thanh Market",
+      "Rooftop Bars"
+    ],
+    "description": {
+      "en": "Vietnam's largest and most dynamic city pulses with energy from dawn to well past midnight. Known locally as Saigon, this southern metropolis offers world-class street food, sobering war history museums, French colonial landmarks, and a booming modern skyline that rivals any Southeast Asian capital.",
+      "nl": "De grootste en meest dynamische stad van Vietnam bruist van energie van zonsopgang tot ver na middernacht. Plaatselijk bekend als Saigon biedt deze zuidelijke metropool streetfood van wereldklasse, aangrijpende oorlogsmusea, Franse koloniale monumenten en een groeiende moderne skyline die kan wedijveren met elke Zuidoost-Aziatische hoofdstad."
+    }
   },
   {
     "slug": "da-nang",
-    "name": { "en": "Da Nang" },
+    "name": {
+      "en": "Da Nang",
+      "nl": "Da Nang"
+    },
     "image": "/images/cities/da-nang.webp",
     "region": "Central Vietnam",
-    "highlights": ["My Khe Beach", "Ba Na Hills", "Dragon Bridge", "Marble Mountains"],
-    "description": { "en": "Central Vietnam's largest city combines stunning beaches, dramatic mountain scenery, and modern infrastructure in one surprisingly livable package. Da Nang serves as the perfect base for exploring the UNESCO heritage sites of Hoi An and Hue while offering its own impressive attractions like the Golden Bridge at Ba Na Hills." }
+    "highlights": [
+      "My Khe Beach",
+      "Ba Na Hills",
+      "Dragon Bridge",
+      "Marble Mountains"
+    ],
+    "description": {
+      "en": "Central Vietnam's largest city combines stunning beaches, dramatic mountain scenery, and modern infrastructure in one surprisingly livable package. Da Nang serves as the perfect base for exploring the UNESCO heritage sites of Hoi An and Hue while offering its own impressive attractions like the Golden Bridge at Ba Na Hills.",
+      "nl": "De grootste stad van Centraal-Vietnam combineert prachtige stranden, indrukwekkend berglandschap en moderne infrastructuur in een verrassend leefbaar geheel. Da Nang is de perfecte uitvalsbasis voor de UNESCO-erfgoedsites van Hoi An en Hue, en biedt daarnaast eigen indrukwekkende attracties zoals de Golden Bridge bij Ba Na Hills."
+    }
   },
   {
     "slug": "hoi-an",
-    "name": { "en": "Hoi An" },
+    "name": {
+      "en": "Hoi An",
+      "nl": "Hoi An"
+    },
     "image": "/images/cities/hoi-an.webp",
     "region": "Central Vietnam",
-    "highlights": ["Ancient Town Lanterns", "Custom Tailoring", "Japanese Covered Bridge", "An Bang Beach"],
-    "description": { "en": "This exquisitely preserved ancient trading port glows with hundreds of silk lanterns each evening, creating one of Vietnam's most photographed scenes. Hoi An's UNESCO-listed Old Town, world-renowned tailor shops, exceptional cuisine, and nearby beaches make it a destination that travelers consistently rank among their favorites in all of Southeast Asia." }
+    "highlights": [
+      "Ancient Town Lanterns",
+      "Custom Tailoring",
+      "Japanese Covered Bridge",
+      "An Bang Beach"
+    ],
+    "description": {
+      "en": "This exquisitely preserved ancient trading port glows with hundreds of silk lanterns each evening, creating one of Vietnam's most photographed scenes. Hoi An's UNESCO-listed Old Town, world-renowned tailor shops, exceptional cuisine, and nearby beaches make it a destination that travelers consistently rank among their favorites in all of Southeast Asia.",
+      "nl": "Deze prachtig bewaard gebleven oude handelsstad baadt elke avond in het licht van honderden zijden lantaarns, wat een van de meest gefotografeerde taferelen van Vietnam oplevert. De UNESCO-beschermde oude binnenstad van Hoi An, de wereldberoemde kledingateliers, de uitzonderlijke keuken en de nabijgelegen stranden maken het een bestemming die reizigers consequent tot hun favorieten in heel Zuidoost-Azie rekenen."
+    }
   },
   {
     "slug": "hue",
-    "name": { "en": "Hue" },
+    "name": {
+      "en": "Hue",
+      "nl": "Hue"
+    },
     "image": "/images/cities/hue.webp",
     "region": "Central Vietnam",
-    "highlights": ["Imperial Citadel", "Royal Tombs", "Perfume River", "Hue Royal Cuisine"],
-    "description": { "en": "Vietnam's former imperial capital sits gracefully along the Perfume River, its massive citadel and ornate royal tombs bearing witness to the Nguyen Dynasty's 143-year reign. Hue is also celebrated as Vietnam's culinary capital, famous for its refined royal cuisine and fiery local dishes that reflect centuries of courtly sophistication." }
+    "highlights": [
+      "Imperial Citadel",
+      "Royal Tombs",
+      "Perfume River",
+      "Hue Royal Cuisine"
+    ],
+    "description": {
+      "en": "Vietnam's former imperial capital sits gracefully along the Perfume River, its massive citadel and ornate royal tombs bearing witness to the Nguyen Dynasty's 143-year reign. Hue is also celebrated as Vietnam's culinary capital, famous for its refined royal cuisine and fiery local dishes that reflect centuries of courtly sophistication.",
+      "nl": "De voormalige keizerlijke hoofdstad van Vietnam ligt sierlijk langs de Parfumrivier, met een enorme citadel en sierlijke koninklijke grafmonumenten die getuigen van de 143-jarige heerschappij van de Nguyen-dynastie. Hue staat ook bekend als de culinaire hoofdstad van Vietnam, beroemd om zijn verfijnde keizerlijke keuken en pittige lokale gerechten die eeuwen van hoofse verfijning weerspiegelen."
+    }
   },
   {
     "slug": "nha-trang",
-    "name": { "en": "Nha Trang" },
+    "name": {
+      "en": "Nha Trang",
+      "nl": "Nha Trang"
+    },
     "image": "/images/cities/nha-trang.webp",
     "region": "South-Central Coast",
-    "highlights": ["Beach Promenade", "Island Hopping", "Scuba Diving", "Po Nagar Cham Towers"],
-    "description": { "en": "Vietnam's most popular beach resort city stretches along a stunning 6-kilometer crescent of golden sand backed by a lively promenade. Nha Trang offers excellent diving and snorkeling around nearby islands, ancient Cham temple ruins, rejuvenating mud baths, and a vibrant nightlife scene that attracts both international visitors and vacationing Vietnamese." }
+    "highlights": [
+      "Beach Promenade",
+      "Island Hopping",
+      "Scuba Diving",
+      "Po Nagar Cham Towers"
+    ],
+    "description": {
+      "en": "Vietnam's most popular beach resort city stretches along a stunning 6-kilometer crescent of golden sand backed by a lively promenade. Nha Trang offers excellent diving and snorkeling around nearby islands, ancient Cham temple ruins, rejuvenating mud baths, and a vibrant nightlife scene that attracts both international visitors and vacationing Vietnamese.",
+      "nl": "De populairste badplaats van Vietnam strekt zich uit langs een schitterende halvemaanvormige strook van zes kilometer goudkleurig zand met een levendige boulevard. Nha Trang biedt uitstekend duiken en snorkelen rond nabijgelegen eilanden, oude Cham-tempelruines, verkwikkende modderbaden en een bruisend nachtleven dat zowel internationale bezoekers als vakantievierende Vietnamezen aantrekt."
+    }
   },
   {
     "slug": "da-lat",
-    "name": { "en": "Da Lat" },
+    "name": {
+      "en": "Da Lat",
+      "nl": "Da Lat"
+    },
     "image": "/images/cities/da-lat.webp",
     "region": "Central Highlands",
-    "highlights": ["Cool Mountain Climate", "Coffee Plantations", "Flower Gardens", "French Villas"],
-    "description": { "en": "Perched at 1,500 meters in the Central Highlands, Da Lat offers a refreshing escape from Vietnam's tropical heat with year-round spring-like temperatures. This romantic hill station, originally built as a French colonial retreat, is now celebrated for its artisan coffee culture, flower farms, pine forests, and a growing adventure sports scene." }
+    "highlights": [
+      "Cool Mountain Climate",
+      "Coffee Plantations",
+      "Flower Gardens",
+      "French Villas"
+    ],
+    "description": {
+      "en": "Perched at 1,500 meters in the Central Highlands, Da Lat offers a refreshing escape from Vietnam's tropical heat with year-round spring-like temperatures. This romantic hill station, originally built as a French colonial retreat, is now celebrated for its artisan coffee culture, flower farms, pine forests, and a growing adventure sports scene.",
+      "nl": "Op 1.500 meter hoogte in de Centrale Hooglanden biedt Da Lat een verfrissende ontsnapping aan de tropische hitte van Vietnam met het hele jaar door lenteachtige temperaturen. Dit romantische bergstadje, oorspronkelijk gebouwd als Frans koloniaal toevluchtsoord, staat nu bekend om zijn ambachtelijke koffiecultuur, bloemenkwekerijen, dennenbossen en een groeiend aanbod aan avontuurlijke sporten."
+    }
   },
   {
     "slug": "sapa",
-    "name": { "en": "Sapa (Sa Pa)" },
+    "name": {
+      "en": "Sapa (Sa Pa)",
+      "nl": "Sapa (Sa Pa)"
+    },
     "image": "/images/cities/sapa.webp",
     "region": "Northwest Vietnam",
-    "highlights": ["Rice Terraces", "Fansipan Summit", "Ethnic Minority Villages", "Mountain Trekking"],
-    "description": { "en": "Set high in the Hoang Lien Son mountains near the Chinese border, Sapa is surrounded by some of Asia's most spectacular rice terraces carved into steep valleys. This mountain town serves as the gateway to Vietnam's highest peak, Fansipan, and to the vibrant cultures of the Hmong, Dao, and Tay ethnic minority communities." }
+    "highlights": [
+      "Rice Terraces",
+      "Fansipan Summit",
+      "Ethnic Minority Villages",
+      "Mountain Trekking"
+    ],
+    "description": {
+      "en": "Set high in the Hoang Lien Son mountains near the Chinese border, Sapa is surrounded by some of Asia's most spectacular rice terraces carved into steep valleys. This mountain town serves as the gateway to Vietnam's highest peak, Fansipan, and to the vibrant cultures of the Hmong, Dao, and Tay ethnic minority communities.",
+      "nl": "Hoog in het Hoang Lien Son-gebergte nabij de Chinese grens ligt Sapa, omringd door enkele van Azie's meest spectaculaire rijstterrassen die in steile valleien zijn uitgehouwen. Dit bergstadje is de toegangspoort tot de hoogste berg van Vietnam, de Fansipan, en tot de levendige culturen van de Hmong-, Dao- en Tay-minderheidsgemeenschappen."
+    }
   },
   {
     "slug": "ha-long",
-    "name": { "en": "Ha Long" },
+    "name": {
+      "en": "Ha Long",
+      "nl": "Ha Long"
+    },
     "image": "/images/cities/ha-long.webp",
     "region": "Northern Vietnam",
-    "highlights": ["UNESCO Ha Long Bay", "Limestone Karsts", "Overnight Cruises", "Sung Sot Cave"],
-    "description": { "en": "Ha Long Bay's nearly 2,000 limestone karsts and islands rising from emerald waters create one of the world's most iconic seascapes, recognized as a UNESCO World Heritage Site. Overnight junk boat cruises through this geological wonderland offer kayaking through hidden grottoes, visits to floating fishing villages, and sunrises that have inspired Vietnamese poets for centuries." }
+    "highlights": [
+      "UNESCO Ha Long Bay",
+      "Limestone Karsts",
+      "Overnight Cruises",
+      "Sung Sot Cave"
+    ],
+    "description": {
+      "en": "Ha Long Bay's nearly 2,000 limestone karsts and islands rising from emerald waters create one of the world's most iconic seascapes, recognized as a UNESCO World Heritage Site. Overnight junk boat cruises through this geological wonderland offer kayaking through hidden grottoes, visits to floating fishing villages, and sunrises that have inspired Vietnamese poets for centuries.",
+      "nl": "De bijna 2.000 kalkstenen karstformaties en eilanden van Ha Long Bay die uit smaragdgroen water oprijzen, vormen een van de meest iconische zeelandschappen ter wereld, erkend als UNESCO-Werelderfgoed. Cruises met traditionele jonken door dit geologische wonderland bieden kajakken door verborgen grotten, bezoeken aan drijvende vissersdorpen en zonsopgangen die Vietnamese dichters al eeuwenlang inspireren."
+    }
   },
   {
     "slug": "phu-quoc",
-    "name": { "en": "Phu Quoc" },
+    "name": {
+      "en": "Phu Quoc",
+      "nl": "Phu Quoc"
+    },
     "image": "/images/cities/phu-quoc.webp",
     "region": "Southern Vietnam",
-    "highlights": ["Pristine Beaches", "Snorkeling & Diving", "Night Market", "Fish Sauce Heritage"],
-    "description": { "en": "Vietnam's largest island sits in the Gulf of Thailand, offering powdery white-sand beaches, coral reefs teeming with marine life, and spectacular sunsets over the ocean. Phu Quoc has rapidly developed from a sleepy fishing island into a resort destination while preserving its famous fish sauce production, pepper farms, and the wild jungle interior of its national park." }
+    "highlights": [
+      "Pristine Beaches",
+      "Snorkeling & Diving",
+      "Night Market",
+      "Fish Sauce Heritage"
+    ],
+    "description": {
+      "en": "Vietnam's largest island sits in the Gulf of Thailand, offering powdery white-sand beaches, coral reefs teeming with marine life, and spectacular sunsets over the ocean. Phu Quoc has rapidly developed from a sleepy fishing island into a resort destination while preserving its famous fish sauce production, pepper farms, and the wild jungle interior of its national park.",
+      "nl": "Het grootste eiland van Vietnam ligt in de Golf van Thailand en biedt poederachtige witte zandstranden, koraalriffen vol zeeleven en spectaculaire zonsondergangen boven de oceaan. Phu Quoc heeft zich snel ontwikkeld van een slaperig visserseiland tot een resortbestemming, terwijl de beroemde vissausproductie, peperplantages en het wilde junglegebied van het nationale park bewaard zijn gebleven."
+    }
   },
   {
     "slug": "can-tho",
-    "name": { "en": "Can Tho" },
+    "name": {
+      "en": "Can Tho",
+      "nl": "Can Tho"
+    },
     "image": "/images/cities/can-tho.webp",
     "region": "Mekong Delta",
-    "highlights": ["Cai Rang Floating Market", "Mekong River Life", "Rice Paddies", "Tropical Orchards"],
-    "description": { "en": "As the largest city in the Mekong Delta, Can Tho is the gateway to experiencing the extraordinary waterway culture that defines southern Vietnam's river life. Early morning boat trips to the Cai Rang floating market, cycling through endless rice paddies, and sampling tropical fruits straight from riverside orchards offer an authentic side of Vietnam that few travelers forget." }
+    "highlights": [
+      "Cai Rang Floating Market",
+      "Mekong River Life",
+      "Rice Paddies",
+      "Tropical Orchards"
+    ],
+    "description": {
+      "en": "As the largest city in the Mekong Delta, Can Tho is the gateway to experiencing the extraordinary waterway culture that defines southern Vietnam's river life. Early morning boat trips to the Cai Rang floating market, cycling through endless rice paddies, and sampling tropical fruits straight from riverside orchards offer an authentic side of Vietnam that few travelers forget.",
+      "nl": "Als grootste stad in de Mekongdelta is Can Tho de toegangspoort tot de buitengewone waterweg-cultuur die het rivierenleven van Zuid-Vietnam kenmerkt. Vroege ochtenboottochten naar de drijvende markt van Cai Rang, fietsen door eindeloze rijstvelden en proeven van tropisch fruit rechtstreeks uit boomgaarden langs de rivier bieden een authentieke kant van Vietnam die weinig reizigers vergeten."
+    }
   },
   {
     "slug": "ninh-binh",
-    "name": { "en": "Ninh Binh" },
+    "name": {
+      "en": "Ninh Binh",
+      "nl": "Ninh Binh"
+    },
     "image": "/images/cities/ninh-binh.webp",
     "region": "Northern Vietnam",
-    "highlights": ["Trang An Landscape Complex", "Tam Coc", "Bai Dinh Pagoda", "Limestone Karsts"],
-    "description": { "en": "Often called 'Ha Long Bay on land,' Ninh Binh province features dramatic limestone karsts rising from emerald rice paddies and winding waterways. The UNESCO-listed Trang An Landscape Complex, the boat-trip caves of Tam Coc, and the vast Bai Dinh Pagoda make this one of northern Vietnam's most visually stunning and culturally rich destinations." }
+    "highlights": [
+      "Trang An Landscape Complex",
+      "Tam Coc",
+      "Bai Dinh Pagoda",
+      "Limestone Karsts"
+    ],
+    "description": {
+      "en": "Often called 'Ha Long Bay on land,' Ninh Binh province features dramatic limestone karsts rising from emerald rice paddies and winding waterways. The UNESCO-listed Trang An Landscape Complex, the boat-trip caves of Tam Coc, and the vast Bai Dinh Pagoda make this one of northern Vietnam's most visually stunning and culturally rich destinations.",
+      "nl": "Vaak 'Ha Long Bay op het land' genoemd, biedt de provincie Ninh Binh dramatische kalkstenen karstformaties die oprijzen uit smaragdgroene rijstvelden en kronkelende waterwegen. Het UNESCO-beschermde Trang An Landschapscomplex, de grotten van Tam Coc die per boot te bereiken zijn, en de immense Bai Dinh-pagode maken dit een van de visueel meest indrukwekkende en cultureel rijkste bestemmingen van Noord-Vietnam."
+    }
   },
   {
     "slug": "mui-ne",
-    "name": { "en": "Mui Ne" },
+    "name": {
+      "en": "Mui Ne",
+      "nl": "Mui Ne"
+    },
     "image": "/images/cities/mui-ne.webp",
     "region": "South-Central Coast",
-    "highlights": ["Red & White Sand Dunes", "Kitesurfing", "Fishing Village", "Fairy Stream"],
-    "description": { "en": "This laid-back coastal strip east of Phan Thiet is famous for its surreal sand dunes, steady ocean winds that attract kitesurfers from around the world, and a colorful fishing village where hundreds of round basket boats dot the shore. Mui Ne offers a more relaxed beach alternative to Nha Trang, with desert-like landscapes just minutes from the ocean." }
+    "highlights": [
+      "Red & White Sand Dunes",
+      "Kitesurfing",
+      "Fishing Village",
+      "Fairy Stream"
+    ],
+    "description": {
+      "en": "This laid-back coastal strip east of Phan Thiet is famous for its surreal sand dunes, steady ocean winds that attract kitesurfers from around the world, and a colorful fishing village where hundreds of round basket boats dot the shore. Mui Ne offers a more relaxed beach alternative to Nha Trang, with desert-like landscapes just minutes from the ocean.",
+      "nl": "Deze ontspannen kuststrook ten oosten van Phan Thiet is beroemd om zijn surrealistische zandduinen, de constante oceaanwinden die kitesurfers van over de hele wereld aantrekken, en een kleurrijk vissersdorp waar honderden ronde mandenboten de kust sieren. Mui Ne biedt een rustiger strandalternatief voor Nha Trang, met woestijnachtige landschappen op slechts enkele minuten van de oceaan."
+    }
   }
 ]

@@ -1,11 +1,17 @@
 {
   "slug": "ca-kho-to",
-  "name": { "en": "Ca Kho To" },
+  "name": {
+    "en": "Ca Kho To",
+    "nl": "Ca Kho To"
+  },
   "vietnameseName": "Cá Kho Tộ",
   "image": "/images/food/ca-kho-to.webp",
   "category": "Main",
   "spiceLevel": "medium",
-  "description": { "en": "Catfish fillets braised in a clay pot with a rich caramel sauce made from coconut water, fish sauce, and black pepper, slowly simmered until the sauce thickens and the fish absorbs all the deep, savory-sweet flavors." },
+  "description": {
+    "en": "Catfish fillets braised in a clay pot with a rich caramel sauce made from coconut water, fish sauce, and black pepper, slowly simmered until the sauce thickens and the fish absorbs all the deep, savory-sweet flavors.",
+    "nl": "Meervalfilets gestoofd in een aarden pot met een rijke karamelsaus van kokoswater, vissaus en zwarte peper, langzaam gegaard tot de saus indikt en de vis alle diepe, hartig-zoete smaken heeft opgenomen."
+  },
   "overview": "Ca kho to is one of the most comforting and deeply flavored dishes in Vietnamese home cooking — thick steaks of catfish (or other firm fish) braised low and slow in a small clay pot with a caramel sauce that combines the sweetness of coconut water, the saltiness of fish sauce, the heat of black pepper, and the depth of caramelized sugar. The clay pot (tộ) is essential to the dish: its porous walls absorb and radiate heat gently, allowing the fish to braise evenly and develop a rich, mahogany-colored glaze without burning. As the liquid reduces, the sauce becomes thick and intensely concentrated, coating each piece of fish with layers of savory-sweet flavor. Ca kho to is the definition of Vietnamese comfort food — it is served directly in the clay pot at the table, accompanied by a large bowl of steamed white rice and a simple vegetable dish. The salty-sweet sauce is meant to be drizzled over the rice, making each bite a perfect balance of flavors.",
   "origin": {
     "region": "Southern Vietnam (Mekong Delta)",

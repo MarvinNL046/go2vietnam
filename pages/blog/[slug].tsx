@@ -12,7 +12,7 @@ interface BlogPostProps {
 }
 
 export default function BlogPost({ post }: BlogPostProps) {
-  const { t } = useTranslation('common');
+  const { t, locale } = useTranslation('common');
 
   const articleJsonLd = {
     '@context': 'https://schema.org',
@@ -78,7 +78,7 @@ export default function BlogPost({ post }: BlogPostProps) {
                   <span className="badge-primary">{post.category}</span>
                 )}
                 <span className="text-white/80 text-sm">
-                  {new Date(post.date).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
+                  {new Date(post.date).toLocaleDateString(locale === 'nl' ? 'nl-NL' : 'en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
                 </span>
               </div>
               <h1 className="font-display text-display-sm md:text-display-md text-white">{post.title}</h1>
@@ -93,7 +93,7 @@ export default function BlogPost({ post }: BlogPostProps) {
                 <span className="badge-primary">{post.category}</span>
               )}
               <span className="text-warm-400 text-sm">
-                {new Date(post.date).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
+                {new Date(post.date).toLocaleDateString(locale === 'nl' ? 'nl-NL' : 'en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
               </span>
             </div>
             <h1 className="font-display text-display-sm md:text-display-md text-warm-900">{post.title}</h1>

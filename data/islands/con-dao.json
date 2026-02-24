@@ -1,10 +1,22 @@
 {
   "slug": "con-dao",
-  "name": { "en": "Con Dao" },
+  "name": {
+    "en": "Con Dao",
+    "nl": "Con Dao"
+  },
   "vietnameseName": "Côn Đảo",
   "image": "/images/islands/con-dao.webp",
-  "bestFor": ["Eco-Tourism", "Sea Turtles", "History", "Diving", "Luxury Resorts"],
-  "description": { "en": "A remote archipelago of 16 islands off Vietnam's southeastern coast, Con Dao combines pristine marine ecosystems, nesting sea turtles, and a harrowing colonial-era prison history. This is Vietnam's most exclusive island destination, favored by those seeking solitude and natural beauty." },
+  "bestFor": [
+    "Eco-Tourism",
+    "Sea Turtles",
+    "History",
+    "Diving",
+    "Luxury Resorts"
+  ],
+  "description": {
+    "en": "A remote archipelago of 16 islands off Vietnam's southeastern coast, Con Dao combines pristine marine ecosystems, nesting sea turtles, and a harrowing colonial-era prison history. This is Vietnam's most exclusive island destination, favored by those seeking solitude and natural beauty.",
+    "nl": "Een afgelegen archipel van zestien eilanden voor de zuidoostkust van Vietnam. Con Dao combineert ongerepte mariene ecosystemen, nestelende zeeschildpadden en een schrijnende koloniale gevangenisgeschiedenis. Dit is de meest exclusieve eilandbestemming van Vietnam, geliefd bij wie op zoek is naar rust en natuurlijke schoonheid."
+  },
   "overview": "Con Dao is Vietnam's most compelling island destination, a place where extraordinary natural beauty coexists with a deeply moving human history. This archipelago of 16 islands lies 185 kilometers off the southern coast, far enough from the mainland to have remained one of the best-preserved marine environments in Southeast Asia. Con Son, the main island, is dominated by dense tropical forest that is home to the endemic black giant squirrel and numerous bird species. The surrounding waters are part of Con Dao National Park, protecting coral reefs, seagrass meadows, dugongs, and critically important sea turtle nesting beaches - between June and September, endangered green and hawksbill turtles come ashore to lay eggs on several of the archipelago's beaches. Contrasting with this natural paradise is Con Dao's brutal history as a prison archipelago, used by the French colonial administration from 1862 and later by the South Vietnamese government through 1975. The infamous 'tiger cages' and other prison facilities are now preserved as a museum and memorial. This unusual combination of ecological significance and historical gravity gives Con Dao a depth that few tropical islands can match.",
   "gettingThere": {
     "byAir": "Con Dao Airport (VCS) on Con Son island receives flights from Ho Chi Minh City (45 minutes, 3-5 daily on Vietnam Airlines and Bamboo Airways) and occasional services from Hanoi and Can Tho. The airport is small and flights fill quickly in peak season - book well in advance. VASCO (Vietnam Air Services Company) operates most routes using ATR 72 turboprops.",

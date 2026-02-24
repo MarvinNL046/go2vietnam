@@ -1,27 +1,53 @@
 {
   "slug": "mui-ne",
-  "name": { "en": "Mui Ne" },
+  "name": {
+    "en": "Mui Ne",
+    "nl": "Mui Ne"
+  },
   "vietnameseName": "Mũi Né",
   "image": "/images/cities/mui-ne.webp",
   "region": "South-Central Coast",
-  "highlights": ["Red & White Sand Dunes", "Kitesurfing", "Fishing Village", "Fairy Stream"],
-  "description": { "en": "This laid-back coastal strip east of Phan Thiet is famous for its surreal sand dunes, steady ocean winds that attract kitesurfers from around the world, and a colorful fishing village where hundreds of round basket boats dot the shore. Mui Ne offers a more relaxed beach alternative to Nha Trang, with desert-like landscapes just minutes from the ocean." },
+  "highlights": [
+    "Red & White Sand Dunes",
+    "Kitesurfing",
+    "Fishing Village",
+    "Fairy Stream"
+  ],
+  "description": {
+    "en": "This laid-back coastal strip east of Phan Thiet is famous for its surreal sand dunes, steady ocean winds that attract kitesurfers from around the world, and a colorful fishing village where hundreds of round basket boats dot the shore. Mui Ne offers a more relaxed beach alternative to Nha Trang, with desert-like landscapes just minutes from the ocean.",
+    "nl": "Deze ontspannen kuststrook ten oosten van Phan Thiet is beroemd om zijn surrealistische zandduinen, de constante oceaanwinden die kitesurfers van over de hele wereld aantrekken, en een kleurrijk vissersdorp waar honderden ronde mandenboten de kust sieren. Mui Ne biedt een rustiger strandalternatief voor Nha Trang, met woestijnachtige landschappen op slechts enkele minuten van de oceaan."
+  },
   "overview": "Mui Ne is a 15km stretch of beach and resort development along the coast of Binh Thuan Province, approximately 200km northeast of Ho Chi Minh City. Technically a ward of the city of Phan Thiet, Mui Ne has developed its own distinct identity as one of Vietnam's most popular beach resort destinations. The area is uniquely defined by its microclimate — it receives far less rainfall than the surrounding region, creating an almost arid landscape that has produced the famous red and white sand dunes that rise dramatically from the coastline. This same dry, windy climate has made Mui Ne Asia's premier kitesurfing destination, with consistent winds blowing from November to April that attract kitesurfers from around the world. Beyond the wind sports, Mui Ne offers a traditional Vietnamese fishing village where hundreds of colorful round basket boats (thung chai) line the beach, the surreal Fairy Stream (a shallow red-canyon stream you wade through barefoot), and a long beach backed by swaying palm trees and coconut groves. The resort strip is more laid-back and less developed than Nha Trang, attracting visitors seeking a relaxed beach holiday with natural attractions rather than nightlife.",
   "neighborhoods": [
     {
       "name": "Mui Ne Beach / Resort Strip (Nguyen Dinh Chieu Road)",
       "description": "The main tourism corridor stretches about 15km along Nguyen Dinh Chieu Road, parallel to the beach. The western end (closer to Phan Thiet) has budget and mid-range accommodation, while the eastern end has the more upscale resorts. Kitesurfing schools, restaurants, and bars are scattered along the entire strip. The atmosphere is more relaxed and spread out than concentrated beach resort towns.",
-      "highlights": ["15km beach strip", "Kitesurfing schools and launch areas", "Beachfront restaurants and bars", "Range of resorts from budget to luxury"]
+      "highlights": [
+        "15km beach strip",
+        "Kitesurfing schools and launch areas",
+        "Beachfront restaurants and bars",
+        "Range of resorts from budget to luxury"
+      ]
     },
     {
       "name": "Mui Ne Fishing Village",
       "description": "At the eastern end of the beach strip, the traditional fishing village provides a vivid contrast to the resort area. The beach is lined with hundreds of round basket boats (thung chai) and larger fishing vessels painted in bright blues and reds. Fishermen bring in their catch at dawn, and a lively fish market operates early morning. The harbor is one of the most photogenic spots in all of coastal Vietnam, especially at sunrise with the boats silhouetted against the morning sky.",
-      "highlights": ["Hundreds of round basket boats", "Early morning fish market", "Spectacular sunrise photography", "Active fishing harbor"]
+      "highlights": [
+        "Hundreds of round basket boats",
+        "Early morning fish market",
+        "Spectacular sunrise photography",
+        "Active fishing harbor"
+      ]
     },
     {
       "name": "Phan Thiet City",
       "description": "The actual city of Phan Thiet, about 10km west of the Mui Ne resort strip, is a working Vietnamese coastal city with its own character. It has a large central market, fish sauce factories (Binh Thuan Province is Vietnam's other major fish sauce region alongside Phu Quoc), the Phan Thiet Water Tower (a French colonial landmark), and a more authentic local atmosphere than the tourist strip. The Po Sah Inu Cham towers sit on a hill overlooking the city.",
-      "highlights": ["Phan Thiet central market", "Po Sah Inu Cham Towers", "Fish sauce factories", "Local Vietnamese atmosphere"]
+      "highlights": [
+        "Phan Thiet central market",
+        "Po Sah Inu Cham Towers",
+        "Fish sauce factories",
+        "Local Vietnamese atmosphere"
+      ]
     }
   ],
   "gettingThere": {

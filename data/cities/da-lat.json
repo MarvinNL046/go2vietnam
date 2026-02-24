@@ -1,27 +1,53 @@
 {
   "slug": "da-lat",
-  "name": { "en": "Da Lat" },
+  "name": {
+    "en": "Da Lat",
+    "nl": "Da Lat"
+  },
   "vietnameseName": "Đà Lạt",
   "image": "/images/cities/da-lat.webp",
   "region": "Central Highlands",
-  "highlights": ["Cool Mountain Climate", "Coffee Plantations", "Flower Gardens", "French Colonial Villas"],
-  "description": { "en": "Perched at 1,500 meters in the Central Highlands, Da Lat offers a refreshing escape from Vietnam's tropical heat with year-round spring-like temperatures. This romantic hill station, originally built as a French colonial retreat, is now celebrated for its artisan coffee culture, flower farms, pine forests, and a growing adventure sports scene." },
+  "highlights": [
+    "Cool Mountain Climate",
+    "Coffee Plantations",
+    "Flower Gardens",
+    "French Colonial Villas"
+  ],
+  "description": {
+    "en": "Perched at 1,500 meters in the Central Highlands, Da Lat offers a refreshing escape from Vietnam's tropical heat with year-round spring-like temperatures. This romantic hill station, originally built as a French colonial retreat, is now celebrated for its artisan coffee culture, flower farms, pine forests, and a growing adventure sports scene.",
+    "nl": "Op 1.500 meter hoogte in de Centrale Hooglanden biedt Da Lat een verfrissende ontsnapping aan de tropische hitte van Vietnam met het hele jaar door lenteachtige temperaturen. Dit romantische bergstadje, oorspronkelijk gebouwd als Frans koloniaal toevluchtsoord, staat nu bekend om zijn ambachtelijke koffiecultuur, bloemenkwekerijen, dennenbossen en een groeiend aanbod aan avontuurlijke sporten."
+  },
   "overview": "Da Lat (sometimes written Dalat) was established in 1893 by French colonial physician Alexandre Yersin as a hill station retreat from the sweltering lowland heat. Situated at approximately 1,500 meters elevation on the Langbian Plateau, the city enjoys a perpetual spring-like climate that earned it the nickname 'The City of Eternal Spring' (Thành phố mùa xuân). With a population of around 400,000, Da Lat is the capital of Lam Dong Province and the agricultural heartland of Vietnam's flower, vegetable, and specialty coffee industries. The city's unique character blends faded French colonial grandeur — pastel-colored villas, a Gustave Eiffel-designed railway station, and European-style gardens — with Vietnamese highland culture and a youthful, creative energy fueled by art students and specialty coffee entrepreneurs. Da Lat is one of Vietnam's most popular domestic tourism destinations, especially beloved by Vietnamese honeymooners, but it's increasingly attracting international visitors drawn to its cool temperatures, emerging specialty coffee scene, canyoning adventures, and stunning pine-forested landscapes.",
   "neighborhoods": [
     {
       "name": "City Center / Xuan Huong Lake Area",
       "description": "The heart of Da Lat wraps around the crescent-shaped Xuan Huong Lake, surrounded by colonial-era buildings, the Da Lat Market, and pleasant walking paths. The market (Cho Da Lat) is a multi-level structure selling everything from avocados and strawberries to artichokes and local wine. The lakeside is popular for evening strolls and pedal boats. Nguyen Chi Thanh Street leading to the market is the main commercial thoroughfare.",
-      "highlights": ["Xuan Huong Lake", "Da Lat Market (Cho Da Lat)", "Colonial architecture", "Lakeside evening walks"]
+      "highlights": [
+        "Xuan Huong Lake",
+        "Da Lat Market (Cho Da Lat)",
+        "Colonial architecture",
+        "Lakeside evening walks"
+      ]
     },
     {
       "name": "Ward 3 / Coffee District",
       "description": "The hilly streets of Ward 3, particularly around Phan Dinh Phung and Truong Cong Dinh streets, have become the center of Da Lat's specialty coffee scene. Small-batch roasters, minimalist coffee studios, and cafe-galleries populate former French villas and modernist buildings. This is where Da Lat's creative class gathers and where some of Vietnam's best single-origin arabica coffee is served.",
-      "highlights": ["Specialty coffee shops", "Art galleries", "French villa conversions", "La Viet Coffee roastery"]
+      "highlights": [
+        "Specialty coffee shops",
+        "Art galleries",
+        "French villa conversions",
+        "La Viet Coffee roastery"
+      ]
     },
     {
       "name": "Tuyen Lam Lake Area (south of center)",
       "description": "About 7km south of the city center, the scenic Tuyen Lam Lake is surrounded by pine forests, meditation retreats, and luxury resorts. The area offers a quieter alternative to the busy city center with excellent hiking, cycling around the lake, and visits to the Truc Lam Zen Monastery accessible by cable car. The surrounding forests contain some of Da Lat's oldest and tallest pine trees.",
-      "highlights": ["Truc Lam Zen Monastery", "Pine forest hiking trails", "Cable car ride", "Luxury lakeside resorts"]
+      "highlights": [
+        "Truc Lam Zen Monastery",
+        "Pine forest hiking trails",
+        "Cable car ride",
+        "Luxury lakeside resorts"
+      ]
     }
   ],
   "gettingThere": {

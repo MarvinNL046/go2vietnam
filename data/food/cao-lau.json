@@ -1,11 +1,17 @@
 {
   "slug": "cao-lau",
-  "name": { "en": "Cao Lau" },
+  "name": {
+    "en": "Cao Lau",
+    "nl": "Cao Lau"
+  },
   "vietnameseName": "Cao Lầu",
   "image": "/images/food/cao-lau.webp",
   "category": "Noodle",
   "spiceLevel": "mild",
-  "description": { "en": "A unique Hoi An specialty featuring thick, chewy noodles made with water from the ancient Ba Le well, topped with sliced pork, crispy croutons, fresh herbs, and a small amount of savory broth." },
+  "description": {
+    "en": "A unique Hoi An specialty featuring thick, chewy noodles made with water from the ancient Ba Le well, topped with sliced pork, crispy croutons, fresh herbs, and a small amount of savory broth.",
+    "nl": "Een unieke specialiteit van Hoi An met dikke, kauwbare noedels die traditioneel gemaakt worden met water uit de eeuwenoude Ba Le-bron, belegd met gesneden varkensvlees, krokante croutons, verse kruiden en een kleine hoeveelheid hartige bouillon."
+  },
   "overview": "Cao lau is one of the most location-specific dishes in all of Vietnamese cuisine — it can only be authentically made in Hoi An, a charming ancient trading port on the central coast. The dish revolves around its extraordinary noodles, which are thick, chewy, and golden-brown, made using water drawn from the centuries-old Ba Le well (Giếng Bá Lệ) and lye water derived from the ash of trees found on the nearby Cham Islands. This unique preparation gives the noodles their distinctive color and firm, almost al dente bite that is unlike any other Vietnamese noodle. The noodles are topped with slices of char siu-style roasted pork, fresh bean sprouts, leafy herbs, and crispy croutons made from the same noodle dough, all moistened with just a few spoonfuls of concentrated, savory broth rather than a full soup. The result is a complex, textural dish that reflects Hoi An's history as a multicultural trading hub where Vietnamese, Chinese, and Japanese influences converged.",
   "origin": {
     "region": "Hoi An, Quang Nam Province, Central Vietnam",

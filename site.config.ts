@@ -147,7 +147,7 @@ export const siteConfig: SiteConfig = {
   domain: 'go2-vietnam.com',
   destination: 'Vietnam',
   destinationFull: 'Vietnam',
-  tagline: 'Your Ultimate Vietnam Travel Guide',
+  tagline: 'Jouw Ultieme Vietnam Reisgids',
 
   // ---------------------------------------------------------------------------
   // Colors
@@ -198,8 +198,8 @@ export const siteConfig: SiteConfig = {
   // ---------------------------------------------------------------------------
   // i18n
   // ---------------------------------------------------------------------------
-  locales: ['en'],
-  defaultLocale: 'en',
+  locales: ['nl', 'en'],
+  defaultLocale: 'nl',
 
   // ---------------------------------------------------------------------------
   // Affiliate links

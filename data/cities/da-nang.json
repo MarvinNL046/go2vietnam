@@ -1,32 +1,63 @@
 {
   "slug": "da-nang",
-  "name": { "en": "Da Nang" },
+  "name": {
+    "en": "Da Nang",
+    "nl": "Da Nang"
+  },
   "vietnameseName": "Đà Nẵng",
   "image": "/images/cities/da-nang.webp",
   "region": "Central Vietnam",
-  "highlights": ["My Khe Beach", "Ba Na Hills & Golden Bridge", "Dragon Bridge", "Marble Mountains"],
-  "description": { "en": "Central Vietnam's largest city combines stunning beaches, dramatic mountain scenery, and modern infrastructure in one surprisingly livable package. Da Nang serves as the perfect base for exploring the UNESCO heritage sites of Hoi An and Hue while offering its own impressive attractions like the Golden Bridge at Ba Na Hills." },
+  "highlights": [
+    "My Khe Beach",
+    "Ba Na Hills & Golden Bridge",
+    "Dragon Bridge",
+    "Marble Mountains"
+  ],
+  "description": {
+    "en": "Central Vietnam's largest city combines stunning beaches, dramatic mountain scenery, and modern infrastructure in one surprisingly livable package. Da Nang serves as the perfect base for exploring the UNESCO heritage sites of Hoi An and Hue while offering its own impressive attractions like the Golden Bridge at Ba Na Hills.",
+    "nl": "De grootste stad van Centraal-Vietnam combineert prachtige stranden, indrukwekkend berglandschap en moderne infrastructuur in een verrassend leefbaar geheel. Da Nang is de perfecte uitvalsbasis voor de UNESCO-erfgoedsites van Hoi An en Hue, en biedt daarnaast eigen indrukwekkende attracties zoals de Golden Bridge bij Ba Na Hills."
+  },
   "overview": "Da Nang has transformed from a sleepy port city into one of Vietnam's most modern and livable urban centers. Situated on the central coast where the Han River meets the South China Sea, Da Nang is flanked by My Khe Beach (named one of the world's most attractive beaches by Forbes) to the east and the Truong Son mountain range to the west. With a population of approximately 1.2 million, the city serves as the economic hub of Central Vietnam and a major tourism gateway. Da Nang's strategic location puts it just 30km from Hoi An's ancient town and 100km from Hue's imperial citadel, making it the perfect base for exploring Central Vietnam's UNESCO World Heritage Sites. The city is also known for its spectacular bridges — the fire-breathing Dragon Bridge, the sail-shaped Tran Thi Ly Bridge, and the golden-hands-held Golden Bridge at Ba Na Hills have become iconic symbols of modern Vietnam.",
   "neighborhoods": [
     {
       "name": "My Khe Beach Area (Bãi Biển Mỹ Khê)",
       "description": "The long stretch of white sand along Da Nang's eastern shore is lined with hotels, resorts, and seafood restaurants. My Khe Beach was famously used as an R&R spot for American soldiers during the war and is now one of Vietnam's premier beach destinations. The area between Vo Nguyen Giap and Hoang Sa streets has the highest concentration of accommodation and dining options.",
-      "highlights": ["30km of sandy beach", "Surfing from September to March", "Beachfront seafood restaurants", "Sunrise views"]
+      "highlights": [
+        "30km of sandy beach",
+        "Surfing from September to March",
+        "Beachfront seafood restaurants",
+        "Sunrise views"
+      ]
     },
     {
       "name": "Han River District (Hai Chau)",
       "description": "The heart of Da Nang straddles both banks of the Han River. The western bank has the city's main commercial area, Bach Dang Street promenade, and the vibrant Han Market. The eastern bank, known as Son Tra, has newer developments, restaurants, and the best views of the illuminated bridges at night. Walking along the river at dusk when the bridges light up is a quintessential Da Nang experience.",
-      "highlights": ["Dragon Bridge fire show (Sat/Sun 9pm)", "Han Market", "Bach Dang riverfront promenade", "Bridge illuminations at night"]
+      "highlights": [
+        "Dragon Bridge fire show (Sat/Sun 9pm)",
+        "Han Market",
+        "Bach Dang riverfront promenade",
+        "Bridge illuminations at night"
+      ]
     },
     {
       "name": "Son Tra Peninsula (Bán Đảo Sơn Trà)",
       "description": "This mountainous peninsula north of the city is a protected nature reserve home to the endangered red-shanked douc langur, one of the world's most colorful primates. The Linh Ung Pagoda with its 67-meter Lady Buddha statue overlooks the sea. The winding coastal road offers spectacular views, and secluded beaches like Bai But are perfect for a quiet escape.",
-      "highlights": ["Linh Ung Pagoda & Lady Buddha", "Red-shanked douc langur wildlife", "Secluded beaches", "Panoramic coastal road"]
+      "highlights": [
+        "Linh Ung Pagoda & Lady Buddha",
+        "Red-shanked douc langur wildlife",
+        "Secluded beaches",
+        "Panoramic coastal road"
+      ]
     },
     {
       "name": "Ngu Hanh Son (Marble Mountains Area)",
       "description": "Located between Da Nang and Hoi An, this area is home to the famous Marble Mountains — five limestone hills named after the five elements. The surrounding village has been a center for stone carving and sculpture for centuries. Numerous workshops line the road where artisans create marble and stone works ranging from small souvenirs to monumental sculptures.",
-      "highlights": ["Marble Mountains caves and pagodas", "Stone carving village", "Panoramic elevator access", "Non Nuoc Beach"]
+      "highlights": [
+        "Marble Mountains caves and pagodas",
+        "Stone carving village",
+        "Panoramic elevator access",
+        "Non Nuoc Beach"
+      ]
     }
   ],
   "gettingThere": {

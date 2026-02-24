@@ -1,32 +1,63 @@
 {
   "slug": "hanoi",
-  "name": { "en": "Hanoi (Ha Noi)" },
+  "name": {
+    "en": "Hanoi (Ha Noi)",
+    "nl": "Hanoi (Ha Noi)"
+  },
   "vietnameseName": "Hà Nội",
   "image": "/images/cities/hanoi.webp",
   "region": "Northern Vietnam",
-  "highlights": ["Old Quarter", "Street Food Capital", "Thousand-Year History", "Hoan Kiem Lake"],
-  "description": { "en": "Vietnam's thousand-year-old capital is a captivating blend of ancient temples, tree-lined boulevards, and the chaotic energy of the Old Quarter. Hanoi rewards those who slow down to savor its legendary street food, misty lakes, and French colonial architecture layered over centuries of Vietnamese history." },
+  "highlights": [
+    "Old Quarter",
+    "Street Food Capital",
+    "Thousand-Year History",
+    "Hoan Kiem Lake"
+  ],
+  "description": {
+    "en": "Vietnam's thousand-year-old capital is a captivating blend of ancient temples, tree-lined boulevards, and the chaotic energy of the Old Quarter. Hanoi rewards those who slow down to savor its legendary street food, misty lakes, and French colonial architecture layered over centuries of Vietnamese history.",
+    "nl": "De duizend jaar oude hoofdstad van Vietnam is een betoverende mix van oude tempels, met bomen omzoomde boulevards en de chaotische energie van de Oude Wijk. Hanoi beloont degenen die de tijd nemen om te genieten van het legendarische straatvoedsel, de mistige meren en de Franse koloniale architectuur die over eeuwen Vietnamese geschiedenis is gelaagd."
+  },
   "overview": "Founded in 1010 AD by Emperor Ly Thai To, Hanoi (meaning 'city between rivers') is one of the oldest continuously inhabited capitals in Southeast Asia. The city sits on the banks of the Red River in northern Vietnam and serves as the country's political, cultural, and educational center with a population of over 8 million. Hanoi's charm lies in its layered history: ancient Vietnamese temples sit alongside French colonial villas, while Soviet-era architecture gives way to gleaming modern towers. The Old Quarter, with its 36 streets each historically dedicated to a single trade, remains the beating heart of the city, where vendors sell everything from silk to herbal medicine just as they have for centuries. Unlike the frenetic energy of Ho Chi Minh City in the south, Hanoi moves at a more contemplative pace, with residents gathering at dawn around its many lakes for tai chi, and spending languid afternoons in egg coffee cafes.",
   "neighborhoods": [
     {
       "name": "Old Quarter (Phố Cổ)",
       "description": "The historic 36 streets of Hanoi's Old Quarter have been the city's commercial heart for nearly 1,000 years. Each street was originally dedicated to a specific guild or trade — Hang Gai for silk, Hang Bac for silver, Hang Ma for paper goods — and many retain traces of their original character. The narrow tube houses, some only 2-3 meters wide, reflect the historical practice of taxing shop fronts by width. Today the quarter buzzes with motorbikes, street food vendors, backpacker hostels, and an overwhelming sensory experience that defines Hanoi for most visitors.",
-      "highlights": ["36 ancient trading streets", "Weekend night market (Hang Dao)", "Street food on every corner", "Dong Xuan Market"]
+      "highlights": [
+        "36 ancient trading streets",
+        "Weekend night market (Hang Dao)",
+        "Street food on every corner",
+        "Dong Xuan Market"
+      ]
     },
     {
       "name": "French Quarter (Quận Hoàn Kiếm south)",
       "description": "South of Hoan Kiem Lake, the wide tree-lined boulevards of the French Quarter showcase Hanoi's colonial heritage. This area is home to the magnificent Hanoi Opera House (modeled after the Palais Garnier in Paris), the Sofitel Legend Metropole hotel, upscale restaurants, and elegant government buildings. Trang Tien Street and the surrounding blocks offer high-end shopping and some of the city's best fine dining.",
-      "highlights": ["Hanoi Opera House", "Sofitel Legend Metropole", "Trang Tien Plaza", "Fine dining restaurants"]
+      "highlights": [
+        "Hanoi Opera House",
+        "Sofitel Legend Metropole",
+        "Trang Tien Plaza",
+        "Fine dining restaurants"
+      ]
     },
     {
       "name": "West Lake (Hồ Tây)",
       "description": "Hanoi's largest lake is surrounded by a rapidly developing area popular with expats, diplomats, and affluent Vietnamese. The lakeside Xuan Dieu and To Ngoc Van streets are lined with international restaurants, boutique cafes, and modern apartment buildings. The ancient Tran Quoc Pagoda sits on a small peninsula jutting into the lake, while the shores are dotted with seafood restaurants and shrimp cake vendors.",
-      "highlights": ["Tran Quoc Pagoda", "Expat dining scene", "Lakeside cycling path", "Thanh Nien Road causeway"]
+      "highlights": [
+        "Tran Quoc Pagoda",
+        "Expat dining scene",
+        "Lakeside cycling path",
+        "Thanh Nien Road causeway"
+      ]
     },
     {
       "name": "Ba Dinh District",
       "description": "The political heart of Vietnam centers on Ba Dinh Square, where Ho Chi Minh read the Declaration of Independence in 1945. This district is home to the Ho Chi Minh Mausoleum, the Presidential Palace, and the One Pillar Pagoda. It has a more spacious, quieter feel than the Old Quarter, with wide avenues and significant government buildings set among gardens and parks.",
-      "highlights": ["Ho Chi Minh Mausoleum", "One Pillar Pagoda", "Presidential Palace", "Vietnam Military History Museum"]
+      "highlights": [
+        "Ho Chi Minh Mausoleum",
+        "One Pillar Pagoda",
+        "Presidential Palace",
+        "Vietnam Military History Museum"
+      ]
     }
   ],
   "gettingThere": {
