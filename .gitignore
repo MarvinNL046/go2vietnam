@@ -7,6 +7,8 @@ out/
 .env*.local
 *.tsbuildinfo
 .vercel
+.claude/
 .playwright-mcp/
+.playwright-cli/
 logs/
 *.png
