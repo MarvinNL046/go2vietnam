@@ -6,7 +6,7 @@ const nextConfig = {
   i18n: {
     locales: ['nl', 'en'],
     defaultLocale: 'nl',
-    localeDetection: true,
+    localeDetection: false,
   },
   images: {
     formats: ['image/webp', 'image/avif'],

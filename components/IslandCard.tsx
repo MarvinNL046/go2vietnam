@@ -6,12 +6,12 @@ interface IslandCardProps {
   name: string;
   slug: string;
   image: string;
-  bestFor?: string[];
+  bestFor?: (string | { en: string; nl?: string })[];
   description?: string;
 }
 
 const IslandCard: React.FC<IslandCardProps> = ({ name, slug, image, bestFor = [], description }) => {
-  const { t } = useTranslation('common');
+  const { t, locale } = useTranslation('common');
 
   return (
     <div className="card group">
@@ -34,7 +34,7 @@ const IslandCard: React.FC<IslandCardProps> = ({ name, slug, image, bestFor = []
         {bestFor.length > 0 && (
           <div className="flex flex-wrap gap-1.5 mb-4">
             {bestFor.slice(0, 3).map((tag, i) => (
-              <span key={i} className="badge-secondary text-xs">{tag}</span>
+              <span key={i} className="badge-secondary text-xs">{typeof tag === 'object' ? (tag as any)[locale] || (tag as any).en : tag}</span>
             ))}
           </div>
         )}

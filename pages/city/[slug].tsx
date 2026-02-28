@@ -38,7 +38,7 @@ interface CityDetail {
   vietnameseName?: string;
   image?: string;
   region?: string;
-  highlights?: string[];
+  highlights?: (string | { en: string; nl?: string })[];
   description?: string | { en: string };
   overview?: string;
   neighborhoods?: Neighborhood[];
@@ -184,7 +184,7 @@ export default function CityPage({ city }: CityPageProps) {
     '@context': 'https://schema.org',
     '@type': 'Place',
     name: cityName,
-    description: description || `Complete travel guide for ${cityName} in ${siteConfig.destination}.`,
+    description: description || t('seo.cityFallbackDesc').replace('{0}', cityName).replace('{1}', siteConfig.destination),
     image: city.image || undefined,
     address: {
       '@type': 'PostalAddress',
@@ -197,8 +197,8 @@ export default function CityPage({ city }: CityPageProps) {
     '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',
     itemListElement: [
-      { '@type': 'ListItem', position: 1, name: 'Home', item: siteConfig.seo.siteUrl },
-      { '@type': 'ListItem', position: 2, name: 'Cities', item: `${siteConfig.seo.siteUrl}/city/` },
+      { '@type': 'ListItem', position: 1, name: t('nav.home'), item: siteConfig.seo.siteUrl },
+      { '@type': 'ListItem', position: 2, name: t('nav.cities'), item: `${siteConfig.seo.siteUrl}/city/` },
       { '@type': 'ListItem', position: 3, name: cityName, item: `${siteConfig.seo.siteUrl}/city/${city.slug}/` },
     ],
   };
@@ -207,7 +207,7 @@ export default function CityPage({ city }: CityPageProps) {
     <>
       <SEOHead
         title={`${cityName} Travel Guide - ${siteConfig.name}`}
-        description={description || `Complete travel guide for ${cityName} in ${siteConfig.destination}.`}
+        description={description || t('seo.cityFallbackDesc').replace('{0}', cityName).replace('{1}', siteConfig.destination)}
         ogImage={city.image}
         path={`/city/${city.slug}/`}
         jsonLd={[placeJsonLd, breadcrumbJsonLd]}
@@ -255,12 +255,12 @@ export default function CityPage({ city }: CityPageProps) {
         {/* Highlights Pills */}
         {city.highlights && city.highlights.length > 0 && (
           <div className="flex flex-wrap gap-3 mb-10">
-            {city.highlights.map((h: string, i: number) => (
+            {city.highlights.map((h: any, i: number) => (
               <span
                 key={i}
                 className="bg-brand-secondary-50 text-brand-secondary-700 px-4 py-2 rounded-xl text-sm font-medium transition-colors hover:bg-brand-secondary-100"
               >
-                {h}
+                {typeof h === 'object' ? (h[locale] || h.en) : h}
               </span>
             ))}
           </div>

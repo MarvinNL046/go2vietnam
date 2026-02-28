@@ -47,7 +47,7 @@ export default function PracticalInfo() {
     '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',
     itemListElement: [
-      { '@type': 'ListItem', position: 1, name: 'Home', item: siteConfig.seo.siteUrl },
+      { '@type': 'ListItem', position: 1, name: tCommon('nav.home'), item: siteConfig.seo.siteUrl },
       { '@type': 'ListItem', position: 2, name: t('practicalInfo.breadcrumb'), item: `${siteConfig.seo.siteUrl}/practical-info/` },
     ],
   };

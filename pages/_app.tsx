@@ -12,6 +12,11 @@ const localeToLanguage: Record<string, string> = {
   en: 'en-US',
 };
 
+const siteDescriptions: Record<string, string> = {
+  nl: `Jouw Ultieme ${siteConfig.destination} Reisgids`,
+  en: `Your Ultimate ${siteConfig.destination} Travel Guide`,
+};
+
 function getGlobalJsonLd(locale: string) {
   const inLanguage = localeToLanguage[locale] || 'nl-NL';
   return {
@@ -32,7 +37,7 @@ function getGlobalJsonLd(locale: string) {
         '@id': `${siteConfig.seo.siteUrl}/#website`,
         url: siteConfig.seo.siteUrl,
         name: siteConfig.name,
-        description: `Your Ultimate ${siteConfig.destination} Travel Guide`,
+        description: siteDescriptions[locale] || siteDescriptions.en,
         publisher: {
           '@id': `${siteConfig.seo.siteUrl}/#organization`,
         },

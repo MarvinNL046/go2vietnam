@@ -1,0 +1,124 @@
+{
+  "topics": [
+    {
+      "topic": "Ha Long Bay Complete Guide: Cruises, Caves & Best Time to Visit",
+      "category": "activities",
+      "targetKeyword": "ha long bay guide",
+      "searchVolume": 12000,
+      "scrapeUrls": ["https://www.lonelyplanet.com/vietnam/northeast-vietnam/halong-bay"],
+      "priority": 1
+    },
+    {
+      "topic": "Ha Giang Loop by Motorbike: The Ultimate 4-Day Itinerary",
+      "category": "activities",
+      "targetKeyword": "ha giang loop motorbike",
+      "searchVolume": 8500,
+      "scrapeUrls": [],
+      "priority": 1
+    },
+    {
+      "topic": "Hoi An Travel Guide: Ancient Town, Beaches & Tailors",
+      "category": "city-guide",
+      "targetKeyword": "hoi an travel guide",
+      "searchVolume": 9200,
+      "scrapeUrls": ["https://www.lonelyplanet.com/vietnam/central-vietnam/hoi-an"],
+      "priority": 1
+    },
+    {
+      "topic": "Vietnam E-Visa 2026: How to Apply, Costs & Processing Time",
+      "category": "practical",
+      "targetKeyword": "vietnam e-visa 2026",
+      "searchVolume": 15000,
+      "scrapeUrls": ["https://evisa.xuatnhapcanh.gov.vn/"],
+      "priority": 1
+    },
+    {
+      "topic": "Phong Nha Caves Guide: Son Doong, Paradise Cave & More",
+      "category": "activities",
+      "targetKeyword": "phong nha caves vietnam",
+      "searchVolume": 7800,
+      "scrapeUrls": [],
+      "priority": 2
+    },
+    {
+      "topic": "Reunification Express: Vietnam's Epic Train Journey Guide",
+      "category": "practical",
+      "targetKeyword": "reunification express train vietnam",
+      "searchVolume": 5500,
+      "scrapeUrls": [],
+      "priority": 2
+    },
+    {
+      "topic": "Ninh Binh Guide: Tam Coc, Trang An & Mua Cave",
+      "category": "city-guide",
+      "targetKeyword": "ninh binh vietnam guide",
+      "searchVolume": 6800,
+      "scrapeUrls": ["https://www.lonelyplanet.com/vietnam/northern-vietnam/ninh-binh"],
+      "priority": 2
+    },
+    {
+      "topic": "Best Coffee Shops in Hanoi: From Egg Coffee to Ca Phe Sua Da",
+      "category": "food",
+      "targetKeyword": "best coffee hanoi",
+      "searchVolume": 4200,
+      "scrapeUrls": [],
+      "priority": 2
+    },
+    {
+      "topic": "Da Lat: Vietnam's French Hill Station in the Central Highlands",
+      "category": "city-guide",
+      "targetKeyword": "da lat vietnam guide",
+      "searchVolume": 5800,
+      "scrapeUrls": [],
+      "priority": 2
+    },
+    {
+      "topic": "Sa Pa Trekking Guide: Routes, Homestays & Best Season",
+      "category": "activities",
+      "targetKeyword": "sapa trekking guide",
+      "searchVolume": 7200,
+      "scrapeUrls": [],
+      "priority": 2
+    },
+    {
+      "topic": "Phu Quoc Island Complete Guide: Beaches, Resorts & Night Market",
+      "category": "islands",
+      "targetKeyword": "phu quoc island guide",
+      "searchVolume": 11000,
+      "scrapeUrls": ["https://www.lonelyplanet.com/vietnam/southern-vietnam/phu-quoc-island"],
+      "priority": 1
+    },
+    {
+      "topic": "Mekong Delta Day Trip from Ho Chi Minh City: Best Tours",
+      "category": "activities",
+      "targetKeyword": "mekong delta day trip",
+      "searchVolume": 8000,
+      "scrapeUrls": [],
+      "priority": 2
+    },
+    {
+      "topic": "Vietnam on a Budget: 2 Week Itinerary for Under $500",
+      "category": "budget",
+      "targetKeyword": "vietnam budget itinerary",
+      "searchVolume": 6500,
+      "scrapeUrls": [],
+      "priority": 2
+    },
+    {
+      "topic": "Cu Chi Tunnels from HCMC: History, Tours & Tips",
+      "category": "activities",
+      "targetKeyword": "cu chi tunnels tour",
+      "searchVolume": 7500,
+      "scrapeUrls": [],
+      "priority": 2
+    },
+    {
+      "topic": "Hanoi Old Quarter Walking Guide: 36 Streets Explained",
+      "category": "city-guide",
+      "targetKeyword": "hanoi old quarter guide",
+      "searchVolume": 5200,
+      "scrapeUrls": [],
+      "priority": 3
+    }
+  ]
+}

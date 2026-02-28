@@ -83,7 +83,7 @@ export default function FoodPage({ dish }: FoodPageProps) {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: `${name} - ${t('foodDetail.foodGuide')}`,
-    description: description || `Learn about ${name}, a popular Vietnamese dish. Complete guide with history, ingredients, where to eat, and ordering tips.`,
+    description: description || t('seo.foodFallbackDesc').replace('{0}', name),
     image: dish.image || undefined,
     author: {
       '@type': 'Organization',
@@ -108,8 +108,8 @@ export default function FoodPage({ dish }: FoodPageProps) {
     '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',
     itemListElement: [
-      { '@type': 'ListItem', position: 1, name: 'Home', item: siteConfig.seo.siteUrl },
-      { '@type': 'ListItem', position: 2, name: 'Food', item: `${siteConfig.seo.siteUrl}/food/` },
+      { '@type': 'ListItem', position: 1, name: t('nav.home'), item: siteConfig.seo.siteUrl },
+      { '@type': 'ListItem', position: 2, name: t('nav.food'), item: `${siteConfig.seo.siteUrl}/food/` },
       { '@type': 'ListItem', position: 3, name: name, item: `${siteConfig.seo.siteUrl}/food/${dish.slug}/` },
     ],
   };
@@ -118,7 +118,7 @@ export default function FoodPage({ dish }: FoodPageProps) {
     <>
       <SEOHead
         title={`${name} - ${t('foodDetail.foodGuide')} | ${siteConfig.name}`}
-        description={description || `Learn about ${name}, a popular Vietnamese dish. Complete guide with history, ingredients, where to eat, and ordering tips.`}
+        description={description || t('seo.foodFallbackDesc').replace('{0}', name)}
         ogImage={dish.image}
         path={`/food/${dish.slug}/`}
         jsonLd={[foodJsonLd, breadcrumbJsonLd]}
@@ -391,7 +391,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
   const slugs = getDishSlugs();
   return {
     paths: slugs.map((slug: string) => ({ params: { slug } })),
-    fallback: false,
+    fallback: 'blocking',
   };
 };
 

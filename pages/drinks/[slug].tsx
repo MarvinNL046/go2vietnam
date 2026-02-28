@@ -54,7 +54,7 @@ export default function DrinkPage({ drink }: DrinkPageProps) {
     <>
       <SEOHead
         title={`${name} - ${t('drinkDetail.drinksGuide')} | ${siteConfig.name}`}
-        description={description || `Learn about ${name}, a popular Vietnamese drink. Complete guide with history, how it's made, and where to try it.`}
+        description={description || t('seo.drinkFallbackDesc').replace('{0}', name)}
         ogImage={drink.image}
       />
       <div className="container-custom py-8 lg:py-12">
@@ -247,7 +247,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
   const slugs = getDrinkSlugs();
   return {
     paths: slugs.map((slug: string) => ({ params: { slug } })),
-    fallback: false,
+    fallback: 'blocking',
   };
 };
 

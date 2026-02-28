@@ -44,6 +44,7 @@
     "viewAll": "Alles Bekijken",
     "learnMore": "Meer Informatie",
     "readMore": "Lees Meer",
+    "viewTravelGuide": "Reisgids Bekijken",
     "exploreCity": "Ontdek Stad",
     "bookNow": "Boek Nu"
   },
@@ -316,7 +317,14 @@
     "heading": "Pagina niet gevonden"
   },
   "seo": {
+    "tagline": "Jouw Ultieme Vietnam Reisgids",
     "homeTitle": "{0} - {1}",
-    "homeDescription": "Je complete {0} reisgids met stadsgidsen, lokaal eten, praktische tips en meer."
+    "homeDescription": "Je complete {0} reisgids met stadsgidsen, lokaal eten, praktische tips en meer.",
+    "cityFallbackDesc": "Complete reisgids voor {0} in {1}.",
+    "foodFallbackDesc": "Alles over {0}, een populair Vietnamees gerecht. Complete gids met geschiedenis, ingrediënten, waar te eten en besteltips.",
+    "drinkFallbackDesc": "Alles over {0}, een populair Vietnamees drankje. Complete gids met geschiedenis, bereidingswijze en waar te proberen.",
+    "islandFallbackDesc": "Complete reisgids voor {0} in {1}.",
+    "regionFallbackDesc": "Complete reisgids voor {0} in {1}.",
+    "blogFallbackDesc": "Lees {0} op {1}."
   }
 }

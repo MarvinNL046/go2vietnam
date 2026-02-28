@@ -18,7 +18,7 @@ export default function BlogPost({ post }: BlogPostProps) {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: post.title,
-    description: post.excerpt || `Read ${post.title} on ${siteConfig.name}.`,
+    description: post.excerpt || t('seo.blogFallbackDesc').replace('{0}', post.title).replace('{1}', siteConfig.name),
     image: post.image || undefined,
     datePublished: post.date || undefined,
     dateModified: post.updatedAt || post.date || undefined,
@@ -45,8 +45,8 @@ export default function BlogPost({ post }: BlogPostProps) {
     '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',
     itemListElement: [
-      { '@type': 'ListItem', position: 1, name: 'Home', item: siteConfig.seo.siteUrl },
-      { '@type': 'ListItem', position: 2, name: 'Blog', item: `${siteConfig.seo.siteUrl}/blog/` },
+      { '@type': 'ListItem', position: 1, name: t('nav.home'), item: siteConfig.seo.siteUrl },
+      { '@type': 'ListItem', position: 2, name: t('nav.blog'), item: `${siteConfig.seo.siteUrl}/blog/` },
       { '@type': 'ListItem', position: 3, name: post.title, item: `${siteConfig.seo.siteUrl}/blog/${post.slug}/` },
     ],
   };
@@ -55,7 +55,7 @@ export default function BlogPost({ post }: BlogPostProps) {
     <>
       <SEOHead
         title={`${post.title} - ${siteConfig.name}`}
-        description={post.excerpt || `Read ${post.title} on ${siteConfig.name}.`}
+        description={post.excerpt || t('seo.blogFallbackDesc').replace('{0}', post.title).replace('{1}', siteConfig.name)}
         ogImage={post.image}
         path={`/blog/${post.slug}/`}
         jsonLd={[articleJsonLd, breadcrumbJsonLd]}

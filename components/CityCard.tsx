@@ -7,12 +7,12 @@ interface CityCardProps {
   slug: string;
   image: string;
   region?: string;
-  highlights?: string[];
+  highlights?: (string | { en: string; nl?: string })[];
   description?: string;
 }
 
 const CityCard: React.FC<CityCardProps> = ({ name, slug, image, region, highlights = [], description }) => {
-  const { t } = useTranslation('common');
+  const { t, locale } = useTranslation('common');
   const visibleHighlights = highlights.slice(0, 2);
   const moreCount = highlights.length - 2;
 
@@ -42,7 +42,7 @@ const CityCard: React.FC<CityCardProps> = ({ name, slug, image, region, highligh
         {visibleHighlights.length > 0 && (
           <div className="flex flex-wrap gap-1.5 mb-4">
             {visibleHighlights.map((h, i) => (
-              <span key={i} className="text-xs bg-warm-100 text-warm-600 px-2.5 py-1 rounded-full">{h}</span>
+              <span key={i} className="text-xs bg-warm-100 text-warm-600 px-2.5 py-1 rounded-full">{typeof h === 'object' ? (h as any)[locale] || (h as any).en : h}</span>
             ))}
             {moreCount > 0 && (
               <span className="badge-primary text-xs">+{moreCount} {t('common.more')}</span>

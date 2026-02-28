@@ -86,7 +86,7 @@ export default function Home({ cities, dishes, drinks, islands }: HomeProps) {
     },
   ];
 
-  const seoTitle = `${siteConfig.name} - ${siteConfig.tagline}`;
+  const seoTitle = `${siteConfig.name} - ${t('seo.tagline')}`;
   const seoDescription = t('home.everythingYouNeed');
 
   const homeJsonLd = {
@@ -140,10 +140,10 @@ export default function Home({ cities, dishes, drinks, islands }: HomeProps) {
               {t('nav.exploreNow')}
             </Link>
             <Link
-              href="/blog/"
+              href="/practical-info/"
               className="inline-flex items-center justify-center text-white border-2 border-white/30 hover:border-white/60 hover:bg-white/10 px-8 py-3.5 rounded-xl font-semibold text-lg transition-all duration-300 backdrop-blur-sm"
             >
-              {t('sections.readMore')}
+              {t('sections.viewTravelGuide')}
             </Link>
           </div>
         </div>
@@ -330,14 +330,17 @@ export default function Home({ cities, dishes, drinks, islands }: HomeProps) {
               <Link
                 key={item.href}
                 href={item.href}
-                className="card-flat group p-6 flex items-start gap-4 hover:shadow-soft-lg transition-all duration-300"
+                className="card-flat group p-6 flex items-start gap-4 hover:shadow-soft-lg hover:-translate-y-1 transition-all duration-300"
               >
                 <div className="flex-shrink-0 w-12 h-12 rounded-xl bg-brand-primary-50 text-brand-primary flex items-center justify-center group-hover:bg-brand-primary group-hover:text-white transition-colors duration-300">
                   {item.icon}
                 </div>
                 <div className="flex-1 min-w-0">
-                  <h3 className="font-display font-bold text-warm-900 mb-1 group-hover:text-brand-primary transition-colors duration-200">
+                  <h3 className="font-display font-bold text-warm-900 mb-1 group-hover:text-brand-primary transition-colors duration-200 flex items-center gap-1">
                     {item.title}
+                    <svg className="w-4 h-4 opacity-0 -translate-x-2 group-hover:opacity-100 group-hover:translate-x-0 transition-all duration-300" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+                      <path strokeLinecap="round" strokeLinejoin="round" d="M9 5l7 7-7 7" />
+                    </svg>
                   </h3>
                   <p className="text-warm-500 text-sm leading-relaxed">
                     {item.description}

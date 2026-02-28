@@ -19,7 +19,7 @@ export default function IslandPage({ island }: IslandPageProps) {
     <>
       <SEOHead
         title={`${islandName} Travel Guide - ${siteConfig.name}`}
-        description={(typeof island.description === 'object' ? ((island.description as any)[locale] || island.description?.en) : island.description) || `Complete travel guide for ${islandName} in ${siteConfig.destination}.`}
+        description={(typeof island.description === 'object' ? ((island.description as any)[locale] || island.description?.en) : island.description) || t('seo.islandFallbackDesc').replace('{0}', islandName).replace('{1}', siteConfig.destination)}
         ogImage={island.image}
       />
       <div className="container-custom py-8 lg:py-12">
@@ -41,9 +41,9 @@ export default function IslandPage({ island }: IslandPageProps) {
               )}
               {island.bestFor && island.bestFor.length > 0 && (
                 <div className="flex flex-wrap gap-2">
-                  {island.bestFor.map((tag: string, i: number) => (
+                  {island.bestFor.map((tag: any, i: number) => (
                     <span key={i} className="badge-secondary bg-white/20 text-white backdrop-blur-sm text-xs">
-                      {tag}
+                      {typeof tag === 'object' ? (tag[locale] || tag.en) : tag}
                     </span>
                   ))}
                 </div>
@@ -60,9 +60,9 @@ export default function IslandPage({ island }: IslandPageProps) {
             )}
             {island.bestFor && island.bestFor.length > 0 && (
               <div className="flex flex-wrap gap-2">
-                {island.bestFor.map((tag: string, i: number) => (
+                {island.bestFor.map((tag: any, i: number) => (
                   <span key={i} className="badge-secondary text-xs">
-                    {tag}
+                    {typeof tag === 'object' ? (tag[locale] || tag.en) : tag}
                   </span>
                 ))}
               </div>

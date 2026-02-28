@@ -11,10 +11,10 @@
     },
     "image": "/images/regions/north-vietnam.webp",
     "highlights": [
-      "Ha Long Bay UNESCO Site",
-      "Hanoi Old Quarter",
-      "Ninh Binh Karst Landscapes",
-      "Red River Delta Culture"
+      { "en": "Ha Long Bay UNESCO Site", "nl": "Ha Long Bay UNESCO-site" },
+      { "en": "Hanoi Old Quarter", "nl": "Oude Wijk van Hanoi" },
+      { "en": "Ninh Binh Karst Landscapes", "nl": "Karstlandschappen van Ninh Binh" },
+      { "en": "Red River Delta Culture", "nl": "Cultuur van de Rode Rivierdelta" }
     ],
     "cities": [
       "hanoi",
@@ -54,10 +54,10 @@
     },
     "image": "/images/regions/central-vietnam.webp",
     "highlights": [
-      "Three UNESCO World Heritage Sites",
-      "Hoi An Ancient Town",
-      "Hue Imperial Citadel",
-      "Golden Bridge at Ba Na Hills"
+      { "en": "Three UNESCO World Heritage Sites", "nl": "Drie UNESCO-Werelderfgoedsites" },
+      { "en": "Hoi An Ancient Town", "nl": "Oude Stad Hoi An" },
+      { "en": "Hue Imperial Citadel", "nl": "Keizerlijke Citadel van Hue" },
+      { "en": "Golden Bridge at Ba Na Hills", "nl": "Golden Bridge bij Ba Na Hills" }
     ],
     "cities": [
       "hue",
@@ -97,10 +97,10 @@
     },
     "image": "/images/regions/south-vietnam.webp",
     "highlights": [
-      "Ho Chi Minh City Nightlife",
-      "Cu Chi Tunnels",
-      "War Remnants Museum",
-      "Gateway to Mekong Delta"
+      { "en": "Ho Chi Minh City Nightlife", "nl": "Nachtleven Ho Chi Minhstad" },
+      { "en": "Cu Chi Tunnels", "nl": "Cu Chi-tunnels" },
+      { "en": "War Remnants Museum", "nl": "Oorlogsmuseum" },
+      { "en": "Gateway to Mekong Delta", "nl": "Toegangspoort Mekongdelta" }
     ],
     "cities": [
       "ho-chi-minh-city",
@@ -139,10 +139,10 @@
     },
     "image": "/images/regions/central-highlands.webp",
     "highlights": [
-      "Da Lat Hill Station",
-      "Coffee Plantations",
-      "Waterfalls & Pine Forests",
-      "Ethnic Minority Culture"
+      { "en": "Da Lat Hill Station", "nl": "Bergstation Da Lat" },
+      { "en": "Coffee Plantations", "nl": "Koffieplantages" },
+      { "en": "Waterfalls & Pine Forests", "nl": "Watervallen & Dennenbossen" },
+      { "en": "Ethnic Minority Culture", "nl": "Cultuur Etnische Minderheden" }
     ],
     "cities": [
       "da-lat"
@@ -180,10 +180,10 @@
     },
     "image": "/images/regions/northwest-vietnam.webp",
     "highlights": [
-      "Sapa Rice Terraces",
-      "Ha Giang Motorbike Loop",
-      "Fansipan Summit",
-      "Ethnic Minority Villages"
+      { "en": "Sapa Rice Terraces", "nl": "Rijstterrassen van Sapa" },
+      { "en": "Ha Giang Motorbike Loop", "nl": "Ha Giang Motorroute" },
+      { "en": "Fansipan Summit", "nl": "Top van de Fansipan" },
+      { "en": "Ethnic Minority Villages", "nl": "Dorpen Etnische Minderheden" }
     ],
     "cities": [
       "sapa"
@@ -221,10 +221,10 @@
     },
     "image": "/images/regions/mekong-delta.webp",
     "highlights": [
-      "Cai Rang Floating Market",
-      "Coconut Palm Canals",
-      "Tropical Fruit Orchards",
-      "Authentic River Life"
+      { "en": "Cai Rang Floating Market", "nl": "Drijvende Markt Cai Rang" },
+      { "en": "Coconut Palm Canals", "nl": "Kokospalmkanalen" },
+      { "en": "Tropical Fruit Orchards", "nl": "Tropische Fruitboomgaarden" },
+      { "en": "Authentic River Life", "nl": "Authentiek Rivierleven" }
     ],
     "cities": [
       "can-tho"

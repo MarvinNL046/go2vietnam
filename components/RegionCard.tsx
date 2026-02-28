@@ -6,13 +6,13 @@ interface RegionCardProps {
   name: string;
   slug: string;
   image: string;
-  highlights?: string[];
+  highlights?: (string | { en: string; nl?: string })[];
   description?: string;
   cities?: string[];
 }
 
 const RegionCard: React.FC<RegionCardProps> = ({ name, slug, image, highlights = [], description, cities = [] }) => {
-  const { t } = useTranslation('common');
+  const { t, locale } = useTranslation('common');
   const visibleHighlights = highlights.slice(0, 3);
 
   return (
@@ -41,7 +41,7 @@ const RegionCard: React.FC<RegionCardProps> = ({ name, slug, image, highlights =
         {visibleHighlights.length > 0 && (
           <div className="flex flex-wrap gap-1.5 mb-4">
             {visibleHighlights.map((h, i) => (
-              <span key={i} className="text-xs bg-warm-100 text-warm-600 px-2.5 py-1 rounded-full">{h}</span>
+              <span key={i} className="text-xs bg-warm-100 text-warm-600 px-2.5 py-1 rounded-full">{typeof h === 'object' ? (h as any)[locale] || (h as any).en : h}</span>
             ))}
             {highlights.length > 3 && (
               <span className="badge-primary text-xs">+{highlights.length - 3} {t('common.more')}</span>

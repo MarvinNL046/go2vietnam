@@ -1,0 +1,100 @@
+{
+  "topics": [
+    {
+      "topic": "Pho Bo vs Pho Ga: The Complete Guide to Vietnam's National Soup",
+      "category": "food",
+      "targetKeyword": "pho bo vs pho ga",
+      "searchVolume": 6500,
+      "scrapeUrls": [],
+      "priority": 1
+    },
+    {
+      "topic": "Banh Mi: A Complete Guide to Vietnam's Perfect Sandwich",
+      "category": "food",
+      "targetKeyword": "vietnamese banh mi guide",
+      "searchVolume": 8200,
+      "scrapeUrls": [],
+      "priority": 1
+    },
+    {
+      "topic": "Vietnamese Coffee Guide: From Ca Phe Sua Da to Egg Coffee",
+      "category": "food",
+      "targetKeyword": "vietnamese coffee guide",
+      "searchVolume": 7100,
+      "scrapeUrls": [],
+      "priority": 1
+    },
+    {
+      "topic": "Bun Cha Hanoi: Obama's Favorite Vietnamese Dish",
+      "category": "food",
+      "targetKeyword": "bun cha hanoi guide",
+      "searchVolume": 5400,
+      "scrapeUrls": [],
+      "priority": 2
+    },
+    {
+      "topic": "Best Street Food in Ho Chi Minh City: District by District Guide",
+      "category": "food",
+      "targetKeyword": "ho chi minh city street food",
+      "searchVolume": 6800,
+      "scrapeUrls": [],
+      "priority": 1
+    },
+    {
+      "topic": "Cao Lau Hoi An: The Noodle Dish You Can Only Find Here",
+      "category": "food",
+      "targetKeyword": "cao lau hoi an",
+      "searchVolume": 3200,
+      "scrapeUrls": [],
+      "priority": 2
+    },
+    {
+      "topic": "Vietnamese Spring Rolls: Fresh vs Fried — The Complete Guide",
+      "category": "food",
+      "targetKeyword": "vietnamese spring rolls guide",
+      "searchVolume": 5800,
+      "scrapeUrls": [],
+      "priority": 2
+    },
+    {
+      "topic": "Com Tam Saigon: Broken Rice and Why Locals Love It",
+      "category": "food",
+      "targetKeyword": "com tam saigon guide",
+      "searchVolume": 3800,
+      "scrapeUrls": [],
+      "priority": 2
+    },
+    {
+      "topic": "Banh Xeo: Vietnam's Crispy Sizzling Crepes Explained",
+      "category": "food",
+      "targetKeyword": "banh xeo vietnamese crepe",
+      "searchVolume": 4100,
+      "scrapeUrls": [],
+      "priority": 2
+    },
+    {
+      "topic": "Bun Bo Hue: The Spicy Noodle Soup That Rivals Pho",
+      "category": "food",
+      "targetKeyword": "bun bo hue guide",
+      "searchVolume": 4500,
+      "scrapeUrls": [],
+      "priority": 2
+    },
+    {
+      "topic": "Vietnamese Beer Culture: Bia Hoi, Saigon Beer & Where to Drink",
+      "category": "food",
+      "targetKeyword": "vietnamese beer bia hoi",
+      "searchVolume": 3500,
+      "scrapeUrls": [],
+      "priority": 3
+    },
+    {
+      "topic": "Mi Quang Da Nang: Central Vietnam's Turmeric Noodle Bowl",
+      "category": "food",
+      "targetKeyword": "mi quang da nang",
+      "searchVolume": 2800,
+      "scrapeUrls": [],
+      "priority": 3
+    }
+  ]
+}

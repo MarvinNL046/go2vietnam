@@ -25,7 +25,7 @@ interface RegionDetail {
   image?: string;
   description?: string | { en: string; nl?: string };
   overview?: string;
-  highlights?: string[];
+  highlights?: (string | { en: string; nl?: string })[];
   cities?: string[];
   bestTimeToVisit?: string;
   topExperiences?: TopExperience[];
@@ -116,7 +116,7 @@ export default function RegionPage({ region, linkedCities }: RegionPageProps) {
     <>
       <SEOHead
         title={`${regionName} Travel Guide - ${siteConfig.name}`}
-        description={regionDescription || `Complete travel guide for ${regionName} in ${siteConfig.destination}.`}
+        description={regionDescription || t('seo.regionFallbackDesc').replace('{0}', regionName).replace('{1}', siteConfig.destination)}
         ogImage={region.image}
       />
       <div className="container-custom py-8 lg:py-12">
@@ -146,12 +146,12 @@ export default function RegionPage({ region, linkedCities }: RegionPageProps) {
         {/* Highlights Pills */}
         {region.highlights && region.highlights.length > 0 && (
           <div className="flex flex-wrap gap-3 mb-10">
-            {region.highlights.map((h: string, i: number) => (
+            {region.highlights.map((h: any, i: number) => (
               <span
                 key={i}
                 className="bg-brand-secondary-50 text-brand-secondary-700 px-4 py-2 rounded-xl text-sm font-medium transition-colors hover:bg-brand-secondary-100"
               >
-                {h}
+                {typeof h === 'object' ? (h[locale] || h.en) : h}
               </span>
             ))}
           </div>

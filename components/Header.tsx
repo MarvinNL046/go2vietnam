@@ -39,20 +39,15 @@ const Header = () => {
       <nav className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16">
           {/* Logo -- left */}
-          <Link href="/" className="flex items-center gap-2 shrink-0 group">
-            <div className="h-10 w-10 relative transition-transform duration-200 group-hover:scale-105">
-              <Image
-                src="/images/logo.webp"
-                alt={siteConfig.tagline}
-                height={40}
-                width={40}
-                className="object-contain"
-                priority
-              />
-            </div>
-            <span className="text-lg font-display font-bold text-brand-secondary hidden sm:block">
-              {siteConfig.name}
-            </span>
+          <Link href="/" className="flex items-center shrink-0 group transition-transform duration-200 group-hover:scale-105">
+            <Image
+              src="/images/logo-go2vietnam-cropped.png"
+              alt={siteConfig.name}
+              height={40}
+              width={176}
+              className="object-contain h-10 w-auto"
+              priority
+            />
           </Link>
 
           {/* Desktop nav -- center */}

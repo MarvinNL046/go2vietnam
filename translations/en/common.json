@@ -44,6 +44,7 @@
     "viewAll": "View All",
     "learnMore": "Learn More",
     "readMore": "Read More",
+    "viewTravelGuide": "View Travel Guide",
     "exploreCity": "Explore City",
     "bookNow": "Book Now"
   },
@@ -316,7 +317,14 @@
     "heading": "Page not found"
   },
   "seo": {
+    "tagline": "Your Ultimate Vietnam Travel Guide",
     "homeTitle": "{0} - {1}",
-    "homeDescription": "Your complete {0} travel guide with city guides, local food, practical tips, and more."
+    "homeDescription": "Your complete {0} travel guide with city guides, local food, practical tips, and more.",
+    "cityFallbackDesc": "Complete travel guide for {0} in {1}.",
+    "foodFallbackDesc": "Learn about {0}, a popular Vietnamese dish. Complete guide with history, ingredients, where to eat, and ordering tips.",
+    "drinkFallbackDesc": "Learn about {0}, a popular Vietnamese drink. Complete guide with history, how it's made, and where to try it.",
+    "islandFallbackDesc": "Complete travel guide for {0} in {1}.",
+    "regionFallbackDesc": "Complete travel guide for {0} in {1}.",
+    "blogFallbackDesc": "Read {0} on {1}."
   }
 }
