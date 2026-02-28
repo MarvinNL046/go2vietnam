@@ -5,6 +5,7 @@ import { useState } from 'react';
 import { useRouter } from 'next/router';
 import SEOHead from '../../components/SEOHead';
 import Breadcrumbs from '../../components/Breadcrumbs';
+import NewsletterSidebar from '../../components/NewsletterSidebar';
 import { siteConfig } from '../../site.config';
 import { getAllPosts, getAllCategories } from '../../lib/blog';
 
@@ -233,21 +234,7 @@ export default function BlogPage({ posts, categories }: BlogPageProps) {
               <aside>
                 <div className="lg:sticky lg:top-16 space-y-8">
                 {/* Newsletter Signup */}
-                <div className="bg-warm-900 text-white rounded-2xl p-6">
-                  <span className="section-label font-display text-brand-accent text-sm">Stay in the loop</span>
-                  <h3 className="text-xl font-bold font-display mb-2">Stay Updated</h3>
-                  <p className="mb-4 opacity-90">Get the latest Vietnam travel tips delivered to your inbox</p>
-                  <form className="space-y-3" onSubmit={e => e.preventDefault()}>
-                    <input
-                      type="email"
-                      placeholder="Your email address"
-                      className="w-full px-4 py-2 rounded-xl text-gray-900 focus:outline-none focus:ring-2 focus:ring-white"
-                    />
-                    <button className="w-full bg-brand-primary text-white font-medium py-2 rounded-xl hover:bg-brand-primary/90 transition-colors">
-                      Subscribe
-                    </button>
-                  </form>
-                </div>
+                <NewsletterSidebar />
 
                 {/* Tags Cloud */}
                 <div className="bg-white rounded-2xl shadow-md p-6">

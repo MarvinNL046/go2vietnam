@@ -245,6 +245,23 @@
     "localTips": "Lokale Tips",
     "sources": "Bronnen"
   },
+  "newsletter": {
+    "exitTitle": "Wacht — mis dit niet!",
+    "exitBody": "Ontvang gratis Vietnam reistips, verborgen pareltjes en budgettips direct in je inbox. Geen spam, je kunt je altijd afmelden.",
+    "exitCta": "Ontvang Gratis Reistips",
+    "exitSocial": "Sluit je aan bij 1.000+ Vietnam-reizigers. Altijd opzegbaar.",
+    "successTitle": "Je bent aangemeld!",
+    "successBody": "Check je inbox voor Vietnam reistips.",
+    "errorMessage": "Er ging iets mis. Probeer het opnieuw.",
+    "subscribing": "Aanmelden...",
+    "subscribe": "Aanmelden",
+    "emailPlaceholder": "Je e-mailadres",
+    "sidebarLabel": "Blijf op de hoogte",
+    "sidebarTitle": "Blijf op de hoogte",
+    "sidebarBody": "Ontvang de nieuwste Vietnam reistips in je inbox.",
+    "footerTitle": "Blijf op de hoogte van Vietnam",
+    "footerBody": "Ontvang de nieuwste reistips, gidsen en bestemmingsupdates direct in je inbox."
+  },
   "blogIndex": {
     "title": "Vietnam Reisblog",
     "subtitle": "Verhalen, tips en inzichten voor je volgende avontuur",

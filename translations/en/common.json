@@ -245,6 +245,23 @@
     "localTips": "Local Tips",
     "sources": "Sources"
   },
+  "newsletter": {
+    "exitTitle": "Wait — don't miss out!",
+    "exitBody": "Get free Vietnam travel tips, hidden gems, and budget hacks straight to your inbox. No spam, unsubscribe anytime.",
+    "exitCta": "Get Free Travel Tips",
+    "exitSocial": "Join 1,000+ Vietnam travelers. Unsubscribe anytime.",
+    "successTitle": "You're in!",
+    "successBody": "Check your inbox for Vietnam travel tips.",
+    "errorMessage": "Something went wrong. Please try again.",
+    "subscribing": "Subscribing...",
+    "subscribe": "Subscribe",
+    "emailPlaceholder": "Your email address",
+    "sidebarLabel": "Stay in the loop",
+    "sidebarTitle": "Stay Updated",
+    "sidebarBody": "Get the latest Vietnam travel tips delivered to your inbox.",
+    "footerTitle": "Stay Updated on Vietnam Travel",
+    "footerBody": "Get the latest travel tips, guides, and destination updates delivered to your inbox."
+  },
   "blogIndex": {
     "title": "Vietnam Travel Blog",
     "subtitle": "Stories, tips, and insights for your next adventure",

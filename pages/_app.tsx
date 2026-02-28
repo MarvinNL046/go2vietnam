@@ -5,6 +5,7 @@ import '../styles/globals.css';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
 import CookieConsent from '../components/CookieConsent';
+import ExitIntentPopup from '../components/ExitIntentPopup';
 import { ToastProvider } from '../components/Toast';
 import { siteConfig } from '../site.config';
 
@@ -69,6 +70,7 @@ export default function App({ Component, pageProps }: AppProps) {
         </main>
         <Footer />
         <CookieConsent />
+        <ExitIntentPopup />
       </div>
     </ToastProvider>
   );

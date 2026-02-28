@@ -11,6 +11,7 @@ import Sources from '../../components/blog/Sources';
 import LastUpdated from '../../components/blog/LastUpdated';
 import RelatedPosts from '../../components/blog/RelatedPosts';
 import ShareButtons from '../../components/ShareButtons';
+import NewsletterSidebar from '../../components/NewsletterSidebar';
 import { siteConfig } from '../../site.config';
 import { getAllPosts, getPostBySlug, getRelatedPosts } from '../../lib/blog';
 
@@ -288,19 +289,7 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
               <aside className="lg:col-span-4 lg:self-start">
                 <div className="lg:sticky lg:top-4 space-y-6">
                 {/* Newsletter */}
-                <div className="bg-warm-900 text-white rounded-2xl p-6">
-                  <span className="section-label font-display text-brand-accent text-sm">Stay in the loop</span>
-                  <h3 className="text-xl font-bold font-display mb-2">Get Vietnam Updates</h3>
-                  <p className="mb-4 text-sm opacity-90">Weekly travel tips and guides</p>
-                  <input
-                    type="email"
-                    placeholder="Your email"
-                    className="w-full px-4 py-2 rounded-xl text-gray-900 mb-3"
-                  />
-                  <button className="w-full bg-brand-primary text-white font-medium py-2 rounded-xl hover:bg-brand-primary/90">
-                    Subscribe
-                  </button>
-                </div>
+                <NewsletterSidebar />
 
                 {/* Related Posts */}
                 {relatedPosts.length > 0 && (

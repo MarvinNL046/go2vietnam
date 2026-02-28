@@ -1,11 +1,15 @@
 import Link from 'next/link';
 import { useTranslation } from '../hooks/useTranslation';
 import { siteConfig, getOtherSisterSites } from '../site.config';
+import { useNewsletterForm } from '../hooks/useNewsletterForm';
+import { useToast } from './Toast';
 
 const Footer = () => {
   const currentYear = new Date().getFullYear();
   const { t } = useTranslation('common');
   const sisterSites = getOtherSisterSites();
+  const { email, setEmail, status, handleSubmit } = useNewsletterForm();
+  const toast = useToast();
 
   return (
     <footer className="bg-gradient-to-b from-brand-secondary-900 to-brand-secondary text-white">
@@ -21,6 +25,59 @@ const Footer = () => {
           <p className="mt-4 text-warm-300 text-base leading-relaxed">
             {t('footer.aboutText')}
           </p>
+        </div>
+      </div>
+
+      {/* ---------------------------------------------------------------- */}
+      {/* Newsletter Section                                               */}
+      {/* ---------------------------------------------------------------- */}
+      <div className="border-b border-warm-700">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
+          <div className="flex flex-col lg:flex-row items-center justify-between gap-8">
+            <div className="text-center lg:text-left">
+              <h3 className="text-2xl font-display font-bold text-white mb-2">
+                {t('newsletter.footerTitle')}
+              </h3>
+              <p className="text-warm-300 max-w-md">
+                {t('newsletter.footerBody')}
+              </p>
+            </div>
+            {status === 'success' ? (
+              <div className="flex items-center gap-3 bg-green-500/20 px-6 py-3 rounded-lg">
+                <svg className="w-5 h-5 text-green-400 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7" />
+                </svg>
+                <span className="text-green-300 text-sm font-medium">{t('newsletter.successTitle')}</span>
+              </div>
+            ) : (
+              <form
+                className="flex w-full max-w-md"
+                onSubmit={async (e) => {
+                  await handleSubmit(e);
+                  if (status !== 'error') {
+                    toast.success(t('newsletter.successBody'));
+                  }
+                }}
+              >
+                <input
+                  type="email"
+                  value={email}
+                  onChange={(e) => setEmail(e.target.value)}
+                  placeholder={t('newsletter.emailPlaceholder')}
+                  required
+                  className="flex-1 px-4 py-3 rounded-l-lg bg-white/10 border border-white/20 text-white placeholder-warm-400 focus:outline-none focus:border-brand-accent focus:ring-1 focus:ring-brand-accent"
+                  aria-label="Email for newsletter"
+                />
+                <button
+                  type="submit"
+                  disabled={status === 'loading'}
+                  className="px-6 py-3 bg-brand-accent hover:bg-brand-accent/90 text-brand-secondary font-semibold rounded-r-lg transition-colors duration-200 disabled:opacity-50"
+                >
+                  {status === 'loading' ? t('newsletter.subscribing') : t('newsletter.subscribe')}
+                </button>
+              </form>
+            )}
+          </div>
         </div>
       </div>
 
