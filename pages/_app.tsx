@@ -5,6 +5,7 @@ import '../styles/globals.css';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
 import CookieConsent from '../components/CookieConsent';
+import { ToastProvider } from '../components/Toast';
 import { siteConfig } from '../site.config';
 
 const localeToLanguage: Record<string, string> = {
@@ -53,20 +54,22 @@ export default function App({ Component, pageProps }: AppProps) {
   const globalJsonLd = getGlobalJsonLd(locale);
 
   return (
-    <div className="flex flex-col min-h-screen">
-      <Head>
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(globalJsonLd) }}
-        />
-      </Head>
-      <Header />
-      <main className="flex-1">
-        <Component {...pageProps} />
-      </main>
-      <Footer />
-      <CookieConsent />
-    </div>
+    <ToastProvider>
+      <div className="flex flex-col min-h-screen">
+        <Head>
+          <meta name="viewport" content="width=device-width, initial-scale=1" />
+          <script
+            type="application/ld+json"
+            dangerouslySetInnerHTML={{ __html: JSON.stringify(globalJsonLd) }}
+          />
+        </Head>
+        <Header />
+        <main className="flex-1">
+          <Component {...pageProps} />
+        </main>
+        <Footer />
+        <CookieConsent />
+      </div>
+    </ToastProvider>
   );
 }

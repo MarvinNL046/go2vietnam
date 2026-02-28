@@ -60,6 +60,10 @@ module.exports = {
           800: '#292524',
           900: '#1C1917',
         },
+        surface: {
+          cream: '#FAFAF9',
+          dark: '#1C1917',
+        },
       },
       fontFamily: {
         display: ['"Plus Jakarta Sans"', 'system-ui', 'sans-serif'],
@@ -89,8 +93,10 @@ module.exports = {
         'fade-in-up': 'fadeInUp 0.6s ease-out',
         'fade-in-down': 'fadeInDown 0.4s ease-out',
         'slide-up': 'slideUp 0.5s ease-out',
+        'slide-down': 'slideDown 0.3s ease-out',
         'scale-in': 'scaleIn 0.3s ease-out',
         'float': 'float 6s ease-in-out infinite',
+        'toast-exit': 'toastExit 0.2s ease-in forwards',
       },
       keyframes: {
         fadeIn: {
@@ -116,6 +122,14 @@ module.exports = {
         float: {
           '0%, 100%': { transform: 'translateY(0)' },
           '50%': { transform: 'translateY(-10px)' },
+        },
+        slideDown: {
+          '0%': { opacity: '0', transform: 'translateY(-10px)' },
+          '100%': { opacity: '1', transform: 'translateY(0)' },
+        },
+        toastExit: {
+          '0%': { opacity: '1', transform: 'translateX(0)' },
+          '100%': { opacity: '0', transform: 'translateX(100px)' },
         },
       },
       backgroundImage: {
