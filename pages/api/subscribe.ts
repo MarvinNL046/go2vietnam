@@ -25,17 +25,22 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
       email,
       audienceId: process.env.RESEND_AUDIENCE_ID!,
     });
+  } catch (error: any) {
+    console.error('Resend contact creation error:', error);
+    return res.status(500).json({ error: 'Failed to subscribe' });
+  }
 
+  // Send welcome email (non-blocking — don't fail subscription if email fails)
+  try {
     await resend.emails.send({
       from: 'Go2Vietnam <hello@go2-vietnam.com>',
       to: email,
       subject: 'Welcome to Go2Vietnam! 🇻🇳',
       react: WelcomeEmail(),
     });
-
-    return res.status(200).json({ success: true });
   } catch (error: any) {
-    console.error('Resend subscribe error:', error);
-    return res.status(500).json({ error: 'Failed to subscribe' });
+    console.error('Welcome email send error (contact was still created):', error);
   }
+
+  return res.status(200).json({ success: true });
 }
