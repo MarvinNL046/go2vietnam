@@ -1,0 +1,9 @@
+[
+  {
+    "slug": "vpn-vietnam",
+    "name": { "en": "VPN in Vietnam" },
+    "icon": "\ud83d\udd12",
+    "category": "connectivity",
+    "description": { "en": "Vietnam has notable internet censorship. A VPN is strongly recommended for travelers who want unrestricted access." }
+  }
+]

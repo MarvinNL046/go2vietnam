@@ -1,0 +1,55 @@
+{
+  "slug": "vpn-vietnam",
+  "name": { "en": "VPN in Vietnam: Essential for Travelers" },
+  "icon": "\ud83d\udd12",
+  "lastUpdated": "2026-03-03",
+  "seo": {
+    "title": { "en": "VPN in Vietnam 2026: Is It Legal? Censorship, Blocked Sites & Setup Guide" },
+    "description": { "en": "Vietnam has significant internet censorship. Learn which sites are blocked, whether VPNs are legal, and how to stay connected and secure during your trip." }
+  },
+  "description": { "en": "Vietnam has one of Southeast Asia's more restrictive internet environments, shaped by the 2019 Cybersecurity Law and ongoing government oversight. While popular social media platforms like Facebook and Instagram generally remain accessible, the government actively monitors online activity and periodically throttles or blocks content it deems sensitive. For travelers who rely on unrestricted internet access for communication, research, or remote work, a VPN is strongly recommended before and during your trip to Vietnam." },
+  "sections": [
+    {
+      "title": { "en": "Internet Censorship in Vietnam" },
+      "content": { "en": "Vietnam's internet landscape is governed primarily by the Cybersecurity Law enacted in 2019, which grants authorities broad powers to monitor, restrict, and remove online content. The government routinely blocks access to certain foreign news outlets, political blogs, human rights websites, and content critical of the Communist Party. Several Wikipedia articles covering sensitive historical and political topics are inaccessible without a VPN. Facebook, while not permanently blocked, has been subject to periodic throttling during politically sensitive periods such as government crackdowns or public protests. Reporters Without Borders consistently ranks Vietnam among the lowest countries for press freedom, placing it in the bottom 20 globally. Compared to China, where platforms like Google and Facebook are entirely blocked, Vietnam's censorship is less severe but significantly more restrictive than neighboring countries like Thailand or Cambodia. The government has also pressured international tech companies including Google and Facebook to comply with local data removal requests, and has pushed for mandatory local data storage requirements for foreign companies operating in the country." }
+    },
+    {
+      "title": { "en": "Is VPN Legal in Vietnam?" },
+      "content": { "en": "The legality of VPNs in Vietnam occupies a grey area that can confuse travelers. Under cybersecurity regulations, the government has technically restricted unauthorized VPN use, and Vietnamese ISPs have been directed to block access to certain VPN provider websites. However, enforcement against individual users, particularly foreign tourists, is essentially non-existent. Millions of Vietnamese citizens use VPNs daily for work, entertainment, and accessing international content, and the government has never prosecuted a tourist for VPN usage. The practical reality is that VPNs are widely tolerated. That said, the most important thing to know is this: install your VPN before you arrive in Vietnam. Many VPN provider websites, including popular services like ExpressVPN and NordVPN, are blocked within the country. While app store downloads generally still work, creating a new account or accessing the provider's website for troubleshooting may not be possible once you are in Vietnam. Download the app, log in, and verify it connects properly before boarding your flight." }
+    },
+    {
+      "title": { "en": "Public WiFi Security" },
+      "content": { "en": "Vietnam offers some of the most widespread free WiFi in Southeast Asia, making it a popular destination for digital nomads and connected travelers. In Ho Chi Minh City, virtually every cafe in District 1, District 3, and Binh Thanh offers free WiFi, from the famous Egg Coffee shops to chains like Highlands Coffee, Phuc Long, and The Coffee House. Hanoi's Old Quarter is equally well-connected, with cafes on every corner providing internet access. Tourist hubs like Da Nang, Hoi An, and Nha Trang also have reliable cafe WiFi. However, the vast majority of these networks are completely unencrypted, meaning anyone on the same network can potentially intercept your traffic. This is a serious concern for tasks like online banking, checking email, or logging into social media accounts. Even networks that require a password offer limited protection since every customer shares the same credentials. A VPN encrypts all your traffic regardless of the network's security, making it essential for any sensitive browsing on Vietnamese public WiFi." }
+    },
+    {
+      "title": { "en": "Setting Up Your VPN" },
+      "content": { "en": "The single most important step is to install and configure your VPN before arriving in Vietnam. Download the app on all your devices, log in to your account, and run a test connection to confirm everything works. Once in Vietnam, connect to a Singapore or Hong Kong server for the fastest speeds, as these locations offer latency as low as 20-30 milliseconds compared to 200 milliseconds or more for European servers. If you need to access content from your home country, such as Dutch Netflix or European banking portals, connect to a server in your home country and accept the higher latency. The WireGuard protocol generally delivers the best performance in Vietnam, but if you notice your VPN connection being throttled or dropping frequently, enable obfuscation mode if your provider supports it. Vietnam has been known to occasionally deploy deep packet inspection to identify and throttle standard VPN protocols like OpenVPN. Obfuscated connections disguise VPN traffic as regular HTTPS traffic, making it much harder to detect and block. Keep your VPN app updated, as providers regularly push updates to counter new blocking techniques." }
+    }
+  ],
+  "tips": [
+    { "en": "Install your VPN BEFORE arriving in Vietnam \u2014 some VPN provider websites are blocked within the country" },
+    { "en": "Facebook generally works but can be slow during political events \u2014 a VPN bypasses any throttling" },
+    { "en": "Use a Singapore server for the fastest speeds (20-30ms latency vs 200ms+ for Europe)" },
+    { "en": "Enable VPN obfuscation mode if your connection seems throttled \u2014 Vietnam occasionally blocks standard VPN protocols" },
+    { "en": "Caf\u00e9 WiFi in Ho Chi Minh City and Hanoi is everywhere but rarely encrypted \u2014 always use a VPN for sensitive browsing" },
+    { "en": "Vietnamese banking apps and services work fine without VPN \u2014 only use it for your home country banking" }
+  ],
+  "faqs": [
+    {
+      "question": { "en": "Will I get in trouble for using a VPN in Vietnam?" },
+      "answer": { "en": "No. While VPNs are technically restricted, enforcement against individual users (especially foreign tourists) is non-existent. Millions of Vietnamese citizens use VPNs daily. No tourist has ever been prosecuted for VPN use in Vietnam." }
+    },
+    {
+      "question": { "en": "Is Facebook blocked in Vietnam?" },
+      "answer": { "en": "Not permanently, but it's complicated. Facebook is generally accessible but the government periodically throttles it, especially during politically sensitive periods. A VPN ensures consistent, fast access to Facebook and all other social media." }
+    },
+    {
+      "question": { "en": "Which VPN servers work best in Vietnam?" },
+      "answer": { "en": "Singapore and Hong Kong servers offer the best speeds from Vietnam (20-30ms latency). For accessing home content (Dutch Netflix, European banking), connect to your home country server and accept the higher latency." }
+    },
+    {
+      "question": { "en": "Can I download a VPN after arriving in Vietnam?" },
+      "answer": { "en": "Maybe, but it's risky. Some VPN provider websites are blocked in Vietnam. The safest approach is to download and configure your VPN before departure. App store downloads generally still work, but the provider's website for account creation may not." }
+    }
+  ]
+}
