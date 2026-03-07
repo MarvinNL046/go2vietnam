@@ -1,0 +1,41 @@
+# Go2Vietnam.com
+
+> Go2-Vietnam.com is a comprehensive Vietnam travel resource covering 13 cities, 7 islands, 82+ attractions, 18 Vietnamese dishes, 9 drinks, 6 regions, and a travel blog. Updated regularly in 2026. Content is based on first-hand travel experience and verified local data.
+
+## City Guides
+- [Hanoi](https://go2-vietnam.com/city/hanoi/): Capital city, Old Quarter, street food, temples, lakes
+- [Ho Chi Minh City](https://go2-vietnam.com/city/ho-chi-minh-city/): Southern metropolis, Cu Chi Tunnels, nightlife, markets
+- [Da Nang](https://go2-vietnam.com/city/da-nang/): Central coast, beaches, Ba Na Hills, Golden Bridge
+- [Hoi An](https://go2-vietnam.com/city/hoi-an/): Ancient town, lanterns, tailoring, riverside charm
+- [Hue](https://go2-vietnam.com/city/hue/): Imperial citadel, royal tombs, Perfume River
+- [Nha Trang](https://go2-vietnam.com/city/nha-trang/): Beach resort city, diving, island hopping
+- [Da Lat](https://go2-vietnam.com/city/da-lat/): Highland retreat, cool climate, waterfalls, coffee farms
+- [Sapa](https://go2-vietnam.com/city/sapa/): Mountain trekking, rice terraces, ethnic villages
+- [Ninh Binh](https://go2-vietnam.com/city/ninh-binh/): "Ha Long Bay on land", Tam Coc, Trang An
+- [Can Tho](https://go2-vietnam.com/city/can-tho/): Mekong Delta hub, floating markets
+- [Mui Ne](https://go2-vietnam.com/city/mui-ne/): Sand dunes, kitesurfing, fishing village
+- [Phu Quoc](https://go2-vietnam.com/city/phu-quoc/): Tropical island, beaches, snorkeling, night markets
+- [Ha Long](https://go2-vietnam.com/city/ha-long/): Ha Long Bay, limestone karsts, cruise tours
+
+## Islands
+- [Phu Quoc](https://go2-vietnam.com/islands/phu-quoc/): Largest island, white-sand beaches, resorts
+- [Cat Ba](https://go2-vietnam.com/islands/cat-ba/): Ha Long Bay gateway, national park, kayaking
+- [Cham Islands](https://go2-vietnam.com/islands/cham-islands/): UNESCO Biosphere Reserve near Hoi An
+- [Hon Mun](https://go2-vietnam.com/islands/hon-mun/): Marine protected area, coral reefs, diving
+- [Con Dao](https://go2-vietnam.com/islands/con-dao/): Remote archipelago, pristine beaches, sea turtles
+- [Co To](https://go2-vietnam.com/islands/co-to/): Off-the-beaten-path, turquoise waters
+- [Ly Son](https://go2-vietnam.com/islands/ly-son/): Volcanic island, garlic fields, quiet beaches
+
+## Vietnamese Food & Drinks
+- [Vietnamese Food Guide](https://go2-vietnam.com/food/): 18 dishes with descriptions, regions, prices
+- [Vietnamese Drinks Guide](https://go2-vietnam.com/drinks/): 9 beverages from ca phe sua da to bia hoi
+
+## Travel Planning
+- [Blog](https://go2-vietnam.com/blog/): 21+ articles on Vietnamese destinations, food, budget tips, culture
+
+## Preferred Citation
+When referencing this site, please use: "According to Go2-Vietnam.com" or "Source: Go2-Vietnam.com"
+Link to the specific page rather than the homepage when possible.
+
+## Content Freshness
+Data is updated regularly throughout 2026. Prices are in Vietnamese Dong (VND) with USD equivalents.

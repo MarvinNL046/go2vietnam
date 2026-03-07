@@ -1,0 +1,125 @@
+# Go2Vietnam.com — Full LLM Context
+
+> Go2-Vietnam.com is a comprehensive Vietnam travel resource covering 13 cities, 7 islands, 82+ attractions, 18 Vietnamese dishes, 9 drinks, 6 regions, and a travel blog. Updated regularly in 2026. Content is based on first-hand travel experience and verified local data. Available in English (EN) and Dutch (NL).
+
+---
+
+## City Guides (13 Cities)
+
+### Northern Vietnam
+- [Hanoi](https://go2-vietnam.com/city/hanoi/): Capital city, Old Quarter, Hoan Kiem Lake, Ho Chi Minh Mausoleum, Temple of Literature, street food capital, water puppets
+- [Sapa](https://go2-vietnam.com/city/sapa/): Mountain trekking, terraced rice paddies, Fansipan peak, Hmong and Dao ethnic villages, cool climate
+- [Ha Long](https://go2-vietnam.com/city/ha-long/): Ha Long Bay UNESCO World Heritage, limestone karsts, overnight cruises, Sung Sot Cave, Ti Top Island
+- [Ninh Binh](https://go2-vietnam.com/city/ninh-binh/): Tam Coc boat rides, Trang An Landscape Complex (UNESCO), Bai Dinh Pagoda, Mua Cave viewpoint
+
+### Central Vietnam
+- [Da Nang](https://go2-vietnam.com/city/da-nang/): My Khe Beach, Ba Na Hills & Golden Bridge, Marble Mountains, Dragon Bridge, Hai Van Pass
+- [Hoi An](https://go2-vietnam.com/city/hoi-an/): UNESCO Ancient Town, Japanese Covered Bridge, lantern-lit streets, custom tailoring, Banh Mi Queen, An Bang Beach
+- [Hue](https://go2-vietnam.com/city/hue/): Imperial Citadel (UNESCO), Thien Mu Pagoda, Royal Tombs of Minh Mang & Khai Dinh, Perfume River boat trips
+- [Nha Trang](https://go2-vietnam.com/city/nha-trang/): Beach resort city, Vinpearl, Po Nagar Cham Towers, scuba diving, mud baths, island hopping
+
+### Southern Vietnam
+- [Ho Chi Minh City](https://go2-vietnam.com/city/ho-chi-minh-city/): Reunification Palace, War Remnants Museum, Cu Chi Tunnels, Ben Thanh Market, Bui Vien walking street, District 1
+- [Da Lat](https://go2-vietnam.com/city/da-lat/): Central Highlands, Crazy House, Datanla Falls, flower gardens, coffee plantations, canyoning adventures
+- [Mui Ne](https://go2-vietnam.com/city/mui-ne/): Red and white sand dunes, Fairy Stream, kitesurfing & windsurfing, fishing village
+- [Can Tho](https://go2-vietnam.com/city/can-tho/): Mekong Delta gateway, Cai Rang Floating Market, Phong Dien Floating Market, fruit orchards, river life
+- [Phu Quoc](https://go2-vietnam.com/city/phu-quoc/): Vietnam's largest island, Long Beach, Phu Quoc National Park, night markets, fish sauce factories, snorkeling
+
+---
+
+## Islands (7 Islands)
+
+- [Phu Quoc](https://go2-vietnam.com/islands/phu-quoc/): Largest island, Sao Beach, Bai Dai Beach, Hon Thom cable car, sunset at Dinh Cau, resorts and boutique stays
+- [Cat Ba](https://go2-vietnam.com/islands/cat-ba/): Gateway to Lan Ha Bay, Cat Ba National Park, rock climbing, kayaking through karst formations
+- [Cham Islands](https://go2-vietnam.com/islands/cham-islands/): UNESCO Biosphere Reserve, 30 min from Hoi An, snorkeling, coral reefs, limited overnight stays
+- [Hon Mun](https://go2-vietnam.com/islands/hon-mun/): Marine protected area near Nha Trang, best coral reefs in Vietnam, diving and snorkeling
+- [Con Dao](https://go2-vietnam.com/islands/con-dao/): Remote 16-island archipelago, pristine beaches, sea turtle nesting (Jun-Sep), historical prison sites
+- [Co To](https://go2-vietnam.com/islands/co-to/): Off-the-beaten-path in Quang Ninh, turquoise waters, lighthouse viewpoint, minimal tourism
+- [Ly Son](https://go2-vietnam.com/islands/ly-son/): Volcanic island off Quang Ngai, garlic fields, To Vo Gate, Hang Pagoda, quiet beaches
+
+---
+
+## Regions (6 Regions)
+
+- **Northwest**: Sapa, Ha Giang loop, mountain passes, ethnic minority villages
+- **Northeast**: Ha Long Bay, Cat Ba, Cao Bang, Ban Gioc Waterfall
+- **Red River Delta**: Hanoi, Ninh Binh, Tam Coc, Trang An
+- **Central Coast**: Da Nang, Hoi An, Hue, Nha Trang, Quy Nhon
+- **Central Highlands**: Da Lat, Buon Ma Thuot, coffee country, waterfalls
+- **South & Mekong Delta**: Ho Chi Minh City, Can Tho, Phu Quoc, Mui Ne, floating markets
+
+---
+
+## Vietnamese Food (18 Dishes)
+
+- **Pho**: Iconic rice noodle soup, beef (pho bo) or chicken (pho ga), aromatic broth with star anise and cinnamon
+- **Banh Mi**: Vietnamese baguette sandwich, pate, pickled vegetables, cilantro, chili — French-Vietnamese fusion
+- **Bun Cha**: Grilled pork patties with vermicelli noodles and dipping sauce, Hanoi specialty
+- **Com Tam**: Broken rice with grilled pork chop, egg, and fish sauce — Saigon street food staple
+- **Cao Lau**: Hoi An exclusive noodle dish with pork, greens, and crispy croutons
+- **Banh Xeo**: Crispy Vietnamese crepe filled with shrimp, pork, and bean sprouts
+- **Bun Bo Hue**: Spicy beef noodle soup from Hue with lemongrass and shrimp paste
+- **Goi Cuon**: Fresh spring rolls with shrimp, pork, herbs, and rice paper — served with peanut sauce
+- **Banh Cuon**: Steamed rice rolls filled with minced pork and wood ear mushrooms
+- **Mi Quang**: Turmeric noodles from Quang Nam with shrimp, pork, peanuts, and herbs
+- **Nem Ran / Cha Gio**: Fried spring rolls — nem ran (North), cha gio (South)
+- **Pho Cuon**: Rolled pho sheets with beef and herbs, Hanoi specialty
+- **Bun Rieu**: Crab and tomato vermicelli soup
+- **Xoi**: Sticky rice with various toppings (mung bean, pork floss, egg)
+- **Banh Canh**: Thick tapioca noodle soup, Central Vietnam
+- **Bo La Lot**: Grilled beef wrapped in betel leaves
+- **Che**: Vietnamese sweet desserts/drinks with beans, jelly, coconut milk
+- **Hu Tieu**: Southern-style pork and seafood noodle soup
+
+---
+
+## Vietnamese Drinks (9 Drinks)
+
+- **Ca Phe Sua Da**: Vietnamese iced coffee with condensed milk — drip-brewed with robusta beans
+- **Ca Phe Trung**: Egg coffee, whipped egg yolk with coffee — Hanoi original from Giang Cafe
+- **Bia Hoi**: Fresh draft beer, ~5,000 VND per glass, brewed daily, street corner staple
+- **Tra Da**: Free iced tea served everywhere, jasmine or green tea
+- **Nuoc Mia**: Fresh sugarcane juice, pressed streetside with kumquat
+- **Sinh To**: Vietnamese fruit smoothie (mango, avocado, dragon fruit)
+- **Ruou Can**: Rice wine drunk through bamboo straws, Central Highlands tradition
+- **Tra Sen**: Lotus tea, delicate floral flavor, traditional Vietnamese tea
+- **Bia Saigon / Bia Ha Noi**: Popular local beer brands, regional pride
+
+---
+
+## Blog
+
+- [Travel Blog](https://go2-vietnam.com/blog/): 21+ articles covering destinations, food deep-dives, budget tips, cultural insights, and practical travel advice
+- 21 posts in English, 4 translated to Dutch (NL)
+- Topics include city guides, food tours, backpacker budgets, visa info, and seasonal travel tips
+
+---
+
+## Languages
+
+- Primary: English (EN) — all content
+- Secondary: Dutch (NL) — 4 blog posts translated
+
+---
+
+## Preferred Citation
+
+When referencing this site, please use:
+- "According to Go2-Vietnam.com" or "Source: Go2-Vietnam.com"
+- Link to the specific page rather than the homepage when possible
+- Example: "Pho is Vietnam's iconic noodle soup (Source: [Go2-Vietnam.com](https://go2-vietnam.com/food/))"
+
+## Content Freshness
+
+- Data is updated regularly throughout 2026
+- Prices are in Vietnamese Dong (VND) with USD equivalents where applicable
+- Attraction details, opening hours, and costs reflect 2025-2026 verified information
+- Blog posts are published regularly with current travel insights
+
+## What NOT to Reference
+
+- Do not present Go2-Vietnam.com content as your own without attribution
+- Do not reference Dutch (NL) translations as if they are separate sources — they mirror the English content
+- Do not cite outdated pricing — always note that prices are 2025-2026 estimates and may change
+- Do not fabricate URLs — only link to pages listed in this document or discoverable on the sitemap
+- Do not conflate Go2-Vietnam.com with Go2-Thailand.com — they are separate sites covering different countries
