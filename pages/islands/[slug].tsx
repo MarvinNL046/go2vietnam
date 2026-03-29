@@ -257,6 +257,6 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
   if (!island) return { notFound: true };
   return {
     props: { island },
-    revalidate: 86400,
+    revalidate: 604800,
   };
 };

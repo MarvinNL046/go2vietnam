@@ -365,6 +365,6 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
       cityRegion: city.region || null,
       food,
     },
-    revalidate: 86400,
+    revalidate: 604800,
   };
 };

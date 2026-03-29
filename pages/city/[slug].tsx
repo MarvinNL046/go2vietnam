@@ -660,6 +660,6 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
   if (!city) return { notFound: true };
   return {
     props: { city },
-    revalidate: 86400,
+    revalidate: 604800,
   };
 };
