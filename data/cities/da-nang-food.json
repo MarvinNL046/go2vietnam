@@ -1,0 +1,137 @@
+{
+  "introduction": "Da Nang sits at the culinary crossroads of Vietnam — close enough to Hội An to share some of its dishes, close enough to Huế to absorb its fiery tendencies, yet confident enough in its own coastal identity to demand separate attention. The city's position on the South China Sea means fresh seafood is landed daily at My Khe and Mân Thái fishing villages, while the flat, wide rice paddies inland produce the short-grain rice that gives central Vietnamese noodles their distinctive chew. The defining Da Nang dish is mì Quảng — a wide, turmeric-yellow noodle in a small amount of intense pork-and-shrimp broth, topped with crushed peanuts and a rice cracker. It costs around 30,000 VND at a pavement stall and is available on virtually every street corner from 6am. The Michelin Guide added Da Nang in 2023 with five street food recommendations, confirming what locals already knew: this is a city that takes its food seriously without making it expensive.",
+  "signatureDishes": [
+    {
+      "name": "Mì Quảng",
+      "vietnameseName": "Mì Quảng",
+      "description": "Da Nang's most iconic dish: wide, yellow turmeric noodles served in a small amount of intensely flavoured pork-and-shrimp broth, topped with pork ribs or chicken, whole prawns, half a hard-boiled quail egg, crushed roasted peanuts, sesame rice crackers, fresh herbs, and banana blossom. Unlike typical noodle soups, mì Quảng uses very little broth — you pour a ladle over the noodles to moisten them, not to drown them. Every protein variation (frog, eel, snakehead fish) is worth trying.",
+      "priceRange": "25,000–45,000 VND",
+      "whereToTry": "Mỳ Quảng Nhựng, 135 Nguyễn Tất Thành; Mỳ Quảng Bà Mua, multiple branches",
+      "tip": "Add the rice cracker by breaking it over the bowl at the end — it softens slightly in the broth and adds a wonderful crunch-to-chew transition."
+    },
+    {
+      "name": "Bánh Xèo Đà Nẵng",
+      "vietnameseName": "Bánh Xèo",
+      "description": "Da Nang's version of the crispy turmeric rice flour crepe is smaller and lighter than southern variants — each one is about palm-sized, filled with shrimp, pork belly, and bean sprouts. The key is in the dipping sauce: a thick, sweet, garlicky peanut sauce fermented with pineapple (mắm nêm) that is uniquely central Vietnamese. The best bánh xèo in Da Nang comes from Bà Dưỡng, a legendary vendor whose recipe has been copied citywide but never equalled.",
+      "priceRange": "30,000–60,000 VND",
+      "whereToTry": "Bánh Xèo Bà Dưỡng, 280/23 Hoàng Diệu, Hải Châu; multiple stalls on Hoàng Diệu Street",
+      "tip": "Wrap pieces in the provided mustard leaf (lá mù tạt) before dipping — it adds a peppery bite that balances the sweetness of the sauce."
+    },
+    {
+      "name": "Bún Chả Cá",
+      "vietnameseName": "Bún Chả Cá",
+      "description": "A coastal Da Nang specialty: a clear, naturally sweet fish broth (made from simmering fresh fish bones and heads) poured over thin rice vermicelli, topped with multiple types of house-made fish cake — steamed (chả hấp), fried (chả chiên), and sometimes grilled. Fresh tomato slices, spring onions, and a squeeze of calamansi lime complete the dish. Lighter than bún bò Huế and more flavour-layered than a simple fish soup.",
+      "priceRange": "30,000–55,000 VND",
+      "whereToTry": "Bún Chả Cá 109, 109 Nguyễn Chí Thanh; numerous stalls on Hùng Vương Street",
+      "tip": "Order a plate of extra chả chiên (fried fish cakes) on the side — they're cheap and addictive dipped in the sweet-sour dipping sauce."
+    },
+    {
+      "name": "Bánh Tráng Cuốn Thịt Heo",
+      "vietnameseName": "Bánh Tráng Cuốn Thịt Heo",
+      "description": "One of Da Nang's most social eating experiences: a plate of thinly sliced boiled pork belly, fresh herbs (coriander, Vietnamese mint, local basil), cucumber, and green banana, with a stack of soft round rice paper sheets. You self-assemble each roll, dipping it in the city's signature mắm nêm — fermented anchovy paste with crushed pineapple, chilli, and garlic. The fermented paste is pungent, fruity, and unlike any other Vietnamese condiment.",
+      "priceRange": "80,000–150,000 VND (set for 2)",
+      "whereToTry": "Trần Restaurant, 98 Trần Quốc Toản; Bánh Tráng Cuốn Thịt Heo Lan, 51 Lê Duẩn",
+      "tip": "Mắm nêm is an acquired taste — if the smell puts you off, ask for plain nước chấm instead. But try the real thing at least once."
+    },
+    {
+      "name": "Cơm Hến",
+      "vietnameseName": "Cơm Hến",
+      "description": "Inherited from Huế, cơm hến is a cold dish of tiny baby river clams (hến) tossed with cold rice, sautéed pork skin, peanuts, sesame, crispy shallots, fresh herbs, chilli oil, and fermented shrimp paste. The combination of textures — cold rice, chewy clams, crunchy peanuts — and temperatures is startling at first but compulsively good. A bowl of hot clam broth is served alongside for sipping.",
+      "priceRange": "20,000–40,000 VND",
+      "whereToTry": "Cơm Hến Bà Hòa, near Hàn Market; morning stalls on Bạch Đằng",
+      "tip": "This is traditionally a breakfast dish — most cơm hến vendors close before noon. The clam season peaks March to September."
+    }
+  ],
+  "bestRestaurants": [
+    {
+      "name": "Mỳ Quảng Nhựng",
+      "address": "135 Nguyễn Tất Thành, Thanh Bình, Hải Châu, Da Nang",
+      "cuisine": "Street Food – Mì Quảng",
+      "priceRange": "25,000–45,000 VND",
+      "description": "One of the most recommended mì Quảng spots in Da Nang by local food bloggers and guides. A kerbside eatery that fills up with locals from 6am. Protein options include chicken, prawn, frog, and eel. The noodles are made fresh daily and the broth maintains the ideal ratio of depth versus intensity that defines great mì Quảng.",
+      "highlight": "Consistently recommended by locals as one of the most authentic mì Quảng bowls in the city"
+    },
+    {
+      "name": "Bánh Xèo Bà Dưỡng",
+      "address": "280/23 Hoàng Diệu, Hải Châu, Da Nang",
+      "cuisine": "Street Food – Bánh Xèo",
+      "priceRange": "30,000–60,000 VND per portion",
+      "description": "The most famous bánh xèo vendor in Da Nang, operating from a modest spot off Hoàng Diệu Street. The small sizzling crepes are cooked to order on open gas burners, served with a mountain of fresh herbs and the house mắm nêm dipping sauce. The Michelin Guide cited this type of street stall in its Da Nang recommendations.",
+      "highlight": "The original and most replicated bánh xèo recipe in Da Nang — a Michelin Street Eats style spot"
+    },
+    {
+      "name": "Luna Pub & Restaurant",
+      "address": "9 Trần Phú, Hải Châu, Da Nang",
+      "cuisine": "Vietnamese / Seafood",
+      "priceRange": "150,000–350,000 VND",
+      "description": "A popular restaurant on Da Nang's tourist strip serving fresh seafood and Vietnamese standards in a relaxed open-air setting. The seafood is sourced daily from the Han River fishing boats and My Khe beach. Reliable quality, extensive English menu, and good cocktails make it a consistently popular choice for travellers.",
+      "highlight": "Reliable English-friendly venue with daily-fresh seafood from local fishing boats"
+    },
+    {
+      "name": "Nhà Hàng Bé Mặn",
+      "address": "92 Nguyễn Chí Thanh, Hải Châu, Da Nang",
+      "cuisine": "Local Vietnamese – Central Style",
+      "priceRange": "80,000–200,000 VND",
+      "description": "A local favourite for central Vietnamese home cooking — braised pork with lotus seeds, sour soup with pineapple and tomato, morning glory in garlic, and excellent bún chả cá. Fills up with Vietnamese families for lunch and dinner. Plastic stools, shared tables, and extremely affordable prices for generous portions.",
+      "highlight": "The kind of family restaurant where you eat exactly what locals eat — no tourist tax"
+    },
+    {
+      "name": "Madame Lân",
+      "address": "4 Bạch Đằng, Hải Châu, Da Nang",
+      "cuisine": "Traditional Vietnamese",
+      "priceRange": "120,000–280,000 VND",
+      "description": "Set in a restored colonial building on the Han River, Madame Lân serves a broad menu of Vietnamese dishes with particular strength in central specialties. The bánh tráng cuốn thịt heo set here is considered the benchmark for tourist-accessible versions of the dish. River views, air-conditioning, and reliable quality.",
+      "highlight": "Best central Vietnamese menu in a comfortable riverside setting"
+    },
+    {
+      "name": "Quán Cơm Hòa An",
+      "address": "Near Hàn Market, Hải Châu, Da Nang",
+      "cuisine": "Vietnamese – Cơm Bình Dân (workers' rice)",
+      "priceRange": "30,000–60,000 VND",
+      "description": "A classic cơm bình dân (everyday rice) restaurant where you choose three or four dishes from a display of pre-cooked Vietnamese home cooking served over steamed rice. Caramelised fish (cá kho), braised pork belly, stuffed bitter melon, and stir-fried vegetables are typical. The cheapest and most authentic midday meal option in the city.",
+      "highlight": "Point-and-pick Vietnamese home cooking at the lowest prices in the city"
+    }
+  ],
+  "streetFoodAreas": [
+    {
+      "name": "Hoàng Diệu Street",
+      "description": "The long street running south from the Han River bridge is lined with decades-old bánh xèo and bánh tráng cuốn vendors. The famous Bà Dưỡng stall is here, alongside multiple competitors who have learned from (and in some cases trained under) her. Mornings bring mì Quảng vendors, evenings see the bánh xèo stalls fire up. A genuine local-eating street with almost no tourist infrastructure.",
+      "bestFor": "Bánh xèo, bánh tráng cuốn, mì Quảng",
+      "openingHours": "7am–10pm, busiest midday and 6–9pm"
+    },
+    {
+      "name": "Bạch Đằng Night Market Area",
+      "description": "The riverfront promenade along Bạch Đằng becomes a busy informal food zone each evening as vendors set up along the river walk. Fresh coconut water, roasted corn, grilled meat skewers, and fried seafood fill the air. On weekends, the area extends into the pedestrian street near Dragon Bridge where bánh tráng nướng stalls appear.",
+      "bestFor": "Grilled snacks, fresh coconut, seafood, evening atmosphere",
+      "openingHours": "5pm–11pm, best on weekends"
+    },
+    {
+      "name": "Nguyễn Chí Thanh Food Street",
+      "description": "A busy mid-city street with a high concentration of bún chả cá stalls, seafood restaurants, and noodle shops. This is where Da Nang locals eat breakfast and lunch — less polished than the tourist riverfront but significantly cheaper and more authentic. Early morning is particularly rewarding, with multiple vendors competing for the 6–9am commuter crowd.",
+      "bestFor": "Bún chả cá, mì Quảng, local breakfast",
+      "openingHours": "6am–3pm (breakfast/lunch focused)"
+    }
+  ],
+  "foodTips": [
+    "Mì Quảng is correctly eaten with very little broth — do not add more broth even if it looks dry. The concentrated dressing in the small amount of liquid is meant to coat the noodles, not pool at the bottom.",
+    "The central Vietnamese dipping sauce mắm nêm (fermented anchovy paste) appears alongside bánh xèo and bánh tráng cuốn. It smells strong but is fundamental to the dish — give it a genuine try.",
+    "Da Nang's My Khe Beach area has numerous seafood restaurants but prices are higher than local spots. For better value, head to the Mân Thái fishing village area (north end of My Khe) where boats land their catch in the early morning.",
+    "The Dragon Bridge fire show happens every Saturday and Sunday at 9pm — arrive early to secure street food from the surrounding vendors before the crowds arrive.",
+    "Breakfast in Da Nang is serious business: mì Quảng, bún chả cá, bánh xèo, and cháo are all morning-only or morning-peak dishes. Hotel breakfast buffets will let you down — eat on the street instead.",
+    "Beer in Da Nang is often Larue (Bia Huda), the regional lager of central Vietnam. At 10,000–15,000 VND per can from a street vendor, it is among the cheapest beer in Southeast Asia."
+  ],
+  "sources": [
+    {
+      "name": "Michelin Guide – 5 Must-Try Street Eats in Da Nang",
+      "url": "https://guide.michelin.com/mo/en/article/dining-out/must-try-michelin-street-food-in-da-nang"
+    },
+    {
+      "name": "Will Fly for Food – 25 Restaurants in Da Nang",
+      "url": "https://www.willflyforfood.net/restaurants-in-danang-vietnam/"
+    },
+    {
+      "name": "Eat Danang – Top 15 Da Nang Street Food Spots",
+      "url": "https://eatdanang.com/top-15-must-try-da-nang-street-food/"
+    }
+  ]
+}

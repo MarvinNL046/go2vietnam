@@ -1,0 +1,67 @@
+{
+  "slug": "hanoi-to-sapa",
+  "from": "Hanoi",
+  "to": "Sapa",
+  "distance": "315 km",
+  "description": "Sapa is the most visited highland destination in northern Vietnam, renowned for its dramatic rice terraces, hill tribe villages, and Fansipan — Indochina's highest peak. The journey from Hanoi covers about 315 km and takes between 5 and 9 hours depending on your chosen transport. There are three main options: the overnight sleeper train to Lao Cai followed by a minivan to Sapa, a direct overnight sleeper bus, or a VIP limousine van via the expressway. The scenic route through the Hoang Lien Son mountain range is particularly beautiful in September–October (golden rice harvest) and March–April (terrace planting season). Weekend buses and trains fill up fast, especially during holidays.",
+  "options": [
+    {
+      "mode": "Overnight Sleeper Bus",
+      "duration": "5.5–7 hours",
+      "priceRange": "220,000–500,000 VND ($9–20)",
+      "frequency": "Multiple nightly departures, usually 9 PM–11 PM",
+      "comfort": "Medium",
+      "description": "The most popular budget option, overnight sleeper buses depart from Hanoi's My Dinh Bus Station or from Old Quarter pickup points nightly. Buses have reclining seats or fully-flat sleeping pods arranged in rows. Most buses arrive in Sapa town between 4 AM and 6 AM — early enough to watch the market open, though the arrival hour is disruptive for light sleepers. Reputable operators include Sapa Express, Queen Cafe Bus, and Hung Thanh. The journey uses the Noi Bai–Lao Cai Expressway, which has significantly cut travel times. Standard sleeper seats cost around $9–14, while VIP cabin-style berths run $16–20.",
+      "bookingTip": "Book at least 2–3 days ahead via the operator's website or 12Go.asia. Choose upper berths — they're generally smoother. Bring a light jacket; the bus can be cold."
+    },
+    {
+      "mode": "VIP Limousine Van",
+      "duration": "5.5–6 hours",
+      "priceRange": "350,000–550,000 VND ($14–22)",
+      "frequency": "Several departures daily, both daytime and overnight",
+      "comfort": "High",
+      "description": "VIP limousine vans (9-seater Mercedes Sprinters with reclining seats, Wi-Fi, and sometimes refreshments) have become the premium road option for the Hanoi–Sapa route. They pick up from hotels in the Old Quarter and drop off directly at your Sapa accommodation. Daytime departures allow you to enjoy the mountain scenery; overnight departures save a night's accommodation. Journey time is 5.5–6 hours via the expressway. Sapa Express and several other operators run this service. At roughly $14–22 per person, this offers excellent value for the comfort level.",
+      "bookingTip": "Sapa Express (sapaexpress.com) is a reliable operator with good reviews. Book the overnight service to maximize your time in Sapa."
+    },
+    {
+      "mode": "Overnight Train (to Lao Cai)",
+      "duration": "8–9 hours (plus 1 hour minivan to Sapa)",
+      "priceRange": "From 450,000 VND ($18) for hard sleeper, up to 900,000 VND ($36) soft sleeper on private trains",
+      "frequency": "Several trains nightly, departing 8 PM–10 PM from Hanoi Station",
+      "comfort": "Medium–High (depending on berth class)",
+      "description": "Vietnam Railways operates nightly trains from Hanoi's main station (Ga Hanoi) to Lao Cai, the town at the foot of the mountain before Sapa. The train does NOT go directly to Sapa — from Lao Cai station you take a 45-minute minivan transfer (50,000–100,000 VND extra). Standard Vietnam Railways hard sleepers offer six berths per compartment; soft sleepers have four berths and are more comfortable. Private operators Victoria Express and Sapaly run luxury carriages with two-berth cabins at higher prices ($35–40 per person). The train arrives in Lao Cai around 5–6 AM, making it an overnight journey that many travelers enjoy for the romantic, old-school atmosphere.",
+      "bookingTip": "Book VR trains on the official Vietnam Railways site (dsvn.vn) or via Baolau. Private train berths on Victoria or Sapaly are worth the premium for a good night's sleep."
+    },
+    {
+      "mode": "Private Car/Taxi",
+      "duration": "5 hours",
+      "priceRange": "$148–$180 per vehicle (4-seater sedan)",
+      "frequency": "On demand, book in advance",
+      "comfort": "Very High",
+      "description": "Booking a private car with driver from Hanoi to Sapa offers the most flexible and comfortable door-to-door experience. The driver picks you up from your hotel and drops you directly at your Sapa accommodation. The journey via the Noi Bai–Lao Cai Expressway takes about 5 hours. This option makes most sense for groups of 3–4 people where the per-person cost ($37–45) becomes competitive with VIP bus options. It also allows stops along the way for photos or at local restaurants. Tour operators like A21 Tours and local agencies offer this service.",
+      "bookingTip": "Best value when split among 3–4 travelers. Confirm the driver speaks some English and knows where your specific hotel in Sapa is located — addresses can be tricky."
+    }
+  ],
+  "tips": [
+    "Sapa sits at 1,500 m altitude — temperatures can be 10°C colder than Hanoi. Even in summer, bring a fleece. In winter (December–February) it can drop near 0°C and frost is possible.",
+    "If arriving by bus at 4–5 AM, most hotels won't have your room ready. Book a place with a 24-hour front desk or arrange an early check-in fee in advance.",
+    "The best time to visit is September–October for golden rice terraces, or late March–April when terraces are flooded and mirror-like.",
+    "Sapa is extremely busy on weekends. Travel midweek if possible — fewer crowds and lower prices.",
+    "From Lao Cai train station, shared minivans to Sapa leave when full (about 50,000–100,000 VND). Private taxis cost 200,000–300,000 VND.",
+    "The mountain road from Lao Cai to Sapa has hairpin bends — those prone to motion sickness should sit in the front seat of the minivan."
+  ],
+  "sources": [
+    {
+      "name": "Wander-Lush – Hanoi to Sapa: Train, Bus or Limousine",
+      "url": "https://wander-lush.org/hanoi-to-sapa-train-bus/"
+    },
+    {
+      "name": "Sapa Express – Schedules & Prices",
+      "url": "https://sapaexpress.com/en/schedules-prices"
+    },
+    {
+      "name": "Backpackers Wanderlust – Hanoi to Sapa",
+      "url": "https://www.backpackerswanderlust.com/hanoi-to-sapa/"
+    }
+  ]
+}

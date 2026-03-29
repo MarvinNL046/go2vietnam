@@ -1,0 +1,67 @@
+{
+  "slug": "nha-trang-to-da-lat",
+  "from": "Nha Trang",
+  "to": "Da Lat",
+  "distance": "140 km (via QL27C mountain road)",
+  "description": "The journey from coastal Nha Trang to highland Da Lat is one of the most dramatic elevation changes in Vietnam — you ascend from sea level to 1,500 meters over winding mountain roads, transitioning from beach resort to misty pine forests within a few hours. The distance is about 140 km via the QL27C road, though the mountain terrain means travel time is 3.5–5 hours. The scenery is spectacular: tropical coast gives way to highland valleys, waterfalls, and the cool air of Da Lat becomes noticeable as the road climbs. This route is popular with both domestic Vietnamese travelers and foreign tourists looking to combine beach relaxation in Nha Trang with the flower gardens, canyoning, and cool climate of 'the city of eternal spring.'",
+  "options": [
+    {
+      "mode": "Limousine Bus / Shared Van",
+      "duration": "3.5–5 hours",
+      "priceRange": "200,000–350,000 VND ($8–14)",
+      "frequency": "Multiple daily departures, usually morning",
+      "comfort": "Medium–High",
+      "description": "Limousine minibuses and shared vans are the most popular way to travel from Nha Trang to Da Lat. Several operators run daily services from Nha Trang to Da Lat, including Phuong Trang (FUTA Bus), Cuc Tung, and various hotel-based travel agencies. Tickets cost around 200,000–300,000 VND for a standard limousine van. The journey climbs through the Khanh Duong mountain pass and the Da Lat plateau, offering views of pine forests and flower farms. Buses typically depart in the morning (7–9 AM) and can be booked through your hotel or online. Drop-off is usually at the Da Lat bus station or near the central market.",
+      "bookingTip": "Book the previous evening through your hotel or via 12Go.asia. Morning departures are most common — afternoon buses are fewer and arrive at dusk."
+    },
+    {
+      "mode": "Sleeper Bus",
+      "duration": "4–5 hours",
+      "priceRange": "170,000–250,000 VND ($7–10)",
+      "frequency": "Daily, including evening departures",
+      "comfort": "Medium",
+      "description": "Phuong Trang and other operators also run sleeper buses between Nha Trang and Da Lat, with fully-reclining pod seats. Sleeper buses are slightly cheaper than VIP minivans and depart at various times including evening. However, the mountain road has significant hairpin bends (the Ngoan Muc Pass section) which can be uncomfortable on a sleeper bus — pods designed for flat roads become less pleasant on steep curves. For those who sleep well regardless, this is a cost-effective overnight option. Fares with Phuong Trang start from 170,000 VND.",
+      "bookingTip": "Book Phuong Trang at their website (futabus.vn) or at Nha Trang bus station. Choose morning services for better mountain views rather than overnight."
+    },
+    {
+      "mode": "Private Car / Taxi",
+      "duration": "3–3.5 hours",
+      "priceRange": "900,000–3,000,000 VND ($36–120) per vehicle",
+      "frequency": "On demand",
+      "comfort": "Very High",
+      "description": "A private car with driver is the fastest and most comfortable option, completing the journey in 3–3.5 hours with direct door-to-door service. For groups of 2–4 people, a private car from Nha Trang to Da Lat costs approximately 900,000–1,500,000 VND for a standard sedan. The driver navigates the mountain roads confidently and can stop at scenic viewpoints or waterfalls along the way (including Dambri Falls or Ba Ho Waterfalls if requested). This is particularly recommended if you have a lot of luggage, travel with young children, or want to make the journey itself part of the experience.",
+      "bookingTip": "Arrange the car through your Nha Trang hotel or a local tour operator. Confirm stops en route are agreed in advance. Ensure the car has working air conditioning — the climb can be hot before reaching altitude."
+    },
+    {
+      "mode": "Motorbike (Self-Drive)",
+      "duration": "5–6 hours including breaks",
+      "priceRange": "Fuel cost only (approx. 150,000–200,000 VND)",
+      "frequency": "Flexible",
+      "comfort": "Low–Medium",
+      "description": "The motorbike ride from Nha Trang to Da Lat via the QL27C mountain road is considered one of Vietnam's great adventure rides. The road passes through dramatic highland scenery, with multiple high-altitude passes, coffee plantations, and pine forests. The 134 km route takes about 5 hours with stops. This is strictly for experienced riders comfortable with mountain roads, steep gradients, and occasional unpredictable road surfaces. The route has some challenging sections including the Ngoan Muc Pass with its famous spiral viaduct. Rent a semi-automatic or manual bike in Nha Trang (from 150,000 VND/day) and return it in Da Lat if you can arrange a one-way rental.",
+      "bookingTip": "Only attempt this ride if you have solid motorbike experience on mountain roads. Start early (by 7 AM) to reach Da Lat before dark. Bring a warm jacket — Da Lat is 15–20°C cooler than Nha Trang."
+    }
+  ],
+  "tips": [
+    "Dress in layers — Nha Trang can be 32°C while Da Lat may be just 15–18°C. A light jacket is essential even in summer.",
+    "The mountain road between the two cities has multiple switchbacks and hairpin turns. Those prone to motion sickness should sit in the front seat and take medication before departure.",
+    "Da Lat is best explored in the morning when the mist clears and before afternoon rain showers (common year-round). Plan outdoor activities for AM.",
+    "The Ngoan Muc Pass (also known as Ngoạn Mục Pass) on the QL27C route offers the most dramatic views — ask your driver to stop if conditions allow.",
+    "Da Lat has no Grab service — use local motorbike taxis, metered taxis, or arrange your hotel to pick you up from the bus station.",
+    "Canyoning and adventure tours in Da Lat should be booked through licensed operators like Phat Tire Ventures or Groovy Gecko — check reviews carefully."
+  ],
+  "sources": [
+    {
+      "name": "Vinpearl – Nha Trang to Da Lat Transport Options",
+      "url": "https://vinpearl.com/en/nha-trang-to-da-lat"
+    },
+    {
+      "name": "North Vietnam – Nha Trang to Da Lat Transport",
+      "url": "https://north-vietnam.com/how-to-get-from-nha-trang-to-da-lat/"
+    },
+    {
+      "name": "Redbus Vietnam – Nha Trang to Da Lat Bus Tickets",
+      "url": "https://www.redbus.vn/en/bus-tickets/routes/nha-trang-to-da-lat"
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "introduction": "Hanoi is widely considered the street food capital of Vietnam, a city where culinary traditions stretch back a thousand years and where the best meals are often found on plastic stools at the side of the road. The Old Quarter's narrow lanes fill with the smoke of charcoal grills each evening, and breakfast means a steaming bowl of phở or bún chả at a pavement stall no bigger than a wardrobe. Hanoi's food culture is deeply tied to northern Vietnamese cooking — restrained, precise, and built on pure, clear broths rather than the sweetness of the south. Freshness is non-negotiable: herbs are clipped from garden pots, broth is simmered through the night, and most dishes are only available at a specific meal time. The city has one Michelin Bib Gourmand restaurant, but the real experience is hunting down a seventy-year-old phở stall in the Old Quarter before it sells out at 9am.",
+  "signatureDishes": [
+    {
+      "name": "Phở Bò",
+      "vietnameseName": "Phở Bò",
+      "description": "Hanoi phở is the northern benchmark: a crystal-clear bone broth simmered for twelve hours, flat rice noodles, paper-thin slices of rare beef or brisket, and a garnish of fresh herbs, lime, and chilli. Unlike southern phở, Hanoi versions are served with quẩy (fried dough sticks) and a smaller pile of herbs — the flavour is in the broth. Phở Bát Đàn on Bát Đàn Street and Phở 10 Lý Quốc Sư are the two most legendary bowls in the city, both opening at 6am and selling out by mid-morning.",
+      "priceRange": "40,000–70,000 VND",
+      "whereToTry": "Phở Bát Đàn, 49 Bát Đàn, Hoàn Kiếm; Phở 10 Lý Quốc Sư, 10 Lý Quốc Sư",
+      "tip": "Arrive before 8am — both famous spots sell out early. No menu, no substitutions. Queue, pay, sit."
+    },
+    {
+      "name": "Bún Chả",
+      "vietnameseName": "Bún Chả",
+      "description": "The most Hanoian of all Hanoi dishes: charcoal-grilled fatty pork patties and slices of pork belly served in a sweet, warm fish sauce broth with pickled papaya and carrot. A pile of fresh rice vermicelli and a basket of herbs — perilla, coriander, mint, lettuce — arrive separately. This is the dish Anthony Bourdain ate with Barack Obama in 2016, making it internationally famous. The best bowls are found at lunchtime when the charcoal smoke drifts through the Old Quarter streets.",
+      "priceRange": "50,000–80,000 VND",
+      "whereToTry": "Bún Chả Hương Liên, 24 Lê Văn Hưu (the Obama restaurant); Bún Chả 74 Hàng Quạt",
+      "tip": "Dip the noodles directly into the broth bowl rather than pouring broth over them — this is the correct way to eat it."
+    },
+    {
+      "name": "Chả Cá Lã Vọng",
+      "vietnameseName": "Chả Cá Lã Vọng",
+      "description": "One of Hanoi's oldest and most unusual dishes: turmeric-marinated catfish (cá lăng) is pan-fried tableside in a sizzling skillet with dill and spring onions, then eaten with rice vermicelli, dry-roasted peanuts, shrimp paste, and fresh herbs. The dish is so iconic that the street where it was first served — Chả Cá Street (Phố Chả Cá) — is named after it. The original restaurant Lã Vọng has been run by the same family for over 100 years.",
+      "priceRange": "150,000–200,000 VND per person",
+      "whereToTry": "Chả Cá Lã Vọng, 14 Chả Cá, Hoàn Kiếm; Chả Cá Thăng Long, 19–21 Đường Thành",
+      "tip": "The fish is pre-marinated overnight in turmeric and galangal — the yellow colour is natural, not artificial."
+    },
+    {
+      "name": "Cà Phê Trứng",
+      "vietnameseName": "Cà Phê Trứng",
+      "description": "Egg coffee (cà phê trứng) was invented in Hanoi in 1946 when milk was scarce and barista Nguyễn Văn Giang used egg yolk as a substitute. The result — whipped egg yolk, sugar, and condensed milk piled over strong Vietnamese robusta espresso — is a rich, creamy drink halfway between a dessert and a caffeine hit. It must be drunk hot, slowly, and while looking at Hoan Kiem Lake if possible. Giảng Café, opened by the original inventor's family, remains the most authentic address.",
+      "priceRange": "25,000–45,000 VND",
+      "whereToTry": "Giảng Café, 39 Nguyễn Hữu Huân; Đinh Café, 13 Đinh Tiên Hoàng",
+      "tip": "Stir the egg foam gently into the coffee rather than drinking the layers separately to get the full flavour."
+    },
+    {
+      "name": "Bún Riêu Cua",
+      "vietnameseName": "Bún Riêu Cua",
+      "description": "A tangy tomato and freshwater crab broth poured over thin rice vermicelli, topped with crab paste dumplings, fried tofu, blood pudding, and shrimp. The souring agent is đấm bỗng (rice vinegar from rice wine production), which gives it a distinctive tartness unlike any other Vietnamese soup. Hanoi's version is redder and more heavily tomato-based than southern variants. Best eaten at roadside stalls in the early morning.",
+      "priceRange": "35,000–60,000 VND",
+      "whereToTry": "Bún Riêu 40 Hàng Điếu; street stalls on Hàng Bông and Đường Thành",
+      "tip": "Ask for mắm tôm (fermented shrimp paste) on the side — it smells pungent but transforms the broth."
+    },
+    {
+      "name": "Bánh Mì",
+      "vietnameseName": "Bánh Mì",
+      "description": "Hanoi's bánh mì differs from Hội An's or Saigon's — the baguette is crustier and the filling more restrained, typically pâté, cold cuts, cucumber, coriander, and Maggi sauce. Northern bánh mì prioritises the bread and avoids the sweeter sauces of the south. The best street carts operate from early morning, selling sandwiches to commuters on their way to work.",
+      "priceRange": "20,000–40,000 VND",
+      "whereToTry": "Bánh Mì 25, 25 Hàng Cá; street carts throughout the Old Quarter",
+      "tip": "Order it toasted (nướng) — the extra minute on the charcoal grill makes the crust shatter properly."
+    }
+  ],
+  "bestRestaurants": [
+    {
+      "name": "Chả Cá Lã Vọng",
+      "address": "14 Chả Cá, Hoàn Kiếm, Hanoi",
+      "cuisine": "Traditional Vietnamese – Turmeric Fish",
+      "priceRange": "150,000–250,000 VND per person",
+      "description": "The original chả cá restaurant, operating for over a century in the same Old Quarter townhouse. The experience is theatrical: a sizzling cast-iron skillet arrives at your table loaded with turmeric-marinated catfish, dill, and spring onions. You control the heat, add herbs, and assemble each bite yourself with rice noodles, roasted peanuts, and shrimp paste.",
+      "highlight": "Over 100 years old — the dish is named after the street the restaurant occupies"
+    },
+    {
+      "name": "Bún Chả Hương Liên",
+      "address": "24 Lê Văn Hưu, Hai Bà Trưng, Hanoi",
+      "cuisine": "Street Food – Bún Chả",
+      "priceRange": "60,000–80,000 VND",
+      "description": "Known internationally as the restaurant where Anthony Bourdain and Barack Obama ate bún chả in 2016. The table where they sat is preserved with a commemorative plaque. Beyond the fame, the food genuinely delivers — charcoal-grilled pork that's crispy outside and juicy within, a perfectly balanced sweet-sour fish sauce broth, and excellent nem (spring rolls) on the side.",
+      "highlight": "The exact table where Obama and Bourdain ate is preserved with a commemorative plaque"
+    },
+    {
+      "name": "Phở Bát Đàn",
+      "address": "49 Bát Đàn, Hoàn Kiếm, Hanoi",
+      "cuisine": "Street Food – Phở",
+      "priceRange": "50,000–70,000 VND",
+      "description": "The most famous phở stall in Hanoi, operating since 1955. The queue starts at 6am, the broth runs out by 9am. You queue, pay, take a ticket, collect your bowl, and eat standing at a shared counter. There are no frills and no substitutions. The broth is the result of decades of refinement: clean, deep, with a faint star anise warmth.",
+      "highlight": "Operational since 1955 — sells out every morning by 9am"
+    },
+    {
+      "name": "Bếp Mẹ Ín",
+      "address": "12A Ngô Văn Sở, Hoàn Kiếm, Hanoi",
+      "cuisine": "Traditional Northern Vietnamese",
+      "priceRange": "80,000–200,000 VND",
+      "description": "A charming family-run restaurant serving home-style northern Vietnamese cooking in a restored Old Quarter house. The menu focuses on dishes you would eat at a Hanoian family table: braised pork with egg, sour soup with tomato and tofu, morning glory with garlic, and steamed fish with ginger. Excellent rice dishes and a relaxed atmosphere.",
+      "highlight": "Authentic northern home cooking rarely found in tourist-facing restaurants"
+    },
+    {
+      "name": "Madame Hien",
+      "address": "15 Chân Cầm, Hoàn Kiếm, Hanoi",
+      "cuisine": "Elevated Vietnamese",
+      "priceRange": "200,000–500,000 VND",
+      "description": "Set in a beautifully restored French colonial villa, Madame Hien serves refined Vietnamese dishes inspired by the family recipes of chef Didier Corlou. Think crispy nem rán (spring rolls), soft-shell crab, and wok-fried morning glory, all beautifully plated without losing authenticity. A good choice for a special meal that stays genuinely Vietnamese.",
+      "highlight": "French colonial villa setting with a menu rooted in traditional Hanoian family recipes"
+    },
+    {
+      "name": "Xôi Yến",
+      "address": "35B Nguyễn Hữu Huân, Hoàn Kiếm, Hanoi",
+      "cuisine": "Street Food – Sticky Rice",
+      "priceRange": "20,000–50,000 VND",
+      "description": "The most famous xôi (sticky rice) spot in Hanoi, beloved by locals for decades. Toppings include fried shallots, mung bean paste, Chinese sausage, shredded chicken, and pâté. Xôi is the quintessential Hanoi breakfast, eaten on the go in a banana leaf-wrapped parcel. Arrive before 9am for the best selection.",
+      "highlight": "The go-to breakfast for locals — open from 6am, sells out before lunch"
+    },
+    {
+      "name": "Net Hue",
+      "address": "Multiple branches; main at 82 Bà Triệu, Hai Bà Trưng",
+      "cuisine": "Central Vietnamese / Hue Cuisine",
+      "priceRange": "80,000–180,000 VND",
+      "description": "A reliable chain bringing the spicy, complex flavours of Hue cuisine to Hanoi. Specialities include bún bò Huế (spicy beef noodle soup), bánh bèo (steamed rice cakes), and nem lụi (lemongrass pork skewers). Very popular with young Hanoians and a good way to compare the contrasting styles of northern and central Vietnamese cooking.",
+      "highlight": "Best place in Hanoi to experience authentic Hue cuisine side by side"
+    },
+    {
+      "name": "Cha Ca Thang Long",
+      "address": "21 Đường Thành, Hoàn Kiếm, Hanoi",
+      "cuisine": "Traditional Vietnamese – Turmeric Fish",
+      "priceRange": "120,000–180,000 VND per person",
+      "description": "A more accessible alternative to the original Lã Vọng, serving the same turmeric-marinated catfish dish in a friendlier, less formal atmosphere. English menus available and staff are accustomed to explaining the tableside cooking process to first-time visitors. The quality is consistently high and prices slightly lower than the famous original.",
+      "highlight": "More tourist-friendly approach to the iconic Old Quarter dish"
+    }
+  ],
+  "streetFoodAreas": [
+    {
+      "name": "Hàng Bè Market Area (Old Quarter)",
+      "description": "The streets around Hàng Bè, Cầu Gỗ, and Đinh Liệt in the Old Quarter form Hanoi's most concentrated street food zone. Morning activity peaks from 6–9am with phở, bún chả, and xôi vendors. By evening, the same streets transform into grilled meat stalls, bánh mì carts, and fresh fruit sellers.",
+      "bestFor": "Phở, bún chả, xôi, bánh mì, fresh fruit",
+      "openingHours": "Mornings 6–10am, evenings 5–10pm"
+    },
+    {
+      "name": "Tống Duy Tân Night Market Street",
+      "description": "A dense strip of evening street food stalls near Hàng Bông, Tống Duy Tân lights up after 6pm with grilled corn, bánh tráng nướng, deep-fried squid, and sugarcane juice. Mostly local-patronised and significantly cheaper than food streets targeting tourists. Shared plastic stools, paper napkins, and cold beer.",
+      "bestFor": "Grilled snacks, skewers, seafood, cold beer",
+      "openingHours": "6pm–midnight"
+    },
+    {
+      "name": "Đê La Thành Weekend Night Market",
+      "description": "The stretch of Đê La Thành near Hanoi University comes alive every Friday through Sunday evening with an enormous mix of street food stalls, live music, and craft vendors. Very popular with Hanoian students and families. Dishes include bún đậu mắm tôm (fried tofu and noodles with shrimp paste), grilled meats, and sweet desserts.",
+      "bestFor": "Bún đậu mắm tôm, grilled meats, sweet desserts, youth atmosphere",
+      "openingHours": "Friday–Sunday from 5pm"
+    },
+    {
+      "name": "Hàng Khay / Hoan Kiem Lakeside",
+      "description": "The streets immediately south and west of Hoan Kiem Lake offer some of the most scenic street food spots in Hanoi. Cà phê trứng (egg coffee) cafés cluster on Đinh Tiên Hoàng and Nguyễn Hữu Huân. On weekend evenings when the streets are pedestrianised, food vendors fill the promenade with roasted sweet potatoes, tào phớ (soft tofu dessert), and fresh juices.",
+      "bestFor": "Egg coffee, soft tofu dessert, roasted snacks, weekend evening atmosphere",
+      "openingHours": "All day; pedestrian zone Friday–Sunday evenings"
+    }
+  ],
+  "foodTips": [
+    "Most Hanoian street food dishes have a narrow eating window — phở is a breakfast dish, bún chả is lunch, and many stalls close by 2pm. Plan your meals around this rhythm rather than expecting all-day availability.",
+    "The most authentic phở in Hanoi is served without a menu at a specific time only. If a phở restaurant is open for dinner and has an English menu with fifteen variations, it is not the real thing.",
+    "Locals use a small amount of vinegar to marinate the chillies served alongside phở — ask for giấm ớt (chilli vinegar) to add to your broth. It brightens the whole dish.",
+    "Hanoi tap water is not safe to drink, but the broth in phở and bún chả is boiled for hours and safe. Stick to bottled water, hot tea, and fresh juices at reputable stalls.",
+    "Bún đậu mắm tôm (fried tofu with fermented shrimp paste) is a deeply local dish that many tourists skip due to the smell of the paste. Try it — the contrast of crunchy tofu, soft noodles, and funky paste is extraordinary.",
+    "Always check that the seafood or meat is alive or freshly killed at seafood stalls. Hanoi's climate is warm enough that anything sitting unrefrigerated for hours becomes a risk.",
+    "The walking streets around Hoan Kiem Lake (closed to traffic Friday–Sunday evenings) offer the safest environment for first-time street food explorers — good variety, visible food preparation, and manageable crowds."
+  ],
+  "sources": [
+    {
+      "name": "Lonely Planet – Best Street Food in Hanoi",
+      "url": "https://www.lonelyplanet.com/articles/best-street-food-hanoi-vietnam"
+    },
+    {
+      "name": "Will Fly for Food – 25 Hanoi Restaurants",
+      "url": "https://www.willflyforfood.net/hanoi-food-guide-25-must-eat-restaurants-street-food-stalls-in-hanoi-vietnam/"
+    },
+    {
+      "name": "The Street Food Guy – Best Bún Chả in Hanoi",
+      "url": "https://www.thestreetfoodguy.com/best-bun-cha-hue/"
+    }
+  ]
+}

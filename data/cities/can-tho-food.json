@@ -1,0 +1,137 @@
+{
+  "introduction": "Cần Thơ's food culture is inseparable from the water. As the largest city in the Mekong Delta, it sits at the confluence of multiple river channels where boats carry fresh tropical fruit, live fish, and vegetables to market before dawn each day. The Cái Răng floating market — the delta's most famous — is a working wholesale market where vendors sell directly from their boats, and the produce available here defines what ends up in Cần Thơ's kitchens. The city's signature noodle dish is hủ tiếu Nam Vang, a Chinese-Cambodian rice noodle soup that arrived with Phnom Penh-origin Chinese traders in the mid-20th century and became permanently embedded in southern Vietnamese food culture. Beyond this, the delta's extraordinary biodiversity gives Cần Thơ access to ingredients unavailable elsewhere in Vietnam — river fish, snakehead fish, giant freshwater prawns, lotus seeds, water lily, and dozens of tropical fruits eaten green with salt and chilli or ripe as dessert. Eating in Cần Thơ means eating close to the source.",
+  "signatureDishes": [
+    {
+      "name": "Hủ Tiếu Nam Vang",
+      "vietnameseName": "Hủ Tiếu Nam Vang",
+      "description": "The Mekong Delta's definitive noodle soup: slightly translucent tapioca-rice noodles (chewier and stickier than regular rice noodles) in a clear, fragrant broth made from dried shrimp and pork bones, topped with sliced boiled pork, minced pork, prawn, liver, and crispy fried garlic and shallots. Can be eaten wet (nước — as a soup) or dry (khô — broth served separately for dipping). The name refers to Phnom Penh (Nam Vang), reflecting its Chinese-Cambodian origins.",
+      "priceRange": "35,000–70,000 VND",
+      "whereToTry": "Hủ Tiếu Nam Vang 888, Cần Thơ central area; Hủ Tiếu stalls near Ninh Kiều night market",
+      "tip": "Order it 'khô' (dry) for the richest flavour — the noodles are tossed in rendered pork fat and topped with fried garlic, then the broth is served separately for sipping between bites."
+    },
+    {
+      "name": "Bánh Tằm Bì",
+      "vietnameseName": "Bánh Tằm Bì",
+      "description": "A uniquely Mekong Delta noodle dish using bánh tằm — thick, round, worm-like rice noodles made from freshly ground rice — served cold or at room temperature with shredded pork skin (bì) tossed in toasted rice powder and sesame oil, sweet caramelised coconut milk poured over, and a garnish of fresh herbs, bean sprouts, pickled vegetables, and crispy shallots. The contrast of textures and the coconut sweetness against the savouriness of the pork skin makes this one of the most complex street food dishes in Vietnam.",
+      "priceRange": "30,000–55,000 VND",
+      "whereToTry": "Morning market stalls near Cần Thơ central market; Bánh Tằm stalls on Trần Văn Hoài Street",
+      "tip": "The coconut milk sauce is added at the table — pour it over generously and mix everything together before tasting."
+    },
+    {
+      "name": "Cá Kho Tộ (Caramelised River Fish in Clay Pot)",
+      "vietnameseName": "Cá Kho Tộ",
+      "description": "Thick pieces of snakehead fish or catfish braised in a clay pot with caramelised palm sugar, fish sauce, galangal, chilli, and black pepper until the sauce reduces to a thick, intensely sweet-savoury glaze. Eaten over steamed rice with simple vegetable dishes. This is delta home cooking at its most essential — the technique takes hours and the result is impossibly tender fish with a sauce so good it makes plain rice worth eating by itself.",
+      "priceRange": "60,000–120,000 VND per clay pot",
+      "whereToTry": "Cơm bình dân (workers' rice) restaurants throughout Cần Thơ; Nhà Hàng Sông Hậu, Ninh Kiều waterfront",
+      "tip": "Eat cá kho tộ at lunch at a cơm bình dân restaurant — the dish is cooked in the morning and is best in the first hour. Point to the clay pot at the counter."
+    },
+    {
+      "name": "Lẩu Cá Kèo (Mudskipper Hotpot)",
+      "vietnameseName": "Lẩu Cá Kèo",
+      "description": "One of the Mekong Delta's most distinctive dishes: live mudskipper fish (cá kèo) — a fish that lives partly on land and can breathe air — dropped into a sour soup hotpot made with unripe tamarind, tomatoes, pineapple, and vegetables at the table. The mudskippers are alive when they hit the broth, creating a brief spectacle before the heat stills them. The soup is sour, sweet, and deeply fresh from the fish, eaten with rice vermicelli and fresh herbs.",
+      "priceRange": "150,000–300,000 VND per hotpot (2 people)",
+      "whereToTry": "Delta cooking restaurants on Trần Văn Hoài; Nhà Hàng Bình Thủy, near Bình Thủy Temple",
+      "tip": "The mudskipper season peaks from December to June when they are most abundant in delta channels. Outside season, the fish may be farm-raised."
+    },
+    {
+      "name": "Bánh Cống Cần Thơ (Deep-Fried Savoury Cakes)",
+      "vietnameseName": "Bánh Cống",
+      "description": "A Cần Thơ specialty: a crispy deep-fried cup of rice and mung bean batter, containing whole prawns, sliced pork, and mung bean, fried in a cylindrical metal mould until the outside shatters and the inside stays soft. Eaten wrapped in lettuce with fresh herbs and dipped in sweetened fish sauce. Similar in concept to bánh xèo but denser and more compact. A popular street snack throughout the delta.",
+      "priceRange": "15,000–30,000 VND per piece",
+      "whereToTry": "Market stalls and street vendors near Cần Thơ central market; Bánh Cống Cô Ba Sớm, Ô Môn area",
+      "tip": "Bánh cống is best eaten the moment it leaves the oil — the outer crust stays crispy for only about five minutes."
+    }
+  ],
+  "bestRestaurants": [
+    {
+      "name": "Hủ Tiếu Nam Vang 888",
+      "address": "Central Cần Thơ area",
+      "cuisine": "Street Food – Hủ Tiếu",
+      "priceRange": "40,000–70,000 VND",
+      "description": "A locally recommended hủ tiếu Nam Vang specialist known for a broth made from dried shrimp and pork bones, with the full complement of toppings — sliced pork, minced pork, prawn, and liver. The crispy fried garlic is made fresh each morning and applied generously. Open from early morning for the breakfast crowd.",
+      "highlight": "Most recommended hủ tiếu Nam Vang specialist in Cần Thơ — authentic broth from dried shrimp and pork bones"
+    },
+    {
+      "name": "Azerai Can Tho",
+      "address": "Islet on the Cần Thơ River (accessible by boat from Ninh Kiều)",
+      "cuisine": "Vietnamese Fine Dining / River Resort",
+      "priceRange": "400,000–1,200,000 VND",
+      "description": "An elegant boutique resort on a private islet in the middle of the Cần Thơ River, reached by a short boat ride from the Ninh Kiều pier. Even if not staying, a reservation for lunch or dinner is worthwhile — the menu combines southern Vietnamese specialties with international dishes, paired with creative cocktails and a comprehensive wine list. The most sophisticated dining in the Mekong Delta.",
+      "highlight": "Only accessible by boat — the most refined dining experience in the entire Mekong Delta"
+    },
+    {
+      "name": "Nhà Hàng Sông Hậu",
+      "address": "Ninh Kiều Waterfront, Cần Thơ",
+      "cuisine": "Vietnamese / River Dining",
+      "priceRange": "150,000–400,000 VND",
+      "description": "A reliable riverside restaurant on the Ninh Kiều waterfront serving southern Vietnamese classics — caramelised river fish, sour soup (canh chua), stir-fried water spinach, and fresh river prawns. Good views over the Hậu River and the floating market boats at sunset. A popular lunch destination with reasonable prices.",
+      "highlight": "Best riverside lunch option in central Cần Thơ — excellent canh chua and cá kho tộ"
+    },
+    {
+      "name": "Lang Tre Phi Ho",
+      "address": "118/9/78B Lê Lợi, Cần Thơ",
+      "cuisine": "Traditional Southern Vietnamese",
+      "priceRange": "80,000–200,000 VND",
+      "description": "A genuinely local Vietnamese restaurant away from the tourist waterfront, serving traditional southern delta cooking. Caramelised braised fish, bitter melon stuffed with minced pork, sweet-and-sour prawn soup, and morning glory in garlic are the workhorses of the menu. Very popular with local Cần Thơ families at lunch.",
+      "highlight": "Authentic local family restaurant away from the waterfront tourist strip"
+    },
+    {
+      "name": "Cái Răng Floating Market Boat Breakfast",
+      "address": "Cái Răng Market, 6km from Cần Thơ city centre",
+      "cuisine": "Floating Market Breakfast",
+      "priceRange": "50,000–100,000 VND",
+      "description": "A small floating noodle kitchen boat that navigates among the wholesale produce vendors at the Cái Răng market, serving bún riêu (crab noodle soup), hủ tiếu, and rice porridge to market traders from 5am. To eat here requires hiring a small sampan boat early in the morning. The experience of eating noodle soup floating on a river watching tropical fruit traded around you is unforgettable.",
+      "highlight": "Noodle soup for breakfast on a boat in the middle of Vietnam's largest floating market"
+    },
+    {
+      "name": "Nam Bộ Boutique Hotel Restaurant",
+      "address": "1 Ngô Đức Kế, Ninh Kiều, Cần Thơ",
+      "cuisine": "Vietnamese / International",
+      "priceRange": "200,000–500,000 VND",
+      "description": "The restaurant of the highly rated Nam Bộ Boutique Hotel serves a reliable menu of Vietnamese and international dishes in an elegant riverside setting. Known for its southern Vietnamese recipes executed with quality ingredients. The river terrace makes it one of the most pleasant evening dining spots in the city.",
+      "highlight": "Best combination of quality Vietnamese food and atmospheric river terrace in Ninh Kiều"
+    }
+  ],
+  "streetFoodAreas": [
+    {
+      "name": "Ninh Kiều Waterfront Evening",
+      "description": "The riverfront promenade in Ninh Kiều district fills with food vendors and evening market stalls from about 5pm. Grilled corn, bánh cống, fresh tropical fruit, sugarcane juice, and small noodle stalls create a lively informal food scene with river views. A popular spot for Cần Thơ families to eat, drink, and watch the river traffic.",
+      "bestFor": "Bánh cống, grilled corn, tropical fruit, fresh juice, evening atmosphere",
+      "openingHours": "5pm–11pm daily"
+    },
+    {
+      "name": "Cần Thơ Central Market Area",
+      "description": "The streets surrounding the main Cần Thơ market (Chợ Cần Thơ) on Hai Bà Trưng are most active from 5–10am with morning food vendors. Hủ tiếu, bánh tằm bì, bánh cống, and bánh mì stalls serve the early market crowd at the lowest prices in the city. The freshest tropical fruit — dragonfruit, rambutans, mangosteens — is sold at the market itself.",
+      "bestFor": "Hủ tiếu, bánh tằm bì, bánh mì, tropical fruit",
+      "openingHours": "5am–noon (morning focus)"
+    },
+    {
+      "name": "Cái Răng Floating Market",
+      "description": "The most famous floating market in the Mekong Delta, 6km from the city centre, operates as a wholesale produce market from 4–9am. Small food boats selling rice porridge and noodle soups navigate among the wholesale vessels. Reaching the market requires a boat hire from the Ninh Kiều pier — most hotels can arrange this.",
+      "bestFor": "Floating breakfast experience, tropical fruit, wholesale produce watching",
+      "openingHours": "4am–9am (boats most active 5–7am)"
+    }
+  ],
+  "foodTips": [
+    "The Cái Răng floating market is a working wholesale market, not a tourist attraction. To experience the authentic atmosphere, hire a small sampan boat at 5am from the Ninh Kiều pier — not a tourist boat. The wholesale trade winds down by 8am.",
+    "Hủ tiếu is the dominant breakfast noodle in Cần Thơ and the Mekong Delta — not phở. Look for the translucent tapioca noodles and clear broth, which distinguish it from the rice-noodle-based dishes of other regions.",
+    "Tropical fruit in the Mekong Delta is the best in Vietnam. The markets near Cần Thơ have mangosteens, longans, rambutans, durian, jackfruit, and star fruit at a fraction of Saigon or Hanoi prices. Eat freely.",
+    "Snakehead fish (cá lóc) and catfish (cá tra) are the Mekong Delta's most important freshwater fish. Both are eaten braised, grilled, or in sour soup. They are farmed throughout the delta and arrive at restaurants extremely fresh.",
+    "Cần Thơ's evening food scene centres on Ninh Kiều riverside, but the real local eating happens at lunch in the streets around the central market. Cơm bình dân (workers' rice) restaurants in this area serve remarkable three-dish-and-rice lunches for 30,000–50,000 VND.",
+    "Southern Vietnamese cooking is noticeably sweeter than northern or central styles. Expect palm sugar in everything from fish sauces to braising liquids — this is not an error in seasoning but a defining regional characteristic."
+  ],
+  "sources": [
+    {
+      "name": "Incredible Asia Journeys – What to Eat in the Mekong Delta",
+      "url": "https://www.incredibleasiajourneys.com/travel-blog/what-to-eat-in-the-mekong-delta.html"
+    },
+    {
+      "name": "Wanderlog – Hu Tieu Nam Vang in Can Tho",
+      "url": "https://wanderlog.com/place/details/11932461/hu-tieu-nam-vang"
+    },
+    {
+      "name": "Vietnam Tourism – Can Tho",
+      "url": "https://vietnam.travel/places-to-go/southern-vietnam/can-tho"
+    }
+  ]
+}

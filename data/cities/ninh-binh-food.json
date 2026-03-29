@@ -1,0 +1,137 @@
+{
+  "introduction": "Ninh Bình's food culture is shaped by its dramatic landscape: limestone karst mountains, rice paddies, river gorges, and the goat herds that navigate the rocky hillsides with ease. The province's two signature dishes — cơm cháy (crispy burnt rice crust) and thịt dê (goat meat) — arise directly from this geography. The mountain goats here develop dense, flavourful meat from climbing steep limestone terrain, and the local tradition of sun-drying and deep-frying leftover rice into crackling golden sheets has evolved from practical peasant food into a provincial delicacy sold in vacuum packs at souvenir shops. Ninh Bình also produces an excellent range of freshwater fish dishes from the many river systems — steamed snakehead fish, braised catfish, and eel hotpot feature prominently on local restaurant menus. The province is within easy day-trip distance of Hanoi, which means weekend visitors from the capital drive a significant part of local restaurant culture. The best eating is clustered around Tam Cốc, Tràng An, and the Ninh Bình town area.",
+  "signatureDishes": [
+    {
+      "name": "Cơm Cháy (Crispy Rice Crust)",
+      "vietnameseName": "Cơm Cháy",
+      "description": "Ninh Bình's most famous food product: steamed rice pressed into thin round sheets, sun-dried, then deep-fried until golden and puffy — a process that produces a crispy, airy disc that shatters like a prawn cracker. The fried sheets are served topped with a rich, savoury sauce of shredded pork, spring onions, and sometimes pig's heart or goat meat. Available as a snack (served plain with dipping sauce) or as a meal centrepiece. Sold vacuum-packed as a regional food gift throughout Ninh Bình.",
+      "priceRange": "40,000–80,000 VND per plate",
+      "whereToTry": "Hoàng Giang Restaurant, Trường Yên, Hoa Lư; Chinh Thu Restaurant, Ninh Bình town; market stalls throughout the province",
+      "tip": "Order the cơm cháy with the full topping (nước sốt thịt) rather than plain for the complete experience. The sauce-topped version is a meal; the plain fried disc is a snack."
+    },
+    {
+      "name": "Thịt Dê Núi (Mountain Goat Meat)",
+      "vietnameseName": "Thịt Dê",
+      "description": "Ninh Bình's mountain goats are raised on the limestone karst hillsides where they eat wild herbs growing between rock crevices, producing meat with a distinctive flavour profile — gamier and more aromatic than farm-raised goat. Prepared in multiple styles: steamed (hấp) with ginger and herbs, grilled (nướng) with lemongrass, goat hotpot (lẩu dê) with vegetables, goat spring rolls (nem dê), and stir-fried with fermented bean curd. A full goat banquet orders multiple preparations at once.",
+      "priceRange": "150,000–350,000 VND per dish",
+      "whereToTry": "Hoàng Giang Restaurant, Trường Yên, Hoa Lư; Chinh Thu Restaurant, Ninh Bình; Dê Núi restaurants near Tam Cốc",
+      "tip": "Goat meat is sometimes sinewy. The most tender preparation is the goat hotpot (lẩu dê) where slow simmering breaks down the collagen. Stir-fried and grilled goat is more textured."
+    },
+    {
+      "name": "Cá Nướng (Grilled River Fish)",
+      "vietnameseName": "Cá Nướng",
+      "description": "Ninh Bình's river system produces excellent freshwater fish — snakehead (cá lóc), catfish, and carp — grilled over charcoal with fresh herbs, lemongrass, and galangal. The fish is wrapped in banana leaves for grilling to keep the flesh moist, then unwrapped tableside to release the aromatic steam. Eaten with fresh rice paper, herbs, and a pungent fermented shrimp paste (mắm tôm) dipping sauce.",
+      "priceRange": "80,000–200,000 VND per fish",
+      "whereToTry": "Riverside restaurants near Tràng An boat pier; Nhà Hàng Thúy, near Ninh Bình boat station",
+      "tip": "Order the fish 30 minutes in advance so it can be prepared from fresh. Pre-grilled fish that has been sitting under heat lamps is a completely different product."
+    },
+    {
+      "name": "Nem Chua Yên Mạc (Fermented Pork Roll)",
+      "vietnameseName": "Nem Chua",
+      "description": "A variety of Vietnamese fermented pork roll associated specifically with Yên Mạc village in Ninh Bình: finely ground pork mixed with garlic, chilli, and a small amount of cooked pork skin, wrapped tightly in banana leaf and left to ferment for three to five days. The result is slightly sour, meaty, intensely flavoured, and eaten raw. Best enjoyed with fresh herbs, raw garlic, and cold beer.",
+      "priceRange": "30,000–60,000 VND per portion",
+      "whereToTry": "Yên Mạc market; specialty food shops in Ninh Bình town; Đông Thành Market",
+      "tip": "Fresh nem chua fermented for exactly three days has the ideal sourness — too young is bland, too old is very sour. Ask vendors when the batch was made."
+    },
+    {
+      "name": "Rươi Chiên (Fried Palolo Worm Omelette)",
+      "vietnameseName": "Rươi Chiên",
+      "description": "A rare seasonal delicacy from the Ninh Bình river system: rươi (polychaete marine worms that emerge from river mud during specific lunar months in October–November) pan-fried with egg, tangerine zest, dill, and fresh herbs into a fragrant, spongy omelette. One of Vietnam's most unusual and most coveted seasonal ingredients. Only available for six to eight weeks per year when the worms emerge during the late lunar calendar.",
+      "priceRange": "150,000–300,000 VND",
+      "whereToTry": "October–November only; restaurants near the Đáy River; Ninh Bình town market seasonal vendors",
+      "tip": "The rươi season is very short and the ingredient is not farmed. If you visit in October or November, look for 'rươi chiên' signs at local restaurants — it will not be on a printed menu."
+    }
+  ],
+  "bestRestaurants": [
+    {
+      "name": "Hoàng Giang Restaurant",
+      "address": "Trường Yên, Hoa Lư, Ninh Bình",
+      "cuisine": "Ninh Bình Specialties – Goat and Crispy Rice",
+      "priceRange": "150,000–350,000 VND per person",
+      "description": "One of the most popular restaurants for Ninh Bình's signature dishes, located near the historic Hoa Lư citadel ruins. Specialises in mountain goat prepared multiple ways alongside cơm cháy topped with goat meat sauce. Popular with weekend visitors from Hanoi who come specifically for the goat banquet. Opens from 8am.",
+      "highlight": "The most well-known goat and crispy rice restaurant near Hoa Lư — recommended by multiple food guides"
+    },
+    {
+      "name": "Chinh Thu Restaurant",
+      "address": "Ninh Bình town centre",
+      "cuisine": "Traditional Ninh Bình",
+      "priceRange": "100,000–280,000 VND",
+      "description": "A popular family-run restaurant in Ninh Bình town famous for authentic goat meat dishes. Always busy with a mix of locals and day-trippers. The nem dê (goat spring rolls) and lẩu dê (goat hotpot) are particularly praised. A reliable choice for the goat speciality without the Tam Cốc tourist premium.",
+      "highlight": "Family-run local favourite for goat meat — more authentic and cheaper than Tam Cốc tourist restaurants"
+    },
+    {
+      "name": "Trung Tuyet Restaurant",
+      "address": "Near Rồng Market, Ninh Bình",
+      "cuisine": "Ninh Bình Specialties / Vietnamese",
+      "priceRange": "80,000–220,000 VND",
+      "description": "A central Ninh Bình restaurant with an extensive menu covering local goat dishes, crispy rice, fresh river fish, and Vietnamese standards like phở and bánh mì. Five-minute walk from Rồng Market. More accessible for casual visitors who want the local specialties without committing to a full goat banquet.",
+      "highlight": "Most accessible central Ninh Bình restaurant for both local specialties and Vietnamese standards"
+    },
+    {
+      "name": "Tam Cốc Bích Động Garden Restaurant",
+      "address": "Near Tam Cốc boat pier, Ninh Bình",
+      "cuisine": "Vietnamese Tourist Dining",
+      "priceRange": "120,000–300,000 VND",
+      "description": "A large open-air restaurant catering to boat-trip visitors at Tam Cốc, serving reliable Vietnamese food in a garden setting beside the rice paddy scenery. Quality is adequate rather than exceptional, but the location — eating beside flooded rice fields with limestone karsts rising behind — makes it worth a lunch stop after the boat trip.",
+      "highlight": "Best location for lunch after the Tam Cốc boat trip — rice paddy and karst views"
+    },
+    {
+      "name": "Tràng An Landscape Restaurants",
+      "address": "Tràng An boat pier area, Ninh Bình",
+      "cuisine": "Vietnamese – Local Specialties",
+      "priceRange": "100,000–250,000 VND",
+      "description": "Several restaurants cluster near the Tràng An boat departure point, serving cơm cháy, grilled river fish, goat meat, and fresh vegetable dishes. Prices are tourist-facing but reasonable for the convenience. The cơm cháy with savoury meat topping from these restaurants is often the first encounter visitors have with the dish.",
+      "highlight": "Convenient first exposure to Ninh Bình's cơm cháy and goat meat before or after the Tràng An boat tour"
+    },
+    {
+      "name": "Ninh Bình Town Market Stalls",
+      "address": "Đông Thành Market area, Ninh Bình town",
+      "cuisine": "Local Market Food",
+      "priceRange": "20,000–60,000 VND",
+      "description": "The market in central Ninh Bình town has food stalls serving breakfast bún, xôi (sticky rice), bánh mì, and fresh bánh cuốn (steamed rice rolls) from 5am. This is the cheapest and most local eating in the province, patronised entirely by residents. Nem chua Yên Mạc (fermented pork rolls) are sold at the market in the evening.",
+      "highlight": "Most authentic and cheapest breakfast options in Ninh Bình — locally patronised market stalls"
+    }
+  ],
+  "streetFoodAreas": [
+    {
+      "name": "Ninh Bình Town Evening Food Strip",
+      "description": "The streets around the central market and along Trần Hưng Đạo become active food zones in the evening, with bánh mì vendors, bún bò stalls, and nem chua sellers. Not a tourist destination but where local families eat dinner. Prices are very low and the food is genuine.",
+      "bestFor": "Bún, bánh mì, nem chua, local evening eating",
+      "openingHours": "5pm–10pm"
+    },
+    {
+      "name": "Tam Cốc Village Stalls",
+      "description": "The village road leading from the highway to the Tam Cốc boat pier has a strip of restaurants and food stalls serving cơm cháy, goat meat, and local snacks to day-trippers. Competition keeps standards reasonably high. Walk slightly further from the pier for lower prices.",
+      "bestFor": "Cơm cháy, goat meat, post-boat-trip lunch",
+      "openingHours": "8am–7pm"
+    },
+    {
+      "name": "Hoa Lư Citadel Village Area",
+      "description": "The village surrounding the ancient Hoa Lư citadel ruins has modest local restaurants and family-run food stalls that cater to both history visitors and local agricultural workers. The food here is simpler and cheaper than Tam Cốc — plain rice and goat dishes without the tourist packaging.",
+      "bestFor": "Simple goat dishes, river fish, local rice meals",
+      "openingHours": "7am–6pm"
+    }
+  ],
+  "foodTips": [
+    "Cơm cháy is the best food souvenir from Ninh Bình — vacuum-packed fried rice sheets travel well and keep for weeks. Buy from market stalls rather than tourist shops for better quality and lower prices.",
+    "A full goat (thịt dê) banquet with five or six preparations is best eaten as a group of three or more people. Solo visitors or couples should order two dishes from the goat menu alongside rice and vegetables.",
+    "Goat meat has a distinctive gamey smell that intensifies when the meat is poor quality or old. At a good Ninh Bình restaurant, the goat should smell grassy and herbal from the mountain wild herbs — not strongly unpleasant.",
+    "The rươi (polychaete worm) season is October to November during specific lunar calendar dates. If you are visiting during this window, ask your accommodation whether the ingredient is currently available — it is worth a special effort.",
+    "Most Ninh Bình visitors are day-trippers from Hanoi who eat lunch at the tourist restaurants near Tam Cốc or Tràng An. Staying overnight allows you to eat dinner with locals in the town centre where prices are 40–50% lower.",
+    "River snails (ốc) are a popular local evening snack in Ninh Bình, grilled or stir-fried with lemongrass and chilli. Look for vendors with steaming wire baskets of snails near the riverside in the evenings."
+  ],
+  "sources": [
+    {
+      "name": "Ninh Binh Tourist Center – Signature Goat Meat Guide",
+      "url": "https://ninhbinhtouristcenter.com/where-to-taste-ninh-binhs-signature-goat-meat-and-local-cuisine/"
+    },
+    {
+      "name": "Pioneer Sail Travel – Ninh Binh Food Guide",
+      "url": "https://pioneersailtravel.com/ninh-binh-food/"
+    },
+    {
+      "name": "Vietnam Backpacker Hostels – Best Food in Ninh Binh",
+      "url": "https://vietnambackpackerhostels.com/best-food-in-ninh-binh/"
+    }
+  ]
+}

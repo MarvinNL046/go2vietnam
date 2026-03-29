@@ -1,0 +1,76 @@
+{
+  "slug": "da-nang-to-hoi-an",
+  "from": "Da Nang",
+  "to": "Hoi An",
+  "distance": "29 km",
+  "description": "The journey from Da Nang to Hoi An is one of the most frequently made short trips in Vietnam, connecting the country's third-largest city and its main airport with the UNESCO-listed Ancient Town. At just 29 km, the route takes 40–60 minutes by any road transport. Most international visitors to Hoi An fly into Da Nang Airport and then make this short transfer to the lantern-lit ancient town. The coastal road passes Marble Mountain, Non Nuoc Beach, and My Khe Beach. Options range from the ultra-cheap public bus at 18,000 VND to private transfers at 350,000–450,000 VND. The route is well served and easy to navigate independently.",
+  "options": [
+    {
+      "mode": "Grab (Ride-Hailing)",
+      "duration": "40–50 minutes",
+      "priceRange": "250,000–400,000 VND ($10–16)",
+      "frequency": "On demand, 24/7",
+      "comfort": "High",
+      "description": "Grab is the most popular choice for independent travelers arriving at Da Nang Airport or from Da Nang city center. The app shows you the price upfront before you confirm the ride, eliminating any negotiation. GrabCar (standard car) typically costs 250,000–350,000 VND from the airport to Hoi An Old Town. The journey takes about 40–50 minutes depending on traffic. Drivers are reliable, cars are air-conditioned, and the app tracks your journey. Grab also offers GrabBike (motorbike) for solo travelers wanting to save money — this costs 80,000–120,000 VND but is less practical with large luggage.",
+      "bookingTip": "Open the Grab app as soon as you land and book a few minutes before exiting the terminal. Ignore taxi touts — Grab prices are fixed and fair."
+    },
+    {
+      "mode": "Private Taxi",
+      "duration": "40–50 minutes",
+      "priceRange": "299,000–450,000 VND ($12–18)",
+      "frequency": "Available at airport and throughout Da Nang",
+      "comfort": "High",
+      "description": "Metered taxis from Da Nang Airport to Hoi An cost approximately 350,000–450,000 VND. Use Mai Linh (green taxis) or Tien Sa (yellow taxis) which are reliable metered operators. Avoid unmarked 'taxi' vehicles touting at the airport exit — they will overcharge. From the arrivals hall, walk past the touts to the official metered taxi rank. The journey along the coastal road takes about 40–50 minutes. Taxis are readily available at Da Nang city center as well. This option is comparable to Grab in price but doesn't require a local SIM card or app.",
+      "bookingTip": "Use only Mai Linh or Tien Sa taxis. Confirm the driver turns on the meter before departing. If asked for a flat rate significantly above 450,000 VND, decline and find another taxi."
+    },
+    {
+      "mode": "Public Bus (Route 1)",
+      "duration": "60–75 minutes",
+      "priceRange": "18,000 VND ($0.75)",
+      "frequency": "Every 15–30 minutes, 5:30 AM–6:00 PM",
+      "comfort": "Low",
+      "description": "The public bus (Route 1) running between Da Nang and Hoi An is the cheapest transport option in Vietnam for this distance. Buses depart from Da Nang Bus Station and run along the coastal highway to Hoi An, stopping near the Ancient Town entrance. The fare is just 18,000 VND — extraordinary value. However, buses don't stop directly at the airport (you'd need to reach the main bus station first), the journey takes longer with multiple stops, and the bus can be crowded with standing passengers. Not ideal with large backpacks or rolling luggage, but perfectly fine for day trips or light travelers.",
+      "bookingTip": "Catch the bus from Da Nang Bus Station (not the airport). It stops near the Hoi An market area. Use Google Maps to track your position and know when to get off."
+    },
+    {
+      "mode": "Private Shuttle / Hotel Transfer",
+      "duration": "45–60 minutes",
+      "priceRange": "$15–25 per person",
+      "frequency": "Bookable in advance, runs with set schedules",
+      "comfort": "High",
+      "description": "Many Hoi An hotels and tour operators offer private shuttle transfers from Da Nang Airport directly to your hotel door. These are typically 4- or 7-seater vans that pick you up by name card at the arrivals hall. The convenience of a name-board pickup and direct hotel drop-off is worth the slight premium over Grab, especially if arriving late at night or with a large group. Most hotels can arrange this service when you book your room. Prices range from $15–20 per person or $40–60 for a private vehicle.",
+      "bookingTip": "Arrange the airport transfer at the time of booking your hotel. If your hotel doesn't offer it, companies like GetYourGuide list reliable shuttle operators."
+    },
+    {
+      "mode": "Motorbike Rental (Self-Drive)",
+      "duration": "45–60 minutes",
+      "priceRange": "150,000–200,000 VND/day motorbike rental",
+      "frequency": "Flexible",
+      "comfort": "Medium",
+      "description": "Renting a motorbike in Da Nang and riding the scenic coastal road to Hoi An is a fantastic experience for confident riders. The route passes Marble Mountain, the Dragon Bridge, China Beach (My Khe), and Non Nuoc Beach — all with pull-off points for photos. The coastal road (Truong Sa) hugs the shoreline and is one of the most scenic short rides in Vietnam. Motorbike rentals in Da Nang cost 150,000–200,000 VND per day for an automatic scooter. Park near the Ancient Town and explore on foot.",
+      "bookingTip": "Motorbikes cannot enter Hoi An Ancient Town — park at the designated areas near the entrance (free or small fee). Return your bike in Da Nang or ask about one-way rentals to Hoi An."
+    }
+  ],
+  "tips": [
+    "Grab is the easiest and most transparent option from Da Nang Airport — download the app before you land and ensure you have a local SIM or working mobile data.",
+    "The coastal road via My Khe Beach (Truong Sa road) is far more scenic than the inland highway. Ask your driver to take the beach road.",
+    "Hoi An Ancient Town is best explored on foot or bicycle — motorbikes and cars are restricted in the core heritage zone.",
+    "Traffic between Da Nang and Hoi An can be heavy on weekend mornings. Allow extra time if traveling Friday–Sunday.",
+    "Bicycle rentals in Hoi An cost just 30,000–50,000 VND/day — the town and surrounding rice paddies are flat and perfect for cycling.",
+    "If you hire a motorbike in Da Nang and ride to Hoi An, check whether the rental shop allows one-way returns — some do not."
+  ],
+  "sources": [
+    {
+      "name": "Wander-Lush – 5 Ways to Travel from Da Nang to Hoi An",
+      "url": "https://wander-lush.org/da-nang-to-hoi-an-vietnam/"
+    },
+    {
+      "name": "Two Tickets Anywhere – Da Nang to Hoi An Transport Options",
+      "url": "https://www.twoticketsanywhere.com/da-nang-to-hoi-an/"
+    },
+    {
+      "name": "12Go Asia – Da Nang to Hoi An",
+      "url": "https://12go.asia/en/travel/da-nang/hoi-an"
+    }
+  ]
+}

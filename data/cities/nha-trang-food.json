@@ -1,0 +1,137 @@
+{
+  "introduction": "Nha Trang's food identity is built on the sea. The city sits at the heart of Khánh Hòa province, where the South China Sea delivers an extraordinary variety of seafood year-round — mantis prawns, mud crabs, lobster, sea snails, squid, and freshly shucked oysters are all landed daily at Cầu Đá fishing pier. The city's defining dish, bún chả cá, is a light, clear fish-broth noodle soup made with house-made fish cakes, and it represents the coastal cooking philosophy better than anything else: fresh fish, honest technique, nothing wasted. Nha Trang also claims nem nướng Ninh Hoà — charcoal-grilled pork sausage from the nearby Ninh Hoà district, now considered one of the best grilled meat dishes in central-south Vietnam. The main beach promenade restaurants cater heavily to Russian and international tourists, which means prices are higher and quality more variable than the local eating streets one block back from the shore.",
+  "signatureDishes": [
+    {
+      "name": "Bún Chả Cá",
+      "vietnameseName": "Bún Chả Cá",
+      "description": "Nha Trang's signature noodle soup: thin rice vermicelli in a naturally sweet, clear broth made from fresh fish bones and heads, topped with multiple types of fish cake — steamed (chả hấp), fried golden (chả chiên), and sometimes grilled. Garnished with spring onions, fresh tomato slices, and a squeeze of calamansi lime. The fish cake quality distinguishes the best stalls from average ones — look for hand-pounded fish with real spring and snap.",
+      "priceRange": "30,000–55,000 VND",
+      "whereToTry": "Bún Chả Cá Bà Năm Bảy, 75 Nguyễn Thị Minh Khai (operating since 1977); street stalls on Hùng Vương",
+      "tip": "Ask for extra chả chiên (fried fish cake) on the side — order separately for 10,000–15,000 VND and dip in the sweet chilli sauce."
+    },
+    {
+      "name": "Nem Nướng Ninh Hoà",
+      "vietnameseName": "Nem Nướng",
+      "description": "Charcoal-grilled pork sausage from Ninh Hoà district, 30km north of Nha Trang, made from seasoned ground pork mixed with rice powder, wrapped around a lemongrass stick or bamboo skewer and grilled over open coals. Eaten by self-wrapping in rice paper with fresh herbs, pickled vegetables, and crispy shallots, then dipping in a thick peanut-hoisin sauce. The best nem nướng stalls in Nha Trang import their meat directly from Ninh Hoà.",
+      "priceRange": "60,000–120,000 VND",
+      "whereToTry": "Nem Nướng Hải Dương, 150 Hoàng Văn Thụ; Quán Nem Nướng, Yersin Street area",
+      "tip": "The lemongrass in the wrapping is decorative — don't eat it. The peanut sauce is thick enough to dip the whole wrapped roll."
+    },
+    {
+      "name": "Bánh Căn",
+      "vietnameseName": "Bánh Căn",
+      "description": "Small rice flour cakes cooked in dimpled clay moulds on charcoal braziers, typically filled with quail egg, prawn, or pork. The cakes develop a crispy bottom and a soft, custardy top. Eaten with either sweet fish sauce or a pungent, tangy mắm nêm (fermented anchovy sauce). A Nha Trang street food staple and excellent as a snack or light breakfast.",
+      "priceRange": "20,000–40,000 VND per portion (6–8 cakes)",
+      "whereToTry": "Bánh Căn stalls on Nguyễn Thiện Thuật near Nha Trang Cathedral; evening stalls on 2 Tháng 4 Street",
+      "tip": "Point to a half-cooked cake and indicate your topping preference — the vendors speak limited English but understand gestures."
+    },
+    {
+      "name": "Bún Cá",
+      "vietnameseName": "Bún Cá",
+      "description": "A different noodle soup from bún chả cá — bún cá uses whole fish fillets or chunks rather than fish cakes, in a golden turmeric-tinted broth with dill and tomatoes. The fish is typically Spanish mackerel (cá thu) or wahoo, both caught locally and known for their firm, meaty texture. A heartier bowl than bún chả cá and equally popular at Nha Trang breakfast stalls.",
+      "priceRange": "35,000–65,000 VND",
+      "whereToTry": "Morning stalls on Hùng Vương and Hoàng Văn Thụ; Bún Cá Ngân, 67 Trần Nhân Tông",
+      "tip": "Bún cá broth contains turmeric — expect yellow staining on clothing. The flavour is worth it."
+    },
+    {
+      "name": "Grilled Seafood (Hải Sản Nướng)",
+      "vietnameseName": "Hải Sản Nướng",
+      "description": "Nha Trang's evening outdoor seafood restaurants let you select live specimens from tanks or ice-filled displays, then choose your cooking method — grilled with spring onions and oil, steamed with ginger and beer, wok-fried with tamarind and butter, or deep-fried with garlic. Scallops with spring onion and oil (sò điệp nướng mỡ hành) are the signature snack; lobster and mantis prawn are the showstopper choices. Bring your appetite and a group.",
+      "priceRange": "100,000–800,000 VND depending on seafood choice",
+      "whereToTry": "Vĩnh Hải Seafood Market area, Cầu Đá fishing pier vicinity; Lac Canh Restaurant, 44 Nguyễn Bỉnh Khiêm",
+      "tip": "Negotiate the price before cooking for expensive items like lobster. Point to the live animal and ask 'bao nhiêu?' (how much?)"
+    }
+  ],
+  "bestRestaurants": [
+    {
+      "name": "Lac Canh Restaurant",
+      "address": "44 Nguyễn Bình Khiêm, Nha Trang",
+      "cuisine": "Vietnamese – Grilled Meats and Seafood",
+      "priceRange": "100,000–300,000 VND",
+      "description": "One of the most famous restaurants in Nha Trang, operating for decades in the same location. Famous for its DIY charcoal BBQ tables — raw marinated beef, seafood, and pork arrive on a plate and you grill them yourself on a small tabletop charcoal brazier. Chaotic, smoky, and absolutely delicious. Queue at peak hours.",
+      "highlight": "Decades-old institution — famous for DIY charcoal grilling at the table"
+    },
+    {
+      "name": "Bún Chả Cá Bà Năm Bảy",
+      "address": "75 Nguyễn Thị Minh Khai, Nha Trang",
+      "cuisine": "Street Food – Bún Chả Cá",
+      "priceRange": "35,000–55,000 VND",
+      "description": "Operating since 1977, this is the most respected bún chả cá address in the city. The fish cake recipe has been unchanged for nearly 50 years — hand-pounded daily from fresh-caught fish, with the distinctive snap of high-quality fish cake. The broth is simmered from fish heads and bones each morning. A cash-only local institution.",
+      "highlight": "Operating since 1977 with an unchanged fish cake recipe — the city's most respected bún chả cá"
+    },
+    {
+      "name": "Moc Seafood",
+      "address": "Vĩnh Trường area, Nha Trang",
+      "cuisine": "Seafood",
+      "priceRange": "200,000–600,000 VND",
+      "description": "A mid-range seafood restaurant that sources its fish, crab, squid, and shellfish directly from local boats each morning. Cooking styles span steaming, grilling, hot pot, and stir-frying. The crab with tamarind sauce and the wok-fried morning glory are consistently praised. A reliable mid-market option between the beach tourist restaurants and the basic fishing village stalls.",
+      "highlight": "Daily-sourced local catch — one of the most consistent mid-range seafood options"
+    },
+    {
+      "name": "Ozone Seafood Restaurant",
+      "address": "Beach promenade, Nha Trang",
+      "cuisine": "Premium Seafood",
+      "priceRange": "500,000–1,500,000 VND",
+      "description": "One of Nha Trang's most upmarket seafood restaurants, featuring live tank seafood, expert preparation, and a premium beach-facing setting. The live lobster with garlic butter and the whole steamed grouper are signature dishes. Service is polished and the cocktail list is excellent. Best suited to a special evening meal.",
+      "highlight": "Top-end live seafood with expert preparation and the best beach views in the restaurant strip"
+    },
+    {
+      "name": "Nguyễn Thiện Thuật Night Market",
+      "address": "Nguyễn Thiện Thuật near Nha Trang Cathedral",
+      "cuisine": "Street Food Market",
+      "priceRange": "25,000–80,000 VND",
+      "description": "The informal evening food strip near the cathedral is the most authentic street food eating option in central Nha Trang. Bánh căn stalls, bún thịt nướng, grilled skewers, and fresh bánh tráng cuốn vendors line the pavement. Prices are 40–60% lower than beach promenade restaurants and quality is often higher.",
+      "highlight": "The most authentic and affordable evening street food in central Nha Trang"
+    },
+    {
+      "name": "Trùng Dương Restaurant",
+      "address": "6 Trần Phú (beachfront), Nha Trang",
+      "cuisine": "Vietnamese / Seafood",
+      "priceRange": "150,000–400,000 VND",
+      "description": "A large, well-established beachfront restaurant serving a broad menu of Vietnamese seafood dishes with reliable quality and good English-speaking staff. A convenient option for groups who want ocean views, air conditioning, and familiar Vietnamese classics without navigating back-street local stalls.",
+      "highlight": "Reliable beachfront Vietnamese dining — good quality, English menu, ocean views"
+    }
+  ],
+  "streetFoodAreas": [
+    {
+      "name": "Nguyễn Thiện Thuật Evening Strip",
+      "description": "The street running parallel to the beach promenade (one block inland) is Nha Trang's best value evening eating zone. Bánh căn stalls, grilled meats, bún thịt nướng, fresh fruit shakes, and Vietnamese barbecue vendors operate from about 4pm. Patronised heavily by locals and budget travellers. Plastic stools, open air, and reliably good.",
+      "bestFor": "Bánh căn, grilled meats, bún thịt nướng, fresh juice",
+      "openingHours": "4pm–11pm daily"
+    },
+    {
+      "name": "Vĩnh Hải Fishing Village",
+      "description": "A working fishing village on the northern edge of Nha Trang, where boats land their catch from 4–7am every morning and local restaurants cook the same-day haul for breakfast. Raw, unpolished, and excellent — this is where Nha Trang fishermen eat. Grilled squid, fresh crab, and bowls of fish soup at prices that predate tourism.",
+      "bestFor": "Early morning fresh seafood, grilled squid, fish soup",
+      "openingHours": "4am–11am (best 5–8am when boats arrive)"
+    },
+    {
+      "name": "Hùng Vương Street (Breakfast Strip)",
+      "description": "The long commercial street through the residential part of Nha Trang becomes a morning food corridor from 6–10am. Multiple bún chả cá stalls, bánh mì vendors, xôi (sticky rice) sellers, and cháo (rice porridge) stalls serve the commuter crowd. This is the most authentic morning eating experience in Nha Trang.",
+      "bestFor": "Bún chả cá, bánh mì, xôi, local breakfast",
+      "openingHours": "6am–11am (morning breakfast focused)"
+    }
+  ],
+  "foodTips": [
+    "Seafood pricing in Nha Trang is market-rate and fluctuates daily. Always establish the price of live lobster, crab, and mantis prawns before cooking — ask 'bao nhiêu một con?' (how much per piece?).",
+    "The beach promenade (Trần Phú) restaurants charge a significant location premium. Eating one block back on Nguyễn Thiện Thuật typically costs 40–60% less for equivalent food.",
+    "Bún chả cá and bún cá are morning dishes in Nha Trang — most dedicated stalls close by noon. The best fish cake is made fresh each morning from the overnight catch.",
+    "March to August is the best season for seafood in Nha Trang — the South China Sea is calm, allowing small fishing boats to reach deeper water. September to February can see reduced variety during storm season.",
+    "Nem nướng (grilled pork sausage) from Ninh Hoà is typically sold by rolling-cart vendors in the evening. These carts often have the best quality product at the lowest price.",
+    "Nha Trang has a large Russian tourist community, which has spawned a number of Russian-menu restaurants on the north end of Trần Phú. These are not Vietnamese restaurants — look for Vietnamese-language signs and local customers."
+  ],
+  "sources": [
+    {
+      "name": "Heera Travel – Nha Trang Food Guide 2025",
+      "url": "https://heeratravel.com/nha-trang-food-guide-2025-best-street-food-seafood-local-eats/"
+    },
+    {
+      "name": "VinWonders – Nha Trang Street Food",
+      "url": "https://vinwonders.com/en/wonderpedia/news/nha-trang-street-food-best-culinary-specialties-where-to-find-them/"
+    },
+    {
+      "name": "Jungle Boss Tours – Nha Trang Restaurants Guide",
+      "url": "https://junglebosstours.com/explorer/tourism-blog/nha-trang-restaurants-food-guide"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "introduction": "Sapa's food culture is defined by its altitude, its cold mountain climate, and the culinary traditions of the ethnic minority communities — Hmong, Dao, Tay, and Giáy — who have farmed these ridges for centuries. The most dramatic and most authentically local food experience in Sapa is thắng cố, the traditional Hmong horse and buffalo offal stew eaten communally from iron cauldrons at weekly highland markets, seasoned with over twenty aromatic mountain herbs. It is not for everyone, but it is real. Beyond the challenging specialties, Sapa's menu is shaped by the mountain environment: locally caught salmon from cold-water fish farms, black Hmong chicken (gà đen) slow-simmered with highland herbs, bamboo-cooked sticky rice (cơm lam), and wild boar from the surrounding forests. The town centre caters heavily to trekkers and domestic weekend tourists, with restaurants ranging from Vietnamese staples to Western comfort food. The most interesting eating happens at the Bắc Hà and Cán Cấu markets, where ethnic minority vendors sell food they cook for themselves rather than for visitors.",
+  "signatureDishes": [
+    {
+      "name": "Thắng Cố",
+      "vietnameseName": "Thắng Cố",
+      "description": "The most iconic Hmong dish in the northern mountains: horse or buffalo offal (intestines, liver, heart, lungs) cooked with the whole skeleton and over twenty mountain herbs in a large iron cauldron. The stew is rich, funky, deeply savoury, and almost medicinal from the mountain herbs. Traditionally eaten at highland markets while drinking home-distilled rice wine. An extreme local experience — not a dish for the squeamish, but completely authentic.",
+      "priceRange": "30,000–60,000 VND per bowl",
+      "whereToTry": "Sapa Love Market (weekends); Bắc Hà Sunday Market, 100km from Sapa; Cán Cấu Saturday Market",
+      "tip": "Thắng cố is always eaten with a small cup of corn rice wine (rượu ngô) — the two were designed for each other. Decline politely if offered multiple refills."
+    },
+    {
+      "name": "Cơm Lam",
+      "vietnameseName": "Cơm Lam",
+      "description": "Mountain sticky rice cooked inside a fresh bamboo tube plugged with a leaf, placed directly in the embers of a fire until the bamboo chars and the rice absorbs the green bamboo flavour. The tube is split open at the table and the cylindrical rice is eaten with salt and sesame dipping sauce, or alongside grilled meats. Found throughout the highland markets and from roadside vendors.",
+      "priceRange": "15,000–30,000 VND per tube",
+      "whereToTry": "Roadside vendors on Cat Cat Village road; highland market stalls; Sapa town centre evening vendors",
+      "tip": "The bamboo tube imparts a faint sweetness and grassiness to the rice that is impossible to replicate by other cooking methods."
+    },
+    {
+      "name": "Gà Đen Hầm Thuốc Bắc (Black Hmong Chicken Soup)",
+      "vietnameseName": "Gà Đen Hầm Thuốc Bắc",
+      "description": "The gà đen (black-skinned, black-boned, dark-feathered Hmong chicken) is a rare breed known for its firm, dense meat and exceptionally rich flavour compared to commercial chicken. In Sapa, it is typically slow-simmered for two to three hours in a clay pot with a blend of Chinese and highland herbs — ginger root, schisandra berries, red dates, and goji berries — producing a medicinal-tasting yet delicious golden broth. A warming, restorative dish after a day of cold-weather trekking.",
+      "priceRange": "150,000–250,000 VND per clay pot",
+      "whereToTry": "Chợ Tình Quán restaurant; ChuSu Kitchen; local restaurants on Mường Hoa Valley road",
+      "tip": "Order it 30 minutes before you need it — the chicken must be simmered fresh and rushing it produces a tough bird."
+    },
+    {
+      "name": "Cá Hồi Hấp (Sapa Salmon)",
+      "vietnameseName": "Cá Hồi",
+      "description": "Sapa's cold-water streams and fish farms produce salmon (cá hồi) that are genuinely of high quality — firm, orange-fleshed, and far superior to farmed salmon from lower altitudes. Prepared steamed with ginger and spring onion, grilled with lemon and dill, or as a hotpot with forest mushrooms and sour bamboo shoots. An unexpected luxury at the top of Vietnam.",
+      "priceRange": "200,000–400,000 VND per fish",
+      "whereToTry": "Halosa Restaurant; restaurants along Mường Hoa Valley; Cầu Mây tourist area fish restaurants",
+      "tip": "Sapa salmon is the same Atlantic salmon species but raised in mountain spring water at near-freezing temperatures. Ask to see the fish before cooking."
+    },
+    {
+      "name": "Lợn Cắp Nách (Suckling Pig)",
+      "vietnameseName": "Lợn Cắp Nách",
+      "description": "The small-breed highland pigs raised by ethnic minority communities in Sapa are called 'armpit pigs' (lợn cắp nách) because the piglets are small enough to carry under one arm. They are spit-roasted over wood fires until the skin blisters into crackling and the meat becomes fall-off-the-bone tender. One of the great highland eating experiences, most easily found at the weekend markets.",
+      "priceRange": "100,000–200,000 VND per portion",
+      "whereToTry": "Bắc Hà Sunday Market; Sapa Love Market vendors; highland market stalls near Lao Cai town",
+      "tip": "The crackling (da chiên) is the prize — arrive early at the market before the crispy portions are sold out."
+    }
+  ],
+  "bestRestaurants": [
+    {
+      "name": "Chợ Tình Quán",
+      "address": "Sapa town centre, Lào Cai Province",
+      "cuisine": "Highland Vietnamese – Hmong Inspired",
+      "priceRange": "150,000–350,000 VND",
+      "description": "A restaurant serving hearty highland cooking with a cultural atmosphere, including sizzling hotplates of venison with highland herbs, black chicken herbal soup, and corn rice wine. Live ethnic music performances some evenings add to the experience. Warm and welcoming, with a menu designed to introduce highland flavours to visitors.",
+      "highlight": "Live ethnic music and highland specialties including venison and black chicken in one venue"
+    },
+    {
+      "name": "Halosa Restaurant – Lounge & Café",
+      "address": "Sapa town area, overlooking Mường Hoa Valley",
+      "cuisine": "Vietnamese / International",
+      "priceRange": "100,000–300,000 VND",
+      "description": "A highly rated restaurant offering both local and international dishes with extraordinary valley views. The salmon dishes are particularly praised — locally farmed fish prepared with mountain herbs. The lounge setting is one of the most atmospheric in Sapa, making it popular for both dinner and post-trek cocktails.",
+      "highlight": "Spectacular Mường Hoa Valley views combined with fresh local salmon and welcoming atmosphere"
+    },
+    {
+      "name": "ChuSu Kitchen",
+      "address": "Sapa town area",
+      "cuisine": "Vietnamese / Home Cooking",
+      "priceRange": "80,000–200,000 VND",
+      "description": "A small, family-run kitchen with a cosy atmosphere and notably fresh ingredients. Fresh spring rolls, homemade rice wine, and slow-braised meat dishes are highlights. TripAdvisor reviewers consistently praise the quality-to-price ratio and the warmth of the owner. A good choice for solo travellers and couples seeking an intimate local meal.",
+      "highlight": "Family-run kitchen with homemade rice wine and some of the freshest spring rolls in Sapa"
+    },
+    {
+      "name": "Sapa Essence Restaurant",
+      "address": "Sapa town centre",
+      "cuisine": "Traditional Vietnamese",
+      "priceRange": "80,000–220,000 VND",
+      "description": "Known for its delectable local dishes and reasonable prices, Sapa Essence is consistently recommended by first-time visitors for its reliable quality and the owner's attentive hospitality. Black chicken soup, cơm lam, and wok-fried bamboo shoots with garlic are menu highlights.",
+      "highlight": "Consistently praised for price-to-quality ratio and warm owner hospitality"
+    },
+    {
+      "name": "Mountain Bar & Pub",
+      "address": "Sapa town, Cầu Mây Street area",
+      "cuisine": "Western Pub / Vietnamese",
+      "priceRange": "80,000–200,000 VND",
+      "description": "The most popular gathering point for international trekkers in Sapa, serving a mix of Western comfort food (burgers, pasta, pizza) and Vietnamese dishes alongside a full bar. Helpful staff who speak good English can arrange trekking guides. A practical choice for the first or last night in Sapa when you want familiarity.",
+      "highlight": "Most welcoming trekker hub in Sapa — good English, trekking info, and cold beer by a fire"
+    },
+    {
+      "name": "Bắc Hà Sunday Market Stalls",
+      "address": "Bắc Hà town, 100km from Sapa (1.5–2 hour drive)",
+      "cuisine": "Ethnic Market Food",
+      "priceRange": "10,000–80,000 VND",
+      "description": "The Sunday market at Bắc Hà is one of the largest ethnic minority markets in northern Vietnam, drawing Hmong, Dao, and Giáy traders from across the region. Food vendors sell thắng cố from cauldrons, roast suckling pig, cơm lam, corn rice wine, and traditional mountain herbs. The market food experience here is more authentic than anything available in Sapa town itself.",
+      "highlight": "The most authentic highland market food experience in northern Vietnam — thắng cố, roast pig, rice wine"
+    }
+  ],
+  "streetFoodAreas": [
+    {
+      "name": "Sapa Town Market Area",
+      "description": "The covered market in central Sapa has food stalls on the upper floor serving pho, bún bò, and simple rice dishes to local residents and traders. Downstairs, fresh mountain produce — black sesame, highland mushrooms, medicinal herbs, and dried chilli — are sold by Hmong women who walk down from surrounding villages.",
+      "bestFor": "Local breakfast, fresh mountain produce, highland herbs",
+      "openingHours": "6am–2pm daily"
+    },
+    {
+      "name": "Cầu Mây Tourist Street (Evening)",
+      "description": "The main tourist street in Sapa town becomes most lively after 6pm with restaurants and street food vendors catering to trekkers returning from day hikes. Hot soups, grilled skewers, corn rice wine vendors, and highland snack sellers line both sides. More expensive than local spots but convenient after a long day.",
+      "bestFor": "Hot soups, grilled snacks, corn rice wine, post-trek recovery meals",
+      "openingHours": "5pm–11pm"
+    },
+    {
+      "name": "Cat Cat Village Path",
+      "description": "The walking trail down to Cat Cat village (1km from Sapa town) has roadside cơm lam vendors selling bamboo rice from early morning, alongside freshly roasted corn and simple snack stalls. The food here is aimed at walkers rather than restaurants — portable, cheap, and authentic.",
+      "bestFor": "Cơm lam, grilled corn, walking snacks",
+      "openingHours": "7am–5pm"
+    }
+  ],
+  "foodTips": [
+    "Thắng cố is only available at highland markets — Bắc Hà on Sundays, Cán Cấu on Saturdays, and the Sapa Love Market on weekends. It is not served in normal restaurants. Consider hiring a local Hmong guide who can take you directly to the cauldron vendor.",
+    "Sapa's altitude means alcohol hits faster and temperatures drop rapidly at night. Corn rice wine (rượu ngô) is potent at 30–45% alcohol — approach with caution, especially at markets where generous refills are customary hospitality.",
+    "The black Hmong chicken (gà đen) takes at least two hours to cook properly. If you want it for dinner, order it when you arrive at the restaurant for lunch, or call ahead.",
+    "Sapa's salmon farms are visited by some trekking routes — asking your guide to include a fish farm stop allows you to choose your own fish and watch it prepared.",
+    "Mountain mushrooms (nấm rừng) are harvested seasonally by local villagers and appear fresh in markets from June to October. Stir-fried with garlic and highland herbs, they are extraordinary. Buy fresh from morning market vendors.",
+    "Food prices in Sapa town are notably higher than the Vietnamese lowland average — budget 80,000–150,000 VND per main dish at sit-down restaurants. Market food is much cheaper at 15,000–50,000 VND per item."
+  ],
+  "sources": [
+    {
+      "name": "Vietnam Airlines – Sapa Food Guide: 20 Must-Try Dishes",
+      "url": "https://www.vietnamairlines.com/us/en/plan-book/travel/travel-guide/sapa-food"
+    },
+    {
+      "name": "Kampa Tour – Best Restaurants in Sapa",
+      "url": "https://kampatour.com/sapa-restaurants"
+    },
+    {
+      "name": "Sapa Nomad – 15+ Sapa Restaurants",
+      "url": "https://sapanomad.com/sapa-restaurants/"
+    }
+  ]
+}

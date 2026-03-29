@@ -1,0 +1,145 @@
+{
+  "introduction": "Da Lat's food culture is inseparable from its 1,500-metre altitude and its year-round spring-like climate. The cool air that makes the city a romantic highland retreat also makes it possible to grow strawberries, artichokes, asparagus, broccoli, and dozens of other temperate vegetables that cannot survive Vietnam's coastal heat. The result is a cuisine built around produce that tastes different here — sweeter, crisper, and more vibrant. The city's coffee culture is equally remarkable: Da Lat's Arabica and robusta farms, set among pine forests, supply specialty roasters across Vietnam, and a morning spent at a lakeside café nursing a drip coffee watching mist roll over the valley is one of Vietnam's great simple pleasures. Street food in Da Lat revolves around snacks designed to be eaten while wandering the night market — bánh tráng nướng (grilled rice paper), bánh căn (mini rice pancakes), and freshly grilled pork sausage are the building blocks of every evening outing.",
+  "signatureDishes": [
+    {
+      "name": "Bánh Tráng Nướng",
+      "vietnameseName": "Bánh Tráng Nướng",
+      "description": "Da Lat's most iconic street snack, sometimes called 'Vietnamese pizza' despite being nothing like it. A thin round rice paper sheet is grilled over charcoal and loaded with ingredients — egg, butter, dried shrimp or beef jerky, spring onions, and mayonnaise — then folded in half and eaten immediately while still crackling hot. The charcoal gives the rice paper a slightly smoky flavour and a shatter-crisp texture. Every topping combination is different between vendors.",
+      "priceRange": "15,000–30,000 VND",
+      "whereToTry": "Bánh Tráng Nướng Chị Huyền, Nha Chung Street (beside the church); night market stalls on Nguyễn Thị Minh Khai",
+      "tip": "Eat it within two minutes of leaving the grill — the egg and mayonnaise make it soggy fast. Watch the vendor make it and eat immediately."
+    },
+    {
+      "name": "Bánh Căn Đà Lạt",
+      "vietnameseName": "Bánh Căn",
+      "description": "Da Lat's version of the small rice flour cakes baked in clay moulds is distinctive from other Vietnamese versions: here they are almost always served with a thick, sweet sauce and toppings that include quail egg, spring onion oil, and tiny dried shrimp. An order typically comes as eight to twelve small cakes on a wooden tray. Comfort food at its most elementary and deeply warming on a cool Da Lat evening.",
+      "priceRange": "20,000–40,000 VND",
+      "whereToTry": "Bánh Căn Hoàng Lan, Tang Bạt Hổ Street; night market area stalls",
+      "tip": "Pour a little of the sweet fish dipping sauce over the whole tray rather than individual cakes for more even seasoning."
+    },
+    {
+      "name": "Nem Nướng Đà Lạt",
+      "vietnameseName": "Nem Nướng",
+      "description": "Da Lat's grilled pork sausage differs from the Ninh Hoà style — the pork is mixed with wood ear mushrooms and glass noodles, giving it a distinctly Northern-influenced character. Wrapped in rice paper with fresh lettuce, cucumber, pickled carrot, and sliced starfruit, and dipped in a hoisin-peanut sauce. A staple of the Da Lat night market and one of the city's most beloved street foods.",
+      "priceRange": "40,000–80,000 VND",
+      "whereToTry": "Night market stalls on Nguyễn Thị Minh Khai; street vendors on Phan Đình Phùng",
+      "tip": "The starfruit slices in the wrapping provide a tart counterpoint to the fatty pork — include them even if you don't normally eat starfruit."
+    },
+    {
+      "name": "Bánh Ướt Lòng Gà",
+      "vietnameseName": "Bánh Ướt Lòng Gà",
+      "description": "One of Da Lat's most distinctive dishes and largely unique to the city: steamed fresh rice roll (bánh ướt) topped with chicken offal — gizzards, liver, and heart — tossed in garlic oil and thinly sliced, with fresh herbs and a vinegar-chilli fish sauce. An unusual but remarkably good combination of soft, silky rice paper against the firm, mineral-rich chicken offal.",
+      "priceRange": "25,000–45,000 VND",
+      "whereToTry": "Tang Bạt Hổ Street specialist stalls; Bánh Ướt Lòng Gà LONG, Tang Bạt Hổ",
+      "tip": "If the idea of chicken offal is unfamiliar, start with the gizzard (dạ dày) which is the mildest. The liver has the most intense flavour."
+    },
+    {
+      "name": "Kem Bơ (Avocado Ice Cream)",
+      "vietnameseName": "Kem Bơ",
+      "description": "Da Lat grows the best avocados in Vietnam — large, buttery, and rich — and the local ice cream tradition treats avocado as a dessert rather than a savoury ingredient. Kem bơ is simply ripe avocado half-frozen and served with coconut cream and crushed ice. Alternatively served as a thick milkshake. One of Vietnam's genuinely great simple pleasures, available everywhere in Da Lat for less than 20,000 VND.",
+      "priceRange": "15,000–30,000 VND",
+      "whereToTry": "Tang Bạt Hổ Street ice cream vendors; Cà Phê Mê Linh, 77 Tăng Bạt Hổ; night market",
+      "tip": "Order it 'ít đường' (less sugar) to let the natural richness of the avocado come through. Da Lat avocados are sweet enough without added sugar."
+    },
+    {
+      "name": "Cà Phê Đà Lạt (Da Lat Coffee)",
+      "vietnameseName": "Cà Phê Đà Lạt",
+      "description": "Da Lat's coffee is considered the best in Vietnam by many specialty roasters — the cool climate allows Arabica to develop complex acidity and fruity notes impossible in hotter growing regions. The city has both traditional Vietnamese drip coffee (cà phê phin) served over condensed milk, and a growing third-wave specialty scene with hand-pour and cold brew. Sitting at a lakeside café watching mist burn off in the morning is a quintessential Da Lat experience.",
+      "priceRange": "20,000–60,000 VND",
+      "whereToTry": "Cà Phê Túy Tiên, 66 Tăng Bạt Hổ; Da Lat Coffee, 8 Hoàng Diệu; lakeside cafés on Hồ Xuân Hương",
+      "tip": "Ask for 'cà phê Arabica Đà Lạt' to ensure you're drinking the local highland beans rather than generic robusta blend."
+    }
+  ],
+  "bestRestaurants": [
+    {
+      "name": "Dốc Nhà Làng",
+      "address": "Upper street area, Da Lat",
+      "cuisine": "Traditional Vietnamese – Highlands",
+      "priceRange": "80,000–200,000 VND",
+      "description": "A charming restaurant in a traditional wooden highland house serving Da Lat's most distinctive ingredients — artichoke soup, forest mushrooms, asparagus with garlic, and grilled pork with highland herbs. The artichoke tea (trà atisô) here is exceptional. Cosy, warm, and recommended by Lonely Planet for its authentic highland Vietnamese cooking.",
+      "highlight": "Best place in Da Lat to experience highland Vietnamese ingredients like artichoke and forest mushrooms"
+    },
+    {
+      "name": "Le Rabelais (Dalat Palace Hotel)",
+      "address": "12 Trần Phú, Da Lat",
+      "cuisine": "French-Vietnamese Fine Dining",
+      "priceRange": "500,000–1,500,000 VND",
+      "description": "The dining room of the iconic French colonial Dalat Palace Hotel, serving classic French cuisine with Vietnamese ingredients in a grand 1922 ballroom setting. Crystal chandeliers, white tablecloths, and liveried staff. The menu changes seasonally and uses produce from the hotel's own kitchen garden. The most formal dining experience in Da Lat.",
+      "highlight": "Fine dining in a perfectly preserved 1922 French colonial ballroom — a time capsule experience"
+    },
+    {
+      "name": "V Café",
+      "address": "1/1 Bùi Thị Xuân, Da Lat",
+      "cuisine": "Vietnamese / International",
+      "priceRange": "80,000–250,000 VND",
+      "description": "One of the most popular foreign-friendly restaurants in Da Lat, beloved for its warm fireplace, reliable Vietnamese and Western food, and good selection of wines. The setting in a restored colonial villa with a garden terrace makes it particularly inviting on cool evenings. Excellent hot artichoke soup and reliable bánh mì.",
+      "highlight": "The go-to warm, fireplace evening restaurant for travellers visiting Da Lat in the cooler months"
+    },
+    {
+      "name": "Trúc Lâm Viên",
+      "address": "3 Đặng Thái Thân, Da Lat",
+      "cuisine": "Vietnamese Vegetarian",
+      "priceRange": "50,000–150,000 VND",
+      "description": "A consistently excellent vegetarian Vietnamese restaurant serving dishes made primarily from Da Lat's highland vegetables and tofu. Mushroom hotpot, vegetarian bún bò, and mock-meat dishes using jackfruit and tofu are highlights. Very popular with Vietnamese domestic tourists on weekend temple visits.",
+      "highlight": "Best vegetarian Vietnamese restaurant in Da Lat — excellent use of local highland produce"
+    },
+    {
+      "name": "Da Lat Night Market Food Stalls",
+      "address": "Nguyễn Thị Minh Khai Street, Da Lat",
+      "cuisine": "Street Food Market",
+      "priceRange": "15,000–80,000 VND",
+      "description": "The Da Lat Night Market is the concentrated hub of the city's best street food — bánh tráng nướng, bánh căn, nem nướng, grilled corn, fresh strawberries, and artisanal roasted nuts fill the covered stalls. Best visited after 6pm when the evening chill descends and hot snacks become irresistible.",
+      "highlight": "The most concentrated street food experience in Da Lat — all the city's signature snacks in one market"
+    },
+    {
+      "name": "Cà Phê Túy Tiên",
+      "address": "66 Tăng Bạt Hổ, Da Lat",
+      "cuisine": "Café / Vietnamese Coffee",
+      "priceRange": "25,000–50,000 VND",
+      "description": "One of the most recommended local cafés for Da Lat Arabica coffee, served in the traditional phin drip filter style. The café also makes a very good kem bơ (avocado ice cream shake) and provides a quiet retreat from the night market crowds. Popular with local college students and long-stay travellers.",
+      "highlight": "Excellent single-origin Da Lat Arabica in a quiet local café — the antidote to tourist café crowds"
+    }
+  ],
+  "streetFoodAreas": [
+    {
+      "name": "Da Lat Night Market (Chợ Đêm)",
+      "description": "The covered night market on Nguyễn Thị Minh Khai is the hub of all Da Lat evening street food. Bánh tráng nướng vendors with their glowing charcoal grills, bánh căn stalls, nem nướng carts, fresh strawberry juice stands, and dried fruit sellers create a lively, aromatic environment from 6pm until midnight. Most affordable street food in the city.",
+      "bestFor": "Bánh tráng nướng, bánh căn, nem nướng, fresh strawberries, dried fruit",
+      "openingHours": "6pm–midnight daily"
+    },
+    {
+      "name": "Tang Bạt Hổ Street",
+      "description": "One of Da Lat's best local eating streets, running along the lakefront, lined with bánh căn stalls, bánh ướt lòng gà specialists, kem bơ vendors, and local rice restaurants. This is where Da Lat residents eat — less polished than the tourist night market but more authentic. Morning brings pho and rice porridge vendors.",
+      "bestFor": "Bánh ướt lòng gà, bánh căn, kem bơ, local breakfast",
+      "openingHours": "7am–10pm"
+    },
+    {
+      "name": "Phan Đình Phùng Morning Market Area",
+      "description": "The streets around Đà Lạt central market (Chợ Đà Lạt) on Phan Đình Phùng are most active from 6–10am with highland produce vendors, fresh strawberry and artichoke sellers, coffee shops, and morning noodle stalls. The best time to buy Da Lat's famous produce to cook yourself or take home.",
+      "bestFor": "Fresh highland produce, strawberries, artichokes, local breakfast",
+      "openingHours": "6am–noon (morning market focused)"
+    }
+  ],
+  "foodTips": [
+    "Da Lat's temperatures drop to 12–15°C in the evenings from November to March. Bring a layer and lean into the warmth of hot soups, artichoke tea, and freshly grilled street snacks — this is exactly the right food for the climate.",
+    "The local avocados (quả bơ) are dramatically better than anything available in the lowlands. Buy them from the central market in the morning — a large ripe avocado costs 10,000–20,000 VND.",
+    "Strawberry-picking farms on the outskirts of Da Lat let you eat directly from the plants for a fixed admission fee. The strawberries grown at altitude are smaller but far sweeter than lowland varieties.",
+    "Da Lat's specialty artichoke tea (trà atisô) is available hot or cold at most cafés. It is believed locally to support liver health and tastes pleasantly herbal with a slight bitterness.",
+    "The Da Lat Night Market is most crowded on weekends with Vietnamese domestic tourists. Visit on weekday evenings for shorter queues at bánh tráng nướng vendors.",
+    "If visiting in October–November (harvest season), look for local persimmons (hồng Đà Lạt) and dried mulberries — both are Da Lat specialties not available elsewhere in Vietnam."
+  ],
+  "sources": [
+    {
+      "name": "Truong Sa Tour – Da Lat Street Food Guide",
+      "url": "https://truongsatour.com/en/da-lat-street-food-6-must-try-dishes-for-tourists"
+    },
+    {
+      "name": "Colorful Journeys – Best Foods in Dalat",
+      "url": "https://www.colorfuljourneys.com/articles/food-specialties-in-dalat"
+    },
+    {
+      "name": "TripAdvisor – Best Street Food in Da Lat",
+      "url": "https://www.tripadvisor.com/Restaurants-g293922-c10686-Da_Lat_Lam_Dong_Province.html"
+    }
+  ]
+}

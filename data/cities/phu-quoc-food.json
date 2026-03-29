@@ -1,0 +1,137 @@
+{
+  "introduction": "Phú Quốc's food identity rests on three pillars: the sea, the fish sauce factories, and the pepper farms. Vietnam's largest island produces the country's most celebrated nước mắm (fish sauce) — the Phú Quốc designation is protected by the EU as a geographical indication, meaning genuine Phú Quốc fish sauce can only be made here, from anchovy caught in the surrounding Gulf of Thailand waters. The pepper farms in the island's north (Dương Đông and Cửa Dương areas) grow some of Southeast Asia's finest black, red, and white peppercorns, and the spice appears in local cooking from fresh crab dipping sauce to cocktail rimming. The seafood itself is extraordinary — lobster, mud crab, giant mantis prawns, and red snapper are all landed daily at Dương Đông fishing harbour, and the island's restaurants range from basic fishing village stalls to fine-dining resorts. The signature dish of the island is gỏi cá trích — a raw herring salad with shredded coconut, herbs, and onions, wrapped in rice paper, that is uniquely Phú Quốc and unlike any other Vietnamese fish dish.",
+  "signatureDishes": [
+    {
+      "name": "Gỏi Cá Trích",
+      "vietnameseName": "Gỏi Cá Trích",
+      "description": "Phú Quốc's most distinctive dish: thinly sliced raw herring (cá trích) marinated briefly in calamansi lime juice, mixed with shredded fresh coconut, onions, sliced chilli, roasted peanuts, and fresh Vietnamese herbs. Self-wrapped in soft rice paper and dipped in a tangy house-made fish sauce with garlic and chilli. The herring is caught in the surrounding Gulf waters and must be eaten extremely fresh — same-day catch only.",
+      "priceRange": "80,000–150,000 VND per set",
+      "whereToTry": "Gỏi Cá Trích restaurants on Dương Đông fishing harbour; Làng Chài seafood area",
+      "tip": "This dish lives or dies on freshness — the herring must be same-day catch. Restaurants at the Dương Đông fishing harbour serve the freshest. Never order it at a hotel buffet."
+    },
+    {
+      "name": "Ghẹ Hàm Ninh (Hàm Ninh Crab)",
+      "vietnameseName": "Ghẹ Hàm Ninh",
+      "description": "The mud crabs from Hàm Ninh fishing village on the east coast of Phú Quốc are so prized that the village name has become synonymous with quality crab throughout southern Vietnam. The crabs are typically steamed plain to showcase their naturally sweet, dense meat, or prepared with Phú Quốc pepper — either black pepper butter sauce or salt-and-pepper style. Eating steamed crab at Hàm Ninh pier with ice-cold Saigon beer is one of the island's great simple pleasures.",
+      "priceRange": "200,000–500,000 VND per crab depending on size",
+      "whereToTry": "Hàm Ninh fishing village restaurants, 18km east of Dương Đông; Cua Ghẹ Nhà Thùng, Hàm Ninh pier",
+      "tip": "Take a motorbike or taxi to Hàm Ninh village for the freshest crabs at local prices. The same crabs sold in Dương Đông town restaurants cost 30–50% more."
+    },
+    {
+      "name": "Bún Quậy",
+      "vietnameseName": "Bún Quậy",
+      "description": "A rice noodle dish unique to Phú Quốc: soft fresh rice noodles served in a bowl of shrimp and pork broth, topped with stir-fried whole shrimp, squid, and sliced pork, all cooked in a sweet, slightly caramelised sauce. The name quậy (to stir) refers to mixing the noodles vigorously with the sauce and toppings before eating. Served with fresh herb plate, sliced chilli, and bean sprouts.",
+      "priceRange": "50,000–90,000 VND",
+      "whereToTry": "Bún Quậy Ông Sáu, 126 Trần Hưng Đạo, Dương Đông; multiple stalls near Dương Đông Night Market",
+      "tip": "Stir everything vigorously as the name demands — the sauce coats the noodles differently from standing still in broth."
+    },
+    {
+      "name": "Bò Né (Sizzling Beef Plate)",
+      "vietnameseName": "Bò Né",
+      "description": "One of Phú Quốc's most popular morning dishes: a sizzling cast-iron plate of pan-fried beef slices, cracked eggs, pâté, and grilled tomato, served with fresh-baked baguette. Technically a Vietnamese breakfast dish found all over the south, but the Phú Quốc version gains distinction from the local sea salt and Phú Quốc pepper used in the marinade. A hearty, flavourful morning meal that requires bread for mopping up the juices.",
+      "priceRange": "60,000–100,000 VND",
+      "whereToTry": "Bò Né restaurants on Trần Hưng Đạo street, Dương Đông; morning stalls near the main market",
+      "tip": "Order before the pan arrives and be ready — the sizzle fades fast and the egg is best when the yolk still runs onto the beef."
+    },
+    {
+      "name": "Nước Mắm Phú Quốc (Fish Sauce Tasting)",
+      "vietnameseName": "Nước Mắm",
+      "description": "Phú Quốc fish sauce is not just a condiment but a food experience worth seeking out. The 35° strength (highest grade) nước mắm is amber-golden, clean, intensely savoury without bitterness, with a long umami finish. Fish sauce factories in Dương Đông and Dương Tơ (Khải Hoàn, Thanh Hà factories) offer free tours and tasting. The difference between Phú Quốc Grade 1 and supermarket brands is as dramatic as comparing single-malt whisky to cheap blended spirits.",
+      "priceRange": "60,000–200,000 VND per bottle",
+      "whereToTry": "Khải Hoàn Fish Sauce Factory, Dương Đông; Thanh Hà Factory, National Road 1; Dương Đông market stalls",
+      "tip": "Buy the 35° (35 degrees nitrogen, highest grade) bottles directly from the factory for guaranteed authenticity. Avoid souvenir shops — the percentage dilutes the further from the factory."
+    }
+  ],
+  "bestRestaurants": [
+    {
+      "name": "Xin Chào",
+      "address": "Dương Đông, Phú Quốc",
+      "cuisine": "Vietnamese Seafood",
+      "priceRange": "200,000–600,000 VND",
+      "description": "One of the most popular seafood restaurants among both Vietnamese domestic tourists and international visitors, set with sea views and a live seafood tank. Known for excellent fresh seafood at fair prices, friendly English-speaking staff, and a house grilled lobster with Phú Quốc pepper butter that guests consistently praise. Sunset timing makes this a particularly atmospheric evening choice.",
+      "highlight": "Top choice for Vietnamese families and international visitors — sea views and excellent fresh lobster"
+    },
+    {
+      "name": "Ra Khoi",
+      "address": "Dương Đông area, Phú Quốc",
+      "cuisine": "Local Vietnamese Seafood",
+      "priceRange": "150,000–400,000 VND",
+      "description": "One of the busiest local seafood spots on the island, beloved for its authentic flavours and market-rate pricing. The tamarind crab is a standout — crab halved and wok-fried in a thick, sweet-sour tamarind paste with garlic and chilli. The grilled lobster with garlic butter is generous and correctly cooked. Arrives full every evening.",
+      "highlight": "The best tamarind crab on the island — always packed with local Vietnamese diners"
+    },
+    {
+      "name": "Crab House Phu Quoc",
+      "address": "Dương Đông area, Phú Quốc",
+      "cuisine": "Viet-Cajun Seafood",
+      "priceRange": "300,000–800,000 VND",
+      "description": "A unique restaurant blending southern American cajun seafood preparation with Vietnamese flavours. The housemade crab sauce — lemongrass, chilli, Cajun spices, and garlic butter — is the island's most talked-about condiment. Whole crab, crawfish, and lobster are served in bags to be cracked at the table. Informal, fun, and utterly different from any other Vietnamese seafood restaurant.",
+      "highlight": "Only Vietnamese-Cajun fusion restaurant on the island — the housemade crab sauce is extraordinary"
+    },
+    {
+      "name": "Bún Quậy Ông Sáu",
+      "address": "126 Trần Hưng Đạo, Dương Đông, Phú Quốc",
+      "cuisine": "Street Food – Bún Quậy",
+      "priceRange": "60,000–90,000 VND",
+      "description": "The most famous and most consistently recommended bún quậy restaurant on the island. The broth is made fresh daily from shrimp heads and pork bones; the seafood toppings arrive barely cooked and glossy in their sweet-savoury sauce. A small, unpretentious local restaurant that has built a loyal following over many years.",
+      "highlight": "The definitive bún quậy on the island — Phú Quốc's signature noodle dish done perfectly"
+    },
+    {
+      "name": "Tình Biển Seafood",
+      "address": "Dương Đông, Phú Quốc",
+      "cuisine": "Vietnamese Seafood – Local",
+      "priceRange": "150,000–350,000 VND",
+      "description": "A family-run seafood restaurant frequented primarily by local Vietnamese families and domestic tourists — a reliable quality indicator. The menu covers all the island seafood classics: grilled oysters, steamed crab, wok-fried squid with lemongrass, and grilled herring. Prices are reasonable and the owners source from the nearby fishing harbour daily.",
+      "highlight": "Primarily local patronage — the most reliable mid-range authentic seafood restaurant on the island"
+    },
+    {
+      "name": "Phú Quốc Night Market (Chợ Đêm)",
+      "address": "Dương Đông Night Market, Bạch Đằng Street",
+      "cuisine": "Street Food Market",
+      "priceRange": "30,000–150,000 VND",
+      "description": "The Dương Đông Night Market is the most concentrated street food experience on the island — dozens of stalls selling grilled seafood, bánh mì, gỏi cá trích, fresh spring rolls, sugarcane juice, and tropical fruit shakes from 5pm until midnight. Touristy but genuinely good and convenient for a full evening of grazing.",
+      "highlight": "The island's best one-stop street food experience — gỏi cá trích and grilled seafood in one compact market"
+    }
+  ],
+  "streetFoodAreas": [
+    {
+      "name": "Dương Đông Night Market",
+      "description": "The main evening street food market in Phú Quốc's capital town, running along Bạch Đằng and the surrounding streets from about 5pm. Grilled seafood stalls, gỏi cá trích vendors, bánh mì, fresh spring rolls, and tropical fruit drinks. More tourist-facing than local markets but very convenient and reasonably priced.",
+      "bestFor": "Gỏi cá trích, grilled seafood, bánh mì, fresh fruit juice",
+      "openingHours": "5pm–midnight daily"
+    },
+    {
+      "name": "Hàm Ninh Fishing Village",
+      "description": "The small fishing village on the east coast, 18km from the town centre, has a pier lined with simple seafood restaurants serving the freshest crab, fish, and shellfish on the island. The crabs here are landed daily from village boats and the prices are 30–50% lower than Dương Đông. A quintessential island eating experience accessible by motorbike.",
+      "bestFor": "Steamed crab, fresh fish, local atmosphere, lowest prices on the island",
+      "openingHours": "10am–8pm"
+    },
+    {
+      "name": "Dương Đông Fishing Harbour Morning Market",
+      "description": "Phú Quốc's main fishing harbour comes alive between 3 and 7am when boats return from overnight trips and the day's catch is sold at the pier. A small morning market around the harbour sells the same-day catch to restaurants and locals. The freshest gỏi cá trích herring is bought here within hours of leaving the water.",
+      "bestFor": "Fresh early morning seafood, cá trích herring, local fishermen activity",
+      "openingHours": "3am–8am"
+    }
+  ],
+  "foodTips": [
+    "Phú Quốc fish sauce makes the best souvenir from the island. Buy Grade 35° (35 degrees nitrogen strength) directly from the Khải Hoàn or Thanh Hà factories in Dương Đông — cheaper and more authentic than market souvenir shops.",
+    "Phú Quốc pepper (tiêu Phú Quốc) is also worth buying direct from farms or the central market. Both red (chín) and green (xanh) peppercorns are excellent. Red pepper has a fruity, aromatic quality; green is sharper and fresher.",
+    "The freshest gỏi cá trích herring is available at restaurants near Dương Đông harbour in the morning — the herring is sold at the pier from 4–7am and prepared for lunch. By 2pm, the herring is no longer same-day.",
+    "Crab from Hàm Ninh village is genuinely superior to crabs from the west-coast resort restaurants — the same species, but the east coast boats use traditional crab pots rather than intensive aquaculture.",
+    "Resort hotel restaurants on the island typically charge 200–300% more than comparable local restaurants. The quality difference rarely justifies the premium — eat outside the resort.",
+    "Phú Quốc's seafood restaurants display live animals in tanks — this is standard practice and a freshness guarantee. If a restaurant has no tanks or ice-filled displays of fresh seafood, the fish may be frozen."
+  ],
+  "sources": [
+    {
+      "name": "Vietnam Coracle – Where to Eat Seafood on Phu Quoc",
+      "url": "https://www.vietnamcoracle.com/where-to-eat-seafood-on-phu-quoc-island/"
+    },
+    {
+      "name": "Jovel Chan – A Food Critic's Guide to Phu Quoc",
+      "url": "https://jovelchan.com/blog/a-food-critics-culinary-guide-to-phu-quoc-vietnam"
+    },
+    {
+      "name": "Premier Residences Blog – Top 20 Best Food in Phu Quoc",
+      "url": "https://blog.premierresidencesphuquoc.com/best-food-in-phu-quoc/"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "introduction": "Mui Ne is a long coastal strip east of Phan Thiết where the food scene reflects both its fishing village heritage and its identity as a beach resort town. The local fishing community has fed the area for centuries with the South China Sea's abundance — squid, crab, sea snails, and the anchovy haul that supplies Phan Thiết's fish sauce industry (the second most famous in Vietnam after Phú Quốc). The defining street food of Mui Ne is bánh canh chả cá — a thick, starchy noodle soup with fried and steamed fish cakes in a sweet, clear broth — which is sold from dawn by small stalls throughout the fishing village end of the strip. Bánh căn (small rice cakes cooked in clay moulds), bánh xèo, and fresh seafood barbecue at the informal Fishing Village stalls represent the genuine local eating culture. The international kitesurfing and tourism scene has layered European-style cafés, Russian food, and Western brunch spots over the Vietnamese base, particularly on the resort-heavy west end of the strip near the sand dunes.",
+  "signatureDishes": [
+    {
+      "name": "Bánh Canh Chả Cá",
+      "vietnameseName": "Bánh Canh Chả Cá",
+      "description": "Mui Ne's signature noodle soup: thick, slightly chewy noodles made from tapioca starch (bánh canh) in a naturally sweet, clear broth simmered from fresh fish bones, topped with both steamed (chả hấp) and deep-fried (chả chiên) fish cakes, scallions, fresh coriander, dried shallots, chilli, and a squeeze of lime. The texture difference between the two fish cake types — soft steamed versus crispy fried — makes each spoonful varied. Costs as little as 15,000 VND at the most basic stalls.",
+      "priceRange": "15,000–40,000 VND",
+      "whereToTry": "Bánh Canh Chả Cá Hoa Dừa, fishing village area; morning stalls on Nguyễn Đình Chiểu near the fishing harbour",
+      "tip": "The thick bánh canh noodles continue absorbing broth and become stodgy if left too long. Eat within five minutes of serving."
+    },
+    {
+      "name": "Bánh Căn Mui Ne",
+      "vietnameseName": "Bánh Căn",
+      "description": "Small rice flour cakes cooked in dimpled clay moulds on charcoal, each about the size of a large coin, served in portions of six to ten pieces. Standard toppings include quail egg, prawn, squid, and spring onion. Eaten with either sweet fish sauce or the local fermented anchovy sauce (mắm nêm). A quintessential Mui Ne street snack, best found at evening stalls where the clay pots glow in the charcoal light.",
+      "priceRange": "20,000–40,000 VND per portion",
+      "whereToTry": "Bánh Căn Lan Nguyệt, evening stalls near the Fishing Village; street vendors on Nguyễn Đình Chiểu",
+      "tip": "Specify your topping when ordering — quail egg (trứng cút) or prawn (tôm). Some vendors add both automatically, which increases the price."
+    },
+    {
+      "name": "Bánh Quai Vạc",
+      "vietnameseName": "Bánh Quai Vạc",
+      "description": "One of Mui Ne and Phan Thiết's most distinctive dishes: translucent dumplings with a crescent-moon shape (quai vạc means 'water bucket handle'), filled with seasoned stir-fried shrimp. The wrapper is made from tapioca starch, giving it a slightly chewy, jelly-like texture. Eaten with a soy-garlic-chilli dipping sauce. A delicate, elegant snack that belies its simple street food origins.",
+      "priceRange": "30,000–60,000 VND per portion",
+      "whereToTry": "Specialty dumpling stalls near Phan Thiết central market; some vendors at Mui Ne Night Market",
+      "tip": "Bánh quai vạc are fragile — lift the dumpling whole to your mouth rather than cutting it with chopsticks, or the filling escapes."
+    },
+    {
+      "name": "Grilled Seafood (Hải Sản Nướng)",
+      "vietnameseName": "Hải Sản Nướng",
+      "description": "Mui Ne's fishing village (Làng Chài) produces excellent fresh seafood — squid, crab, red snapper, barracuda, sea snails, and tiger prawns — which is prepared on open charcoal grills at the informal restaurants clustered near the fishing harbour. The most popular preparations are grilled squid stuffed with pork and herbs (mực nhồi thịt nướng) and whole red snapper with lemongrass and chilli. Prices depend on the day's catch.",
+      "priceRange": "80,000–400,000 VND depending on seafood choice",
+      "whereToTry": "Fishing Village restaurants (Làng Chài Mui Ne); informal stalls near the fishing harbour at the eastern end of the strip",
+      "tip": "The fishing harbour is at the eastern end of Nguyễn Đình Chiểu — a significant distance from the resort end near the sand dunes. Take a taxi or motorbike rather than walking."
+    },
+    {
+      "name": "Bánh Xèo Mui Ne",
+      "vietnameseName": "Bánh Xèo",
+      "description": "Mui Ne's version of the crispy Vietnamese rice crepe is large and generously filled with tiger prawns, pork belly, and bean sprouts, served with a mountain of fresh lettuce, herbs, and banana blossom for wrapping. The Mui Ne twist is the addition of the local mắm nêm (fermented anchovy sauce) as an optional dipping sauce alongside regular nước chấm — the funky, fruity anchovy sauce transforms the dish.",
+      "priceRange": "60,000–100,000 VND per crepe",
+      "whereToTry": "Bánh Xèo stalls near Phan Thiết market; restaurants on the main Nguyễn Đình Chiểu strip",
+      "tip": "Order one bánh xèo to share between two — they are very large and filling. A single crepe can constitute a full meal."
+    }
+  ],
+  "bestRestaurants": [
+    {
+      "name": "Bánh Canh Chả Cá Hoa Dừa",
+      "address": "Fishing village area, eastern Mui Ne",
+      "cuisine": "Street Food – Bánh Canh Chả Cá",
+      "priceRange": "20,000–40,000 VND",
+      "description": "A recommended bánh canh chả cá stall near the Mui Ne fishing village, known for its hand-made fish cakes and fresh daily broth. The fried fish cakes are made in the morning from the overnight catch. Opens at dawn and closes when the broth runs out — usually by noon.",
+      "highlight": "Best bánh canh chả cá in Mui Ne — hand-made fish cakes and daily fresh broth"
+    },
+    {
+      "name": "Sandals Restaurant (Mui Ne Hills)",
+      "address": "Nguyễn Đình Chiểu, Mui Ne resort strip",
+      "cuisine": "International / Vietnamese",
+      "priceRange": "150,000–400,000 VND",
+      "description": "A popular mid-range restaurant on the main resort strip with a reliable menu spanning Vietnamese classics and Western dishes. Particularly praised for its fresh seafood, good cocktails, and beachfront setting. A solid choice for visitors who want quality food in a comfortable setting without the budget constraints of local stalls.",
+      "highlight": "Reliable quality beachfront dining — best balance of Vietnamese and international food on the strip"
+    },
+    {
+      "name": "Hai Seafood Restaurant",
+      "address": "Mui Ne fishing village area",
+      "cuisine": "Vietnamese Seafood",
+      "priceRange": "150,000–400,000 VND",
+      "description": "A family-run seafood restaurant near the fishing village end of Mui Ne, serving daily-fresh catches from local boats. The grilled squid stuffed with pork and herb filling is a signature dish, alongside charcoal-grilled whole fish and stir-fried crab with Phan Thiết fish sauce. Less glossy than resort strip restaurants but significantly fresher seafood.",
+      "highlight": "Family restaurant near the fishing harbour — freshest daily seafood with fish sauce from local factories"
+    },
+    {
+      "name": "Bánh Căn Lan Nguyệt",
+      "address": "Evening stall near Mui Ne fishing village",
+      "cuisine": "Street Food – Bánh Căn",
+      "priceRange": "20,000–40,000 VND per portion",
+      "description": "A familiar evening street food spot for tourists and locals, where the bánh căn are cooked to order in traditional clay moulds over charcoal. The toppings include quail egg, shrimp, and squid — ordered by pointing. The provided dipping sauces include both sweet fish sauce and the local fermented anchovy paste.",
+      "highlight": "Most recommended bánh căn vendor in Mui Ne — traditional clay-mould cooking over charcoal"
+    },
+    {
+      "name": "Phat Hamburgers",
+      "address": "Near Mui Ne resort area",
+      "cuisine": "Western / Café",
+      "priceRange": "80,000–200,000 VND",
+      "description": "A long-standing tourist café known for its generous Western breakfasts, proper espresso coffee, and relaxed beach-town atmosphere. Popular with kitesurfers and long-stay travellers. Good smoothie selection and reliable Wi-Fi. Not Vietnamese food but a useful retreat when you want a Western breakfast after a week of Vietnamese street food.",
+      "highlight": "The kitesurfer community café — best Western breakfast and coffee in Mui Ne"
+    },
+    {
+      "name": "Fishing Village BBQ Stalls (Làng Chài)",
+      "address": "Eastern end of Nguyễn Đình Chiểu, Mui Ne",
+      "cuisine": "Informal Seafood BBQ",
+      "priceRange": "60,000–250,000 VND",
+      "description": "The informal cluster of barbecue stalls near the Mui Ne fishing harbour where local families eat grilled seafood under tarpaulin roofs, plastic tables on sand, and cold beer from buckets. No menus — point to the displayed seafood and agree on a price. The freshest and most atmospheric seafood eating in Mui Ne.",
+      "highlight": "Most authentic eating experience in Mui Ne — plastic tables on sand, same-day catch, cold beer"
+    }
+  ],
+  "streetFoodAreas": [
+    {
+      "name": "Mui Ne Fishing Village (Làng Chài)",
+      "description": "The colourful fishing village at the eastern end of the Mui Ne strip is where fishing boats arrive each morning and the freshest seafood is sold at the pier. Simple restaurants and stalls here serve grilled seafood, bánh canh chả cá, and bánh căn to local fishermen and early-rising visitors. The most authentic eating in Mui Ne and easily the freshest ingredients.",
+      "bestFor": "Bánh canh chả cá, fresh grilled seafood, local morning atmosphere",
+      "openingHours": "5am–8pm, freshest 5–10am"
+    },
+    {
+      "name": "Nguyễn Đình Chiểu Evening Strip",
+      "description": "The main road running the length of Mui Ne has a mix of tourist restaurants, Vietnamese local stalls, and street food vendors that activate from about 5pm. Bánh căn stalls with their glowing clay pots, grilled meat vendors, and fresh fruit juice carts line the footpath between the resorts. Prices vary widely — look for the stalls with plastic stools and Vietnamese customers.",
+      "bestFor": "Bánh căn, grilled snacks, seafood, fresh fruit, evening browsing",
+      "openingHours": "5pm–11pm"
+    },
+    {
+      "name": "Phan Thiết Central Market Area",
+      "description": "Phan Thiết town (the administrative centre 20km from the Mui Ne beach strip) has a lively central market area with morning food stalls serving bánh quai vạc, bánh canh, and local rice dishes at significantly lower prices than the resort strip. Worth visiting for the most authentic Bình Thuận province food.",
+      "bestFor": "Bánh quai vạc, bánh canh, local market food, Phan Thiết fish sauce",
+      "openingHours": "5am–noon"
+    }
+  ],
+  "foodTips": [
+    "The Mui Ne resort strip (western end near the sand dunes) has significantly higher prices than the fishing village end (eastern end). Take a taxi or motorbike east to the fishing harbour area for authentic seafood at local prices.",
+    "Phan Thiết fish sauce (nước mắm Phan Thiết) is the region's other great food product after seafood. Buy it at the central market in Phan Thiết town rather than at tourist shops. Look for the Liên Thành or Đại Việt brands.",
+    "Bánh canh chả cá is a morning dish that closes by noon or when the broth runs out. Many visitors on the Mui Ne resort schedule miss it entirely by eating a hotel breakfast. Set an alarm and walk to the fishing village end at 7am.",
+    "The sand dune area (Đồi Cát Hồng) has tourist-facing food stalls at inflated prices. Eat before visiting the dunes and carry water — dune snacks are overpriced.",
+    "Mui Ne's kitesurfing season (October to April, peak November to March) brings the highest concentration of food vendors to the strip. The off-season (May to September) sees many tourist restaurants close but local fishing village stalls remain open.",
+    "Local sea snails (ốc) are sold by evening street vendors throughout Mui Ne — grilled with lemongrass and chilli or boiled with ginger. A bag of mixed snails costs 30,000–50,000 VND and provides a full evening snack with cold beer."
+  ],
+  "sources": [
+    {
+      "name": "Vietnam Tourism – Mui Ne: A Foodies Fantasy",
+      "url": "https://vietnam.travel/things-to-do/mui-ne-foodies-fantasy"
+    },
+    {
+      "name": "VinPearl – Top 15 Mui Ne Food",
+      "url": "https://vinpearl.com/en/mui-ne-food-top-15-delectable-specialties"
+    },
+    {
+      "name": "Mui Ne Explorer – Cuisine in Mui Ne",
+      "url": "https://muine-explorer.com/en/cuisine-in-mui-ne.html"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "slug": "hcmc-to-mui-ne",
+  "from": "Ho Chi Minh City",
+  "to": "Mui Ne",
+  "distance": "200 km",
+  "description": "Mui Ne is the closest beach resort destination to Ho Chi Minh City, known for its dramatic sand dunes, kite surfing, and seafood restaurants strung along a 20 km coastal road. At roughly 200 km northeast of Ho Chi Minh City, the journey takes 3–5 hours depending on transport and traffic. The new Dau Giay–Phan Thiet Expressway has significantly cut travel times, with buses now covering the route in as little as 3 hours under ideal conditions. Mui Ne is a popular weekend getaway for Saigon residents, so Friday evenings and Saturday mornings see heavy traffic. The town consists of a long strip of resorts, restaurants, and surf shops along the coast rather than a traditional village center.",
+  "options": [
+    {
+      "mode": "Tourist/Sleeper Bus",
+      "duration": "4–5 hours (standard), 3–3.5 hours (express via new highway)",
+      "priceRange": "150,000–250,000 VND ($6–10) daytime; 250,000–400,000 VND ($10–16) sleeper",
+      "frequency": "Multiple daily departures, including overnight",
+      "comfort": "Medium–High",
+      "description": "Tourist buses from Ho Chi Minh City to Mui Ne are the most popular budget-to-mid option. Operators like Phuong Trang (FUTA Bus), The Sinh Tourist, Hanh Cafe, and TM Brothers run daily services. Daytime buses depart throughout the morning from Pham Ngu Lao (backpacker district) or Mien Dong Bus Station. Overnight sleeper buses depart in the evening, arriving in the early morning. The new Dau Giay–Phan Thiet Expressway has made the trip faster and smoother. Sleeper buses have fully reclining pod-style seats in two decks — they're comfortable for shorter overnight routes. Buses typically drop off along Nguyen Dinh Chieu Street (the main resort road) near your hotel.",
+      "bookingTip": "Book through The Sinh Tourist (thesinhtourist.vn) or Phuong Trang (futabus.vn) for reliable services. Request a hotel drop-off point along Nguyen Dinh Chieu when booking."
+    },
+    {
+      "mode": "Train to Phan Thiet + Transfer",
+      "duration": "4.5–5 hours total (train + transfer)",
+      "priceRange": "200,000–350,000 VND ($8–14) total",
+      "frequency": "Limited; SPT2 train on Fridays and Saturdays",
+      "comfort": "Medium",
+      "description": "Vietnam Railways runs a limited service from Saigon Station (Thong Nhat Station) to Phan Thiet (the nearest train station to Mui Ne, about 23 km away). The SPT2 train operates primarily on weekends, with the journey taking about 3–4 hours. From Phan Thiet station, you need to take a taxi or Grab for the final 23 km to Mui Ne (about 150,000–250,000 VND). Train tickets range from 200,000–350,000 VND depending on seat class. This option is slower than the direct bus once the transfer is included, but the train experience itself is pleasant and less stressful than road travel during peak hours.",
+      "bookingTip": "Check the current schedule on the Vietnam Railways website (dsvn.vn) as weekend train services can change seasonally. Pre-book a Grab from Phan Thiet station to your hotel."
+    },
+    {
+      "mode": "Private Car / Taxi",
+      "duration": "3–3.5 hours",
+      "priceRange": "2,500,000–4,200,000 VND ($100–170) per vehicle",
+      "frequency": "On demand",
+      "comfort": "Very High",
+      "description": "A private car with driver provides the most comfortable door-to-door service from your Ho Chi Minh City hotel to your Mui Ne resort. Using the new expressway, travel time is just 3–3.5 hours. Private cars make most sense for groups of 3–4 people where the per-head cost becomes comparable with a premium bus ticket. The driver can also make stops at local sights like Ba Rija Waterfalls or the Fairy Stream. Some operators offer one-way transfers; others provide full-day hire with driver. Metered taxis for this distance are extremely expensive — always use a pre-arranged private car service rather than a metered taxi.",
+      "bookingTip": "Arrange private transfers through your hotel or a reputable operator. Confirm the price includes tolls and whether the driver will wait while you stop along the route."
+    },
+    {
+      "mode": "Motorbike (Self-Drive)",
+      "duration": "3.5–4.5 hours",
+      "priceRange": "Fuel cost only (approx. 200,000–300,000 VND) if you own/rent in HCMC",
+      "frequency": "Flexible, self-timed",
+      "comfort": "Low–Medium",
+      "description": "Experienced riders comfortable on Vietnamese roads sometimes ride a motorbike from Ho Chi Minh City to Mui Ne via National Highway 1A (older route) or the parallel inland roads. The new expressway does not allow motorbikes. The ride via the coastal road through Vung Tau and Phan Thiet offers beautiful scenery. However, the route involves significant urban traffic exiting Saigon, and long stretches of monotonous highway. Best suited for travelers already with a motorbike in HCMC who are planning a longer coastal journey. Not recommended for first-time Vietnam riders.",
+      "bookingTip": "If riding, leave early (before 7 AM) to clear HCMC traffic. The coastal road via Long Hai adds distance but rewards with scenery. Bring a spare tyre kit and ensure your bike is serviced."
+    }
+  ],
+  "tips": [
+    "Avoid traveling on Friday afternoons — HCMC weekend traffic can add 1–2 hours to any journey toward Mui Ne.",
+    "Mui Ne has no central town — accommodation spreads along 20 km of coast. Confirm your bus drop-off point matches your hotel location to avoid a long walk.",
+    "The Red Dunes and White Dunes are the main attraction. Go at sunrise or sunset for the best light and fewer crowds.",
+    "Kite surfing season peaks November–March when the wind is strongest. Book kite surf lessons in advance if visiting then.",
+    "Seafood restaurants near the fishing village (Ham Tien area) serve fresher and cheaper seafood than the tourist strip restaurants further west.",
+    "A motorbike rental in Mui Ne (150,000–200,000 VND/day) is essential for exploring the dunes and surrounding area independently."
+  ],
+  "sources": [
+    {
+      "name": "Vinpearl – Ho Chi Minh City to Mui Ne Transport Options",
+      "url": "https://vinpearl.com/en/ho-chi-minh-city-to-mui-ne-bus-the-ultimate-guide"
+    },
+    {
+      "name": "Backpackers Wanderlust – Mui Ne to Ho Chi Minh City",
+      "url": "https://www.backpackerswanderlust.com/mui-ne-to-ho-chi-minh-city/"
+    },
+    {
+      "name": "12Go Asia – Ho Chi Minh City to Mui Ne",
+      "url": "https://12go.asia/en/travel/ho-chi-minh-city/mui-ne"
+    }
+  ]
+}

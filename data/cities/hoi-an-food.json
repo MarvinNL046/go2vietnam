@@ -1,0 +1,137 @@
+{
+  "introduction": "Hội An is one of the few places in the world where the food genuinely cannot be replicated anywhere else. Cao lầu, the town's most famous dish, is made with noodles treated using water drawn from a specific 700-year-old Cham well and wood ash from the Cù Lao Chàm islands — locals say you can taste the difference if you take the recipe to another city. White rose dumplings are made by a single family who supply the entire town. The bánh mì here has its own following, with Madam Khánh's bread achieving international fame. This extraordinary culinary specificity comes from Hội An's history as a 16th-century trading port where Japanese, Chinese, and Vietnamese cooking traditions merged over two centuries of commercial activity. Today the ancient town is swamped by tourists, but the food remains exceptional — just be prepared to eat early, accept queues, and venture into the back streets away from the lantern-lit main drag.",
+  "signatureDishes": [
+    {
+      "name": "Cao Lầu",
+      "vietnameseName": "Cao Lầu",
+      "description": "The signature dish of Hội An: thick, chewy, slightly charred yellow rice noodles (made with water from Ba Le Cham well and treated with wood ash lye) served with slices of braised and roasted pork, bean sprouts, fresh herbs, crispy rice crackers, and a small amount of dark, rich pork gravy. Uniquely textured — the noodles are simultaneously chewy and slightly gritty from the ash treatment. No restaurant outside Hội An can make authentic cao lầu. Eat it at lunch when freshly made.",
+      "priceRange": "50,000–80,000 VND",
+      "whereToTry": "Trương Thị Nghĩa, 6 Trần Phú (morning stall); Morning Glory Restaurant, 106 Nguyễn Thái Học",
+      "tip": "Cao lầu is best at lunch. Many stalls sell out by 1pm. The noodle texture changes as it sits — eat it immediately."
+    },
+    {
+      "name": "Bánh Bao Vạc (White Rose Dumplings)",
+      "vietnameseName": "Bánh Bao Vạc",
+      "description": "Translucent steamed dumplings filled with spiced minced pork and shrimp, pinched into a rose-like shape and topped with crispy fried shallots. A single family on Hai Bà Trưng Street has made and supplied these dumplings to virtually every restaurant in Hội An for generations, using a recipe kept strictly secret. The dumplings are delicate, nearly weightless, and melt in a single bite. The White Rose Restaurant (run by the family) is the best place to eat them.",
+      "priceRange": "50,000–80,000 VND per plate",
+      "whereToTry": "White Rose Restaurant (Nhà Hàng Hoa Hồng Trắng), 533 Hai Bà Trưng",
+      "tip": "The White Rose Restaurant is the only place where the dumplings are made on site. Everywhere else in town receives the same supply from the same family."
+    },
+    {
+      "name": "Bánh Mì Hội An",
+      "vietnameseName": "Bánh Mì",
+      "description": "Hội An's bánh mì has developed a cult following distinct from Saigon and Hanoi versions. The bread is lighter and crispier, and the fillings are more layered — multiple sauces, fresh cucumber, pickled vegetables, and fried egg options not common elsewhere. Madam Khánh, known as the 'Bánh Mì Queen,' has been making sandwiches on Phan Châu Trinh since 1960 and regularly attracts international food media. Anthony Bourdain described her bread as 'a symphony in a sandwich.'",
+      "priceRange": "25,000–45,000 VND",
+      "whereToTry": "Bánh Mì Phượng, 2B Phan Châu Trinh; Madam Khánh, 115 Trần Cao Vân",
+      "tip": "Madam Khánh often sells out before noon — arrive by 10am. Bánh Mì Phượng is open longer and equally excellent."
+    },
+    {
+      "name": "Cơm Gà Hội An",
+      "vietnameseName": "Cơm Gà Hội An",
+      "description": "Hội An chicken rice is a direct descendent of Hainanese chicken rice introduced by Chinese traders in the 17th century, but evolved into something distinctly local. Shredded free-range chicken (gà ta) tossed in ginger, turmeric, and sesame oil is piled over yellow turmeric rice cooked in chicken stock, garnished with fresh herbs, fried shallots, and a sharp ginger-fish sauce dipping sauce. Simpler than it sounds and deeply satisfying.",
+      "priceRange": "40,000–70,000 VND",
+      "whereToTry": "Cơm Gà Bà Buội, 22 Phan Châu Trinh; Cơm Gà A Hải, 6 Phan Bội Châu",
+      "tip": "Free-range chicken (gà ta) has tougher, more flavourful meat than factory-farmed — do not mistake the firmer texture for poor quality."
+    },
+    {
+      "name": "Mì Quảng Hội An",
+      "vietnameseName": "Mì Quảng",
+      "description": "Hội An's version of mì Quảng differs slightly from Da Nang's — slightly narrower noodles, a richer shrimp-based broth, and the garnish often includes more fresh herbs. The dish is technically Quảng Nam province's (the province Hội An belongs to) signature contribution to Vietnamese cuisine. Morning stalls on Cẩm Nam island across the river from the Old Town serve the most authentic versions.",
+      "priceRange": "30,000–55,000 VND",
+      "whereToTry": "Mì Quảng Ếch Cô Liên, 77 Trần Phú; morning stalls on Cẩm Nam island",
+      "tip": "Cross the bridge to Cẩm Nam island for the cheapest and most authentic mì Quảng away from tourist pricing."
+    }
+  ],
+  "bestRestaurants": [
+    {
+      "name": "White Rose Restaurant (Nhà Hàng Hoa Hồng Trắng)",
+      "address": "533 Hai Bà Trưng, Hội An",
+      "cuisine": "Traditional Vietnamese – Dumplings",
+      "priceRange": "80,000–200,000 VND",
+      "description": "Run by the family that has made and supplied white rose dumplings to the entire town of Hội An for generations. The dumplings made on-site are fresher than anywhere else in town. The menu also features excellent fried wontons, cao lầu, and cơm gà. A required stop for any serious food tour of Hội An.",
+      "highlight": "The only restaurant where the legendary white rose dumplings are made on-site by the originating family"
+    },
+    {
+      "name": "Morning Glory Restaurant",
+      "address": "106 Nguyễn Thái Học, Hội An",
+      "cuisine": "Traditional Vietnamese / Street Food",
+      "priceRange": "120,000–300,000 VND",
+      "description": "Run by cookbook author and cooking school owner Trinh Diem Vy, Morning Glory is the go-to restaurant for well-executed Hội An classics in a comfortable setting. Cao lầu, white rose dumplings, bánh xèo, and excellent fresh spring rolls are consistently praised. Geared toward tourists but uncompromising on quality.",
+      "highlight": "Run by acclaimed cookbook author Trinh Diem Vy — consistently ranked among Vietnam's best restaurants"
+    },
+    {
+      "name": "Bánh Mì Phượng",
+      "address": "2B Phan Châu Trinh, Hội An",
+      "cuisine": "Street Food – Bánh Mì",
+      "priceRange": "25,000–40,000 VND",
+      "description": "Internationally famous bánh mì stall that was praised by Anthony Bourdain, consistently drawing queues of travellers. The bread is baked daily, the pâté is made in-house, and the fillings are layered with care. Open until mid-afternoon most days. Queue moves quickly. Cash only.",
+      "highlight": "Made internationally famous by Anthony Bourdain — still one of the best bánh mì in Vietnam"
+    },
+    {
+      "name": "Cơm Gà Bà Buội",
+      "address": "22 Phan Châu Trinh, Hội An",
+      "cuisine": "Street Food – Cơm Gà",
+      "priceRange": "40,000–65,000 VND",
+      "description": "One of the most authentic chicken rice stalls in Hội An, tucked into a compact street-side spot on Phan Châu Trinh. The rice is cooked in chicken broth with turmeric, the chicken is shredded by hand and tossed with ginger and sesame, and the dipping sauce has the sharp, clean quality of a recipe unchanged for decades.",
+      "highlight": "A local institution for Hội An chicken rice at pavement-stall prices"
+    },
+    {
+      "name": "The Cargo Club",
+      "address": "107–109 Nguyễn Thái Học, Hội An",
+      "cuisine": "Vietnamese / International",
+      "priceRange": "150,000–400,000 VND",
+      "description": "A well-located two-storey restaurant and patisserie on the main tourist walking street, with excellent views over the river and Thu Bon. The Vietnamese menu is reliable and the Western patisserie section produces genuinely good pastries and cakes — a pleasant contrast to the street food. Popular for breakfast and for dessert after exploring the Old Town.",
+      "highlight": "Best river views in the Old Town paired with consistently good food and a notable patisserie"
+    },
+    {
+      "name": "Hội An Roastery",
+      "address": "135 Trần Phú, Hội An",
+      "cuisine": "Café / Vietnamese Coffee",
+      "priceRange": "40,000–80,000 VND",
+      "description": "A speciality coffee shop in an Old Town shophouse, roasting beans from Da Lat and the Central Highlands. Excellent Vietnamese drip coffee, cold brew, and egg coffee. A quiet retreat from the Old Town crowds with reliable Wi-Fi. Doubles as a good breakfast spot for travellers who need a proper coffee before a cooking class.",
+      "highlight": "Best speciality coffee in the Old Town — beans sourced from Vietnamese highland farms"
+    }
+  ],
+  "streetFoodAreas": [
+    {
+      "name": "Phan Châu Trinh Street (Food Street)",
+      "description": "The most concentrated street food strip in Hội An outside the Ancient Town gates. Bánh mì carts, cơm gà stalls, sweet chè dessert vendors, and fresh fruit juice shops line both sides of this accessible street. Prices are lower than the lantern-lit lanes of the Ancient Town and the food is often superior.",
+      "bestFor": "Bánh mì, cơm gà, chè desserts, fresh juice",
+      "openingHours": "7am–10pm, busiest 11am–2pm for lunch"
+    },
+    {
+      "name": "Hội An Night Market (Nguyễn Hoàng Bridge Area)",
+      "description": "The nightly market on the west bank of the Thu Bon River (near the covered bridge) features lanterns, street food, and craft stalls. Food vendors sell cao lầu, white rose dumplings, grilled meats, and bánh tráng nướng. Busy and tourist-oriented but convenient and atmospheric for an evening meal.",
+      "bestFor": "Cao lầu, white rose dumplings, grilled snacks, atmosphere",
+      "openingHours": "5pm–11pm daily"
+    },
+    {
+      "name": "Cẩm Nam Island Morning Market",
+      "description": "Cross the smaller bridge south of the Ancient Town to reach Cẩm Nam island, where local residents shop at the morning market and eat at stalls that see almost no tourists. Mì Quảng, bún riêu, and bánh xèo at a fraction of Old Town prices. Requires a short walk or bicycle ride but rewards handsomely.",
+      "bestFor": "Mì Quảng, local breakfast, market shopping",
+      "openingHours": "6am–11am (morning market only)"
+    }
+  ],
+  "foodTips": [
+    "Many of Hội An's most famous dishes (cao lầu, cơm gà, mì Quảng) are only made fresh in the morning and sell out by early afternoon. A food tour is most rewarding starting at 7–8am rather than after sightseeing.",
+    "White rose dumplings in every restaurant in town come from the same family on Hai Bà Trưng Street. Eating them at the White Rose Restaurant means you get them at their freshest — made and served within hours.",
+    "Hội An Ancient Town restaurants add a significant tourist premium to prices. Cross the Thu Bon River to Cẩm Nam or An Hội islands for the same dishes at 30–50% less.",
+    "Cao lầu texture changes as it sits — the noodles continue absorbing moisture and lose their distinctive chew within 15 minutes of serving. Eat it immediately.",
+    "Cooking classes are a Hội An specialty. Morning Glory's school and the Red Bridge Cooking School are both highly regarded and include market tours. Book one day in advance during high season.",
+    "The Ancient Town's restaurant scene has absorbed significant tourist-facing inflation. Budget 150,000–250,000 VND per person for a sit-down meal; 50,000–80,000 VND for street food dishes on side streets."
+  ],
+  "sources": [
+    {
+      "name": "Will Fly for Food – 25 Hoi An Restaurants",
+      "url": "https://www.willflyforfood.net/hoi-an-food-guide/"
+    },
+    {
+      "name": "La Siesta Resort – Cao Lau and White Rose Guide",
+      "url": "https://lasiestahoianresort.com/a-complete-guide-to-must-try-local-dishes-cao-lau-white-rose-dumplings-banh-mi-hoi-an/"
+    },
+    {
+      "name": "Hoi An Day Trip – White Rose Dumplings Guide",
+      "url": "https://hoiandaytrip.com/white-rose-dumplings-hoi-an/"
+    }
+  ]
+}

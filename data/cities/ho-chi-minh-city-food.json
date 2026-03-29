@@ -1,0 +1,168 @@
+{
+  "introduction": "Ho Chi Minh City (Saigon) is a 24-hour eating machine. At 3am, steaming bowls of phở are being served at pavement stalls on Pasteur Street. At noon, office workers queue at three-stall-wide bánh mì carts that vanish by 1pm. Come evening, entire districts transform into open-air dining rooms where locals eat on plastic stools until midnight. Southern Vietnamese cooking is bigger, bolder, and sweeter than the north — herbs arrive in mountains, sweetness comes from coconut water and palm sugar, and rice paper is involved in almost everything. The city's food scene spans Michelin-starred restaurants in District 1 to market stalls in Bình Thạnh that cost 25,000 VND and taste like they should cost ten times more. Anan Saigon, located in the Ben Thanh Market district, holds a Michelin star and a Bib Gourmand, making HCMC the only Vietnamese city with both. But the real soul of Saigon food is in the back alleys of District 3 and the early-morning markets of District 4.",
+  "signatureDishes": [
+    {
+      "name": "Bánh Mì Sài Gòn",
+      "vietnameseName": "Bánh Mì",
+      "description": "Saigon's bánh mì is the definitive version: a light, airy baguette with a shattering crust, piled with pâté, char siu pork, Vietnamese ham (chả lụa), pickled daikon and carrot, fresh coriander, sliced chilli, and a smear of Maggi sauce or mayonnaise. The ratio of filling to bread is extreme — Saigon style goes heavy on the meat and condiments. Bánh Mì Huynh Hoa at 26 Lê Thị Riêng is considered the gold standard, with queues forming from 3pm when it opens.",
+      "priceRange": "30,000–60,000 VND",
+      "whereToTry": "Bánh Mì Huynh Hoa, 26 Lê Thị Riêng, District 1; Bánh Mì Bảy Hổ, 147 Đinh Tiên Hoàng",
+      "tip": "Bánh Mì Huynh Hoa only opens at 3pm and sells out by 6pm — plan accordingly or join the queue early."
+    },
+    {
+      "name": "Phở Nam",
+      "vietnameseName": "Phở",
+      "description": "Southern phở is noticeably different from Hanoi's version — sweeter, richer, and served with a towering plate of bean sprouts, Thai basil, fresh chilli, and hoisin sauce for dipping. The broth is darker and more complex, simmered with more spices. HCMC runs phở round the clock; it is eaten at breakfast, lunch, dinner, and 3am with equal enthusiasm. Phở Quynh on Pasteur Street and Phở Minh (Michelin Bib Gourmand) are the two most lauded addresses.",
+      "priceRange": "50,000–90,000 VND",
+      "whereToTry": "Phở Quynh, multiple locations on Pasteur Street; Phở Minh, alley off Nguyễn Du",
+      "tip": "Add hoisin and chilli sauce to the broth sparingly — start with a plain bowl to appreciate the stock first."
+    },
+    {
+      "name": "Bún Thịt Nướng",
+      "vietnameseName": "Bún Thịt Nướng",
+      "description": "Cold rice vermicelli served with grilled lemongrass pork, fresh herbs, bean sprouts, crushed peanuts, crispy shallots, and nước chấm (fish sauce dipping sauce). Unlike phở or bún bò, this is a room-temperature dish that makes sense in Saigon's year-round heat. Bún Thịt Nướng Chị Tuyến on Cô Giang Street started as a pavement stall 40 years ago and is now a two-storey restaurant with the same owner and the same recipe.",
+      "priceRange": "40,000–70,000 VND",
+      "whereToTry": "Bún Thịt Nướng Chị Tuyến, 119 Cô Giang, District 1",
+      "tip": "Mix everything together thoroughly before eating — the nước chấm needs to coat every strand of noodle."
+    },
+    {
+      "name": "Cơm Tấm",
+      "vietnameseName": "Cơm Tấm",
+      "description": "Broken rice (cơm tấm) is Saigon's soul food — the dish that originated in the 1940s when broken rice grains, rejected by exporters, were sold cheaply to workers. Today it's the most beloved everyday meal in southern Vietnam: a mound of fractured-grain rice topped with grilled pork chop (sườn nướng), shredded pork skin (bì), steamed pork and egg meatloaf (chả trứng), fried egg, and pickled vegetables, all doused in nước chấm.",
+      "priceRange": "45,000–80,000 VND",
+      "whereToTry": "Cơm Tấm Bụi, 105 Nguyễn Văn Thủ, District 1; Cơm Tấm Thuận Kiều, 168 Võ Văn Tần",
+      "tip": "The dish is traditionally eaten at breakfast and lunch — many cơm tấm restaurants close by 2pm."
+    },
+    {
+      "name": "Hủ Tiếu Nam Vang",
+      "vietnameseName": "Hủ Tiếu Nam Vang",
+      "description": "A Chinese-Cambodian influenced noodle soup that arrived in Saigon via Phnom Penh (Nam Vang is Vietnamese for Phnom Penh) with waves of ethnic Chinese migrants. Clear pork bone broth, chewy tapioca noodles, minced pork, prawns, sliced liver and kidneys, bean sprouts, and chives — it can be eaten as a soup or drained (khô). Lighter and more delicate than phở, it is a true Saigon institution.",
+      "priceRange": "45,000–80,000 VND",
+      "whereToTry": "Hủ Tiếu Nam Vang Hoà Ký, 148 Châu Văn Liêm, District 5; market stalls in Chợ Lớn area",
+      "tip": "Order it 'dry' (khô) — the broth is served separately for sipping, while the noodles are tossed in rendered pork fat and topped with crispy garlic."
+    },
+    {
+      "name": "Bánh Xèo",
+      "vietnameseName": "Bánh Xèo",
+      "description": "A large, crispy rice flour crepe (named for the sizzling sound it makes when batter hits the hot pan) stuffed with pork belly, whole prawns, and mung bean sprouts, coloured yellow with turmeric. Eaten by tearing off pieces, wrapping in fresh lettuce and herbs, and dipping in a tangy peanut-fish sauce. Southern bánh xèo are larger and crispier than central versions.",
+      "priceRange": "60,000–100,000 VND",
+      "whereToTry": "Bánh Xèo 46A, 46A Đinh Công Tráng, District 1; Bánh Xèo Mười Xiềm, 204 Nguyễn Trãi, District 1",
+      "tip": "Eat it immediately — bánh xèo loses its crispness within three minutes of leaving the pan."
+    }
+  ],
+  "bestRestaurants": [
+    {
+      "name": "Anan Saigon",
+      "address": "89 Tôn Thất Đạm, District 1, HCMC",
+      "cuisine": "Modern Vietnamese / Michelin Star",
+      "priceRange": "400,000–1,200,000 VND per person",
+      "description": "The only Michelin-starred restaurant in HCMC, set in a restored shophouse beside Ben Thanh Market. Chef Peter Cuong Franklin reinterprets Vietnamese street food through a fine-dining lens: phở foie gras, banh mi caviar, and pho dumplings. The tasting menu is a love letter to Vietnamese ingredients treated with French technique. Bookings essential.",
+      "highlight": "HCMC's only Michelin star — and a Bib Gourmand recognition simultaneously"
+    },
+    {
+      "name": "Bánh Mì Huynh Hoa",
+      "address": "26 Lê Thị Riêng, District 1, HCMC",
+      "cuisine": "Street Food – Bánh Mì",
+      "priceRange": "40,000–60,000 VND",
+      "description": "Widely considered the best bánh mì in HCMC, this takeaway stall piles each baguette with six or seven types of filling — pâté, multiple cold cuts, pickled vegetables, fresh herbs, and house-made chilli sauce. The queue is constant from 3pm until sold out. Celebrity chef Luke Nguyen is a vocal fan. Cash only, takeaway only.",
+      "highlight": "Consistently ranked the best bánh mì in Saigon — opens at 3pm, often sold out by 6pm"
+    },
+    {
+      "name": "Phở Minh",
+      "address": "Alley 84 Nguyễn Du, District 1, HCMC",
+      "cuisine": "Street Food – Phở",
+      "priceRange": "60,000–90,000 VND",
+      "description": "A Michelin Bib Gourmand-listed phở restaurant hidden down an alley near the Park Hyatt. The broth is simmered overnight with beef bones, charred ginger, and star anise. The restaurant is small and fills up by 7:30am — arrive early or face a significant wait. No English signage; look for the red Michelin sticker.",
+      "highlight": "Michelin Bib Gourmand 2024 — the only alley phở spot in HCMC with that recognition"
+    },
+    {
+      "name": "Bún Thịt Nướng Chị Tuyến",
+      "address": "119 Cô Giang, District 1, HCMC",
+      "cuisine": "Street Food – Grilled Pork Noodles",
+      "priceRange": "45,000–70,000 VND",
+      "description": "A 40-year-old institution on Cô Giang Street, grown from a pavement stall into a two-storey restaurant without changing its recipe. The grilled pork is marinated in lemongrass and honey, char-grilled on open coals, and served over cold vermicelli with mountain of fresh herbs and excellent house-made nước chấm.",
+      "highlight": "Operating for 40 years on the same street with the same owner and recipe"
+    },
+    {
+      "name": "Cơm Niêu Sài Gòn",
+      "address": "13–15 Đinh Tiên Hoàng, District 1, HCMC",
+      "cuisine": "Traditional Vietnamese",
+      "priceRange": "150,000–350,000 VND",
+      "description": "Famous for its theatrical service: waiters throw clay-pot rice (cơm niêu) across the restaurant to shatter the pot at the table, releasing the perfectly cooked crust. Beyond the theatre, the food is genuinely excellent — slow-braised meats, sour soups, and southern Vietnamese family dishes cooked in traditional clay vessels.",
+      "highlight": "Staff smash clay cooking pots tableside in a theatrical show — the food lives up to the spectacle"
+    },
+    {
+      "name": "Quan Bui",
+      "address": "17A Ngô Văn Năm, District 1, HCMC",
+      "cuisine": "Modern Vietnamese",
+      "priceRange": "200,000–500,000 VND",
+      "description": "A popular mid-range restaurant serving elevated Vietnamese comfort food in a lively multi-storey space. The menu spans all regions — Hanoi-style bún chả, central-style mì Quảng, southern braised pork — with consistent quality across the board. Good for groups who want a reliable, full Vietnamese experience without the formality of fine dining.",
+      "highlight": "Wide regional Vietnamese menu under one roof — a reliable choice for groups"
+    },
+    {
+      "name": "Chợ Bến Thành Food Court",
+      "address": "Lê Lợi, District 1, HCMC",
+      "cuisine": "Multi-cuisine / Market Food",
+      "priceRange": "40,000–120,000 VND",
+      "description": "The covered food hall inside Ben Thanh Market offers dozens of stalls selling Vietnamese classics, Chinese dishes, fresh spring rolls, grilled meats, and fresh sugar cane juice. Prices are higher than street stalls but lower than restaurants, and the covered setting makes it a good option during midday heat or rain.",
+      "highlight": "Most convenient all-under-one-roof food experience in central HCMC"
+    },
+    {
+      "name": "The Deck Saigon",
+      "address": "38 Nguyễn Ư Dĩ, Thảo Điền, District 2, HCMC",
+      "cuisine": "Contemporary Vietnamese / River Dining",
+      "priceRange": "300,000–700,000 VND",
+      "description": "A riverside restaurant in the Thảo Điền expat district, serving contemporary Vietnamese dishes with a view over the Saigon River. The menu includes excellent gỏi (Vietnamese salads), crispy whole fish, wok-fried crab, and good cocktails. Popular for sunset dining and romantic dinners.",
+      "highlight": "Best riverside dining in HCMC — spectacular sunset views over the Saigon River"
+    }
+  ],
+  "streetFoodAreas": [
+    {
+      "name": "Vĩnh Khánh Street (Crab Street), District 4",
+      "description": "Known locally as 'Crab Street' (Phố Ghẹ), this district 4 strip is lined with open-air seafood restaurants that spill plastic tables onto the pavement each evening. Whole crabs, giant mantis prawns, fresh oysters, and clams are cooked to order on open charcoal grills. Primarily patronised by local Vietnamese families and extremely affordable compared to tourist-area equivalents.",
+      "bestFor": "Live seafood, grilled crab, mantis prawns, cold beer, local atmosphere",
+      "openingHours": "5pm–midnight daily"
+    },
+    {
+      "name": "Pasteur Street / Nguyễn Thiện Thuật (Phở Corridor)",
+      "description": "The stretch of Pasteur Street and adjacent lanes in District 1 hosts several of HCMC's most beloved phở institutions, operating 24 hours. Phở Quynh on Pasteur is open all night and always full. The surrounding streets also host excellent cháo (rice porridge) stalls, bún bò Huế vendors, and bánh mì carts from early morning.",
+      "bestFor": "Phở, cháo, bún bò Huế, bánh mì",
+      "openingHours": "24 hours, busiest 6–9am and 6–10pm"
+    },
+    {
+      "name": "Bùi Viện Walking Street",
+      "description": "HCMC's famous backpacker and nightlife street runs food stalls alongside bars from early evening. While it caters heavily to tourists and is not cheap, the variety is enormous — everything from bánh tráng cuốn (rice paper rolls) to grilled octopus. A convenient late-night option for first-time visitors who want variety and safe street food.",
+      "bestFor": "Late-night snacks, BBQ skewers, fresh fruit, variety for tourists",
+      "openingHours": "4pm–3am daily"
+    },
+    {
+      "name": "Chợ Lớn (Chinatown, District 5)",
+      "description": "The massive Sino-Vietnamese district of Chợ Lớn centres on Bình Tây Market and the surrounding streets, where Chinese-influenced Vietnamese food dominates. Hủ tiếu Nam Vang, dim sum, roast duck rice, and congee are eaten here from early morning. The food is notably different from District 1 and often cheaper. Best explored on foot with a guide or local friend.",
+      "bestFor": "Hủ tiếu, dim sum, roast duck, Chinese-Vietnamese specialties",
+      "openingHours": "6am–10pm, best for breakfast 6–10am"
+    }
+  ],
+  "foodTips": [
+    "Cơm tấm (broken rice) is primarily a morning and lunchtime dish — many of the best cơm tấm restaurants close by 2pm. If you arrive at 3pm for the famous Cơm Tấm Bụi and find it shut, that is why.",
+    "Saigon heat means you should eat the crispiest dishes immediately — bánh xèo, crispy spring rolls, and bánh mì lose texture fast. Eat standing up at the stall if necessary.",
+    "The gap between tourist-area pricing and local-area pricing is extreme in HCMC. Walk two blocks from Bùi Viện and prices often halve. District 4 and District 10 offer the most authentic eating for the least money.",
+    "HCMC runs 24 hours — the city's best phở at 2am is often Phở Quynh on Pasteur Street, where the night shift crowd keeps the kitchen going all night.",
+    "Grab (the Vietnamese equivalent of Uber Eats) delivers almost everything in HCMC within 30 minutes. If a restaurant looks too full to get a table, order delivery from the same place.",
+    "Avoid the photo menus outside Ben Thanh Market — they are tourist traps at three to five times local prices. Walk two minutes south to the back streets for the real thing.",
+    "Fresh fruit juice stalls are everywhere and extremely good value at 20,000–30,000 VND per glass. Stick to freshly squeezed options you can watch being made, particularly watermelon, passion fruit, and avocado shake."
+  ],
+  "sources": [
+    {
+      "name": "Will Fly for Food – 25 Must-Visit Saigon Restaurants",
+      "url": "https://www.willflyforfood.net/saigon-food-guide-25-must-eat-restaurants-street-food-stalls-in-ho-chi-minh-city-vietnam/"
+    },
+    {
+      "name": "Michelin Guide – 2 Days in Ho Chi Minh City for Street Food Lovers",
+      "url": "https://guide.michelin.com/en/article/travel/2-days-in-ho-chi-minh-city-for-street-food-lovers"
+    },
+    {
+      "name": "Legal Nomads – Self-Guided Tour to Saigon Street Food",
+      "url": "https://www.legalnomads.com/saigon-street-food/"
+    }
+  ]
+}

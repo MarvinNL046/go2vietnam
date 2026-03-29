@@ -1,0 +1,67 @@
+{
+  "slug": "hcmc-to-phu-quoc",
+  "from": "Ho Chi Minh City",
+  "to": "Phu Quoc",
+  "distance": "400 km (by road + ferry) / 350 km (direct flight)",
+  "description": "Phu Quoc is Vietnam's largest island and premier beach destination, located in the Gulf of Thailand near the Cambodian border. From Ho Chi Minh City, there are two ways to reach it: a 1-hour direct flight (the most popular option), or a combination bus-and-ferry journey via Rach Gia or Ha Tien that takes 9–12 hours. The island has seen massive investment in tourism infrastructure, with new resorts, a casino, and an international airport making it easily accessible. Whether you're heading for the white sand beaches of Long Beach, the lush national park interior, or the night market in Duong Dong, getting there is straightforward.",
+  "options": [
+    {
+      "mode": "Direct Flight",
+      "duration": "1 hour",
+      "priceRange": "600,000–1,600,000 VND ($25–65) one way, budget airlines",
+      "frequency": "Multiple daily flights (Vietnam Airlines, VietJet, Bamboo Airways)",
+      "comfort": "High",
+      "description": "Flying is by far the most popular and practical way to reach Phu Quoc from Ho Chi Minh City. Tan Son Nhat Airport (SGN) has multiple daily flights to Phu Quoc International Airport (PQC) operated by Vietnam Airlines, VietJet Air, and Bamboo Airways. The flight takes just 1 hour. Budget fares on VietJet regularly start below $25 if booked in advance; Vietnam Airlines charges more but offers more reliability and baggage allowance. Prices spike significantly during Tet (January–February), Christmas/New Year, and Vietnamese public holidays. Phu Quoc Airport is only 10 km from the main tourist areas around Duong Dong and Long Beach — a taxi costs about 150,000–200,000 VND.",
+      "bookingTip": "Book 4–6 weeks in advance for the best fares. VietJet (vietjetair.com) often has flash sales. Early morning and late evening flights are typically cheaper."
+    },
+    {
+      "mode": "Bus + Ferry via Rach Gia",
+      "duration": "9–10 hours total",
+      "priceRange": "350,000–600,000 VND ($14–24) total",
+      "frequency": "Multiple daily buses; ferries at 8 AM and 1 PM from Rach Gia",
+      "comfort": "Low–Medium",
+      "description": "The budget overland route involves a bus from Ho Chi Minh City's Mien Tay Bus Terminal to Rach Gia (5.5 hours, about 150,000–200,000 VND), then a Superdong or Thanh Thoi high-speed ferry from Rach Gia port to Phu Quoc (2.5 hours, about 200,000–250,000 VND). Total journey time is roughly 9–10 hours including transfers. The ferry ride through the mangroves and open sea is scenic on a clear day. This route suits travelers who want to minimize cost or who find themselves in the Mekong Delta region. The Superdong ferry departs Rach Gia at 8:00 AM and 1:00 PM — timing your bus arrival is essential.",
+      "bookingTip": "Book the ferry in advance on Superdong's website (superdong.com.vn), especially during holidays. Arrive at Rach Gia port at least 30 minutes before departure."
+    },
+    {
+      "mode": "Bus + Ferry via Ha Tien",
+      "duration": "10–12 hours total",
+      "priceRange": "380,000–650,000 VND ($15–26) total",
+      "frequency": "Daily buses; ferries at 8 AM and 12:30 PM from Ha Tien",
+      "comfort": "Low–Medium",
+      "description": "The Ha Tien route is slightly longer than via Rach Gia but passes through the Mekong Delta town of Ha Tien, which has its own charm and is closer to the Cambodian border. The bus from Ho Chi Minh City to Ha Tien takes about 6.5–8 hours (depending on which bus terminal you depart from). The Superdong ferry from Ha Tien to Phu Quoc then takes about 1 hour. Some travelers combine this route with a Mekong Delta tour. The total cost is similar to the Rach Gia route. This option is best for those also exploring the Mekong Delta or Cambodia.",
+      "bookingTip": "The Ha Tien ferry crossing is shorter than Rach Gia but bus time is longer. Only choose this if you're also planning to explore Ha Tien or the surrounding area."
+    },
+    {
+      "mode": "Private Transfer + Ferry",
+      "duration": "7–8 hours",
+      "priceRange": "$150–250 per vehicle",
+      "frequency": "On demand",
+      "comfort": "Very High",
+      "description": "A private car with driver will take you from your Ho Chi Minh City hotel directly to the Rach Gia ferry terminal, then you board the Superdong ferry to Phu Quoc Island. The private car eliminates the need to navigate bus stations and makes the overland portion much more comfortable with stops en route. Total travel time is about 7–8 hours. This is practical for families or groups of 4+ who can split the vehicle cost. The ferry portion remains the same regardless of car type. Some tour operators offer all-inclusive transfers that include the ferry ticket.",
+      "bookingTip": "Confirm the driver knows which ferry terminal to use (Rach Gia is generally faster overall). Book at least 24 hours in advance with a reputable transfer service."
+    }
+  ],
+  "tips": [
+    "Flying is the right choice for most travelers — the 1-hour flight costs only marginally more than the 10-hour bus+ferry and saves a full day of travel.",
+    "Phu Quoc Airport (PQC) is small but modern. Pre-arrange a taxi or Grab pickup — taxis line up outside arrivals, but Grab is usually cheaper (150,000–200,000 VND to Long Beach).",
+    "The cheapest flights are found 4–6 weeks in advance on VietJet. Last-minute flights during peak season can exceed $80–100 one way.",
+    "Ferry crossings can be rough during the southwest monsoon (May–October). Check the sea conditions before booking an overland+ferry combination.",
+    "Phu Quoc has no public bus system — rent a motorbike (150,000–200,000 VND/day) or use Grab for getting around the island.",
+    "The best weather is November–April (dry season). Avoid June–September when heavy rain and rough seas can disrupt ferry services."
+  ],
+  "sources": [
+    {
+      "name": "Vinpearl – Ho Chi Minh City to Phu Quoc Travel Guide",
+      "url": "https://vinpearl.com/en/ho-chi-minh-city-to-phu-quoc"
+    },
+    {
+      "name": "Indochina Voyages – How to Get to Phu Quoc from Ho Chi Minh",
+      "url": "https://www.indochinavoyages.com/travel-blog/how-to-get-to-phu-quoc-from-ho-chi-minh"
+    },
+    {
+      "name": "12Go Asia – Ho Chi Minh to Phu Quoc",
+      "url": "https://12go.asia/en/travel/ho-chi-minh/phu-quoc"
+    }
+  ]
+}

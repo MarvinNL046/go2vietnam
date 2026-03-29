@@ -1,0 +1,137 @@
+{
+  "introduction": "Ha Long Bay's food culture is split between two entirely different experiences: onboard the bay's luxury cruise ships, where chefs prepare fresh-caught seafood against a backdrop of limestone karsts, and on land in Hạ Long City (Bãi Cháy area), where permanent seafood restaurants and market stalls serve locals and day-trippers. The most celebrated seafood in the bay includes horseshoe crab (sam biển), mantis prawns (bề bề), grilled squid, oysters, and Ha Long's signature squid cake (chả mực). The squid cake is genuinely unique to Ha Long — it is pounded raw squid mixed with fresh herbs, shaped into patties, and either fried or steamed, then served with a sweet chilli dipping sauce. The quality difference between cruise dining and land-based dining is significant: the best overnight cruise operators source their seafood directly from fishing boats each morning and prepare multi-course Vietnamese menus with genuine skill. Land-based restaurants in the Bãi Cháy tourist area vary widely in quality and pricing.",
+  "signatureDishes": [
+    {
+      "name": "Chả Mực Hạ Long (Ha Long Squid Cake)",
+      "vietnameseName": "Chả Mực",
+      "description": "Ha Long Bay's most distinctive food product: fresh squid from the bay is pounded in a mortar (not minced) with shallots, garlic, and fresh herbs until it forms a sticky paste, then shaped into rounds and deep-fried or pan-fried until golden. The texture is unlike anything — chewy, springy, slightly elastic, with a clean fresh-sea flavour. Sold at seafood markets as a take-home snack and served at restaurants throughout the Bãi Cháy area.",
+      "priceRange": "40,000–80,000 VND per portion",
+      "whereToTry": "Hòn Gai fresh market; Bãi Cháy seafood restaurants; aboard cruise ships",
+      "tip": "Buy vacuum-packed chả mực from the Hòn Gai market as a take-home gift. It keeps refrigerated for a week. Look for vendors who show you the pounding process — hand-pounded is superior to machine-minced."
+    },
+    {
+      "name": "Bề Bề Nướng Muối Sả (Grilled Mantis Prawn)",
+      "vietnameseName": "Bề Bề",
+      "description": "Mantis prawns (bề bề) from Ha Long Bay are prized for their naturally sweet, delicate flesh — sweeter than regular prawns and with more complex flavour. They are typically grilled over charcoal with salt and lemongrass (muối sả), or steamed with beer and ginger to preserve the fresh taste. The shells must be cracked to access the meat, which is the size and consistency of a large shrimp. Best eaten the same day they are caught.",
+      "priceRange": "150,000–300,000 VND per portion",
+      "whereToTry": "Bãi Cháy seafood restaurants; Cua Vàng Restaurant on the waterfront; live-seafood tanks at cruise company restaurants",
+      "tip": "Mantis prawns are best from February to July when they are most abundant. The roe (trứng) inside females in early spring is a delicacy worth seeking."
+    },
+    {
+      "name": "Sò Điệp Nướng Mỡ Hành (Grilled Scallop with Spring Onion Oil)",
+      "vietnameseName": "Sò Điệp Nướng",
+      "description": "Ha Long Bay scallops are farmed on floating rafts throughout the bay and arrive at restaurants the same day they are harvested. The standard preparation is the most delicious: halved shells placed on a charcoal grill, raw scallop meat topped with sautéed spring onion in a generous amount of pork fat, then grilled until the scallop just firms and the onion oil pools in the shell. Eaten directly from the shell with a squeeze of lime.",
+      "priceRange": "80,000–150,000 VND per six scallops",
+      "whereToTry": "Any Bãi Cháy waterfront seafood restaurant; scallop farms at Lan Hạ Bay with some cruise operators",
+      "tip": "The scallop is perfectly cooked when it is just barely opaque in the centre — pull it from the grill when it sets slightly, not when it looks fully white (that is overcooked)."
+    },
+    {
+      "name": "Sam Biển (Horseshoe Crab)",
+      "vietnameseName": "Sam Biển",
+      "description": "One of Ha Long Bay's most exotic culinary offerings: Atlantic horseshoe crabs, whose roe (trứng sam) is a prized delicacy in the region. The eggs are golden-orange, slightly grainy, and intensely flavoured. The crab is typically prepared as a salad with herbs and green mango (gỏi sam), or the roe is separated and eaten with rice. A rare and seasonal speciality with a distinct marine intensity.",
+      "priceRange": "200,000–400,000 VND per dish",
+      "whereToTry": "Specialist seafood restaurants in Bãi Cháy; Co Ngu Halong Restaurant",
+      "tip": "Horseshoe crab season is April to August. Outside this period, the crab may be available but the roe will be less abundant. Ask specifically for 'trứng sam' (horseshoe crab roe) rather than just 'sam.'"
+    },
+    {
+      "name": "Cruise Seafood Hotpot (Lẩu Hải Sản)",
+      "vietnameseName": "Lẩu Hải Sản",
+      "description": "The most social eating experience in Ha Long Bay happens aboard overnight cruises: a shared hotpot (lẩu) loaded with freshly caught squid, prawns, clams, crab, morning glory, and tofu, simmered at the table in a lemongrass-tomato broth while the ship drifts between limestone pillars. The freshness of the seafood, the dramatic scenery, and the communal eating format combine into one of the most memorable meals in Southeast Asia.",
+      "priceRange": "Included in cruise fare (varies 500,000–2,000,000 VND per night)",
+      "whereToTry": "Included in most mid-range to premium overnight cruises; choose operators with a reputation for fresh daily seafood",
+      "tip": "Ask your cruise operator whether the seafood is purchased daily from local fishing boats or pre-frozen. The best operators go out at dawn to buy directly from the boats."
+    }
+  ],
+  "bestRestaurants": [
+    {
+      "name": "Cua Vàng Restaurant",
+      "address": "Bãi Cháy waterfront, Hạ Long City",
+      "cuisine": "Vietnamese Seafood",
+      "priceRange": "200,000–500,000 VND",
+      "description": "A long-standing local favourite on the Bãi Cháy waterfront, renowned for its fresh seafood and sweeping bay views. The grilled squid with lemongrass and the signature crab-fried rice are consistently praised. Reasonable prices for the location, warm service, and a menu that covers all the key Ha Long Bay seafood specialities.",
+      "highlight": "Long-standing local favourite — best crab-fried rice and views of Ha Long Bay in Bai Chay"
+    },
+    {
+      "name": "Co Ngu Halong Restaurant",
+      "address": "Bãi Cháy area, Hạ Long City",
+      "cuisine": "Premium Seafood / Vietnamese",
+      "priceRange": "300,000–800,000 VND",
+      "description": "Established in 2009, Co Ngu features a royal-influenced design and an ambitious seafood menu. Signature dishes include Norwegian salmon with shrimp and onion sauce, grilled pork ribs, and horseshoe crab roe dishes. The restaurant is larger and more formal than other Bãi Cháy options and suits group bookings and special occasions.",
+      "highlight": "Established 2009 — impressive royal design and the most ambitious seafood menu in Bai Chay"
+    },
+    {
+      "name": "Linh Dan Restaurant",
+      "address": "Bãi Cháy area, Hạ Long City",
+      "cuisine": "Local Vietnamese",
+      "priceRange": "100,000–300,000 VND",
+      "description": "A family-run restaurant known for authentic local flavours at budget-friendly prices. The chả mực (squid cake) here is praised as among the best in the city, and the fresh oysters with chilli and lime are excellent value. Popular with both locals and budget-conscious travellers for its consistency and welcoming atmosphere.",
+      "highlight": "Best budget-friendly authentic Vietnamese seafood in Bai Chay — squid cake is outstanding"
+    },
+    {
+      "name": "Avocado Restaurant",
+      "address": "Bãi Cháy area, Hạ Long City",
+      "cuisine": "Vietnamese / European Fusion",
+      "priceRange": "200,000–500,000 VND",
+      "description": "A cosy open-kitchen restaurant with an artistic interior and a menu spanning Vietnamese and European dishes. The seafood pasta, grilled local fish, and Vietnamese curries are praised. Good cocktail selection and an airy, well-designed space make it a popular choice for travellers wanting something slightly different from pure seafood restaurants.",
+      "highlight": "Artistic interior, excellent cocktails, and the best Vietnamese-European fusion in Ha Long"
+    },
+    {
+      "name": "Overnight Cruise Dining (Various Operators)",
+      "address": "Ha Long Bay, departing from Tuan Chau or Hon Gai piers",
+      "cuisine": "Fresh Vietnamese Seafood",
+      "priceRange": "Included in cruise packages from 1,200,000 VND/night",
+      "description": "The definitive Ha Long Bay dining experience is aboard an overnight cruise, where chefs prepare multi-course Vietnamese seafood meals using produce sourced that morning. Top operators like Indochina Sails, Paradise Cruises, and Emeraude Classic Cruises are known for their food quality. Cooking classes are offered on most mid-to-premium boats.",
+      "highlight": "The best Ha Long Bay food is on a cruise ship — buy directly from local fishing boats at dawn"
+    },
+    {
+      "name": "Hòn Gai Market Food Stalls",
+      "address": "Hòn Gai Market, Hạ Long City (opposite Bãi Cháy via tunnel)",
+      "cuisine": "Street Food / Market",
+      "priceRange": "20,000–80,000 VND",
+      "description": "The market in Hòn Gai (the older, less touristy part of Hạ Long City) has a lively food section selling chả mực, banh mi, bun, and fresh seafood at local prices far below Bãi Cháy tourist restaurants. Worth the short drive or walk through the tunnel for travellers who want the real Ha Long street food experience.",
+      "highlight": "Most authentic local market food in Ha Long City — chả mực at local prices"
+    }
+  ],
+  "streetFoodAreas": [
+    {
+      "name": "Bãi Cháy Waterfront",
+      "description": "The tourist-oriented seafood restaurant strip along Bãi Cháy beach has dozens of mid-to-high-end restaurants with live seafood tanks. More expensive than inland local spots, but the combination of fresh bay seafood and waterfront setting is hard to beat for a memorable evening. Best visited on weekdays when weekend crowd pressure reduces.",
+      "bestFor": "Grilled scallops, mantis prawns, squid cake, bay views",
+      "openingHours": "11am–11pm daily"
+    },
+    {
+      "name": "Hòn Gai Local Market Area",
+      "description": "Cross the bay tunnel to Hòn Gai for the most authentic local food experience in Ha Long. The wet market (chợ Hòn Gai) and surrounding streets have street-level food stalls serving breakfast rice porridge, bánh mì, bún, and fresh chả mực straight from the market's seafood section. Prices are 30–50% lower than Bãi Cháy and the clientele is 90% local.",
+      "bestFor": "Chả mực, bún, bánh mì, morning market seafood",
+      "openingHours": "5am–2pm (morning market focused)"
+    },
+    {
+      "name": "Tuan Chau Island Seafood Area",
+      "description": "The large marina island of Tuan Chau (departure point for many cruises) has a small seafood restaurant cluster near the pier. Fresh fish, grilled squid, and beer are the staples. Best for a quick meal before or after boarding a cruise. Not as good value as Hòn Gai but convenient for cruise passengers.",
+      "bestFor": "Quick seafood before boarding a cruise, grilled squid, cold beer",
+      "openingHours": "7am–10pm"
+    }
+  ],
+  "foodTips": [
+    "Chả mực (squid cake) is Ha Long Bay's most packable food souvenir. Buy vacuum-sealed packages at the Hòn Gai market — they survive refrigerated transport for up to a week and freeze well for a month.",
+    "Horseshoe crab (sam biển) has been over-harvested in parts of Vietnam — look for restaurants that source it from licensed farms rather than wild-caught. Ask staff where it comes from.",
+    "When selecting live seafood from a tank, establish the price per 100g before pointing. Mantis prawns and crab can run to 300,000–500,000 VND per 100g at tourist-facing restaurants. Negotiate or confirm the total before cooking.",
+    "Most Ha Long City (Bãi Cháy) seafood restaurants inflate prices for tourists. Eating on the Hòn Gai side of the bay tunnel typically costs 40–60% less for equivalent seafood.",
+    "Overnight cruises that include cooking classes offer the best value for money on food education. Even basic operators typically include a squid-fishing activity at night where you catch and eat your own meal.",
+    "Ha Long Bay's most overhyped tourist experience is the Ben Beo floating fishing village restaurant — dramatically overpriced for mediocre seafood. Skip it and eat at a fixed restaurant in the city instead."
+  ],
+  "sources": [
+    {
+      "name": "Visit Ha Long Bay – Best Restaurants in Halong Bay",
+      "url": "https://www.visithalongbay.com/travel-tips/best-restaurants-halong-bay.html"
+    },
+    {
+      "name": "La Casta Cruise – Ha Long Bay Culinary Experiences",
+      "url": "https://lacastacruise.com/travel-guide/ha-long-bay-culinary.html"
+    },
+    {
+      "name": "GetYourGuide – Best Food in Ha Long",
+      "url": "https://www.getyourguide.com/explorer/ha-long-ttd119790/food-in-ha-long/"
+    }
+  ]
+}

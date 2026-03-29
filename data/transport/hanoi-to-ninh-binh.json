@@ -1,0 +1,67 @@
+{
+  "slug": "hanoi-to-ninh-binh",
+  "from": "Hanoi",
+  "to": "Ninh Binh",
+  "distance": "90 km",
+  "description": "Ninh Binh is the closest major natural attraction to Hanoi and one of Vietnam's most scenic destinations, often called 'Ha Long Bay on land' for its towering limestone karsts rising from rice paddies and rivers. At just 90 km south of Hanoi, it's easily done as a day trip or a relaxing overnight stay. The journey takes 1.5–2.5 hours depending on transport mode, making it one of the most accessible escapes from the capital. Highlights include Trang An boat tours, Tam Coc, Bich Dong Pagoda, and the ancient capital of Hoa Lu. Ninh Binh is also a popular stop for travelers heading south on the open bus route.",
+  "options": [
+    {
+      "mode": "Limousine Bus / Minivan",
+      "duration": "1.5–2 hours",
+      "priceRange": "150,000–250,000 VND ($6–10)",
+      "frequency": "Multiple departures daily from Old Quarter hotels",
+      "comfort": "High",
+      "description": "The most convenient option for tourists, limousine minibuses operate from pickup points in the Hanoi Old Quarter to Ninh Binh town or directly to Tam Coc / Trang An. These 9–16 seater air-conditioned vans travel via the Phap Van–Cau Gie Expressway, covering the journey in about 1.5–2 hours. Operators include Hung Thanh, Cat Ba Express, and various Hanoi travel agencies. Some services drop off directly at Tam Coc or Trang An boat docks, saving you the additional taxi ride from Ninh Binh town. This is the recommended option for most visitors combining transport with day trip convenience.",
+      "bookingTip": "Book through your hotel or online via 12Go.asia. Look for services that drop directly at Tam Coc or Trang An rather than Ninh Binh town center."
+    },
+    {
+      "mode": "Train",
+      "duration": "2–2.5 hours",
+      "priceRange": "From 190,000 VND ($7.50) for hard seat",
+      "frequency": "Around 8–10 trains daily from Hanoi main station",
+      "comfort": "Medium",
+      "description": "Vietnam Railways operates frequent trains from Hanoi's main station (Ga Hanoi) to Ninh Binh station throughout the day. With around 8–10 trains daily, there's good flexibility. The train is slightly slower than a direct minibus but offers a more comfortable seat and the experience of Vietnamese rail travel. Ninh Binh train station is about 4 km from Tam Coc and 6 km from Trang An, so you'll need a taxi or xe om (motorbike taxi) at the other end. Hard seats are cheapest at around $7.50; soft seats cost a little more and are recommended for the journey.",
+      "bookingTip": "Book tickets on the Vietnam Railways website (dsvn.vn) or at Hanoi station. For day trips, check the return schedule first — the last train back to Hanoi departs in the late afternoon."
+    },
+    {
+      "mode": "Public Bus",
+      "duration": "2–3 hours",
+      "priceRange": "80,000–120,000 VND ($3–5)",
+      "frequency": "Frequent departures from Giap Bat Bus Station",
+      "comfort": "Low",
+      "description": "The cheapest way to reach Ninh Binh is via public intercity bus from Giap Bat Bus Station (southern Hanoi). Buses run frequently throughout the day and drop passengers at Ninh Binh bus station. Journey time is 2–3 hours depending on traffic and number of stops. The downside is that you must first reach Giap Bat station (about 30–40 minutes from the Old Quarter by Grab), and the buses are less comfortable than limousine options. Best for the most budget-conscious travelers or those already in southern Hanoi.",
+      "bookingTip": "Take Grab or a local bus to Giap Bat station. No advance booking needed — buses depart frequently throughout the day."
+    },
+    {
+      "mode": "Private Car / Taxi",
+      "duration": "1.5 hours",
+      "priceRange": "1,400,000–2,800,000 VND ($60–113) per vehicle",
+      "frequency": "On demand",
+      "comfort": "Very High",
+      "description": "A private car with driver is the most comfortable and fastest option, covering the 90 km in about 1.5 hours via expressway. This makes most sense for families, groups, or travelers with a lot of luggage who want door-to-door service. A driver can wait while you tour Trang An and then drive you back, effectively acting as a day-trip guide. Prices typically range from 1.4–2.8 million VND for the vehicle, depending on car type and whether round trip is included. Tour operators like A21 Tours offer private transfers with English-speaking drivers.",
+      "bookingTip": "For a day trip with round-trip transfer and driver waiting, negotiate an all-day rate — often around $80–120 for a 4-seater including fuel and tolls."
+    }
+  ],
+  "tips": [
+    "For a day trip from Hanoi, aim to depart by 7:30–8:00 AM to have enough time at Trang An (2–3 hours for boat tour) and Tam Coc before heading back.",
+    "Trang An is a UNESCO World Heritage site and the more scenic boat tour route — worth the slightly higher entrance fee over Tam Coc.",
+    "Ninh Binh is best explored by bicycle or electric bike — most hotels rent them for 50,000–100,000 VND/day.",
+    "Bai Dinh Pagoda, the largest Buddhist complex in Vietnam, is 12 km from Ninh Binh town and requires a separate taxi or tour.",
+    "Entrance fees: Trang An 250,000 VND, Tam Coc 250,000 VND, Hoa Lu 50,000 VND — budget accordingly.",
+    "Staying overnight in Ninh Binh (around Tam Coc village) lets you see the sunrise over the karsts and beat the day-tripper crowds from Hanoi."
+  ],
+  "sources": [
+    {
+      "name": "Oxalis Adventure – Transport Options Hanoi to Ninh Binh",
+      "url": "https://oxalisadventure.com/hanoi-to-ninh-binh-best-transport-options/"
+    },
+    {
+      "name": "North Vietnam – How to Get from Hanoi to Ninh Binh",
+      "url": "https://north-vietnam.com/how-to-get-from-hanoi-to-ninh-binh/"
+    },
+    {
+      "name": "12Go Asia – Hanoi to Ninh Binh",
+      "url": "https://12go.asia/en/travel/hanoi/ninh-binh"
+    }
+  ]
+}

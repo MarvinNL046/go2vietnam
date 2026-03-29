@@ -46,7 +46,7 @@ export default function SEOHead({ title, description, ogImage, path, jsonLd, chi
         <>
           <link rel="alternate" hrefLang="nl" href={`${siteConfig.seo.siteUrl}${path}`} />
           <link rel="alternate" hrefLang="en" href={`${siteConfig.seo.siteUrl}/en${path}`} />
-          <link rel="alternate" hrefLang="x-default" href={`${siteConfig.seo.siteUrl}${path}`} />
+          <link rel="alternate" hrefLang="x-default" href={`${siteConfig.seo.siteUrl}/en${path}`} />
         </>
       )}
       {jsonLd && (

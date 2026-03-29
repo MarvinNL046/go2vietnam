@@ -1,0 +1,67 @@
+{
+  "slug": "hue-to-hoi-an",
+  "from": "Hue",
+  "to": "Hoi An",
+  "distance": "130 km",
+  "description": "The journey from Hue to Hoi An is one of the great scenic drives in Vietnam, crossing the dramatic Hai Van Pass — a mountain ridge that forms the climatic and geographic boundary between northern and central Vietnam. On a clear day, the views from the pass are breathtaking: ocean on one side, jungle-covered mountains on the other. The 130 km route takes about 2.5–4 hours depending on transport. Rather than going directly, many travelers opt for a private car or motorbike that allows stops at Hai Van Pass, Lang Co Beach, Da Nang (Marble Mountain, Dragon Bridge), and the Cham Islands viewpoint. Hoi An has no train station, so all routes ultimately arrive by road.",
+  "options": [
+    {
+      "mode": "Private Car with Driver",
+      "duration": "2.5–4 hours (including stops)",
+      "priceRange": "1,500,000–3,500,000 VND ($60–140) per vehicle",
+      "frequency": "On demand, book in advance",
+      "comfort": "Very High",
+      "description": "A private car with driver is the recommended way to travel from Hue to Hoi An if your budget allows. The driver can stop at Hai Van Pass for panoramic photos, at Lang Co Beach for a swim or coffee, at the Marble Mountains in Da Nang, and at the Dragon Bridge. Door-to-door service from your Hue hotel to your Hoi An hotel makes this stress-free. A typical 4-seater car costs 1.5–2 million VND for the vehicle. For groups of 2–4 people, this works out to $15–35 per person — excellent value for a scenic half-day journey. Shared minivans (with other passengers) are cheaper at around $10–15 per person.",
+      "bookingTip": "Ask your hotel to arrange this or book through a local tour operator. Confirm in advance which stops are included and whether the driver speaks English."
+    },
+    {
+      "mode": "Tourist / Open Bus",
+      "duration": "3–4 hours (direct), or longer with stops",
+      "priceRange": "100,000–200,000 VND ($4–8)",
+      "frequency": "Daily departures, usually morning",
+      "comfort": "Medium",
+      "description": "Tourist bus services (sometimes called 'open tour' buses) connect Hue and Hoi An daily. Operators like The Sinh Tourist and Pham Travel run air-conditioned coaches with set departure times, typically in the morning. These buses do not stop at Hai Van Pass or Lang Co — they go through the tunnel instead, which is faster but means you miss the scenery. Journey time is about 3 hours. Tickets can be purchased from guesthouses and travel agents in Hue, or online. This is the default budget option for solo travelers and backpackers who prioritize cost over experience.",
+      "bookingTip": "Book through The Sinh Tourist (thesinhtourist.vn) or your guesthouse. Confirm departure time and pickup point the evening before."
+    },
+    {
+      "mode": "Train to Da Nang + Bus to Hoi An",
+      "duration": "4–6 hours total",
+      "priceRange": "200,000–400,000 VND ($8–16) total",
+      "frequency": "Multiple trains daily; buses every 15–30 min from Da Nang",
+      "comfort": "Medium",
+      "description": "Hoi An has no train station, but you can take a train from Hue to Da Nang (1.5–2.5 hours) and then transfer to a bus or Grab for the final 29 km to Hoi An. Trains offer spectacular views crossing Hai Van Pass on the old coastal rail line — this is one of the most scenic train journeys in Southeast Asia, particularly from a window seat on the ocean side. Soft seat tickets from Hue to Da Nang cost about 100,000–200,000 VND. From Da Nang station, Grab to Hoi An costs 200,000–300,000 VND. The combined journey takes 4–6 hours depending on connections but is a rewarding travel experience.",
+      "bookingTip": "Book a train ticket showing sea views (sit on the right side heading south). From Da Nang station, Grab is easy and reliable — download the app before boarding in Hue."
+    },
+    {
+      "mode": "Motorbike (Self-Drive or Motorbike Taxi)",
+      "duration": "2.5–3.5 hours (direct), or 4–6 hours with stops",
+      "priceRange": "150,000–200,000 VND/day rental; or 500,000–800,000 VND for hired xe om",
+      "frequency": "Flexible",
+      "comfort": "Medium (depends on road experience)",
+      "description": "Riding a motorbike from Hue to Hoi An via Hai Van Pass is one of the iconic Vietnam travel experiences. The pass road (old National Highway 1) climbs steeply before revealing sweeping coastal vistas. The total route includes the pass, Lang Co lagoon, Da Nang's beaches, and the coastal road to Hoi An. For confident riders, the entire route takes 2.5–3.5 hours without stops — with photography stops expect 5–6 hours. If you don't want to ride yourself, hire a local 'Easy Rider' motorbike guide who knows the best viewpoints and will narrate the journey. Easy Rider guides typically charge $30–50 per person.",
+      "bookingTip": "Ask your Hue hotel about Easy Rider guides — they can arrange reputable guides the evening before. If self-riding, check that your rental permits one-way returns to Hoi An."
+    }
+  ],
+  "tips": [
+    "Do NOT skip Hai Van Pass. Taking the tunnel saves time but bypasses one of Vietnam's most spectacular viewpoints. Insist on the old road when hiring a private car.",
+    "Lang Co Beach, just north of Hai Van Pass, is a perfect rest stop with a lagoon, fishing village, and good seafood restaurants.",
+    "The Hue–Da Nang train crossing Hai Van Pass is one of the most scenic rail journeys in Southeast Asia — even a short segment from Hue to Lang Co and back is worth it.",
+    "Hoi An is extremely busy with tourists during the day. Arriving in the afternoon lets you explore the lantern-lit Ancient Town in the evening when it looks most magical.",
+    "Hoi An Ancient Town charges a heritage ticket (120,000 VND) to enter heritage sites within the old town — factor this into your budget.",
+    "The weather in Hue and Hoi An differs significantly: Hue is wetter (especially October–December) while Hoi An is drier. Check the forecast for both ends of your journey."
+  ],
+  "sources": [
+    {
+      "name": "North Vietnam – Hue to Hoi An Transport Options",
+      "url": "https://north-vietnam.com/how-to-get-from-hue-to-hoi-an-da-nang-bus-train/"
+    },
+    {
+      "name": "Vinpearl – From Hue to Hoi An Travel Guide",
+      "url": "https://vinpearl.com/en/from-hue-to-hoi-an"
+    },
+    {
+      "name": "Hoi An Hotel – Complete Guide to Hue to Hoi An Transport",
+      "url": "https://goodmorning-hoian.com/en/hue-to-hoi-an/"
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "introduction": "Huế holds a special place in Vietnamese culinary history as the former imperial capital — the city where court chefs spent centuries developing elaborate, intricate dishes for Nguyen Dynasty emperors who expected both artistry and flavour in every meal. The result is a cuisine that is simultaneously refined and fiercely spiced, marked by the use of mắm ruốc (fermented shrimp paste), lemongrass, and chilli heat that exceeds anywhere else in Vietnam. The city's signature dish, bún bò Huế, is considered by many Vietnamese food writers to be the country's most complex noodle soup — its broth simmered for hours with lemongrass, shrimp paste, and annatto seeds. Beyond the royal culinary heritage, Huế's streets are filled with extraordinarily cheap and addictive snack foods: bánh bèo (steamed rice cakes), bánh nậm (flat dumplings), and bánh lọc (tapioca dumplings with shrimp and pork) are sold from lidded wooden boxes by wandering vendors. Eating well in Huế costs very little.",
+  "signatureDishes": [
+    {
+      "name": "Bún Bò Huế",
+      "vietnameseName": "Bún Bò Huế",
+      "description": "Vietnam's most complex noodle soup: thick round rice noodles in a rich, deeply spiced broth made from beef bones and pork knuckle simmered with lemongrass stalks, fermented shrimp paste (mắm ruốc), and annatto seeds for their deep red colour. Topped with sliced beef shank, pork knuckle, pork blood cake (tiết), and Vietnamese coriander. The heat level is significant — chilli oil is added both during cooking and at the table. More fiery, more complex, and more aromatic than phở.",
+      "priceRange": "30,000–60,000 VND",
+      "whereToTry": "Bún Bò Huế Mụ Rơi, multiple city locations; Bún Bò Bà Gái, 20 Nguyễn Du",
+      "tip": "Ask for less chilli (ít cay) if you are heat-sensitive. Even a mild version is more aromatic than Hanoi or HCMC noodle soups."
+    },
+    {
+      "name": "Bánh Bèo",
+      "vietnameseName": "Bánh Bèo",
+      "description": "Tiny steamed rice cakes (about the size of a large thumbprint) served in small ceramic bowls, topped with dried shrimp, crispy rendered pork skin (tóp mỡ), spring onions, and a drizzle of fish sauce. Each bite is a single mouthful. Eaten as a snack or light meal, an order comes as a tray of eight to twelve individual bowls. One of the most distinctive Huế street foods and extremely cheap.",
+      "priceRange": "20,000–40,000 VND per tray",
+      "whereToTry": "Bánh Bèo Bà Đỏ, Ngô Đức Kế Street; street vendors near Đông Ba Market",
+      "tip": "Eat bánh bèo with the provided chopsticks to scrape the cake directly from the ceramic bowl into your mouth in one motion."
+    },
+    {
+      "name": "Bánh Lọc",
+      "vietnameseName": "Bánh Lọc",
+      "description": "Small translucent tapioca dumplings filled with a whole tiger prawn and a piece of pork belly, folded into a banana leaf and steamed. The tapioca wrapper is chewy, slightly gelatinous, and almost see-through, revealing the pink prawn inside. Served with a sweet-spicy dipping sauce. Often sold alongside bánh bèo and bánh nậm as part of a Huế snack platter.",
+      "priceRange": "25,000–45,000 VND",
+      "whereToTry": "Bánh Bèo Bà Đỏ, Ngô Đức Kế; Quán Hương, 26 Nguyễn Bỉnh Khiêm",
+      "tip": "Bánh lọc comes in two forms: wrapped in banana leaf (bánh lọc trần) and plain without wrapper (bánh lọc lá). The leaf-wrapped version has a more delicate flavour."
+    },
+    {
+      "name": "Cơm Hến",
+      "vietnameseName": "Cơm Hến",
+      "description": "The most challenging and most rewarding Huế dish: cold overnight rice topped with tiny sautéed river clams (hến), crispy pork skin, peanuts, sesame seeds, banana blossom, spring onions, chilli oil, and mắm ruốc. A bewildering combination of textures (cold rice against warm clams, crunch against chew) and flavours (funk from the paste, freshness from the blossom, heat from the chilli). Served with a cup of hot clam broth on the side.",
+      "priceRange": "20,000–40,000 VND",
+      "whereToTry": "Cơm Hến Cồn Hến, Cồn Hến island (cross the bridge on Trần Hưng Đạo); morning stalls near Đông Ba Market",
+      "tip": "The original cơm hến comes from Cồn Hến island in the middle of the Perfume River — a short walk from the city centre and worth the visit."
+    },
+    {
+      "name": "Bánh Khoái",
+      "vietnameseName": "Bánh Khoái",
+      "description": "Huế's version of the crispy rice crepe — smaller and crispier than Da Nang's bánh xèo, made with a thicker batter that creates a rigid, cracker-like shell. Filled with shrimp, pork, and bean sprouts. The essential difference from bánh xèo is the dipping sauce: a Huế-specific thick peanut-sesame-bean sauce (tương) rather than fish sauce. Eaten by wrapping in lettuce, star fruit, and banana blossom.",
+      "priceRange": "40,000–80,000 VND",
+      "whereToTry": "Bánh Khoái Lạc Thiện, 6 Đinh Tiên Hoàng; street vendors near the Imperial Citadel",
+      "tip": "The peanut-sesame dipping sauce (tương) is much thicker and sweeter than plain nước chấm — apply it sparingly to the first bite to calibrate."
+    },
+    {
+      "name": "Mè Xửng",
+      "vietnameseName": "Mè Xửng",
+      "description": "Huế's signature sweet treat: a hard sesame brittle made from sugar, sesame seeds, and malt syrup, sold in long rectangular blocks wrapped in cellophane. The texture ranges from crunchy to slightly chewy depending on the humidity and freshness. Available at every market and food shop in Huế. The best versions have a high proportion of black sesame and barely perceptible salt.",
+      "priceRange": "30,000–80,000 VND per block",
+      "whereToTry": "Đông Ba Market, 2 Trần Hưng Đạo; confectionery shops throughout Lê Lợi Street",
+      "tip": "Mè xửng makes an excellent and very packable gift. Buy from market stalls where turnover is high for the freshest product."
+    }
+  ],
+  "bestRestaurants": [
+    {
+      "name": "Bún Bò Huế Mụ Rơi",
+      "address": "Multiple branches; ask locals for nearest location",
+      "cuisine": "Street Food – Bún Bò Huế",
+      "priceRange": "35,000–60,000 VND",
+      "description": "Among the most respected bún bò Huế chains in the city, with multiple branches known for consistency. The broth achieves the ideal balance of lemongrass fragrance, shrimp paste depth, and manageable chilli heat. Pork knuckle falls off the bone, blood cake is fresh, and the noodles are properly thick and springy.",
+      "highlight": "Widely regarded as the benchmark bún bò Huế in the city — multiple local branches"
+    },
+    {
+      "name": "Lạc Thiện Restaurant",
+      "address": "6 Đinh Tiên Hoàng, Huế",
+      "cuisine": "Traditional Huế – Bánh Khoái",
+      "priceRange": "50,000–150,000 VND",
+      "description": "A small restaurant run by a deaf family that has been operating since the 1970s, famous for its bánh khoái and vegetarian Huế dishes. The bánh khoái is consistently cited by food guides as among the best in the city. Service is warm despite the communication challenge — the family communicates through gestures and written notes.",
+      "highlight": "Family-run restaurant operated by a deaf family since the 1970s — a Huế institution"
+    },
+    {
+      "name": "Madam Thu",
+      "address": "8 Huỳnh Thúc Kháng, Phú Hội, Huế",
+      "cuisine": "Royal Huế Cuisine",
+      "priceRange": "250,000–600,000 VND per person",
+      "description": "One of the most recommended restaurants for tourists seeking the imperial dining experience. Madam Thu's set menus recreate the multi-course royal meal with dishes presented in small ceramic vessels on lacquered trays. Bún bò Huế, cơm hến, bánh bèo, and slow-braised meats are all represented with attention to plating and presentation.",
+      "highlight": "The most accessible and highly rated royal Huế cuisine experience for visitors"
+    },
+    {
+      "name": "Quan Bun Bo Hue Ba Gai",
+      "address": "20 Nguyễn Du, Huế",
+      "cuisine": "Street Food – Bún Bò Huế",
+      "priceRange": "35,000–55,000 VND",
+      "description": "A local favourite for bún bò Huế in a no-frills street-side setting. The broth here is notably spicier than tourist-oriented versions and considered by many Hue residents to be truer to the original recipe. Opens from 6am for early breakfast seekers.",
+      "highlight": "Locals' favourite for the most authentically spiced bún bò Huế in the city"
+    },
+    {
+      "name": "Cơm Hến Cồn Hến",
+      "address": "Cồn Hến island, Phú Cát Ward, Huế",
+      "cuisine": "Street Food – Cơm Hến",
+      "priceRange": "15,000–30,000 VND",
+      "description": "The original location for cơm hến — Cồn Hến island in the middle of the Perfume River is where the baby clams are harvested and where the dish is cooked at its most basic and authentic. Walk across the small bridge and find riverside vendors serving cơm hến with views across the water.",
+      "highlight": "The birthplace of cơm hến — eat the dish where the clams are actually caught"
+    },
+    {
+      "name": "Ancient Hue Garden Houses",
+      "address": "Vĩ Dạ Ward, Huế",
+      "cuisine": "Royal Huế / Garden Dining",
+      "priceRange": "300,000–700,000 VND per person",
+      "description": "A beautiful resort restaurant set in a heavily wooded private garden house west of the Imperial City. The menu is built around royal-era Huế recipes — multiple small dishes served in succession, reflecting the Nguyen court's preference for variety over volume. The garden setting along the Perfume River is exceptional.",
+      "highlight": "The most beautiful restaurant setting in Huế — garden dining with authentic royal cuisine"
+    }
+  ],
+  "streetFoodAreas": [
+    {
+      "name": "Đông Ba Market (Chợ Đông Ba)",
+      "description": "The largest and most important market in Huế, spreading across two buildings on Trần Hưng Đạo near the Gia Hội Bridge. The ground floor is dedicated to fresh produce, meat, and seafood; the upper levels host food stalls serving bánh bèo, bánh lọc, cơm hến, bánh ướt, and the full spectrum of Huế snacks from early morning. The cheapest prices in the city and the most authentic vendor selection.",
+      "bestFor": "Bánh bèo, bánh lọc, cơm hến, bánh canh cua, all Huế snack foods",
+      "openingHours": "6am–7pm daily, busiest 7–11am"
+    },
+    {
+      "name": "Ngô Đức Kế Street (Bánh Bèo Alley)",
+      "description": "A narrow street near the Perfume River with a high concentration of bánh bèo and bánh lọc vendors. Most are family-run stalls operating from ground-floor storefronts with shared plastic tables on the footpath. The concentration makes comparison easy — you can try three or four different family recipes in a single morning.",
+      "bestFor": "Bánh bèo, bánh lọc, bánh nậm",
+      "openingHours": "7am–noon (morning snack focused)"
+    },
+    {
+      "name": "Hùng Vương Street Evening Food",
+      "description": "The main commercial street through central Huế comes alive at dusk with evening food vendors setting up alongside the permanent restaurants. Grilled corn, chè (Vietnamese sweet soups), bún bò Huế stalls, and fresh fruit vendors line the footpath from around 5pm.",
+      "bestFor": "Grilled snacks, chè, evening bún bò, fresh fruit",
+      "openingHours": "5pm–10pm"
+    }
+  ],
+  "foodTips": [
+    "Bún bò Huế is significantly spicier than any noodle soup in northern or southern Vietnam. If you have a low chilli tolerance, ask for 'ít ớt' (less chilli) when ordering — the broth itself is already seasoned with annatto and shrimp paste, so it won't taste bland.",
+    "Huế's snack foods (bánh bèo, bánh lọc, bánh nậm) are traditionally eaten in the morning before 11am. Afternoon availability is unreliable at street stalls, though sit-down restaurants serve them all day.",
+    "Cơm hến on Cồn Hến island is the cheapest, most authentic version in Huế. A full bowl costs 15,000–20,000 VND. Don't be put off by the basic appearance of the vendors — the clams are caught fresh from the Perfume River.",
+    "Mắm ruốc (fermented shrimp paste) appears in or alongside virtually every Huế dish. It is the most characteristically Huế ingredient and defines the flavour profile of the city's cooking. Don't avoid it.",
+    "Imperial cuisine set menus at hotel restaurants in Huế tend to be overpriced and over-sanitised. Madam Thu's restaurant at 8 Huỳnh Thúc Kháng offers a more authentic royal dining experience at a fairer price.",
+    "Huế has an excellent selection of chè (Vietnamese sweet dessert soups) — chè bắp (sweet corn), chè đậu xanh (mung bean), and chè trôi nước (rice balls in ginger syrup) are all city specialties."
+  ],
+  "sources": [
+    {
+      "name": "Will Fly for Food – 20 Restaurants in Hue",
+      "url": "https://www.willflyforfood.net/hue-food-guide/"
+    },
+    {
+      "name": "The Street Food Guy – Best Bun Bo Hue",
+      "url": "https://www.thestreetfoodguy.com/best-bun-bo-hue/"
+    },
+    {
+      "name": "Vietnam Coracle – Hue Food Guide",
+      "url": "https://www.vietnamcoracle.com/hue-food-guide/"
+    }
+  ]
+}

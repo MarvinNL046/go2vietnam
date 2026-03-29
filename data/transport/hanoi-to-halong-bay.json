@@ -1,0 +1,67 @@
+{
+  "slug": "hanoi-to-halong-bay",
+  "from": "Hanoi",
+  "to": "Ha Long Bay",
+  "distance": "165 km",
+  "description": "Ha Long Bay is the most popular day trip and overnight excursion from Hanoi, and the journey itself is straightforward. Most travelers depart from Hanoi's Old Quarter in the morning and arrive at Tuan Chau Marina or Ha Long International Cruise Port in about 2.5–3 hours via the modern Hanoi–Hai Phong Expressway. The classic route takes you east through the Red River Delta, past rice paddies and industrial zones before the limestone karsts of the bay come into view. The most common approach is to bundle transport with a cruise package, as most overnight cruise operators include round-trip transfers from Hanoi in the price. Independent travelers can also take a limousine bus or public bus to Ha Long City and arrange their own bay activities.",
+  "options": [
+    {
+      "mode": "Cruise Package Transfer",
+      "duration": "2.5–3 hours",
+      "priceRange": "Included in cruise price (cruises from $80–$250+ per person)",
+      "frequency": "Daily departures, typically 7:30–8:30 AM pickup",
+      "comfort": "High",
+      "description": "The most popular and hassle-free way to reach Ha Long Bay. The majority of overnight cruises include round-trip bus transfers from Hanoi's Old Quarter to Tuan Chau Marina or Ha Long International Cruise Port. Modern air-conditioned coaches with reclining seats make stops at a rest area about halfway. Buses typically pick up from hotels in the Hoan Kiem / Old Quarter area. Luggage is stored on the bus while you cruise. This option is seamless — your guide meets you at pickup and accompanies you the entire way. Budget day-trip boats also often include transfers, making this the default choice for most visitors to Ha Long Bay.",
+      "bookingTip": "Book at least 3–7 days ahead for overnight cruises; peak season (March–June, September–November) books out fast. Reputable cruise operators include Indochina Junk, Paradise Cruises, and Bhaya Cruises."
+    },
+    {
+      "mode": "Limousine Bus",
+      "duration": "2.5–3 hours",
+      "priceRange": "180,000–300,000 VND ($7–12) one way",
+      "frequency": "Multiple departures daily, usually 7 AM–1 PM",
+      "comfort": "High",
+      "description": "For independent travelers, limousine minibuses (9–16 seater Mercedes Sprinters) offer the most comfortable way to reach Ha Long Bay on your own. Operators like Hung Thanh, Sapa Express, and various Hanoi travel agencies run daily services from the Old Quarter to Ha Long City or Bai Chay Bus Terminal. Seats are spacious with air conditioning, and the journey uses the express highway, making it significantly faster than older routes. You can book online or through your hotel. Upon arrival in Ha Long City, you'll need a local taxi or Grab to reach your specific marina or hotel.",
+      "bookingTip": "Book online via 12Go.asia or GetYourGuide for competitive prices. Choose operators that depart from or near your hotel in the Old Quarter."
+    },
+    {
+      "mode": "Public Bus",
+      "duration": "3–4 hours",
+      "priceRange": "100,000–150,000 VND ($4–6)",
+      "frequency": "Frequent, from Giap Bat or My Dinh Bus Station",
+      "comfort": "Low",
+      "description": "The cheapest way to get to Ha Long Bay is via public intercity buses departing from Hanoi's Giap Bat or My Dinh bus stations. Buses run to Ha Long City / Bai Chay Bus Terminal throughout the day. However, these buses take longer due to more stops along the way, and are less comfortable than limousine options. You'll also need to first get yourself to the bus station (a 30–45 minute trip from the Old Quarter), adding time and complexity. The journey covers the older National Highway 18, which can be congested. Best suited for very budget-conscious independent travelers with time to spare.",
+      "bookingTip": "Take a Grab from your hotel to My Dinh or Giap Bat station. Buses run throughout the day — no need to book in advance."
+    },
+    {
+      "mode": "Seaplane",
+      "duration": "45 minutes",
+      "priceRange": "From $100–$200+ one way",
+      "frequency": "Limited daily flights, seasonal availability",
+      "comfort": "Very High",
+      "description": "For a truly unforgettable arrival, Hai Au Aviation operates seaplane flights between Hanoi's Noi Bai Airport and Ha Long Bay. The 45-minute flight offers spectacular aerial views of the limestone karst landscape before landing directly in the bay. This is by far the fastest and most dramatic way to arrive. Seaplanes typically land at the Tuan Chau Marina area. Prices are significantly higher than ground transport, making this an aspirational splurge rather than a budget option. Flights are seasonal and weather-dependent — cancellations do occur during poor visibility or storm conditions.",
+      "bookingTip": "Book directly with Hai Au Aviation (haiau.com.vn) well in advance. Have a backup plan as seaplane flights are frequently cancelled due to weather."
+    }
+  ],
+  "tips": [
+    "Most overnight cruise packages include Hanoi pickup — confirm this when booking so you don't arrange separate transport.",
+    "Allow 3–3.5 hours travel time door-to-marina, including the pickup buffer and any rest stops.",
+    "Ha Long Bay has two main embarkation points: Tuan Chau Marina (most cruises) and Ha Long International Cruise Port (some day boats). Confirm which one your tour uses.",
+    "Avoid budget 'day trip' operators that seem unusually cheap — a 1-day cruise from Hanoi barely gives you 4 hours on the water after travel time. Overnight cruises are strongly recommended.",
+    "Traffic leaving Hanoi on Friday afternoons and returning on Sunday evenings is heavy. Midweek travel is smoother.",
+    "Bring motion sickness tablets if you're sensitive — the bay can be choppy, especially from November to February."
+  ],
+  "sources": [
+    {
+      "name": "Bhaya Cruises – Getting to Ha Long Bay from Hanoi",
+      "url": "https://bhayacruises.com/blog/get-from-hanoi-to-halong-bay/"
+    },
+    {
+      "name": "Paradise Vietnam – Transport from Hanoi to Ha Long Bay",
+      "url": "https://www.paradisevietnam.com/en/hanoi-to-halong-bay"
+    },
+    {
+      "name": "Visit Ha Long Bay – Transportation Guide",
+      "url": "https://www.visithalongbay.com/transportation/how-travel-between-hanoi-and-halong-bay.html"
+    }
+  ]
+}

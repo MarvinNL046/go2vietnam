@@ -3,641 +3,587 @@
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://go2-vietnam.com/en/</loc>
-    <lastmod>2026-02-24T13:18:28.231Z</lastmod>
+    <lastmod>2026-03-29T13:53:15.702Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="nl" href="https://go2-vietnam.com/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://go2-vietnam.com/en/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/en/" />
   </url>
   <url>
     <loc>https://go2-vietnam.com/en/city/</loc>
-    <lastmod>2026-02-24T13:18:28.231Z</lastmod>
+    <lastmod>2026-03-29T13:53:15.702Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="nl" href="https://go2-vietnam.com/city/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://go2-vietnam.com/en/city/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/city/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/en/city/" />
   </url>
   <url>
     <loc>https://go2-vietnam.com/en/city/hanoi/</loc>
-    <lastmod>2026-02-24T13:18:28.231Z</lastmod>
+    <lastmod>2026-03-29T13:53:15.702Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="nl" href="https://go2-vietnam.com/city/hanoi/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://go2-vietnam.com/en/city/hanoi/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/city/hanoi/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/en/city/hanoi/" />
   </url>
   <url>
     <loc>https://go2-vietnam.com/en/city/ho-chi-minh-city/</loc>
-    <lastmod>2026-02-24T13:18:28.231Z</lastmod>
+    <lastmod>2026-03-29T13:53:15.702Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="nl" href="https://go2-vietnam.com/city/ho-chi-minh-city/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://go2-vietnam.com/en/city/ho-chi-minh-city/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/city/ho-chi-minh-city/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/en/city/ho-chi-minh-city/" />
   </url>
   <url>
     <loc>https://go2-vietnam.com/en/city/da-nang/</loc>
-    <lastmod>2026-02-24T13:18:28.231Z</lastmod>
+    <lastmod>2026-03-29T13:53:15.702Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="nl" href="https://go2-vietnam.com/city/da-nang/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://go2-vietnam.com/en/city/da-nang/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/city/da-nang/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/en/city/da-nang/" />
   </url>
   <url>
     <loc>https://go2-vietnam.com/en/city/hoi-an/</loc>
-    <lastmod>2026-02-24T13:18:28.231Z</lastmod>
+    <lastmod>2026-03-29T13:53:15.702Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="nl" href="https://go2-vietnam.com/city/hoi-an/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://go2-vietnam.com/en/city/hoi-an/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/city/hoi-an/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/en/city/hoi-an/" />
   </url>
   <url>
     <loc>https://go2-vietnam.com/en/city/hue/</loc>
-    <lastmod>2026-02-24T13:18:28.231Z</lastmod>
+    <lastmod>2026-03-29T13:53:15.702Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="nl" href="https://go2-vietnam.com/city/hue/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://go2-vietnam.com/en/city/hue/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/city/hue/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/en/city/hue/" />
   </url>
   <url>
     <loc>https://go2-vietnam.com/en/city/nha-trang/</loc>
-    <lastmod>2026-02-24T13:18:28.231Z</lastmod>
+    <lastmod>2026-03-29T13:53:15.702Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="nl" href="https://go2-vietnam.com/city/nha-trang/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://go2-vietnam.com/en/city/nha-trang/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/city/nha-trang/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/en/city/nha-trang/" />
   </url>
   <url>
     <loc>https://go2-vietnam.com/en/city/da-lat/</loc>
-    <lastmod>2026-02-24T13:18:28.231Z</lastmod>
+    <lastmod>2026-03-29T13:53:15.702Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="nl" href="https://go2-vietnam.com/city/da-lat/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://go2-vietnam.com/en/city/da-lat/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/city/da-lat/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/en/city/da-lat/" />
   </url>
   <url>
     <loc>https://go2-vietnam.com/en/city/sapa/</loc>
-    <lastmod>2026-02-24T13:18:28.231Z</lastmod>
+    <lastmod>2026-03-29T13:53:15.702Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="nl" href="https://go2-vietnam.com/city/sapa/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://go2-vietnam.com/en/city/sapa/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/city/sapa/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/en/city/sapa/" />
   </url>
   <url>
     <loc>https://go2-vietnam.com/en/city/ha-long/</loc>
-    <lastmod>2026-02-24T13:18:28.231Z</lastmod>
+    <lastmod>2026-03-29T13:53:15.702Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="nl" href="https://go2-vietnam.com/city/ha-long/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://go2-vietnam.com/en/city/ha-long/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/city/ha-long/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/en/city/ha-long/" />
   </url>
   <url>
     <loc>https://go2-vietnam.com/en/city/phu-quoc/</loc>
-    <lastmod>2026-02-24T13:18:28.231Z</lastmod>
+    <lastmod>2026-03-29T13:53:15.702Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="nl" href="https://go2-vietnam.com/city/phu-quoc/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://go2-vietnam.com/en/city/phu-quoc/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/city/phu-quoc/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/en/city/phu-quoc/" />
   </url>
   <url>
     <loc>https://go2-vietnam.com/en/city/can-tho/</loc>
-    <lastmod>2026-02-24T13:18:28.231Z</lastmod>
+    <lastmod>2026-03-29T13:53:15.702Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="nl" href="https://go2-vietnam.com/city/can-tho/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://go2-vietnam.com/en/city/can-tho/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/city/can-tho/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/en/city/can-tho/" />
   </url>
   <url>
     <loc>https://go2-vietnam.com/en/city/ninh-binh/</loc>
-    <lastmod>2026-02-24T13:18:28.231Z</lastmod>
+    <lastmod>2026-03-29T13:53:15.702Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="nl" href="https://go2-vietnam.com/city/ninh-binh/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://go2-vietnam.com/en/city/ninh-binh/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/city/ninh-binh/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/en/city/ninh-binh/" />
   </url>
   <url>
     <loc>https://go2-vietnam.com/en/city/mui-ne/</loc>
-    <lastmod>2026-02-24T13:18:28.231Z</lastmod>
+    <lastmod>2026-03-29T13:53:15.702Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="nl" href="https://go2-vietnam.com/city/mui-ne/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://go2-vietnam.com/en/city/mui-ne/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/city/mui-ne/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/en/city/mui-ne/" />
   </url>
   <url>
     <loc>https://go2-vietnam.com/en/food/</loc>
-    <lastmod>2026-02-24T13:18:28.231Z</lastmod>
+    <lastmod>2026-03-29T13:53:15.702Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="nl" href="https://go2-vietnam.com/food/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://go2-vietnam.com/en/food/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/food/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/en/food/" />
   </url>
   <url>
     <loc>https://go2-vietnam.com/en/food/pho/</loc>
-    <lastmod>2026-02-24T13:18:28.231Z</lastmod>
+    <lastmod>2026-03-29T13:53:15.702Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="nl" href="https://go2-vietnam.com/food/pho/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://go2-vietnam.com/en/food/pho/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/food/pho/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/en/food/pho/" />
   </url>
   <url>
     <loc>https://go2-vietnam.com/en/food/banh-mi/</loc>
-    <lastmod>2026-02-24T13:18:28.231Z</lastmod>
+    <lastmod>2026-03-29T13:53:15.702Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="nl" href="https://go2-vietnam.com/food/banh-mi/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://go2-vietnam.com/en/food/banh-mi/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/food/banh-mi/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/en/food/banh-mi/" />
   </url>
   <url>
     <loc>https://go2-vietnam.com/en/food/bun-cha/</loc>
-    <lastmod>2026-02-24T13:18:28.231Z</lastmod>
+    <lastmod>2026-03-29T13:53:15.702Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="nl" href="https://go2-vietnam.com/food/bun-cha/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://go2-vietnam.com/en/food/bun-cha/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/food/bun-cha/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/en/food/bun-cha/" />
   </url>
   <url>
     <loc>https://go2-vietnam.com/en/food/goi-cuon/</loc>
-    <lastmod>2026-02-24T13:18:28.231Z</lastmod>
+    <lastmod>2026-03-29T13:53:15.702Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="nl" href="https://go2-vietnam.com/food/goi-cuon/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://go2-vietnam.com/en/food/goi-cuon/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/food/goi-cuon/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/en/food/goi-cuon/" />
   </url>
   <url>
     <loc>https://go2-vietnam.com/en/food/banh-xeo/</loc>
-    <lastmod>2026-02-24T13:18:28.231Z</lastmod>
+    <lastmod>2026-03-29T13:53:15.702Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="nl" href="https://go2-vietnam.com/food/banh-xeo/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://go2-vietnam.com/en/food/banh-xeo/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/food/banh-xeo/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/en/food/banh-xeo/" />
   </url>
   <url>
     <loc>https://go2-vietnam.com/en/food/bun-bo-hue/</loc>
-    <lastmod>2026-02-24T13:18:28.231Z</lastmod>
+    <lastmod>2026-03-29T13:53:15.702Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="nl" href="https://go2-vietnam.com/food/bun-bo-hue/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://go2-vietnam.com/en/food/bun-bo-hue/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/food/bun-bo-hue/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/en/food/bun-bo-hue/" />
   </url>
   <url>
     <loc>https://go2-vietnam.com/en/food/com-tam/</loc>
-    <lastmod>2026-02-24T13:18:28.231Z</lastmod>
+    <lastmod>2026-03-29T13:53:15.702Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="nl" href="https://go2-vietnam.com/food/com-tam/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://go2-vietnam.com/en/food/com-tam/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/food/com-tam/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/en/food/com-tam/" />
   </url>
   <url>
     <loc>https://go2-vietnam.com/en/food/cao-lau/</loc>
-    <lastmod>2026-02-24T13:18:28.231Z</lastmod>
+    <lastmod>2026-03-29T13:53:15.702Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="nl" href="https://go2-vietnam.com/food/cao-lau/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://go2-vietnam.com/en/food/cao-lau/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/food/cao-lau/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/en/food/cao-lau/" />
   </url>
   <url>
     <loc>https://go2-vietnam.com/en/food/mi-quang/</loc>
-    <lastmod>2026-02-24T13:18:28.231Z</lastmod>
+    <lastmod>2026-03-29T13:53:15.702Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="nl" href="https://go2-vietnam.com/food/mi-quang/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://go2-vietnam.com/en/food/mi-quang/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/food/mi-quang/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/en/food/mi-quang/" />
   </url>
   <url>
     <loc>https://go2-vietnam.com/en/food/banh-cuon/</loc>
-    <lastmod>2026-02-24T13:18:28.231Z</lastmod>
+    <lastmod>2026-03-29T13:53:15.702Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="nl" href="https://go2-vietnam.com/food/banh-cuon/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://go2-vietnam.com/en/food/banh-cuon/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/food/banh-cuon/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/en/food/banh-cuon/" />
   </url>
   <url>
     <loc>https://go2-vietnam.com/en/food/bun-rieu/</loc>
-    <lastmod>2026-02-24T13:18:28.231Z</lastmod>
+    <lastmod>2026-03-29T13:53:15.702Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="nl" href="https://go2-vietnam.com/food/bun-rieu/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://go2-vietnam.com/en/food/bun-rieu/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/food/bun-rieu/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/en/food/bun-rieu/" />
   </url>
   <url>
     <loc>https://go2-vietnam.com/en/food/hu-tieu/</loc>
-    <lastmod>2026-02-24T13:18:28.231Z</lastmod>
+    <lastmod>2026-03-29T13:53:15.702Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="nl" href="https://go2-vietnam.com/food/hu-tieu/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://go2-vietnam.com/en/food/hu-tieu/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/food/hu-tieu/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/en/food/hu-tieu/" />
   </url>
   <url>
     <loc>https://go2-vietnam.com/en/food/nem-ran/</loc>
-    <lastmod>2026-02-24T13:18:28.231Z</lastmod>
+    <lastmod>2026-03-29T13:53:15.702Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="nl" href="https://go2-vietnam.com/food/nem-ran/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://go2-vietnam.com/en/food/nem-ran/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/food/nem-ran/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/en/food/nem-ran/" />
   </url>
   <url>
     <loc>https://go2-vietnam.com/en/food/bo-la-lot/</loc>
-    <lastmod>2026-02-24T13:18:28.231Z</lastmod>
+    <lastmod>2026-03-29T13:53:15.702Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="nl" href="https://go2-vietnam.com/food/bo-la-lot/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://go2-vietnam.com/en/food/bo-la-lot/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/food/bo-la-lot/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/en/food/bo-la-lot/" />
   </url>
   <url>
     <loc>https://go2-vietnam.com/en/food/ca-kho-to/</loc>
-    <lastmod>2026-02-24T13:18:28.231Z</lastmod>
+    <lastmod>2026-03-29T13:53:15.702Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="nl" href="https://go2-vietnam.com/food/ca-kho-to/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://go2-vietnam.com/en/food/ca-kho-to/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/food/ca-kho-to/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/en/food/ca-kho-to/" />
   </url>
   <url>
     <loc>https://go2-vietnam.com/en/food/banh-khot/</loc>
-    <lastmod>2026-02-24T13:18:28.231Z</lastmod>
+    <lastmod>2026-03-29T13:53:15.702Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="nl" href="https://go2-vietnam.com/food/banh-khot/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://go2-vietnam.com/en/food/banh-khot/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/food/banh-khot/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/en/food/banh-khot/" />
   </url>
   <url>
     <loc>https://go2-vietnam.com/en/food/xoi/</loc>
-    <lastmod>2026-02-24T13:18:28.231Z</lastmod>
+    <lastmod>2026-03-29T13:53:15.702Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="nl" href="https://go2-vietnam.com/food/xoi/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://go2-vietnam.com/en/food/xoi/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/food/xoi/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/en/food/xoi/" />
   </url>
   <url>
     <loc>https://go2-vietnam.com/en/food/che/</loc>
-    <lastmod>2026-02-24T13:18:28.231Z</lastmod>
+    <lastmod>2026-03-29T13:53:15.702Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="nl" href="https://go2-vietnam.com/food/che/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://go2-vietnam.com/en/food/che/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/food/che/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/en/food/che/" />
   </url>
   <url>
     <loc>https://go2-vietnam.com/en/drinks/</loc>
-    <lastmod>2026-02-24T13:18:28.231Z</lastmod>
+    <lastmod>2026-03-29T13:53:15.702Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="nl" href="https://go2-vietnam.com/drinks/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://go2-vietnam.com/en/drinks/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/drinks/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/en/drinks/" />
   </url>
   <url>
     <loc>https://go2-vietnam.com/en/drinks/ca-phe-sua-da/</loc>
-    <lastmod>2026-02-24T13:18:28.231Z</lastmod>
+    <lastmod>2026-03-29T13:53:15.702Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="nl" href="https://go2-vietnam.com/drinks/ca-phe-sua-da/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://go2-vietnam.com/en/drinks/ca-phe-sua-da/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/drinks/ca-phe-sua-da/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/en/drinks/ca-phe-sua-da/" />
   </url>
   <url>
     <loc>https://go2-vietnam.com/en/drinks/ca-phe-trung/</loc>
-    <lastmod>2026-02-24T13:18:28.231Z</lastmod>
+    <lastmod>2026-03-29T13:53:15.702Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="nl" href="https://go2-vietnam.com/drinks/ca-phe-trung/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://go2-vietnam.com/en/drinks/ca-phe-trung/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/drinks/ca-phe-trung/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/en/drinks/ca-phe-trung/" />
   </url>
   <url>
     <loc>https://go2-vietnam.com/en/drinks/ca-phe-muoi/</loc>
-    <lastmod>2026-02-24T13:18:28.231Z</lastmod>
+    <lastmod>2026-03-29T13:53:15.702Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="nl" href="https://go2-vietnam.com/drinks/ca-phe-muoi/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://go2-vietnam.com/en/drinks/ca-phe-muoi/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/drinks/ca-phe-muoi/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/en/drinks/ca-phe-muoi/" />
   </url>
   <url>
     <loc>https://go2-vietnam.com/en/drinks/bia-hoi/</loc>
-    <lastmod>2026-02-24T13:18:28.231Z</lastmod>
+    <lastmod>2026-03-29T13:53:15.702Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="nl" href="https://go2-vietnam.com/drinks/bia-hoi/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://go2-vietnam.com/en/drinks/bia-hoi/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/drinks/bia-hoi/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/en/drinks/bia-hoi/" />
   </url>
   <url>
     <loc>https://go2-vietnam.com/en/drinks/sinh-to/</loc>
-    <lastmod>2026-02-24T13:18:28.231Z</lastmod>
+    <lastmod>2026-03-29T13:53:15.702Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="nl" href="https://go2-vietnam.com/drinks/sinh-to/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://go2-vietnam.com/en/drinks/sinh-to/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/drinks/sinh-to/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/en/drinks/sinh-to/" />
   </url>
   <url>
     <loc>https://go2-vietnam.com/en/drinks/nuoc-mia/</loc>
-    <lastmod>2026-02-24T13:18:28.231Z</lastmod>
+    <lastmod>2026-03-29T13:53:15.702Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="nl" href="https://go2-vietnam.com/drinks/nuoc-mia/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://go2-vietnam.com/en/drinks/nuoc-mia/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/drinks/nuoc-mia/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/en/drinks/nuoc-mia/" />
   </url>
   <url>
     <loc>https://go2-vietnam.com/en/drinks/tra-da/</loc>
-    <lastmod>2026-02-24T13:18:28.231Z</lastmod>
+    <lastmod>2026-03-29T13:53:15.702Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="nl" href="https://go2-vietnam.com/drinks/tra-da/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://go2-vietnam.com/en/drinks/tra-da/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/drinks/tra-da/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/en/drinks/tra-da/" />
   </url>
   <url>
     <loc>https://go2-vietnam.com/en/drinks/tra-sen/</loc>
-    <lastmod>2026-02-24T13:18:28.231Z</lastmod>
+    <lastmod>2026-03-29T13:53:15.702Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="nl" href="https://go2-vietnam.com/drinks/tra-sen/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://go2-vietnam.com/en/drinks/tra-sen/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/drinks/tra-sen/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/en/drinks/tra-sen/" />
   </url>
   <url>
     <loc>https://go2-vietnam.com/en/drinks/ruou-can/</loc>
-    <lastmod>2026-02-24T13:18:28.231Z</lastmod>
+    <lastmod>2026-03-29T13:53:15.702Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="nl" href="https://go2-vietnam.com/drinks/ruou-can/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://go2-vietnam.com/en/drinks/ruou-can/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/drinks/ruou-can/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/en/drinks/ruou-can/" />
   </url>
   <url>
     <loc>https://go2-vietnam.com/en/islands/</loc>
-    <lastmod>2026-02-24T13:18:28.231Z</lastmod>
+    <lastmod>2026-03-29T13:53:15.702Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="nl" href="https://go2-vietnam.com/islands/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://go2-vietnam.com/en/islands/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/islands/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/en/islands/" />
   </url>
   <url>
     <loc>https://go2-vietnam.com/en/islands/phu-quoc/</loc>
-    <lastmod>2026-02-24T13:18:28.231Z</lastmod>
+    <lastmod>2026-03-29T13:53:15.702Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="nl" href="https://go2-vietnam.com/islands/phu-quoc/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://go2-vietnam.com/en/islands/phu-quoc/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/islands/phu-quoc/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/en/islands/phu-quoc/" />
   </url>
   <url>
     <loc>https://go2-vietnam.com/en/islands/con-dao/</loc>
-    <lastmod>2026-02-24T13:18:28.231Z</lastmod>
+    <lastmod>2026-03-29T13:53:15.702Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="nl" href="https://go2-vietnam.com/islands/con-dao/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://go2-vietnam.com/en/islands/con-dao/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/islands/con-dao/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/en/islands/con-dao/" />
   </url>
   <url>
     <loc>https://go2-vietnam.com/en/islands/cat-ba/</loc>
-    <lastmod>2026-02-24T13:18:28.231Z</lastmod>
+    <lastmod>2026-03-29T13:53:15.702Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="nl" href="https://go2-vietnam.com/islands/cat-ba/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://go2-vietnam.com/en/islands/cat-ba/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/islands/cat-ba/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/en/islands/cat-ba/" />
   </url>
   <url>
     <loc>https://go2-vietnam.com/en/islands/ly-son/</loc>
-    <lastmod>2026-02-24T13:18:28.231Z</lastmod>
+    <lastmod>2026-03-29T13:53:15.702Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="nl" href="https://go2-vietnam.com/islands/ly-son/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://go2-vietnam.com/en/islands/ly-son/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/islands/ly-son/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/en/islands/ly-son/" />
   </url>
   <url>
     <loc>https://go2-vietnam.com/en/islands/cham-islands/</loc>
-    <lastmod>2026-02-24T13:18:28.231Z</lastmod>
+    <lastmod>2026-03-29T13:53:15.702Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="nl" href="https://go2-vietnam.com/islands/cham-islands/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://go2-vietnam.com/en/islands/cham-islands/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/islands/cham-islands/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/en/islands/cham-islands/" />
   </url>
   <url>
     <loc>https://go2-vietnam.com/en/islands/co-to/</loc>
-    <lastmod>2026-02-24T13:18:28.231Z</lastmod>
+    <lastmod>2026-03-29T13:53:15.702Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="nl" href="https://go2-vietnam.com/islands/co-to/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://go2-vietnam.com/en/islands/co-to/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/islands/co-to/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/en/islands/co-to/" />
   </url>
   <url>
     <loc>https://go2-vietnam.com/en/islands/hon-mun/</loc>
-    <lastmod>2026-02-24T13:18:28.231Z</lastmod>
+    <lastmod>2026-03-29T13:53:15.702Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="nl" href="https://go2-vietnam.com/islands/hon-mun/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://go2-vietnam.com/en/islands/hon-mun/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/islands/hon-mun/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/en/islands/hon-mun/" />
   </url>
   <url>
     <loc>https://go2-vietnam.com/en/region/</loc>
-    <lastmod>2026-02-24T13:18:28.231Z</lastmod>
+    <lastmod>2026-03-29T13:53:15.702Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="nl" href="https://go2-vietnam.com/region/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://go2-vietnam.com/en/region/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/region/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/en/region/" />
   </url>
   <url>
     <loc>https://go2-vietnam.com/en/region/north-vietnam/</loc>
-    <lastmod>2026-02-24T13:18:28.231Z</lastmod>
+    <lastmod>2026-03-29T13:53:15.702Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="nl" href="https://go2-vietnam.com/region/north-vietnam/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://go2-vietnam.com/en/region/north-vietnam/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/region/north-vietnam/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/en/region/north-vietnam/" />
   </url>
   <url>
     <loc>https://go2-vietnam.com/en/region/central-vietnam/</loc>
-    <lastmod>2026-02-24T13:18:28.231Z</lastmod>
+    <lastmod>2026-03-29T13:53:15.702Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="nl" href="https://go2-vietnam.com/region/central-vietnam/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://go2-vietnam.com/en/region/central-vietnam/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/region/central-vietnam/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/en/region/central-vietnam/" />
   </url>
   <url>
     <loc>https://go2-vietnam.com/en/region/south-vietnam/</loc>
-    <lastmod>2026-02-24T13:18:28.231Z</lastmod>
+    <lastmod>2026-03-29T13:53:15.702Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="nl" href="https://go2-vietnam.com/region/south-vietnam/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://go2-vietnam.com/en/region/south-vietnam/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/region/south-vietnam/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/en/region/south-vietnam/" />
   </url>
   <url>
     <loc>https://go2-vietnam.com/en/region/central-highlands/</loc>
-    <lastmod>2026-02-24T13:18:28.231Z</lastmod>
+    <lastmod>2026-03-29T13:53:15.702Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="nl" href="https://go2-vietnam.com/region/central-highlands/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://go2-vietnam.com/en/region/central-highlands/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/region/central-highlands/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/en/region/central-highlands/" />
   </url>
   <url>
     <loc>https://go2-vietnam.com/en/region/northwest-vietnam/</loc>
-    <lastmod>2026-02-24T13:18:28.231Z</lastmod>
+    <lastmod>2026-03-29T13:53:15.702Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="nl" href="https://go2-vietnam.com/region/northwest-vietnam/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://go2-vietnam.com/en/region/northwest-vietnam/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/region/northwest-vietnam/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/en/region/northwest-vietnam/" />
   </url>
   <url>
     <loc>https://go2-vietnam.com/en/region/mekong-delta/</loc>
-    <lastmod>2026-02-24T13:18:28.231Z</lastmod>
+    <lastmod>2026-03-29T13:53:15.702Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="nl" href="https://go2-vietnam.com/region/mekong-delta/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://go2-vietnam.com/en/region/mekong-delta/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/region/mekong-delta/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/en/region/mekong-delta/" />
   </url>
   <url>
     <loc>https://go2-vietnam.com/en/visa/</loc>
-    <lastmod>2026-02-24T13:18:28.231Z</lastmod>
+    <lastmod>2026-03-29T13:53:15.702Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="nl" href="https://go2-vietnam.com/visa/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://go2-vietnam.com/en/visa/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/visa/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/en/visa/" />
   </url>
   <url>
     <loc>https://go2-vietnam.com/en/transport/</loc>
-    <lastmod>2026-02-24T13:18:28.231Z</lastmod>
+    <lastmod>2026-03-29T13:53:15.702Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="nl" href="https://go2-vietnam.com/transport/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://go2-vietnam.com/en/transport/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/transport/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/en/transport/" />
   </url>
   <url>
     <loc>https://go2-vietnam.com/en/practical-info/</loc>
-    <lastmod>2026-02-24T13:18:28.231Z</lastmod>
+    <lastmod>2026-03-29T13:53:15.702Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="nl" href="https://go2-vietnam.com/practical-info/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://go2-vietnam.com/en/practical-info/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/practical-info/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/en/practical-info/" />
   </url>
   <url>
     <loc>https://go2-vietnam.com/en/weather/</loc>
-    <lastmod>2026-02-24T13:18:28.231Z</lastmod>
+    <lastmod>2026-03-29T13:53:15.702Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="nl" href="https://go2-vietnam.com/weather/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://go2-vietnam.com/en/weather/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/weather/" />
-  </url>
-  <url>
-    <loc>https://go2-vietnam.com/en/blog/</loc>
-    <lastmod>2026-02-24T13:18:28.231Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="nl" href="https://go2-vietnam.com/blog/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://go2-vietnam.com/en/blog/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/blog/" />
-  </url>
-  <url>
-    <loc>https://go2-vietnam.com/en/blog/best-street-food-vietnam/</loc>
-    <lastmod>2026-02-24T13:18:28.231Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="nl" href="https://go2-vietnam.com/blog/best-street-food-vietnam/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://go2-vietnam.com/en/blog/best-street-food-vietnam/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/blog/best-street-food-vietnam/" />
-  </url>
-  <url>
-    <loc>https://go2-vietnam.com/en/blog/first-time-vietnam-guide/</loc>
-    <lastmod>2026-02-24T13:18:28.231Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="nl" href="https://go2-vietnam.com/blog/first-time-vietnam-guide/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://go2-vietnam.com/en/blog/first-time-vietnam-guide/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/blog/first-time-vietnam-guide/" />
-  </url>
-  <url>
-    <loc>https://go2-vietnam.com/en/blog/north-vs-south-vietnam/</loc>
-    <lastmod>2026-02-24T13:18:28.231Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="nl" href="https://go2-vietnam.com/blog/north-vs-south-vietnam/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://go2-vietnam.com/en/blog/north-vs-south-vietnam/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/blog/north-vs-south-vietnam/" />
-  </url>
-  <url>
-    <loc>https://go2-vietnam.com/en/blog/two-week-vietnam-itinerary/</loc>
-    <lastmod>2026-02-24T13:18:28.231Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="nl" href="https://go2-vietnam.com/blog/two-week-vietnam-itinerary/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://go2-vietnam.com/en/blog/two-week-vietnam-itinerary/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/blog/two-week-vietnam-itinerary/" />
-  </url>
-  <url>
-    <loc>https://go2-vietnam.com/en/blog/vietnam-on-a-budget/</loc>
-    <lastmod>2026-02-24T13:18:28.231Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="nl" href="https://go2-vietnam.com/blog/vietnam-on-a-budget/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://go2-vietnam.com/en/blog/vietnam-on-a-budget/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/blog/vietnam-on-a-budget/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/en/weather/" />
   </url>
   <url>
     <loc>https://go2-vietnam.com/en/esim/</loc>
-    <lastmod>2026-02-24T13:18:28.231Z</lastmod>
+    <lastmod>2026-03-29T13:53:15.702Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="nl" href="https://go2-vietnam.com/esim/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://go2-vietnam.com/en/esim/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/esim/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/en/esim/" />
   </url>
   <url>
     <loc>https://go2-vietnam.com/en/travel-insurance/</loc>
-    <lastmod>2026-02-24T13:18:28.231Z</lastmod>
+    <lastmod>2026-03-29T13:53:15.702Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="nl" href="https://go2-vietnam.com/travel-insurance/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://go2-vietnam.com/en/travel-insurance/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/travel-insurance/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://go2-vietnam.com/en/travel-insurance/" />
   </url>
 </urlset>
