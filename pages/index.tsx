@@ -5,6 +5,7 @@ import SEOHead from '../components/SEOHead';
 import CityCard from '../components/CityCard';
 import FoodCard from '../components/FoodCard';
 import IslandCard from '../components/IslandCard';
+import EmailCapture from '../components/EmailCapture';
 import { useTranslation } from '../hooks/useTranslation';
 import { siteConfig } from '../site.config';
 
@@ -145,6 +146,12 @@ export default function Home({ cities, dishes, drinks, islands }: HomeProps) {
             >
               {t('sections.viewTravelGuide')}
             </Link>
+          </div>
+          <div className="mt-10 max-w-lg mx-auto animate-fade-in-up">
+            <EmailCapture
+              variant="hero"
+              className="bg-white/95 backdrop-blur-sm rounded-2xl p-6 shadow-lg"
+            />
           </div>
         </div>
 
