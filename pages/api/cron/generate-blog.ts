@@ -35,11 +35,10 @@ export default async function handler(
       console.warn(`[fact-check]   ⚠ ${claim.type.toUpperCase()}: "${claim.value}"`);
     }
 
+    // Log fact-check results but do NOT inject into published frontmatter
+    // (factCheck metadata in frontmatter hurts E-E-A-T and AdSense approval)
     if (factCheck.unverifiedClaims.length > 0) {
-      post.content = post.content.replace(
-        /^(---\s*\n[\s\S]*?)(---)/,
-        `$1factCheck:\n  status: "needs-review"\n  flaggedClaims: ${factCheck.unverifiedClaims.length}\n  riskLevel: "${factCheck.riskLevel}"\n$2`
-      );
+      console.warn(`[cron/generate-blog] factCheck: status=needs-review, flagged=${factCheck.unverifiedClaims.length}, risk=${factCheck.riskLevel}`);
     }
 
     const filesToCommit: Array<{ path: string; content: string; encoding?: "utf-8" | "base64" }> = [];
