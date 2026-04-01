@@ -1,3 +1,4 @@
+import Image from 'next/image';
 import Link from 'next/link';
 import SEOHead from '../components/SEOHead';
 import { useTranslation } from '../hooks/useTranslation';
@@ -131,6 +132,35 @@ export default function AboutPage() {
                 <p className="text-warm-500 text-sm">{principle.description}</p>
               </div>
             ))}
+          </div>
+
+          {/* Meet the Founder */}
+          <div className="not-prose bg-warm-50 rounded-xl p-6 my-6">
+            <h2 className="text-2xl font-bold text-warm-900 mb-4">Meet the Founder</h2>
+            <div className="flex flex-col md:flex-row gap-6 items-start">
+              <div className="flex-shrink-0">
+                <Image
+                  src="/images/team/marvin.webp"
+                  alt="Marvin — Founder of Go2Vietnam"
+                  width={180}
+                  height={180}
+                  className="rounded-2xl object-cover"
+                />
+              </div>
+              <div>
+                <h3 className="text-xl font-bold text-warm-900 mb-2">Marvin</h3>
+                <p className="text-sm text-brand-primary font-medium mb-3">Founder &amp; Developer</p>
+                <p className="text-warm-700 mb-3">
+                  Marvin is a Dutch travel technology specialist and the creator of the Go2 Travel Network — a growing
+                  family of independent destination guides. With a passion for exploring Vietnam and a background in
+                  web development, he builds data-driven, practical travel guides that help travelers plan better trips.
+                </p>
+                <p className="text-warm-700">
+                  The Go2 network now spans multiple destinations across Asia, Europe, and the Americas, with each site
+                  offering in-depth city guides, local food recommendations, transport routes, and honest travel advice.
+                </p>
+              </div>
+            </div>
           </div>
 
           {/* Affiliate Disclosure */}
