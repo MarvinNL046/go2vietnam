@@ -6,29 +6,31 @@ export interface GeneratedImage {
   base64: string;
   mimeType: string;
   prompt: string;
-  filePath?: string;
+  filePath?: string; // Absolute path on disk after saving (if saved)
 }
 
-const VIETNAM_STYLE_MAP: Record<string, string> = {
+// Thailand travel category → visual style mapping
+const THAILAND_STYLE_MAP: Record<string, string> = {
   "city-guide":
-    "vibrant Vietnamese cityscape, motorbikes, French colonial architecture, lanterns, street vendors, warm golden hour lighting",
-  food: "colorful Vietnamese street food, pho steaming bowls, banh mi, fresh herbs, bustling market atmosphere",
+    "vibrant Thai cityscape, golden temples, tuk-tuks, street vendors at dusk, warm golden hour lighting",
+  food: "colorful Thai street food market, aromatic dishes, fresh ingredients, wok flames, bustling night market atmosphere",
   activities:
-    "adventurous Vietnam activities, lush jungle, emerald waters, karst mountains, sunny day",
+    "adventurous Thailand activities, lush jungle, turquoise waters, tropical scenery, sunny day",
   practical:
-    "traveler in Vietnam, motorbike, local markets, friendly locals, authentic Vietnamese details",
+    "traveler in Thailand, maps and transportation, friendly locals, authentic Thai details",
   budget:
-    "backpacker in Vietnam, affordable guesthouses, local markets, simple but beautiful Vietnamese scenery",
+    "backpacker in Thailand, affordable guesthouses, local markets, simple but beautiful Thai scenery",
   seasonal:
-    "Vietnamese festival or seasonal celebration, Tet decorations, lanterns, ao dai, joyful atmosphere",
+    "Thai festival or seasonal celebration, lanterns, flowers, traditional costume, joyful atmosphere",
   islands:
-    "pristine Vietnamese island, turquoise waters, limestone karsts, white sand beach, tropical paradise",
+    "pristine Thai island, crystal clear turquoise sea, limestone karsts, white sand beach, tropical paradise",
   temples:
-    "Vietnamese Buddhist pagoda, incense smoke, ornate decorations, monks, serene atmosphere",
+    "majestic Thai Buddhist temple, golden spires, monks in saffron robes, incense smoke, serene atmosphere",
   default:
-    "beautiful Vietnam landscape, rice terraces, karst mountains, rich culture, vibrant colors",
+    "beautiful Thailand landscape, tropical scenery, rich culture, vibrant colors",
 };
 
+// Core Gemini image generation function
 export async function generateImage(prompt: string): Promise<GeneratedImage> {
   if (!GEMINI_API_KEY) {
     throw new Error("GEMINI_API_KEY is not configured");
@@ -38,8 +40,14 @@ export async function generateImage(prompt: string): Promise<GeneratedImage> {
     method: "POST",
     headers: { "Content-Type": "application/json" },
     body: JSON.stringify({
-      contents: [{ parts: [{ text: prompt }] }],
-      generationConfig: { responseModalities: ["IMAGE"] },
+      contents: [
+        {
+          parts: [{ text: prompt }],
+        },
+      ],
+      generationConfig: {
+        responseModalities: ["IMAGE"],
+      },
     }),
   });
 
@@ -50,45 +58,68 @@ export async function generateImage(prompt: string): Promise<GeneratedImage> {
 
   const data = await response.json();
   const parts = data.candidates?.[0]?.content?.parts;
-  if (!parts) throw new Error("No content in Gemini response");
 
+  if (!parts) {
+    throw new Error("No content in Gemini response");
+  }
+
+  // Gemini API uses either inline_data (snake_case) or inlineData (camelCase)
   const imagePart = parts.find(
-    (p: { inline_data?: { mime_type: string; data: string }; inlineData?: { mimeType: string; data: string } }) =>
-      p.inline_data || p.inlineData
+    (p: {
+      inline_data?: { mime_type: string; data: string };
+      inlineData?: { mimeType: string; data: string };
+    }) => p.inline_data || p.inlineData
   );
 
   if (imagePart?.inlineData) {
-    return { base64: imagePart.inlineData.data, mimeType: imagePart.inlineData.mimeType || "image/png", prompt };
+    return {
+      base64: imagePart.inlineData.data,
+      mimeType: imagePart.inlineData.mimeType || "image/png",
+      prompt,
+    };
   }
   if (imagePart?.inline_data) {
-    return { base64: imagePart.inline_data.data, mimeType: imagePart.inline_data.mime_type || "image/png", prompt };
+    return {
+      base64: imagePart.inline_data.data,
+      mimeType: imagePart.inline_data.mime_type || "image/png",
+      prompt,
+    };
   }
 
   throw new Error("No image generated in Gemini response");
 }
 
+// Generate a Thailand travel blog featured image (16:9 landscape)
+// Returns the GeneratedImage with base64 data and the publicPath.
+// Does NOT write to disk — the caller is responsible for committing via GitHub API.
 export async function generateBlogImage(
   title: string,
   category: string,
   slug: string
 ): Promise<GeneratedImage & { publicPath: string }> {
-  const style = VIETNAM_STYLE_MAP[category] || VIETNAM_STYLE_MAP["default"];
+  const style =
+    THAILAND_STYLE_MAP[category] || THAILAND_STYLE_MAP["default"];
 
   const prompt = `Create a professional, photorealistic travel photography blog header image for an article titled "${title}".
 Visual style: ${style}.
 Composition: Wide landscape format (16:9 aspect ratio), high resolution, magazine quality.
-Must be evocative of Vietnam travel — rice terraces, Ha Long Bay, motorbikes, street food, lanterns, ao dai, or tropical nature depending on context.
+Must be evocative of Thailand travel — temples, beaches, street food, markets, tuk-tuks, or tropical nature depending on context.
 Lighting: Natural, golden hour, or vibrant tropical daylight.
 CRITICAL RULE: The image must contain ZERO text, ZERO letters, ZERO numbers, ZERO words, ZERO labels, ZERO watermarks, ZERO captions, ZERO UI elements. No characters of any language or alphabet whatsoever. Only use photographic visual elements, scenery, people (from behind or distance), architecture, food, and nature.`;
 
   const image = await generateImage(prompt);
+
   const publicPath = `/images/blog/${slug}.webp`;
 
   console.log(`[image-generator] Image generated for: ${slug} (not saved to disk — will be committed via GitHub API)`);
 
-  return { ...image, publicPath };
+  return {
+    ...image,
+    publicPath,
+  };
 }
 
+// Convert base64 image to a data URL for inline embedding (use sparingly)
 export function toDataUrl(image: GeneratedImage): string {
   return `data:${image.mimeType};base64,${image.base64}`;
 }

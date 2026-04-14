@@ -1,0 +1,11 @@
+{
+  "country": "Vietnam",
+  "siteName": "Go2Vietnam",
+  "hostname": "go2-vietnam.com",
+  "locales": ["en"],
+  "autocompleteSeeds": {
+    "en": ["Vietnam travel", "Vietnam backpacker", "Vietnam digital nomad", "Vietnam visa"]
+  },
+  "newsQuery": "Vietnam",
+  "scrapeNewsSources": []
+}
