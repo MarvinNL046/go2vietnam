@@ -8,4 +8,7 @@
   },
   "newsQuery": "Vietnam",
   "scrapeNewsSources": []
+,
+  "repoOwner": "MarvinNL046",
+  "repoName": "go2-vietnam.com"
 }
