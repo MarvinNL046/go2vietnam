@@ -5,6 +5,16 @@ export default function Document() {
     <Html>
       <Head>
         <meta charSet="UTF-8" />
+        {/* Travelpayouts Drive */}
+        <script
+          data-noptimize="1"
+          data-cfasync="false"
+          data-wpfc-render="false"
+          dangerouslySetInnerHTML={{
+            __html: `(function(){var s=document.createElement("script");s.async=1;s.src="https://emrldco.com/NTIxOTMy.js?t=521932";document.head.appendChild(s);})();`,
+          }}
+        />
+
         <link rel="icon" href="/favicon.ico" sizes="48x48" />
         <link rel="icon" type="image/png" href="/icon-192.png" sizes="192x192" />
         <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
