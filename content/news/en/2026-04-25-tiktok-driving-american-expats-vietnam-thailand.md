@@ -1,4 +1,3 @@
-```yaml
 ---
 title: "TikTok's Role in Luring American Expats to Vietnam and Thailand"
 slug: "2026-04-25-tiktok-driving-american-expats-vietnam-thailand"
