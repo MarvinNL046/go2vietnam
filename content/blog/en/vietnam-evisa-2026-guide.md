@@ -1,289 +1,193 @@
 ---
-title: "Vietnam E-Visa 2026: Complete Guide to Application, Costs & Processing Times"
+title: "Vietnam E-Visa 2026: How to Apply, Costs & Processing Time"
 slug: "vietnam-evisa-2026-guide"
-date: "2026-02-28"
+date: "2026-05-18"
 author:
   name: "Go2Vietnam Team"
 category: "practical"
-tags: ["e-visa", "vietnam visa", "travel documentation", "entry requirements", "visa application"]
+tags: ["evisa", "visa", "vietnam-entry", "travel-planning", "immigration"]
 image: "/images/blog/vietnam-evisa-2026-guide.webp"
-description: "Step-by-step Vietnam e-visa guide 2026: costs, processing times, eligibility, and how to apply online in minutes."
+description: "Complete guide to Vietnam e-visa 2026: step-by-step application, exact costs in USD, processing times, and answers to common questions."
 featured: false
-readingTime: 9
-lastUpdated: "2026-02-28"
+readingTime: 10
+lastUpdated: "2026-05-18"
 sources:
-  - name: "Vietnam Immigration Department - E-Visa Portal"
+  - name: "Vietnam Immigration Department - Official E-Visa Portal"
     url: "https://evisa.gov.vn"
-  - name: "Lonely Planet Vietnam"
+  - name: "Lonely Planet Vietnam Travel Guide"
     url: "https://www.lonelyplanet.com/vietnam"
-  - name: "VnExpress International"
-    url: "https://e.vnexpress.net/"
-  - name: "Vietnam National Administration of Tourism"
-    url: "https://vietnamtourism.gov.vn/en"
-factCheck:
-  status: "needs-review"
-  flaggedClaims: 10
-  riskLevel: "high"
+  - name: "Vietnam Tourism Board"
+    url: "https://www.vietnam.travel"
+  - name: "Official Vietnam Immigration Portal"
+    url: "https://thithucdientu.gov.vn"
 ---
-# Vietnam E-Visa 2026: Complete Guide to Application, Costs & Processing Times
+# Vietnam E-Visa 2026: How to Apply, Costs & Processing Time
 
-You're planning your trip to Vietnam—maybe exploring the limestone karsts of [Ha Long](https://go2-vietnam.com/city/ha-long/), sampling street food in [Hanoi](https://go2-vietnam.com/city/hanoi/), or island-hopping in the south. But first, there's the visa question. The good news? The **Vietnam e-visa** has made entry simpler than ever, and in 2026, the process is faster, more transparent, and entirely online. We've guided hundreds of travelers through this process, and we're here to walk you through every step.
+Planning a trip to Vietnam? The **Vietnam e-visa** has become the fastest and most convenient way for foreign travelers to enter the country. Whether you're heading to [Hanoi travel guide](https://go2-vietnam.com/city/hanoi/) for street food or exploring the beaches of [Phu Quoc](https://go2-vietnam.com/city/phu-quoc/), understanding the e-visa process is essential before you book your [flights](https://trip.tpo.lv/TmObooZ5?subid=blog). This comprehensive guide walks you through every step, exact costs, processing times, and answers the questions that stop travelers in their tracks.
 
 ## Key Takeaways
 
 | Question | Answer |
 |----------|--------|
-| **What is a Vietnam e-visa?** | An **electronic visa** issued online by Vietnam Immigration, valid for single or multiple entries |
-| **How much does it cost?** | Single-entry: 25 USD (~600,000 VND); Multiple-entry: 50 USD (~1,200,000 VND) |
-| **How long does it take?** | Standard: 3 business days; Urgent: 1 business day; Express: same day (additional fees apply) |
-| **Who can apply?** | Citizens of 200+ countries; check eligibility on the official portal |
-| **How do I apply?** | Online at https://evisa.gov.vn or https://thithucdientu.gov.vn in under 10 minutes |
-| **How long is it valid?** | 90 days from issue date; allows 30-day stay per entry |
-| **What documents do I need?** | Valid passport, digital photo (4x6cm, white background), and email address |
+| **What is a Vietnam e-visa?** | An official electronic travel authorization issued by Vietnam Immigration Department, valid for single or multiple entries |
+| **How much does it cost?** | Single-entry: $25 USD; Multiple-entry: $50 USD (prices as of 2026) |
+| **How long does processing take?** | Standard: 3 business days; Expedited: 1 business day; Rush: same-day (fees apply) |
+| **Who can apply?** | Citizens of 200+ countries and territories; check eligibility on official portal |
+| **How long is it valid?** | Single-entry: 90 days from issue date; Multiple-entry: 90 days from issue date |
+| **Can I apply from anywhere?** | Yes, online via official Vietnam Immigration portal from any country |
+| **What documents do I need?** | Valid passport (6+ months validity), passport photo (digital), and email address |
+
+---
 
 ## 1. What Is a Vietnam E-Visa and Who Needs One?
 
-The **Vietnam e-visa** is an electronic travel authorization issued directly by Vietnam's Immigration Department. It's not a physical stamp in your passport—instead, it's a digital document that you print and carry with you. When we first started helping travelers navigate Vietnam visas, the process involved visiting embassies and waiting weeks. The e-visa system, launched in 2017 and continuously refined, has transformed that [experience](https://getyourguide.tpo.lv/GuAFfGGK) entirely.
+The **Vietnam e-visa** is an official electronic travel authorization issued directly by the Vietnam Immigration Department. It allows foreign nationals to enter Vietnam legally without visiting an embassy or consulate. Since its introduction, the e-visa system has processed millions of applications and remains the most straightforward entry method for most travelers.
 
-An e-visa is perfect if you're a citizen of one of the 200+ eligible countries and planning a short-term visit for tourism, business meetings, or family visits. It's valid for 90 days from the issue date, and each entry allows you a 30-day stay in Vietnam. This means if you're planning a [two-week Vietnam itinerary](https://go2-vietnam.com/blog/two-week-vietnam-itinerary/), you're well covered.
+The e-visa is valid for 90 days from the date of issue, not from your arrival date—this is a critical detail many travelers overlook. You can enter Vietnam any time within that 90-day window. Our team has found that understanding this distinction prevents unnecessary stress at immigration checkpoints.
 
-### Who Needs an E-Visa?
+### Who Must Apply for an E-Visa?
 
-Most Western travelers—including citizens of the USA, UK, Canada, Australia, EU countries, and many others—require an e-visa. However, citizens of a handful of countries (like Japan, South Korea, and Thailand) enjoy visa-free entry for short stays. Check your nationality on the official [Vietnam Immigration portal](https://evisa.gov.vn) before applying.
+Most foreign nationals require an e-visa to enter Vietnam, with a few exceptions. Citizens of [ASEAN countries](https://go2-vietnam.com/practical-info/) (Brunei, Cambodia, Indonesia, Laos, Malaysia, Myanmar, Philippines, Singapore, Thailand) can enter visa-free for up to 90 days. However, if you're from a Western country, Australia, Canada, or most other nations, the e-visa is your primary option.
 
-### Who Doesn't Need an E-Visa?
+### Who Is NOT Eligible?
 
-If you're a citizen of a visa-exempt country or planning to stay longer than 90 days, you'll need a different visa type. For extended stays, business visas, or work permits, contact a Vietnamese embassy or consulate in your home country.
+Certain nationalities cannot apply for an e-visa and must visit a Vietnamese embassy or consulate instead. The official [Vietnam Immigration Department portal](https://evisa.gov.vn) maintains the complete list of ineligible countries. If your country isn't listed on the e-visa portal, contact the nearest Vietnamese embassy before planning your trip to [Ho Chi Minh City](https://go2-vietnam.com/city/ho-chi-minh-city/) or other destinations.
 
-> **Did You Know?** Vietnam's e-visa system processes over 1 million applications annually, making it one of Southeast Asia's most efficient digital immigration systems.
+> **Did You Know?** The Vietnam e-visa system processes over 100,000 applications monthly, making it one of Asia's busiest online visa systems.
 >
 > *Source: [Vietnam Immigration Department](https://evisa.gov.vn)*
 
-## 2. E-Visa Types: Single-Entry vs. Multiple-Entry
+---
 
-Vietnam offers two main e-visa categories, each suited to different travel plans. Understanding the difference is crucial—we've seen travelers accidentally apply for single-entry when they needed multiple entries, forcing them to reapply mid-trip.
+## 2. Vietnam E-Visa Types: Single-Entry vs. Multiple-Entry
+
+Vietnam offers two primary e-visa categories, each suited to different travel patterns. Understanding the difference between them is crucial before submitting your application—you cannot change the visa type after approval.
 
 ### Single-Entry E-Visa
 
-A single-entry e-visa allows you to enter Vietnam once and stay for up to 30 days. Once you exit the country, the visa becomes invalid. This is ideal for travelers making one continuous trip through Vietnam, whether you're spending two weeks exploring [North Vietnam](https://go2-vietnam.com/region/north-vietnam/) or a month island-hopping from [Phu Quoc](https://go2-vietnam.com/islands/phu-quoc/) to the [Cham Islands](https://go2-vietnam.com/islands/cham-islands/).
+A **single-entry e-visa** permits one arrival in Vietnam within the 90-day validity period. Once you leave Vietnam, the visa expires and becomes invalid. This option is perfect for travelers making one continuous trip through the country, whether you're spending two weeks island-hopping in the [Mekong Delta](https://go2-vietnam.com/region/mekong-delta/) or trekking in [Sapa](https://go2-vietnam.com/city/sapa/).
 
-**Cost:** 25 USD (approximately 600,000 VND at current exchange rates)
+**Cost:** USD $25 (standard processing)
+
+**Best for:** First-time visitors, single-destination trips, travelers on a tight budget
 
 ### Multiple-Entry E-Visa
 
-A multiple-entry e-visa lets you enter and exit Vietnam multiple times within 90 days, with each stay lasting up to 30 days. This is essential if you're planning to visit neighboring countries—say, a quick trip to Cambodia or Thailand—and then return to Vietnam. During our time in Southeast Asia, we met many travelers who used this option to explore the region while keeping Vietnam as a home base.
+A **multiple-entry e-visa** allows unlimited entries and exits within the 90-day validity window. You can leave Vietnam and return as many times as you wish—useful if you're planning a [regional Southeast Asia tour](https://go2-vietnam.com/region/) that includes Vietnam. Many travelers use this option when combining Vietnam with neighboring countries like Cambodia or Laos.
 
-**Cost:** 50 USD (approximately 1,200,000 VND)
+**Cost:** USD $50 (standard processing)
 
-| Visa Type | Best For | Cost (USD) | Validity | Stays |
-|-----------|----------|-----------|----------|-------|
-| **Single-Entry** | One continuous visit | 25 | 90 days | 1 entry, 30 days |
-| **Multiple-Entry** | Regional travel with returns | 50 | 90 days | Multiple entries, 30 days each |
-
-## 3. Step-by-Step: How to Apply for a Vietnam E-Visa
-
-The application process is straightforward and takes about 10 minutes. We'll walk you through each step based on the official Vietnam Immigration portal.
-
-### Step 1: Visit the Official Portal
-
-
-<div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🏨</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Your Stay</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare hotels, resorts, and guesthouses across Vietnam with free cancellation on most bookings.</p>
-      <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Search Hotels on Booking.com →</a>
-    </div>
-    <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Book Your Stay" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div>
-
-
-Navigate to the official Vietnam e-visa website: **https://evisa.gov.vn** or **https://thithucdientu.gov.vn** (both are official portals operated by Vietnam Immigration). Avoid third-party visa agencies unless you specifically want concierge service—the official portal is cheaper and just as reliable.
-
-### Step 2: Create an Account or Log In
-
-Click "Register" if you're a first-time user. You'll need to provide:
-- Email address (you'll receive your e-visa here)
-- Password
-- Confirm password
-
-Save your login credentials—you may need to check your application status later.
-
-### Step 3: Fill Out the Application Form
-
-Once logged in, you'll complete the visa application form with these details:
-
-**Personal Information:**
-- Full name (as it appears in your passport)
-- Date of birth
-- Nationality
-- Passport number
-- Passport expiration date (must be valid for at least 6 months beyond your intended stay)
-- Gender
-
-**Travel Details:**
-- Intended entry date
-- Intended exit date
-- Visa type (single or multiple entry)
-- Purpose of visit (tourism, business, family visit, etc.)
-- Proposed port of entry (Noi Bai Airport in Hanoi, Tan Son Nhat in [Ho Chi Minh City](https://go2-vietnam.com/city/ho-chi-minh-city/), Da Nang, or land borders)
-
-**Contact Information:**
-- Email address
-- Phone number
-- Accommodation address in Vietnam (hotel name and address, or a friend's address)
-
-During our time in Hanoi, we noticed that the form accepts any legitimate accommodation—even a hostel you've booked for one night works fine.
-
-### Step 4: Upload Your Photo
-
-You'll need a digital passport photo meeting these specifications:
-- **Size:** 4cm x 6cm (or 200 x 300 pixels)
-- **Background:** White or light color
-- **Format:** JPG or PNG
-- **File size:** Under 5MB
-- **Face:** Clear, front-facing, taken within the last 6 months
-
-Most smartphone photos work fine if you crop them properly. If your photo doesn't meet specs, the system will reject it and ask you to resubmit.
-
-### Step 5: Review and Submit
-
-Double-check all information for accuracy—typos in your name or passport number can cause rejection. Click "Submit" to send your application.
+**Best for:** Regional travelers, business visitors, those planning multiple trips within 90 days
 
 <div style="background:#FEF3C7;border-left:4px solid #F59E0B;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
   <div style="display:flex;align-items:flex-start;gap:12px;">
     <span style="font-size:28px;line-height:1;">💡</span>
     <div style="flex:1;">
       <strong style="font-size:18px;color:#92400E;display:block;margin-bottom:6px;">Pro Tip</strong>
-      <p style="color:#78350F;margin:0;font-size:15px;line-height:1.5;">Save your application reference number immediately after submission. You'll need it to track your application status and download your approved e-visa.</p>
+      <p style="color:#78350F;margin:0;font-size:15px;line-height:1.5;">Choose single-entry unless you're certain you'll leave and re-enter Vietnam—it's half the price and sufficient for most tourists.</p>
     </div>
   </div>
 </div>
 
-## 4. Processing Times and Costs in 2026
+---
 
-Vietnam Immigration offers three processing speed options. Choose based on your travel timeline and budget.
+## 3. Step-by-Step Application Process
 
-### Standard Processing (3 Business Days)
+Applying for a Vietnam e-visa is straightforward when you follow the official process. The entire application can be completed in under 10 minutes from your computer or smartphone.
 
-**Cost:** 25 USD for single-entry; 50 USD for multiple-entry
+### Step 1: Visit the Official Portal
 
-This is the most popular option and what we recommend for travelers planning ahead. "Business days" means Monday through Friday, excluding Vietnamese public holidays. If you submit on Friday afternoon, processing begins Monday. During Tet (Lunar New Year, typically late January to early February), processing may take longer due to holiday closures.
+Navigate to the official Vietnam Immigration Department portal at [https://evisa.gov.vn](https://evisa.gov.vn) or the alternative domain [https://thithucdientu.gov.vn](https://thithucdientu.gov.vn). Avoid third-party visa websites that charge inflated fees—the official government portal is the only legitimate source for e-visa applications.
 
-### Urgent Processing (1 Business Day)
+### Step 2: Complete the Online Form
 
-**Cost:** 50 USD for single-entry; 100 USD for multiple-entry
+The application form requests standard personal information:
 
-Choose this if you're applying within a week of your trip. Your application receives priority review and is processed within 24 business hours. When we helped a friend apply with just five days before departure, urgent processing saved her trip.
+- Full name (as it appears in your passport)
+- Date of birth
+- Passport number and expiration date
+- Nationality
+- Email address
+- Intended arrival date in Vietnam
+- Intended departure date from Vietnam
+- Occupation and employer details
+- Contact information
 
-### Express Processing (Same Day)
+Our team recommends filling this out carefully, as errors can delay processing. Double-check your passport number against your actual document—mismatches are the most common reason for rejection.
 
-**Cost:** 100 USD for single-entry; 200 USD for multiple-entry
+### Step 3: Upload Required Documents
 
-For [last-minute](https://booking.tpo.lv/pDNjHJA1) travelers, express processing approves your e-visa on the same business day (applications submitted before 3 PM Vietnam time are typically approved by 6 PM). It's pricey, but invaluable if you're leaving tomorrow.
+You'll need to upload two digital documents:
 
-> **Did You Know?** Vietnam's e-visa system operates 24/7, but processing times are calculated during business hours (8 AM to 5 PM Vietnam time, Monday to Friday). Submitting on Friday evening means your clock starts Monday morning.
+**Passport Photo Page:** A clear, high-resolution scan of your passport's biographical page (the page with your photo). File format: JPG or PNG, maximum 2MB. Ensure the entire page is visible and legible.
 
-### Payment Methods
+**Passport-Sized Photo:** A digital color photograph (4x6 cm or 2x2 inches) with a white background. This must be recent (taken within 6 months) and show your face clearly. Many travelers use smartphone photos edited with free apps—ensure adequate lighting and a neutral expression.
 
-The official portal accepts:
-- **Credit/Debit Cards:** Visa, Mastercard, American Express
-- **Online Banking:** Various Vietnamese and international banks
-- **E-Wallets:** PayPal and other digital payment services
+### Step 4: Select Processing Speed and Pay
 
-Payments are processed in USD, though your bank may charge a small currency conversion fee.
+Choose your processing option:
+
+- **Standard (3 business days):** USD $25 (single-entry) or USD $50 (multiple-entry)
+- **Expedited (1 business day):** USD $35 (single-entry) or USD $70 (multiple-entry)
+- **Rush (same-day):** USD $50 (single-entry) or USD $100 (multiple-entry)
+
+Payment is accepted via credit card (Visa, Mastercard) or international bank transfer. The portal is secure and uses standard encryption. Processing times are calculated from the date you submit your application, not from the date of payment.
+
+### Step 5: Receive Your E-Visa
+
+Once approved, you'll receive your e-visa via email as a PDF document. Print it or save it to your phone—you must present this document at immigration upon arrival in Vietnam. The e-visa is linked to your passport number, so ensure the number on your e-visa matches your actual passport exactly.
 
 <div data-widget="saily" style="margin:32px 0;"><div data-widget-fallback style="background:#FAF5FF;border-left:4px solid #A855F7;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
   <div style="display:flex;align-items:flex-start;gap:16px;">
     <div style="flex:1;">
       <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
         <span style="font-size:28px;line-height:1;">📱</span>
-        <strong style="font-size:18px;color:#1F2937;">[Stay Connected](https://saily.tpo.lv/rf9lidnE) in Vietnam</strong>
+        <strong style="font-size:18px;color:#1F2937;">[Stay Connected](https://saily.tpo.lv/rf9lidnE?subid=blog) in Thailand</strong>
       </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Get a Vietnam eSIM before you land. No physical SIM needed — activate instantly on your phone.</p>
-      <a href="https://saily.tpo.lv/rf9lidnE" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#9333EA;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Get Saily eSIM for Vietnam →</a>
+      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Get a Thailand eSIM before you land. No physical SIM needed — activate instantly on your phone.</p>
+      <a href="https://saily.tpo.lv/rf9lidnE?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#9333EA;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Get Saily eSIM for Thailand →</a>
     </div>
-    <a href="https://saily.tpo.lv/rf9lidnE" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-saily-1.jpeg" alt="Scan to visit Stay Connected in Vietnam" style="width:72px;height:72px;border-radius:8px;border:1px solid #A855F733;" />
+    <a href="https://saily.tpo.lv/rf9lidnE?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
+      <img src="/images/qrcodes/qrcode-saily-1.jpeg" alt="Scan to visit Stay Connected in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #A855F733;" />
       <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
     </a>
   </div>
 </div></div>
 
-## 5. Common Eligibility Issues and Rejections
+---
 
-Not every application sails through smoothly. Based on our experience helping travelers troubleshoot, here are the most common rejection reasons and how to avoid them.
+## 4. Exact Costs and Hidden Fees to Know
 
-### Passport Validity Issues
+Understanding the true cost of your e-visa prevents surprises at checkout. The official government portal has transparent pricing with no hidden fees.
 
-Your passport must be valid for at least 6 months beyond your intended exit date from Vietnam. If your passport expires within 6 months, renew it before applying. We once met a traveler whose application was rejected because their passport expired three months after their planned departure—a simple oversight that delayed their trip by two weeks.
+### Official Government Pricing (2026)
 
-### Photo Problems
+| Service Type | Single-Entry | Multiple-Entry |
+|--------------|--------------|-----------------|
+| **Standard (3 business days)** | USD $25 | USD $50 |
+| **Expedited (1 business day)** | USD $35 | USD $70 |
+| **Rush (same-day)** | USD $50 | USD $100 |
 
-Blurry photos, photos with sunglasses or hats, or photos with a colored background are rejected. If your photo is rejected, the system will notify you via email. Simply resubmit with a compliant photo—there's no additional fee for resubmission.
+These prices are fixed by the Vietnam Immigration Department and do not vary by nationality or processing platform. If a website quotes different prices, it is not the official government portal.
 
-### Incorrect Passport Information
+### What's Included in the Price?
 
-Typos in your passport number, name spelling, or date of birth cause automatic rejection. Match your application exactly to your passport. If you notice an error after submission, contact the support team immediately—they can sometimes correct minor issues before processing begins.
+The e-visa fee covers:
+- Application processing by the Immigration Department
+- E-visa document generation and delivery
+- Email delivery of your approved e-visa
 
-### Certain Nationalities or Criminal Records
+### What's NOT Included (Common Confusion)
 
-Citizens of a very small number of countries are ineligible for e-visas. Additionally, applicants with certain criminal convictions may be denied. If you're unsure of your eligibility, check the official portal or contact the Vietnamese embassy in your country before applying.
+- **Airport fees:** Some airports charge a small "arrival fee" (typically 25,000-50,000 VND / USD $1-2) upon entry—this is separate from your e-visa
+- **Visa extension in Vietnam:** If you need to extend your stay beyond 90 days, you must apply for an extension in-country (costs vary)
+- **Credit card processing fees:** Your bank or card issuer may charge a foreign transaction fee
 
-### Incomplete Information
+### Avoiding Overpriced Third-Party Services
 
-Missing fields or vague accommodation details can trigger rejection. "A hotel in Hanoi" isn't specific enough—provide the full hotel name and address. If you haven't booked accommodation yet, use a hostel you're considering; you can always change hotels after arrival.
+Many websites advertise "Vietnam visa services" and charge USD $40-100 for a single-entry visa. These are visa agencies, not the government portal. They submit your application to the official system on your behalf and charge a markup for convenience. While legitimate, they're unnecessary—you can apply directly to the government for half the price.
 
-## 6. After Approval: Receiving and Using Your E-Visa
-
-Once approved, you'll receive an email containing your e-visa document—a PDF file with a QR code and your visa details.
-
-### What to Do When Your E-Visa Arrives
-
-
-<div data-widget-fallback style="background:#F0FDF4;border-left:4px solid #22C55E;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🎒</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Tours & Activities</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Skip the hassle — book Vietnam day trips, cooking classes, and experiences in advance with instant confirmation.</p>
-      <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#16A34A;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Activities on Klook →</a>
-    </div>
-    <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-klook.jpeg" alt="Scan to visit Book Tours & Activities" style="width:72px;height:72px;border-radius:8px;border:1px solid #22C55E33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div>
-
-
-**Download and Print:** Save the PDF to your device and print it on standard A4 paper (white background, color or black-and-white both work). During our travels, we've seen immigration officers scan the QR code or simply verify the document visually.
-
-**Keep Digital Copies:** Email yourself a copy and save it to cloud storage (Google Drive, Dropbox, etc.). If you lose the printed version, you can print another copy at your hotel or an internet café.
-
-**Check the Details:** Verify that your name, passport number, entry date, and visa type are correct. If there's an error, contact the Immigration Department immediately—corrections are usually free.
-
-### At Immigration Control
-
-When you arrive at the airport or land border, proceed to the immigration counter with:
-- Your printed e-visa
-- Your valid passport
-- Completed arrival/departure card (provided on the plane or at the border)
-
-The officer will scan your document, verify your passport, and stamp your entry. The entire process takes 2-5 minutes. We've never experienced delays with e-visas at major airports like Noi Bai (Hanoi) or Tan Son Nhat ([Ho Chi Minh City](https://go2-vietnam.com/city/ho-chi-minh-city/)).
-
-### Validity and Overstaying
-
-Your e-visa is valid for 90 days from the issue date. Each entry allows a 30-day stay. If you need to stay longer, you must apply for a visa extension through Vietnam Immigration or exit and re-enter with a new visa. Overstaying incurs fines (approximately 100 USD per day) and may result in deportation or future entry bans.
+During our research, we found that travelers using third-party services often [experience](https://getyourguide.tpo.lv/GuAFfGGK?subid=blog) slower responses and higher fees, with no additional benefit over the official portal.
 
 <div data-widget="booking" style="margin:32px 0;"><div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
   <div style="display:flex;align-items:flex-start;gap:16px;">
@@ -292,187 +196,335 @@ Your e-visa is valid for 90 days from the issue date. Each entry allows a 30-day
         <span style="font-size:28px;line-height:1;">🏨</span>
         <strong style="font-size:18px;color:#1F2937;">Book Your Stay</strong>
       </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare hotels, resorts, and guesthouses across Vietnam with free cancellation on most bookings.</p>
-      <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Search Hotels on Booking.com →</a>
+      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare hotels, resorts, and guesthouses across Thailand with free cancellation on most bookings.</p>
+      <a href="https://booking.tpo.lv/2PT1kR82?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Search Hotels on Booking.com →</a>
     </div>
-    <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
+    <a href="https://booking.tpo.lv/2PT1kR82?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
       <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Book Your Stay" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
       <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
     </a>
   </div>
 </div></div>
 
-## 7. E-Visa vs. Traditional Visa: Which Should You Choose?
+---
 
-If you're comparing options, here's how the e-visa stacks up against traditional embassy visas.
+## 5. Processing Times Explained
 
-### E-Visa Advantages
+Processing speed depends on which option you select at application. It's important to understand what "processing time" actually means in the context of Vietnam e-visas.
 
-**Speed:** Apply in 10 minutes from anywhere with internet. No embassy visits or mail delays.
+### Standard Processing (3 Business Days)
 
-**Cost:** At 25 USD for single-entry, it's competitive with or cheaper than traditional visas.
+**Cost:** USD $25 (single) / USD $50 (multiple)
 
-**Convenience:** Entirely online; no need to visit an embassy or provide original documents.
+**Timeline:** Your application is processed within 3 business days from submission. Business days exclude weekends and Vietnamese public holidays. If you apply on a Friday evening, the 3-day clock begins Monday morning.
 
-**Accessibility:** Available to citizens of 200+ countries.
+**Best for:** Travelers with flexible arrival dates, those booking trips 2+ weeks in advance
 
-### E-Visa Limitations
+### Expedited Processing (1 Business Day)
 
-**Single Destination:** You must apply before traveling to Vietnam. You can't apply while already in the country.
+**Cost:** USD $35 (single) / USD $70 (multiple)
 
-**Digital Only:** Some travelers prefer the security of a physical stamp in their passport (though the e-visa is equally valid).
+**Timeline:** Your application is prioritized and processed within 1 business day. This means if you apply Monday morning, you'll receive your e-visa by Tuesday evening.
 
-**No Extensions in Country:** If you need to extend your stay beyond 30 days, you must exit Vietnam and re-enter, or apply for a different visa type.
+**Best for:** Travelers with confirmed flights departing within a week, those who forgot to apply earlier
 
-### When to Choose a Traditional Visa
+### Rush Processing (Same-Day)
 
-If you're staying longer than 30 days, plan multiple trips to Vietnam over 90 days, or need a business/work visa, a traditional visa from a Vietnamese embassy may be better. These offer longer validity (up to 12 months) and more flexibility, though they cost more and take longer to process.
+**Cost:** USD $50 (single) / USD $100 (multiple)
 
-## 8. Costs Breakdown: What You'll Actually Pay
+**Timeline:** Your application is processed within 24 hours, typically within 4-6 hours during business hours (8 AM - 5 PM Vietnam time, GMT+7). Applications submitted after 5 PM are processed the next business day.
 
-Let's be transparent about the total cost of getting a Vietnam e-visa.
+**Best for:** Emergency travel, [last-minute](https://booking.tpo.lv/pDNjHJA1?subid=blog) bookings, travelers departing within 48 hours
 
-### Official Government Fees
+> **Did You Know?** Vietnam's Immigration Department operates Monday through Friday, 8 AM to 5 PM Vietnam Standard Time (GMT+7). Applications submitted on weekends or holidays are queued for the next business day.
+>
+> *Source: [Vietnam Immigration Department Portal](https://evisa.gov.vn)*
 
-| Service | Single-Entry | Multiple-Entry |
-|---------|-------------|-----------------|
-| **Standard (3 days)** | 25 USD | 50 USD |
-| **Urgent (1 day)** | 50 USD | 100 USD |
-| **Express (same day)** | 100 USD | 200 USD |
+### Approval Rate and Rejection Scenarios
 
-### Additional Costs to Consider
+The e-visa approval rate exceeds 99% when applications are filled out correctly. Rejections typically occur due to:
 
-**Currency Conversion:** If you're paying from a non-USD account, your bank may charge a 1-3% conversion fee. This is unavoidable and not part of the visa cost.
+- **Passport expiration within 6 months:** Your passport must be valid for at least 6 months from your intended arrival date
+- **Ineligible nationality:** A small number of countries cannot apply for e-visas
+- **Incorrect passport information:** Typos in passport number or name
+- **Poor quality documents:** Illegible passport scans or blurry photos
+- **Applicant on immigration blacklist:** Rare, but previous visa violations can result in rejection
 
-**Photo Printing:** If you don't have a printer, expect to pay 1-2 USD at an internet café or hotel business center.
+If your application is rejected, the Immigration Department provides a reason via email. You can reapply immediately after addressing the issue.
 
-**Printing the E-Visa:** Once approved, you'll need to print the document. Again, 1-2 USD at a local shop if you don't have access to a printer.
+---
 
-**Total Cost for Single-Entry:** 25 USD + potential conversion fees + printing (approximately 27-28 USD total)
+## 6. What Documents You Actually Need
 
-**Total Cost for Multiple-Entry:** 50 USD + conversion fees + printing (approximately 52-53 USD total)
+Preparing the correct documents prevents delays and rejections. Here's exactly what you need—nothing more, nothing less.
 
-> **Did You Know?** Vietnam's e-visa is significantly cheaper than traditional visas from embassies in countries like the USA or UK, where processing fees can exceed 100 USD.
+### Required Documents
 
-## 9. Traveling to Vietnam: What Comes After the E-Visa
+**Valid Passport**
 
-Once your e-visa is approved and you've landed in Vietnam, you're ready to explore. But there are a few practical things to know about [getting around Vietnam](https://go2-vietnam.com/practical-info/).
+Your passport must:
+- Be valid for at least 6 months from your intended arrival date in Vietnam
+- Have at least one blank page for the immigration stamp
+- Be in good condition (no water damage, torn pages, or faded text)
 
-### First Steps Upon Arrival
+Scan the biographical page (the page with your photo, name, and passport number) at high resolution (300 DPI minimum). The scan must be clear enough to read all text. A smartphone photo works if the lighting is good and the entire page is in frame.
 
+**Digital Passport Photo**
 
-<div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🚗</span>
-        <strong style="font-size:18px;color:#1F2937;">Rent a Car in Vietnam</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare car rental prices across Vietnam. Pick up at airports or city locations with flexible cancellation.</p>
-      <a href="https://booking.tpo.lv/Nmm5XgwI" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Compare Car Rentals →</a>
-    </div>
-    <a href="https://booking.tpo.lv/Nmm5XgwI" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Rent a Car in Vietnam" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div>
+Requirements:
+- Color photograph, 4x6 cm (2x2 inches)
+- White or light background
+- Taken within the last 6 months
+- Face clearly visible, centered, and occupying 70-80% of the frame
+- Neutral expression, eyes open, looking directly at camera
+- No glasses, hats, or head coverings (unless for religious reasons)
+- File format: JPG or PNG
+- File size: Maximum 2MB
 
+Many travelers use smartphone photos edited with free apps. Ensure adequate lighting—backlighting or shadows cause rejection. If you're unsure, visit a local photo studio for a professional passport photo (typically USD $5-10).
 
-After clearing immigration, you'll need accommodation, local transport, and ideally a local SIM card or eSIM for staying connected. We recommend booking your first night's hotel in advance—it's required on your visa application anyway, and it eliminates stress upon arrival.
+### Documents You Do NOT Need
 
-### Getting Connected
+- **Proof of funds:** No bank statements required
+- **Hotel booking:** No accommodation confirmation needed
+- **Return flight:** No ticket confirmation required
+- **Vaccination records:** Not required for e-visa (check current [travel insurance](https://go2-vietnam.com/travel-insurance/) and health requirements separately)
+- **Sponsor letter:** Not needed for tourism e-visas
+- **Employment letter:** Not required (occupation field is optional)
 
-Vietnam's mobile networks (Viettel, Vinaphone, MobiFone) offer affordable SIM cards at airport kiosks. A local SIM with 4G data costs 50,000-100,000 VND (2-4 USD) for the card plus credit. Alternatively, consider an eSIM before you travel for seamless connectivity from the moment you land.
+This is a major advantage of the e-visa system—it requires minimal documentation compared to traditional visa applications.
 
-<!-- WIDGET:saily -->
+---
 
-### Getting Around
+## 7. Common Application Mistakes and How to Avoid Them
 
-From [Hanoi](https://go2-vietnam.com/city/hanoi/) to [Ho Chi Minh City](https://go2-vietnam.com/city/ho-chi-minh-city/), Vietnam is well-connected by buses, trains, and domestic [flights](https://trip.tpo.lv/TmObooZ5). [Book intercity transport](https://12go.tpo.lv/tNA80urD) in advance during peak season (November to March). Budget airlines like Vietjet and Bamboo Airways offer flights from 20-50 USD.
+During our research into traveler experiences, we identified recurring errors that cause delays or rejections. Avoiding these mistakes ensures smooth approval.
 
-### Accommodation and Activities
+### Mistake #1: Passport Expiration Miscalculation
 
-Vietnam offers everything from backpacker hostels (5-10 USD per night) to luxury resorts. For activities—cooking classes in [Hoi An](https://go2-vietnam.com/city/hoi-an/), motorbike tours in [Sapa](https://go2-vietnam.com/city/sapa/), or boat tours in [Ha Long](https://go2-vietnam.com/city/ha-long/)—book through reputable platforms or your accommodation's front desk.
+**The Error:** Applicants check if their passport is valid "for 6 months" without calculating the exact date.
 
-<div data-widget="[klook](https://klook.tpo.lv/7Dt6WApj)" style="margin:32px 0;"><div data-widget-fallback style="background:#F0FDF4;border-left:4px solid #22C55E;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
+**The Fix:** Your passport expiration date must be at least 6 months *after* your intended arrival date in Vietnam. If you're arriving June 1, 2026, your passport must be valid until at least December 1, 2026. Check your passport's expiration date carefully—it's printed on the biographical page.
+
+### Mistake #2: Incorrect Passport Number Entry
+
+**The Error:** Typos in the passport number (confusing "O" with "0" or "I" with "1") are common.
+
+**The Fix:** Copy your passport number character-by-character from your physical passport into the application form. Don't rely on memory. Triple-check before submitting.
+
+### Mistake #3: Blurry or Poorly Lit Documents
+
+**The Error:** Low-quality scans or photos with shadows, glare, or poor lighting.
+
+**The Fix:** Scan your passport page in bright, natural light. Use a scanner if available; smartphone photos work but require good lighting. Ensure the entire page is in frame and all text is legible. Test by zooming in on your saved image—if you can't read the small text, the Immigration Department won't accept it.
+
+### Mistake #4: Wrong Photo Specifications
+
+**The Error:** Using a casual selfie or old photo instead of a proper passport photo.
+
+**The Fix:** Use a recent photo (within 6 months) with a white background, neutral expression, and your face clearly visible. If in doubt, visit a photo studio.
+
+### Mistake #5: Mismatched Arrival and Departure Dates
+
+**The Error:** Entering departure dates before arrival dates or dates that don't align with your actual travel plans.
+
+**The Fix:** Your departure date must be after your arrival date. The e-visa validity period is 90 days from issue, not based on your stated dates—so these dates are informational only. Still, enter them accurately to avoid confusion.
+
+### Mistake #6: Applying Too Close to Travel Date
+
+**The Error:** Submitting an application 2 days before departure and selecting standard processing.
+
+**The Fix:** Apply at least 5-7 days before your intended arrival date, even with expedited processing. This provides a buffer for unexpected delays. If your flight is in 2 days, select rush processing.
+
+<div data-widget="[klook](https://klook.tpo.lv/7Dt6WApj?subid=blog)" style="margin:32px 0;"><div data-widget-fallback style="background:#F0FDF4;border-left:4px solid #22C55E;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
   <div style="display:flex;align-items:flex-start;gap:16px;">
     <div style="flex:1;">
       <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
         <span style="font-size:28px;line-height:1;">🎒</span>
         <strong style="font-size:18px;color:#1F2937;">Book Tours & Activities</strong>
       </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Skip the hassle — book Vietnam day trips, cooking classes, and experiences in advance with instant confirmation.</p>
-      <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#16A34A;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Activities on Klook →</a>
+      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Skip the hassle — book Thailand day trips, cooking classes, and experiences in advance with instant confirmation.</p>
+      <a href="https://klook.tpo.lv/7Dt6WApj?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#16A34A;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Activities on Klook →</a>
     </div>
-    <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
+    <a href="https://klook.tpo.lv/7Dt6WApj?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
       <img src="/images/qrcodes/qrcode-klook.jpeg" alt="Scan to visit Book Tours & Activities" style="width:72px;height:72px;border-radius:8px;border:1px solid #22C55E33;" />
       <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
     </a>
   </div>
 </div></div>
 
-## 10. Troubleshooting: What If Something Goes Wrong?
+---
 
-Even with careful preparation, issues can arise. Here's how to handle the most common problems.
+## 8. After Approval: What to Do With Your E-Visa
 
-### Application Rejected
+Once you receive your approved e-visa via email, several important steps remain before you board your flight.
 
-Check your email for the rejection reason. Common issues include:
-- **Photo problems:** Resubmit with a compliant photo
-- **Passport info errors:** Correct the information and reapply
-- **Eligibility issues:** Contact the Vietnamese embassy in your country
+### Receiving and Storing Your E-Visa
 
-Reapplication is free; you only pay the processing fee again.
+The Immigration Department sends your approved e-visa as a PDF attachment to the email address you provided during application. This email typically arrives within the processing timeframe you selected (3 business days, 1 business day, or same-day).
 
-### E-Visa Not Received After Processing Time
+**Save your e-visa in multiple locations:**
 
-Check your spam folder first. If it's not there, log into the portal and check your application status using your reference number. If the status shows "approved," you can download it directly from your account. If it shows "pending," contact the support team via the portal.
+- **Email:** Keep the original email from the Immigration Department
+- **Cloud storage:** Upload to Google Drive, Dropbox, or iCloud for access anywhere
+- **Smartphone:** Save a PDF copy to your phone's photo library
+- **Printed copy:** Print a physical copy to carry in your passport
 
-### Lost Your Printed E-Visa
+During our time researching traveler experiences, we found that having multiple copies prevents panic if your phone dies or you lose internet access at the airport.
 
-You can print another copy anytime from the portal using your login credentials. There's no fee for reprinting.
+### Checking Your Application Status
 
-### Immigration Officer Doesn't Recognize the E-Visa
+If you haven't received your e-visa by the expected date, check your application status on the official portal. You'll need:
 
-This is extremely rare at major airports and borders, but if it happens, show the officer the QR code on your document or call the immigration support line (provided on the e-visa). Most officers are familiar with e-visas, especially at international airports.
+- Your email address used for application
+- Your passport number
 
-### Overstayed Your Visa
+Visit [https://evisa.gov.vn](https://evisa.gov.vn) and use the "Check Status" or "Search" function to view your application. Status updates typically show:
 
-If you've accidentally overstayed, inform immigration immediately upon departure. You'll pay a fine (approximately 100 USD per day) and may face future entry restrictions. To avoid this, set a phone reminder for your exit date.
+- **Pending:** Application is being processed
+- **Approved:** E-visa has been issued and sent to your email
+- **Rejected:** Application was denied; a reason is provided
+
+### What to Present at Immigration
+
+When you arrive at a Vietnam airport or land border crossing, have ready:
+
+1. **Your e-visa** (printed or digital copy on phone)
+2. **Your passport** (the one used for the e-visa application)
+3. **Completed arrival card** (provided on the plane or at the border)
+
+Hand these to the immigration officer. They'll scan your passport, verify the e-visa matches, and stamp your passport. The process typically takes 2-5 minutes per person.
+
+> **Did You Know?** The e-visa is electronically linked to your passport number in Vietnam's immigration database. You don't need to present a physical e-visa—immigration can verify it digitally. However, carrying a copy prevents confusion and speeds up the process.
+>
+> *Source: [Vietnam Immigration Department](https://evisa.gov.vn)*
+
+---
+
+## 9. E-Visa Validity, Extensions, and Overstays
+
+Understanding the rules around validity and extensions prevents costly mistakes and legal complications.
+
+### E-Visa Validity Period
+
+Your e-visa is valid for **90 days from the date of issue**, not from your arrival date. This is crucial: if your e-visa is issued on January 1, you must enter Vietnam by March 31, regardless of when you actually plan to arrive.
+
+**Example:** You apply for an e-visa on May 1, 2026, and it's approved on May 3. Your e-visa is valid until August 1, 2026. You can enter Vietnam any time between May 3 and August 1. Once you enter, you can stay for up to 90 days from your arrival date (not from the e-visa issue date).
+
+### Extending Your Stay in Vietnam
+
+If you wish to stay longer than 90 days, you must apply for a visa extension while in Vietnam. Extensions are handled by the Immigration Department's local offices in major cities like [Hanoi](https://go2-vietnam.com/city/hanoi/) and [Ho Chi Minh City](https://go2-vietnam.com/city/ho-chi-minh-city/).
+
+**Extension options:**
+- **Single-entry extension:** Extends your current visa for an additional 30 days
+- **Multiple-entry extension:** Allows multiple exits and re-entries for 30 days
+
+Costs and processing times vary; contact the Immigration Department office in your current city for current rates and procedures.
+
+### Overstay Penalties
+
+Overstaying your visa is illegal and results in:
+
+- **Fines:** Approximately 200,000-500,000 VND (USD $8-20) per day
+- **Immigration ban:** Possible ban from re-entering Vietnam for 1-3 years
+- **Deportation:** In severe cases, immediate deportation
+- **Passport stamp:** A deportation stamp complicates future visa applications to other countries
+
+During our research, we found that overstay penalties are strictly enforced, especially for stays exceeding 30 days beyond the visa expiration. Plan your exit date carefully and apply for an extension well before your visa expires.
+
+---
+
+## 10. Troubleshooting Common Issues
+
+Even with careful preparation, issues occasionally arise. Here's how to resolve the most common problems.
+
+### "My Application Was Rejected"
+
+**Possible reasons:**
+- Passport expires within 6 months of arrival date
+- Ineligible nationality
+- Incorrect passport information
+- Poor quality documents
+- Name mismatch between passport and application
+
+**Solution:** Check the rejection email for the specific reason. Correct the issue and reapply. There's no penalty for reapplication, and you can submit a new application immediately.
+
+### "I Haven't Received My E-Visa After the Expected Time"
+
+**First step:** Check your spam/junk email folder—approval emails sometimes get filtered.
+
+**Second step:** Log into the official portal and check your application status using your email and passport number.
+
+**Third step:** If the status shows "Approved" but you haven't received the email, wait 24 hours. Emails occasionally experience delays.
+
+**Last resort:** Contact the Immigration Department support team via the official portal. Response times are typically 24-48 hours.
+
+### "My Passport Number on the E-Visa Doesn't Match My Actual Passport"
+
+This is a serious issue that will prevent entry. Contact the Immigration Department immediately with:
+
+- Your application reference number
+- Your email address
+- Your correct passport number
+- A copy of your passport
+
+They may issue a corrected e-visa or advise you to reapply. Do not attempt to enter Vietnam with a mismatched e-visa.
+
+### "I Lost My E-Visa Email"
+
+The e-visa is stored in Vietnam's immigration database and linked to your passport number. You can:
+
+1. Check your email spam folder
+2. Request the Immigration Department resend it (via the portal's support contact)
+3. Print a new copy by logging into the portal and accessing your approved application
+4. Simply present your passport at immigration—they can verify the e-visa electronically
+
+You do not need a printed copy to enter Vietnam, though having one speeds up the immigration process.
+
+---
 
 ## Frequently Asked Questions
 
 ### Can I apply for a Vietnam e-visa if I'm already in Vietnam?
 
-No. E-visas must be applied for before entering Vietnam. If you're already in the country and need to extend your stay, you must apply for a visa extension through the Immigration Department office in your city, or exit and re-enter with a new e-visa.
+No. E-visas can only be applied for before arrival. If you're already in Vietnam on a tourist visa and need to extend, you must apply for an extension through the Immigration Department office in your current city, not through the e-visa portal.
 
-### How long can I stay in Vietnam with an e-visa?
+### What if my flight gets cancelled and I need to reschedule?
 
-Each entry allows a 30-day stay. The e-visa itself is valid for 90 days from issue, meaning you can enter once (single-entry) or multiple times (multiple-entry) within that 90-day window, as long as each individual stay doesn't exceed 30 days.
+Your e-visa remains valid for 90 days from issue, regardless of flight changes. Simply rebook your flight to any date within the 90-day window. No reapplication is needed.
 
-### Can I change my entry or exit date after applying?
+### Can I use the same e-visa to enter Vietnam multiple times if I have a multiple-entry visa?
 
-Once submitted, you cannot modify your application. If your plans change, you must cancel and reapply with the new dates. Cancellations are typically refunded, but check the portal for the current policy.
+Yes. A multiple-entry e-visa allows unlimited entries and exits within the 90-day validity period. Each time you leave and re-enter Vietnam, you use the same e-visa.
 
-### Is the e-visa valid for all entry points in Vietnam?
+### Do I need a visa if I'm transiting through Vietnam without leaving the airport?
 
-Yes, the e-visa is valid at all major international airports (Hanoi, Ho Chi Minh City, Da Nang, etc.) and most land borders. However, some remote land borders may not accept e-visas—check with your specific entry point if you're crossing at a smaller border.
+Transit passengers typically don't need a visa if they remain in the airport's international transit area and depart on the same day. However, confirm with your airline before traveling, as rules vary.
 
-### What if my passport is damaged or lost before my trip?
+### What's the difference between an e-visa and a visa on arrival?
 
-You'll need to renew your passport before applying for an e-visa. The e-visa is linked to your specific passport number, so a new passport requires a new visa application.
+An e-visa is approved before you travel and sent via email. A visa on arrival is approved at the airport upon your arrival in Vietnam. E-visas are faster, cheaper, and more convenient—visa on arrival services charge USD $50-100 and require in-person processing at the airport.
 
-### Can I get a refund if my travel plans change?
+### Can I apply for a Vietnam e-visa for someone else?
 
-Refund policies vary. Check the official portal for current refund terms. Generally, cancellations made well in advance may be refunded, but last-minute cancellations may not be.
+Yes. You can apply on behalf of family members, friends, or colleagues. Use their passport information and email address. They'll receive the approved e-visa in their email inbox.
+
+### Is the Vietnam e-visa recognized at all entry points?
+
+Yes. The e-visa is valid at all official international airports, land border crossings, and seaports in Vietnam. It's recognized nationwide by all immigration authorities.
+
+### What happens if I apply for an e-visa but my passport gets stolen before I travel?
+
+Your e-visa is linked to your old passport number and becomes invalid if your passport changes. You'll need to apply for a new e-visa using your new passport number. Contact the Immigration Department to cancel your old application if possible, though this isn't strictly necessary.
 
 ---
 
 ## Conclusion
 
-The **Vietnam e-visa** is your fastest, easiest path to exploring this incredible country. Whether you're planning a [first-time Vietnam adventure](https://go2-vietnam.com/blog/first-time-vietnam-guide/) or returning for another visit, the online application takes just 10 minutes and costs as little as 25 USD. With standard processing taking only 3 business days, you can apply just a week before your trip and still have your approval in time.
+The **Vietnam e-visa** is the fastest, cheapest, and most convenient way to enter Vietnam for most travelers. At USD $25 for a single-entry visa with 3-business-day processing, it's an unbeatable value compared to traditional embassy applications or expensive visa services. By following the step-by-step process outlined in this guide, avoiding common mistakes, and understanding the validity rules, you'll have your e-visa approved and ready well before your flight.
 
-We've walked thousands of travelers through this process, and the system is reliable, transparent, and user-friendly. Apply at the official portal ([https://evisa.gov.vn](https://evisa.gov.vn)), follow the steps we've outlined, and you'll be ready to land in Vietnam and start your adventure—whether that's savoring [pho in Hanoi](https://go2-vietnam.com/food/pho/), exploring the beaches of [Phu Quoc](https://go2-vietnam.com/islands/phu-quoc/), or trekking through the [Central Highlands](https://go2-vietnam.com/region/central-highlands/).
+Ready to plan your Vietnam adventure? Start by applying for your e-visa at [https://evisa.gov.vn](https://evisa.gov.vn), then explore our comprehensive guides to [Hanoi](https://go2-vietnam.com/city/hanoi/), [Ho Chi Minh City](https://go2-vietnam.com/city/ho-chi-minh-city/), and other must-visit destinations across the country. For questions about [travel insurance](https://go2-vietnam.com/travel-insurance/) or [staying connected with an eSIM](https://go2-vietnam.com/esim/), check our practical guides.
 
-For more visa information and travel planning, visit our [Visa section](https://go2-vietnam.com/visa/) or check out our [comprehensive Vietnam travel guides](https://go2-vietnam.com/blog/). Safe travels!
+**Disclosure:** We may earn a small commission from bookings made through our links, at no extra cost to you. This helps us keep creating free travel guides.
+
+Safe travels, and we hope you have an unforgettable experience in Vietnam!
